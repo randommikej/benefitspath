@@ -6,7 +6,8 @@ import { useState } from "react";
 //
 // STEP 1: Create a new Google Sheet.
 //   Add these headers to Row 1, one per column:
-//   Timestamp | Email | State | End Reason | Employment Length |
+//   Timestamp | Email | First Name | Last Name | Phone |
+//   State | End Reason | Employment Length |
 //   Application Status | Eligibility Score | Eligibility Likelihood |
 //   Appeal: First Name | Appeal: Last Name | Appeal: Claim ID |
 //   Appeal: Denial Date | Appeal: Was Layoff | Appeal: Term Reason |
@@ -19,9 +20,9 @@ import { useState } from "react";
 //     var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
 //     var data = JSON.parse(e.postData.contents);
 //     sheet.appendRow([
-//       data.timestamp, data.email, data.state, data.endReason,
-//       data.employmentLength, data.applicationStatus,
-//       data.eligibilityScore, data.eligibilityLikelihood,
+//       data.timestamp, data.email, data.firstName, data.lastName, data.phone,
+//       data.state, data.endReason, data.employmentLength,
+//       data.applicationStatus, data.eligibilityScore, data.eligibilityLikelihood,
 //       data.appealFirstName, data.appealLastName, data.appealClaimId,
 //       data.appealDenialDate, data.appealWasLayoff, data.appealTermReason,
 //       data.lawyerName, data.lawyerPhone, data.lawyerEmail,
@@ -36,7 +37,7 @@ import { useState } from "react";
 //   Execute as: Me | Who has access: Anyone
 //   Copy the Web App URL and paste it below:
 //
-const SHEETS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbwpTv9A45X3ZYee1mMnIuCeF89rVKofaqh0rVhQqiW2a8X-VfT147c4nLElxcdFgo2d7Q/exec";
+const SHEETS_WEBHOOK_URL = "YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
 
 async function submitToSheets(payload) {
   if (!SHEETS_WEBHOOK_URL || SHEETS_WEBHOOK_URL.includes("YOUR_APPS_SCRIPT")) return;
@@ -390,6 +391,9 @@ export default function App() {
   const [lForm, setLForm] = useState({ name:"", phone:"", email:"", situation:"" });
   const [lSent, setLSent] = useState(false);
   const [emailVal, setEmailVal] = useState("");
+  const [firstNameVal, setFirstNameVal] = useState("");
+  const [lastNameVal, setLastNameVal] = useState("");
+  const [phoneVal, setPhoneVal] = useState("");
   const [submitting, setSubmitting] = useState(false);
 
   const si = answers.state ? STATE_DATA[answers.state] : null;
@@ -411,6 +415,9 @@ export default function App() {
 
   const sheetPayload = (extra={}) => ({
     email: answers.email || extra.email || "(not provided)",
+    firstName: answers.firstName || firstNameVal || "",
+    lastName: answers.lastName || lastNameVal || "",
+    phone: answers.phone || phoneVal || "",
     state: answers.state||"",
     endReason: answers.endReason||"",
     employmentLength: answers.employmentLength||"",
@@ -432,13 +439,14 @@ export default function App() {
 
   const handleEmailSubmit = async () => {
     setSubmitting(true);
-    setAnswers(a => ({...a, email: emailVal}));
+    setAnswers(a => ({...a, email: emailVal, firstName: firstNameVal, lastName: lastNameVal, phone: phoneVal}));
     await submitToSheets(sheetPayload({ email: emailVal }));
     setSubmitting(false);
     go("result");
   };
 
   const handleEmailSkip = async () => {
+    setAnswers(a => ({...a, firstName: firstNameVal, lastName: lastNameVal, phone: phoneVal}));
     await submitToSheets(sheetPayload({ email: "(skipped)" }));
     go("result");
   };
@@ -623,9 +631,23 @@ export default function App() {
                 <div className="eperk" key={txt}><div className="epico">{ico}</div><span>{txt}</span></div>
               ))}
             </div>
+            <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:10,marginBottom:16}}>
+              <div className="ig" style={{margin:0}}>
+                <label className="ilbl">First Name</label>
+                <input className="inp" type="text" placeholder="Jane" value={firstNameVal} onChange={e=>setFirstNameVal(e.target.value)}/>
+              </div>
+              <div className="ig" style={{margin:0}}>
+                <label className="ilbl">Last Name</label>
+                <input className="inp" type="text" placeholder="Smith" value={lastNameVal} onChange={e=>setLastNameVal(e.target.value)}/>
+              </div>
+            </div>
             <div className="ig">
-              <label className="ilbl">Your email address</label>
-              <input className="inp" type="email" placeholder="you@example.com" value={emailVal} onChange={e=>setEmailVal(e.target.value)} onKeyDown={e=>e.key==="Enter"&&emailVal.includes("@")&&handleEmailSubmit()} autoFocus/>
+              <label className="ilbl">Cell Phone <span style={{color:"var(--text3)",fontWeight:400}}>(optional)</span></label>
+              <input className="inp" type="tel" placeholder="(555) 000-0000" value={phoneVal} onChange={e=>setPhoneVal(e.target.value)}/>
+            </div>
+            <div className="ig">
+              <label className="ilbl">Email Address <span style={{color:"var(--text3)",fontWeight:400}}>(optional)</span></label>
+              <input className="inp" type="email" placeholder="you@example.com" value={emailVal} onChange={e=>setEmailVal(e.target.value)} onKeyDown={e=>e.key==="Enter"&&emailVal.includes("@")&&handleEmailSubmit()}/>
               <div className="ihint" style={{marginTop:8}}>
                 We respect your privacy and will never sell your data.{" "}
                 <button className="pvlink" onClick={()=>go("privacy")}>Read our privacy policy →</button>
