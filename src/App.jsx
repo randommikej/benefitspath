@@ -36,7 +36,7 @@ import { useState } from "react";
 //   Execute as: Me | Who has access: Anyone
 //   Copy the Web App URL and paste it below:
 //
-const SHEETS_WEBHOOK_URL = "YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const SHEETS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbwpTv9A45X3ZYee1mMnIuCeF89rVKofaqh0rVhQqiW2a8X-VfT147c4nLElxcdFgo2d7Q/exec";
 
 async function submitToSheets(payload) {
   if (!SHEETS_WEBHOOK_URL || SHEETS_WEBHOOK_URL.includes("YOUR_APPS_SCRIPT")) return;
