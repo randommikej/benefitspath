@@ -33,5 +33,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# deployment scripts (contain tokens — delete after use)
+# deployment scripts (contain tokens â delete after use)
 push-to-github.js
+# env vars updated
