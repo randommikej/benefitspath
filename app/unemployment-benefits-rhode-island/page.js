@@ -1,4 +1,4 @@
-import { SeoLayout, CTABlock, FAQSection } from '../../../components/SeoTemplate'
+import { SeoLayout, CTABlock, FAQSection } from '../../components/SeoTemplate'
 
 export const metadata = {
   title: 'Unemployment Benefits in Rhode Island — 2026 Guide',

@@ -1,4 +1,4 @@
-import { SeoLayout, CTABlock, FAQSection } from '../../../components/SeoTemplate'
+import { SeoLayout, CTABlock, FAQSection } from '../../components/SeoTemplate'
 
 export const metadata = {
   title: 'Unemployment Benefits in Louisiana — 2026 Guide',
