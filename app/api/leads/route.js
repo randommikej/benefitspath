@@ -1,8 +1,6 @@
 import { supabase, supabaseAdmin } from '../../../lib/supabase'
 import { Resend } from 'resend'
 
-const resend = new Resend(process.env.RESEND_API_KEY)
-
 export async function POST(request) {
   try {
     const body = await request.json()
@@ -48,6 +46,7 @@ export async function POST(request) {
 
     // ── Send email notification (attorney requests only) ──────────────────────
     if (type === 'attorney_request' && process.env.RESEND_API_KEY && process.env.ADMIN_EMAIL) {
+      const resend = new Resend(process.env.RESEND_API_KEY)
       await resend.emails.send({
         from: 'BenefitsPath <noreply@benefitspath.org>',
         to: process.env.ADMIN_EMAIL,
