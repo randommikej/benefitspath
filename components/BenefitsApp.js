@@ -102,6 +102,8 @@ export default function BenefitsApp() {
   const [lastNameVal, setLastNameVal] = useState('')
   const [phoneVal, setPhoneVal] = useState('')
   const [submitting, setSubmitting] = useState(false)
+  const [homeEmail, setHomeEmail] = useState('')
+  const [homeEmailSent, setHomeEmailSent] = useState(false)
 
   const si = answers.state ? STATE_DATA[answers.state] : null
   const elig = answers.state && answers.endReason && answers.employmentLength
@@ -215,6 +217,42 @@ export default function BenefitsApp() {
           <button className="btn bs" style={{ marginBottom: 10 }} onClick={() => go('appeal_intro')}>✉️ Generate an Appeal Letter</button>
           <button className="btn bs" style={{ marginBottom: 16 }} onClick={() => go('lawyer')}>⚖️ Talk to an Employment Lawyer</button>
           <button className="skip" onClick={() => go('privacy')}>Privacy Policy</button>
+          {/* EMAIL CAPTURE — for visitors not ready to start the quiz */}
+          <div style={{ marginTop: 28, padding: 20, background: 'var(--green-light, #d8f3dc)', borderRadius: 12, border: '1px solid var(--green-border, #b7e4c7)' }}>
+            <div style={{ fontWeight: 600, fontSize: 16, color: 'var(--text)', marginBottom: 4 }}>Not ready yet? Stay informed.</div>
+            <p style={{ fontSize: 13, color: 'var(--text2)', marginBottom: 14, lineHeight: 1.5 }}>Get a free guide to unemployment benefits and deadlines for your state — delivered to your inbox.</p>
+            {homeEmailSent ? (
+              <div style={{ padding: '12px 16px', background: 'white', borderRadius: 8, fontSize: 14, color: 'var(--green)', fontWeight: 500, textAlign: 'center' }}>Thank you! Check your inbox.</div>
+            ) : (
+              <div style={{ display: 'flex', gap: 8 }}>
+                <input
+                  className="inp"
+                  type="email"
+                  placeholder="you@example.com"
+                  value={homeEmail}
+                  onChange={e => setHomeEmail(e.target.value)}
+                  onKeyDown={e => {
+                    if (e.key === 'Enter' && homeEmail.includes('@')) {
+                      submitLead({ email: homeEmail, type: 'homepage_signup' })
+                      submitToSheets({ email: homeEmail, source: 'homepage_signup' })
+                      setHomeEmailSent(true)
+                    }
+                  }}
+                  style={{ flex: 1, margin: 0 }}
+                />
+                <button
+                  className="btn bp"
+                  disabled={!homeEmail.includes('@')}
+                  onClick={() => {
+                    submitLead({ email: homeEmail, type: 'homepage_signup' })
+                    submitToSheets({ email: homeEmail, source: 'homepage_signup' })
+                    setHomeEmailSent(true)
+                  }}
+                  style={{ margin: 0, padding: '10px 16px', fontSize: 14, opacity: homeEmail.includes('@') ? 1 : .4 }}
+                >Send</button>
+              </div>
+            )}
+          </div>
           {/* SEO Links */}
           <div style={{ marginTop: 24, paddingTop: 20, borderTop: '1px solid var(--border)' }}>
             <div className="tlbl" style={{ marginBottom: 12 }}>Helpful Guides</div>
