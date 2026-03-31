@@ -11,6 +11,7 @@ export const metadata = {
               locale: 'en_US',
       },
       robots: { index: true, follow: true },
+        verification: { google: 'TDlDvaNkcoStForyONL56uKUyCyYAvtp043bpkNB9ZE' },
       metadataBase: new URL('https://www.benefitspath.org'),
 }
 
