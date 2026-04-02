@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 
 export default function AdminPage() {
   const [attorneys, setAttorneys] = useState([])
-  const [form, setForm] = useState({ name: '', firm: '', phone: '', email: '', website: '', bio: '', tags: '', states: 'ALL', featured: false, paid_tier: 'basic' })
+  const [form, setForm] = useState({ name: '', firm: '', phone: '', email: '', website: '', bio: '', tags: '', states: 'ALL', featured: false, paid_tier: 'standard' })
   const [adminKey, setAdminKey] = useState('')
   const [authed, setAuthed] = useState(false)
   const [msg, setMsg] = useState('')
@@ -27,7 +27,7 @@ export default function AdminPage() {
     })
     const data = await res.json()
     setLoading(false)
-    if (res.ok) { setMsg('✅ Attorney added successfully!'); fetchAttorneys(); setForm({ name: '', firm: '', phone: '', email: '', website: '', bio: '', tags: '', states: 'ALL', featured: false, paid_tier: 'basic' }) }
+    if (res.ok) { setMsg('✅ Attorney added successfully!'); fetchAttorneys(); setForm({ name: '', firm: '', phone: '', email: '', website: '', bio: '', tags: '', states: 'ALL', featured: false, paid_tier: 'standard' }) }
     else setMsg(`❌ Error: ${data.error}`)
   }
 
@@ -56,9 +56,7 @@ export default function AdminPage() {
         <textarea style={{ ...S.input, minHeight: 80, resize: 'vertical' }} value={form.bio} onChange={e => setForm(f => ({ ...f, bio: e.target.value }))} placeholder="Brief attorney bio..." />
         <label style={S.label}>Listing Tier</label>
         <select style={S.input} value={form.paid_tier} onChange={e => setForm(f => ({ ...f, paid_tier: e.target.value }))}>
-          <option value="basic">Basic ($99/mo)</option>
-          <option value="premium">Premium ($299/mo)</option>
-          <option value="featured">Featured ($599/mo)</option>
+          <option value="standard">Standard ($25/mo)</option>
         </select>
         <label style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16, cursor: 'pointer' }}>
           <input type="checkbox" checked={form.featured} onChange={e => setForm(f => ({ ...f, featured: e.target.checked }))} />
