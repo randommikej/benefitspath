@@ -27,6 +27,8 @@ export const metadata = {
 }
 
 export default function RootLayout({ children }) {
+  const redditPixelId = process.env.NEXT_PUBLIC_REDDIT_PIXEL_ID
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -74,6 +76,13 @@ export default function RootLayout({ children }) {
             gtag('config', 'G-XP23624RW5');
           `}
         </Script>
+        {redditPixelId && (
+          <Script id="reddit-pixel" strategy="afterInteractive">{`
+            !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/v2.js";t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);
+            rdt("init","${redditPixelId}");
+            rdt("track","PageVisit");
+          `}</Script>
+        )}
       </body>
     </html>
   )
