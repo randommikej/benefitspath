@@ -8,7 +8,7 @@ export async function POST(request) {
   }
 
   const stripe = new Stripe(process.env.STRIPE_SECRET_KEY)
-  const priceId = process.env.STRIPE_PRICE_ATTORNEY_LISTING
+  const priceId = process.env.STRIPE_PRICE_LISTING
 
   if (!priceId) {
     return Response.json({ error: 'Stripe price not configured' }, { status: 500 })

@@ -37,7 +37,7 @@ export async function POST(request) {
       return Response.json({ error: 'Failed to create listing record' }, { status: 500 })
     }
 
-    const priceId = process.env.STRIPE_PRICE_ATTORNEY_LISTING
+    const priceId = process.env.STRIPE_PRICE_LISTING
     if (!priceId) {
       return Response.json({ error: 'Stripe price not configured' }, { status: 500 })
     }
