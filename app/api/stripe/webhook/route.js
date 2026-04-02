@@ -1,8 +1,6 @@
 import Stripe from 'stripe'
 import { supabaseAdmin } from '../../../../lib/supabase'
 
-export const config = { api: { bodyParser: false } }
-
 export async function POST(request) {
   const stripe = new Stripe(process.env.STRIPE_SECRET_KEY)
   const sig = request.headers.get('stripe-signature')
