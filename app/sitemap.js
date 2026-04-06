@@ -23,6 +23,7 @@ const topicPages = [
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
   'how-to-appeal-unemployment-denial-2026-guide',
+  'what-is-wrongful-termination-your-legal-rights-explained',
 ]
 
 export default function sitemap() {
