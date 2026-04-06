@@ -48,7 +48,7 @@ export default function ForAttorneysPage() {
           <div style={{ maxWidth: 800, margin: '0 auto', display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '32px 48px' }}>
             {[
               ['10,000+', 'Monthly users'],
-              ['51 states', 'Coverage'],
+              ['50 states', 'Coverage'],
               ['High intent', 'Users need help now'],
               ['$25/mo', 'Flat rate'],
             ].map(([num, label]) => (

@@ -20,6 +20,11 @@ const topicPages = [
   'unemployment-benefits-calculator',
 ]
 
+// Dynamic article slugs — keep in sync with app/articles/data/articles.js
+const articleSlugs = [
+  'how-to-appeal-unemployment-denial-2026-guide',
+]
+
 export default function sitemap() {
   const now = new Date().toISOString()
 
@@ -37,6 +42,13 @@ export default function sitemap() {
     priority: 0.8,
   }))
 
+  const articleRoutes = articleSlugs.map((slug) => ({
+    url: `${BASE_URL}/articles/${slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly',
+    priority: 0.8,
+  }))
+
   return [
     {
       url: BASE_URL,
@@ -44,6 +56,13 @@ export default function sitemap() {
       changeFrequency: 'weekly',
       priority: 1.0,
     },
+    {
+      url: `${BASE_URL}/articles`,
+      lastModified: now,
+      changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    ...articleRoutes,
     ...topicRoutes,
     ...stateRoutes,
   ]
