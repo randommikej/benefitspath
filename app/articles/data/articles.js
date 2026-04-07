@@ -282,6 +282,142 @@ After completing our free eligibility assessment, you'll be matched with attorne
 **Don't let an unfair denial go unchallenged.** The appeal process exists for a reason, and with the right preparation — or the right attorney — you have a real chance of getting the benefits you've earned.
     `.trim(),
   },
+  {
+    slug: 'employer-contests-unemployment-claim-what-to-do',
+    title: 'What to Do If Your Employer Contests Your Unemployment Claim',
+    description: 'Learn why employers contest unemployment claims, how it affects your benefits, and the steps you can take to fight back and protect your income.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-07',
+    updatedAt: '2026-04-07',
+    category: 'Unemployment Benefits',
+    tags: ['employer contest', 'unemployment claim', 'unemployment benefits', 'employer dispute', 'workers rights', 'unemployment hearing'],
+    readTime: '11 min read',
+    content: `
+## Why Your Employer Might Fight Your Unemployment Claim
+
+You filed for unemployment benefits expecting a safety net while you search for your next job. Then you got the letter: your former employer is contesting your claim. Suddenly, the financial lifeline you were counting on is in jeopardy.
+
+This happens more often than you might think. When an employer contests an unemployment claim, it does not automatically mean you will be denied benefits — but it does mean you need to understand what is happening and take the right steps to protect yourself.
+
+This guide walks you through why employers contest claims, what happens next, and exactly how to respond so you give yourself the best chance of receiving the benefits you are entitled to.
+
+## Understanding Why Employers Contest Claims
+
+Employers do not contest unemployment claims out of spite (usually). There is a financial reason behind it. Every state runs its unemployment insurance system through a tax on employers. When a former employee successfully collects unemployment benefits, it can increase the employer's tax rate — sometimes significantly. This is called the **experience rating** system, and it gives employers a direct financial incentive to challenge claims.
+
+Here are the most common reasons an employer will file a contest:
+
+### They Say You Quit Voluntarily
+
+If your employer reports that you resigned rather than being laid off or fired, the state may initially side with them. Voluntary quits are generally disqualifying — unless you can show you had **good cause** to leave. Good cause varies by state, but common examples include unsafe working conditions, significant changes to your pay or schedule, harassment that the employer refused to address, or a medical condition that made the work impossible.
+
+### They Allege Misconduct
+
+This is one of the most common and most contested reasons. If your employer claims you were fired for willful misconduct — violating a known company policy, insubordination, or similar behavior — the state may deny your claim. However, the legal definition of misconduct in unemployment law is narrower than most people realize. Being bad at your job is not misconduct. Making mistakes is not misconduct. Getting into a disagreement with your supervisor is usually not misconduct.
+
+**Misconduct generally requires intentional, repeated behavior that violates a reasonable and known employer rule.** If you were let go for performance issues, a single mistake, or a personality conflict, you likely still qualify for benefits — even if your employer uses the word "misconduct."
+
+### They Dispute Your Work History or Earnings
+
+Less commonly, an employer may contest the facts of your employment — your dates of work, your hours, or your wages. This can happen with employers who paid partially off the books or who kept poor records. If the numbers don't add up to meet your state's minimum earnings threshold, your claim could be affected.
+
+## What Happens After an Employer Files a Contest
+
+When your employer contests your claim, the state unemployment agency does not simply accept their version of events. Instead, a process unfolds:
+
+**The state investigates.** An adjudicator at the state agency will review the information from both sides. They may contact you by phone or mail to get your version of events. This is your first opportunity to present your side — take it seriously.
+
+**A determination is issued.** Based on the information gathered, the state will issue an initial determination either granting or denying your benefits. This determination will include the reasoning behind the decision.
+
+**Either side can appeal.** If you are denied, you have the right to appeal. If your employer loses, they can appeal too. The appeal process typically involves a hearing before an administrative law judge — and this is where preparation matters most.
+
+## Seven Steps to Protect Your Claim
+
+If your employer is contesting your unemployment claim, here is what you should do, starting immediately.
+
+### 1. Respond to Every State Request Promptly
+
+When the unemployment agency contacts you for information — whether by mail, email, or phone — respond immediately. Missing a deadline or ignoring a request for information is one of the easiest ways to lose your claim by default. The state can only decide in your favor if they have your side of the story.
+
+Keep an eye on your mail and check your state's online unemployment portal regularly. Many states send important notices electronically, and you may have as little as a few days to respond.
+
+### 2. Gather Your Documentation
+
+Start collecting evidence right away. The specific documents you need depend on why your employer is contesting, but here is a general list:
+
+**If they claim you quit voluntarily:** Gather any evidence showing you were forced out or had good cause to leave. This includes emails or texts about changed working conditions, evidence of harassment or hostile treatment, medical documentation if health issues were involved, written complaints you filed with HR, and any written communication about your departure.
+
+**If they allege misconduct:** Collect your performance reviews (especially positive ones), the employee handbook showing the policies they claim you violated, any written warnings you received (or evidence that you did not receive warnings), emails or other documentation showing the real circumstances, and statements from coworkers who can back up your account.
+
+**If they dispute your earnings:** Pull together pay stubs, bank statements showing direct deposits, W-2 forms, tax returns, and any offer letters or contracts stating your pay rate.
+
+### 3. Write a Clear, Factual Statement
+
+Before your phone interview with the state adjudicator — or before any hearing — write out a clear, chronological account of what happened. Stick to the facts. Avoid emotional language or personal attacks on your former employer. Focus on what happened, when it happened, and what evidence supports your version.
+
+State adjudicators and judges evaluate credibility. A calm, organized, and specific account is far more persuasive than a vague or angry one.
+
+### 4. Understand the Legal Standard in Your State
+
+Each state has its own legal definitions for key terms like "misconduct," "good cause," and "suitable work." These definitions matter because they determine whether you qualify for benefits. What your employer calls misconduct may not meet your state's legal definition.
+
+For example, in many states, an isolated incident of poor judgment is not misconduct. A single argument with a coworker is not misconduct. Being unable to meet performance targets is not misconduct. Your state's unemployment agency website often publishes guides explaining these definitions, and an employment attorney can help you understand how they apply to your situation.
+
+### 5. Prepare for the Hearing Like It Matters — Because It Does
+
+If your claim goes to a hearing (either because you are appealing a denial or because your employer is appealing a decision in your favor), treat it as a formal legal proceeding. Because that is exactly what it is.
+
+**Be on time.** Whether the hearing is by phone, video, or in person, being late can result in a default decision against you.
+
+**Be organized.** Have your documents arranged in order. Know what you want to say. Practice answering questions clearly and concisely.
+
+**Be honest.** Do not exaggerate or stretch the truth. Judges are experienced at spotting inconsistencies, and a single lie can destroy your credibility on everything else.
+
+**Stay professional.** Even if your former employer or their representative says things that frustrate you, remain calm. Let the judge manage the proceeding. Your composure reflects well on your credibility.
+
+### 6. Bring Witnesses If You Can
+
+If coworkers or other individuals can corroborate your account — whether about working conditions, the circumstances of your departure, or the reality of the alleged misconduct — ask them to participate in the hearing. Witness testimony can be the difference between winning and losing.
+
+Make sure your witnesses are available at the scheduled hearing time and that they understand they may need to answer questions from both the judge and your employer's representative.
+
+### 7. Consider Hiring an Employment Attorney
+
+You absolutely have the right to represent yourself at an unemployment hearing, and many people do so successfully. But the reality is that having an experienced attorney significantly increases your chances of winning — especially in complex cases.
+
+An employment attorney can help you understand the legal standards that apply in your state, identify the strongest arguments in your favor, prepare your evidence and testimony, cross-examine your employer's witnesses effectively, and avoid common mistakes that cost people their benefits.
+
+Many employment attorneys offer free consultations for unemployment cases, and some charge modest flat fees for hearing representation. Given that unemployment benefits can be worth thousands of dollars over the course of a claim, the investment in legal help often pays for itself many times over.
+
+## What If You Lose
+
+If the initial determination goes against you, or if you lose at the hearing level, you typically have the right to a further appeal. Most states have a second level of administrative appeal, and some allow appeals to state courts after that.
+
+The deadlines for these appeals are strict — often 10 to 30 days from the date of the decision. If you are considering a further appeal, consult with an attorney quickly to evaluate whether your case has merit at the next level and to make sure you do not miss the filing deadline.
+
+## Common Myths About Employer Contests
+
+**Myth: If my employer contests, I will automatically be denied.** Not true. The state makes an independent determination based on the facts. Many contested claims are still approved.
+
+**Myth: My employer can block my benefits just by saying I was fired for misconduct.** Not true. Your employer has to prove that your conduct met the state's legal definition of misconduct. Simply labeling something "misconduct" is not enough.
+
+**Myth: I cannot win a hearing without a lawyer.** Not necessarily true, but representation does help significantly. If your case is straightforward, you may do fine on your own. If it is complex or your employer has legal representation, consider getting your own.
+
+**Myth: Filing for unemployment will damage my reputation or future job prospects.** Unemployment claims are generally confidential. Future employers typically cannot see whether you filed for benefits or whether your claim was contested.
+
+## How BenefitsPath Can Help
+
+Dealing with an employer contest can feel overwhelming, especially when you are already under financial pressure from job loss. BenefitsPath is here to make the process less confusing and connect you with the help you need.
+
+**Use our free eligibility tool** to understand your state's unemployment requirements and get a clear picture of where you stand. If your employer has contested your claim, our tool can help you understand what to expect next.
+
+**Connect with an employment attorney** through our attorney directory. We match you with lawyers in your state who specialize in unemployment disputes and employer contests. Many offer free initial consultations, so you can get professional advice on your case without any upfront cost.
+
+**Browse our resource library** for state-specific guides on unemployment benefits, appeal deadlines, and workers' rights. Knowledge is your best defense when your employer tries to stand between you and the benefits you have earned.
+
+You worked for those benefits. Do not let a contest intimidate you into giving up. With the right preparation and support, you can fight back — and win.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {

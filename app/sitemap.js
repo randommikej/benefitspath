@@ -24,6 +24,7 @@ const topicPages = [
 const articleSlugs = [
   'how-to-appeal-unemployment-denial-2026-guide',
   'what-is-wrongful-termination-your-legal-rights-explained',
+  'employer-contests-unemployment-claim-what-to-do',
 ]
 
 export default function sitemap() {
