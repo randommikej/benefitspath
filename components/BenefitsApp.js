@@ -186,7 +186,11 @@ export default function BenefitsApp() {
           <div className="lmark"><Shld /></div>
           <span className="ltxt">BenefitsPath</span>
         </div>
-        <span className="fbadge">100% Free</span>
+        <nav style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+          <a href="/articles" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Articles</a>
+          <a href="/for-attorneys" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Find a Lawyer</a>
+          <span className="fbadge">100% Free</span>
+        </nav>
       </header>
       <div className="pbar"><div className="pfill" style={{ width: `${progress}%` }} /></div>
 

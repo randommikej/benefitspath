@@ -32,7 +32,8 @@ export default function ArticlesPage() {
           </Link>
           <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
             <Link href="/articles" style={{ fontSize: 14, fontWeight: 600, color: '#2d6a4f', textDecoration: 'none' }}>Articles</Link>
-            <Link href="/for-attorneys" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none' }}>For Attorneys</Link>
+            <Link href="/for-attorneys" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Find a Lawyer</Link>
+            <Link href="/" style={{ background: '#2d6a4f', color: '#fff', padding: '8px 18px', borderRadius: 10, fontSize: 14, fontWeight: 600, textDecoration: 'none' }}>Check Eligibility →</Link>
           </div>
         </nav>
 
