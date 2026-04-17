@@ -26,6 +26,7 @@ const articleSlugs = [
   'what-is-wrongful-termination-your-legal-rights-explained',
   'employer-contests-unemployment-claim-what-to-do',
   'do-gig-workers-qualify-for-unemployment-benefits',
+  'how-to-file-unemployment-california-2026-guide',
 ]
 
 export default function sitemap() {
