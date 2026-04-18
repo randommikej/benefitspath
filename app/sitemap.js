@@ -27,6 +27,7 @@ const articleSlugs = [
   'employer-contests-unemployment-claim-what-to-do',
   'do-gig-workers-qualify-for-unemployment-benefits',
   'how-to-file-unemployment-california-2026-guide',
+  'can-you-collect-unemployment-if-you-quit-your-job',
 ]
 
 export default function sitemap() {

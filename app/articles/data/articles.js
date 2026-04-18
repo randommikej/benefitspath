@@ -733,6 +733,171 @@ Filing for unemployment in California is manageable, but the stakes are high whe
 California's UI system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
     `.trim(),
   },
+  {
+    slug: 'can-you-collect-unemployment-if-you-quit-your-job',
+    title: 'Can You Collect Unemployment If You Quit Your Job? (2026 Guide)',
+    description: 'Thinking about quitting — or already did? Learn when you can collect unemployment after quitting, what counts as "good cause," and how to protect your benefits.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-18',
+    updatedAt: '2026-04-18',
+    category: 'Unemployment Eligibility',
+    tags: ['quit job unemployment', 'good cause quit', 'voluntary quit', 'unemployment eligibility', 'constructive discharge', 'unemployment benefits'],
+    readTime: '12 min read',
+    content: `
+## The Short Answer — and Why It Is Not So Simple
+
+Most people believe that if you quit your job, you cannot collect unemployment. That is the default rule in every state — but it is not the whole story.
+
+You can collect unemployment after quitting **if you had "good cause" to leave**. Good cause is a legal standard, and it is narrower than most people think. Feeling burned out, not liking your boss, or wanting a change are not enough. But unsafe conditions, harassment, a major unilateral pay cut, or a medical necessity often are.
+
+This guide walks through when quitting still qualifies you for benefits, what "good cause" means in real cases, how to build your claim before you leave, and what to do if your claim is denied.
+
+## Why Quitting Usually Disqualifies You
+
+Unemployment insurance is designed to support workers who lose their jobs through no fault of their own. When you quit, states presume the job loss was your choice — which breaks that "no fault" link.
+
+In practice, when you apply for benefits after quitting, the state will:
+
+1. Receive a wage history showing you stopped working.
+2. Send a notice to your former employer asking why employment ended.
+3. Review the employer's response, which will almost always say "voluntary quit."
+4. Issue a determination denying benefits unless you can establish good cause.
+
+That last step is where many quit claims live or die. The burden is on **you**, the worker, to prove you had a legally recognized reason to leave.
+
+## What "Good Cause" Actually Means
+
+"Good cause" is defined by each state's unemployment statutes and a body of appeal decisions. While wording varies, most states recognize two broad categories: **good cause attributable to the employer** and **good cause of a personal nature**.
+
+### Good Cause Attributable to the Employer
+
+These are reasons connected to how the employer treated you or how the job changed. Common examples:
+
+- **Unpaid wages or missed paychecks.** A persistent failure to pay you on time or at the agreed rate is a classic good cause basis.
+- **A substantial unilateral pay cut or reduction in hours.** Many states consider a cut of 20 to 25 percent or more enough to justify quitting.
+- **A major change in job duties, location, or schedule.** Being reassigned to work far from home, switched to overnight shifts, or asked to perform duties well outside your original role can qualify.
+- **Unsafe working conditions.** Genuine, documented safety hazards that the employer refuses to correct.
+- **Discrimination, harassment, or hostile work environment.** Especially when you reported it and the employer did not take reasonable steps to stop it.
+- **Breach of a written contract or policy.** Such as denial of promised benefits, bonuses, or leave.
+
+### Good Cause of a Personal Nature
+
+Some states — not all — allow personal reasons if they make continuing work impossible or unreasonable, you tried to resolve the problem, and you have no real alternative:
+
+- **Medical reasons**, where your doctor advises you cannot continue the job and the employer cannot accommodate.
+- **Caregiving for a seriously ill family member** when no alternative is available.
+- **Domestic violence or stalking**, recognized explicitly in many state statutes.
+- **A spouse's required relocation** for work or military orders (often called a "trailing spouse" exception).
+
+Good personal cause is more restrictive than employer-related cause. A handful of states deny benefits for most personal quits regardless of the reason.
+
+### What Does **Not** Usually Count
+
+To set expectations, these reasons alone rarely support a good cause quit in most states:
+
+- You did not enjoy the work or did not get along with your manager.
+- You wanted to go back to school.
+- You were offered a better job that then fell through.
+- You were bored, stressed, or burned out without a medical basis.
+- You believed you were going to be fired "any day now" (but had not been).
+
+These reasons may be completely valid for you personally — they just are not "good cause" for collecting unemployment.
+
+## Constructive Discharge: When Quitting Is Really a Firing
+
+A special category called **constructive discharge** applies when your employer makes working conditions so intolerable that a reasonable person would feel forced to quit. If you can prove constructive discharge, the law treats your resignation as a termination — which generally means you are eligible for benefits.
+
+Examples that can support constructive discharge:
+
+- Serious, ongoing harassment or discrimination that the employer failed to address.
+- A pattern of retaliation after you reported wage theft, safety violations, or discrimination.
+- A major demotion in title, pay, or responsibilities that looks designed to push you out.
+
+Constructive discharge is a high bar, and the standard varies. But if your situation feels less like "I chose to leave" and more like "I was pushed out," this is a concept worth discussing with an attorney.
+
+## The "Reasonable Steps" Requirement
+
+Most states will only find good cause if you first tried to fix the problem. That usually means:
+
+- **Raising the issue with your employer in writing.** Email is ideal because it creates a timestamped record.
+- **Following internal complaint procedures** — HR, an employee handbook hotline, or a supervisor's chain of command.
+- **Giving the employer a reasonable opportunity to respond** before you resign.
+
+If you quit without trying to resolve the issue, a judge may rule that you did not act reasonably — even if the underlying problem was serious.
+
+There are narrow exceptions. You do not have to put yourself in danger. You are not required to complain to the harasser. And for safety-related or medical issues, documentation from a doctor or inspector can replace internal complaint steps.
+
+## What to Do Before You Quit
+
+If you are still working and considering quitting, your choices over the next few weeks can make the difference between qualifying for benefits and being denied.
+
+### Put Everything in Writing
+
+Keep an email thread or dated notes covering:
+
+- Every incident that is pushing you toward quitting.
+- Every complaint you made and the employer's response (or lack of one).
+- Any promises the employer made but did not keep.
+
+Written records turn a "he said, she said" hearing into a documented case.
+
+### Get Medical or Professional Documentation
+
+If the issue is medical, see a doctor and ask for a note describing what activities or conditions you cannot perform and why. If the issue is harassment or discrimination, consider filing a charge with the EEOC or a state agency before you leave.
+
+### Exhaust Internal Options
+
+Use your employer's formal processes: HR complaints, requests for accommodation, transfers to a different team. Even if those processes fail, they create a record that you tried.
+
+### Try to Get Terminated First, When Appropriate
+
+This advice comes with heavy caveats — it should never mean deliberately performing poorly or doing anything dishonest. But if your employer is already moving toward ending your employment, simply not resigning lets them take the final step. Being laid off, included in a reduction in force, or even terminated without cause is almost always a stronger path to benefits than quitting.
+
+### Write a Careful Resignation Letter
+
+If you ultimately resign, your letter matters. State the specific conditions that caused you to leave and note that you tried to resolve them. Avoid vague language like "personal reasons" or "moving on," which an employer can later use against you.
+
+## What Happens After You File
+
+After you apply, your state agency will contact your former employer. Expect a separation interview or fact-finding call where you will be asked to describe, in your own words, why you left. You may be asked follow-up questions in writing.
+
+Answer clearly, factually, and consistently with what is in your records. If your story in the interview does not match your resignation letter, your notes, or what the employer reports, your credibility can take a serious hit.
+
+## If You Are Denied
+
+A denial after quitting is common — but it is not the end. Every state has an appeals process where an administrative law judge reviews the case from scratch. At the appeal hearing, you and the employer each present evidence and witnesses, and the judge issues a new decision.
+
+Quit cases often turn on narrow legal details: what counts as a "material" change in job duties, whether your complaints were "reasonable," whether a pay cut was large enough to matter. Small facts and framing can flip the outcome.
+
+Two things dramatically improve your odds at a hearing:
+
+- **Showing up prepared.** Bring your documentation organized by date, a short written summary of your position, and a clear explanation of what you tried before quitting.
+- **Representation.** Employment attorneys who handle unemployment cases understand how each state's standards actually play out in hearings. Many take unemployment appeals on contingency or flat fee.
+
+## State Variations Worth Knowing
+
+While the concepts above apply broadly, states differ in meaningful ways. A few examples:
+
+- **California** recognizes a broad range of good personal cause, including domestic violence and caregiving.
+- **Texas** is stricter about personal quits, often requiring that the reason be connected to the work itself.
+- **New York** has detailed rules about reductions in pay and hours, often looking at whether the change was at least 20 percent.
+- **Florida** sets a high bar on good cause and frequently denies personal-reason quits at the initial stage.
+
+Before you rely on any specific rule, confirm it applies in your state — or ask an attorney.
+
+## How BenefitsPath Can Help
+
+Quitting is rarely a clean decision. You are weighing your income, your health, your family, and your future — all at once. You deserve clear information before you make that call.
+
+**Use our free eligibility tool** to get a quick read on whether your situation may qualify for unemployment in your state. It takes a couple of minutes and does not require an account.
+
+**If you have already quit and been denied**, or your employer is contesting your claim, our attorney directory connects you with employment lawyers in your state who handle unemployment appeals. Many offer free consultations and can tell you quickly whether your case is worth pursuing.
+
+**If you are thinking about quitting because of how you are being treated**, an employment attorney can also help you evaluate whether you may have a constructive discharge, discrimination, or retaliation claim — which could mean something beyond unemployment benefits.
+
+You do not have to guess at the rules. BenefitsPath is here to help you understand your options, document your case, and make a decision with your eyes open.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
