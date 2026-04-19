@@ -898,6 +898,180 @@ Quitting is rarely a clean decision. You are weighing your income, your health, 
 You do not have to guess at the rules. BenefitsPath is here to help you understand your options, document your case, and make a decision with your eyes open.
     `.trim(),
   },
+  {
+    slug: 'how-to-file-unemployment-texas-2026-guide',
+    title: 'How to File for Unemployment in Texas: 2026 Step-by-Step Guide',
+    description: 'Lost your job in Texas? Learn exactly how to file a TWC unemployment claim, what documents you need, benefit amounts, work search rules, and how to avoid delays.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-19',
+    updatedAt: '2026-04-19',
+    category: 'State Guides',
+    tags: ['texas unemployment', 'TWC', 'file for unemployment', 'unemployment benefits texas', 'state guides', 'work search'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in Texas: What You Need to Know
+
+Losing a job in Texas is stressful, but the state's unemployment insurance (UI) program exists to help you bridge the gap while you look for new work. The **Texas Workforce Commission (TWC)** runs the program, and most of the filing and certification process happens online through the TWC portal and phone system.
+
+This guide walks through every step of filing for Texas unemployment in 2026 — from checking eligibility to getting paid and keeping your claim active. It is written for real people dealing with a real loss of income, not lawyers or HR professionals.
+
+## Before You File: Do You Qualify?
+
+Texas UI rules are set by state statute and administered by TWC. Before you start an application, it helps to confirm you are likely eligible.
+
+### The Basic Requirements
+
+To qualify for Texas unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This usually means you were laid off, your position was eliminated, your hours were cut substantially, or you quit for what Texas recognizes as "good cause connected with the work."
+- **You earned enough wages during your base period.** Your base period is the first four of the last five completed calendar quarters before you filed. You generally must have wages in at least two quarters and total base period wages of at least 37 times your weekly benefit amount.
+- **You are physically able to work.** If you are too sick or injured to work, you are not eligible for UI, though you may qualify for other programs.
+- **You are available for work.** That means you can accept a job if one is offered, including transportation and childcare being in place.
+- **You are actively searching for work** and keeping a record of your efforts.
+- **You are legally authorized to work in the United States.**
+
+If you were fired for misconduct — which Texas defines narrowly but enforces firmly — or if you quit without good cause, TWC may deny your claim. You still have the right to file and present your side.
+
+### What Counts as "Good Cause" to Quit in Texas
+
+Texas is stricter than some states on voluntary quits, but there are still protected reasons. You may still qualify for UI if you quit because of:
+
+- A substantial and unilateral change in hiring agreement (pay, hours, duties, or location)
+- Unsafe working conditions your employer refused to fix
+- Documented harassment, discrimination, or illegal activity at the workplace
+- A medical reason verified by a healthcare provider
+- Caring for a seriously ill minor child in your household
+- Domestic violence, stalking, or sexual assault
+- A military spouse relocation
+
+Every situation is fact-specific. If your reason for leaving is in a gray area, it is usually worth filing and letting TWC decide. You can always appeal a denial.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in makes the application go smoothly. TWC will ask for:
+
+- Your Social Security number
+- A valid driver's license or state ID number (if you have one)
+- Your last employer's business name, address, and phone number
+- The first and last dates you worked for that employer
+- The reason you are no longer working (layoff, reduction, discharge, or voluntary quit)
+- Wage information from the last 18 months, ideally from pay stubs or W-2 forms
+- Your bank account and routing numbers for direct deposit
+- For non-citizens: your Alien Registration Number or work authorization document
+
+If you worked for multiple employers during your base period, gather the details for all of them — TWC needs the full picture to calculate your benefits accurately.
+
+## How to File Your Texas Unemployment Claim
+
+Texas offers two main ways to file a new UI claim. Online is faster and recommended.
+
+### Option 1: File Online Through the TWC Portal
+
+Most Texans file online through the TWC Unemployment Benefits Services (UBS) site. The steps look like this:
+
+1. Go to the TWC website and select **Apply for Benefits**.
+2. Create a TWC user account if you do not already have one. You will set a username, password, and four-digit PIN you will need every time you contact TWC.
+3. Log in and start the new claim application.
+4. Answer every question carefully — rushed answers often trigger eligibility holds and delay payment.
+5. Review everything, then submit the application.
+
+After you submit, you will get a confirmation screen. Write down or screenshot your claim number.
+
+### Option 2: File by Phone
+
+You can also file by calling the TWC Tele-Center. This option is useful if you do not have reliable internet access. Expect long hold times, especially on Mondays and at the start of the month. Have your documents next to you before you call.
+
+## What Happens After You File
+
+Filing is just step one. Here is what comes next.
+
+### The Waiting Week
+
+Texas has a **"waiting week"** — the first payable week of your claim is unpaid. You still have to complete certifications (called **payment requests** in Texas) for that week. If you stay eligible throughout your claim, TWC may pay you for the waiting week later, but only after you have been paid for your last week of the benefit year.
+
+### Your Statement of Benefits
+
+Within a couple of weeks, TWC will send you a **Statement of Benefits**. This document shows:
+
+- Your **weekly benefit amount** (WBA)
+- Your **maximum benefit amount** (total you can collect during the benefit year)
+- The base period used to calculate benefits
+- The wage amounts each employer reported
+
+Look over this closely. If an employer under-reported wages or left a quarter blank, you can request a correction. Keep pay stubs and W-2s handy in case you need to prove your earnings.
+
+### The Eligibility Review
+
+If you quit, were fired, or there is any question about why you left work, TWC will usually contact both you and your last employer for a statement. This is sometimes called a **fact-finding** process. Answer promptly, stick to the facts, and be consistent with what you wrote on your application. Your statement is the most important evidence in your file.
+
+## How Much You Can Receive in Texas
+
+In 2026, Texas weekly unemployment benefits range from a minimum of about **$75** to a maximum of around **$591** per week. Your exact amount is calculated from your highest-earning quarter in the base period, divided by 25, up to the state maximum.
+
+Most claimants can receive benefits for up to **26 weeks** within a one-year benefit period. Extended benefits sometimes become available during periods of high statewide unemployment, but they depend on economic triggers and are not always active.
+
+Texas unemployment benefits are **taxable at the federal level**. You can elect to have 10 percent withheld for federal income tax when you file. Texas has no state income tax, so there is no state tax on UI.
+
+## Requesting Payment Every Two Weeks
+
+Filing a claim is not the end. To keep benefits flowing, you must **request payment** every two weeks. Texas calls this process the **payment request**, and you complete it online or by calling Tele-Serv.
+
+During each payment request you will be asked:
+
+- Were you able and available to work each day?
+- Did you look for work and keep a record?
+- Did you refuse any work?
+- Did you work or earn any money?
+- Did you attend school or training?
+
+**Answer honestly.** TWC cross-checks your answers against employer wage reports and new-hire databases. A wrong answer — even an accidental one — can trigger overpayments, penalties, and in severe cases, fraud charges. If you worked a few hours or did a side gig, report the earnings. Texas allows you to earn up to 25 percent of your WBA before benefits are reduced.
+
+## The Texas Work Search Requirement
+
+Texas actively enforces its work search rule. You must make a **minimum number of work search activities each week** — the exact number depends on the county where you live, and TWC lists county-specific minimums on its site. Typical requirements range from three to five contacts per week.
+
+Acceptable activities include:
+
+- Submitting a job application or resume
+- Attending a job interview
+- Registering and using WorkInTexas.com (TWC's job-matching system)
+- Attending a career workshop at a Workforce Solutions office
+- Completing skills training approved by TWC
+
+Keep a written log that includes the date, employer name, position, how you applied, and the result. TWC can audit your log at any time. Missing weeks of work search — or failing to register on WorkInTexas.com — is one of the most common reasons Texans get their benefits cut off.
+
+## Common Mistakes to Avoid
+
+Even careful applicants make errors that delay or reduce payments. Watch out for these:
+
+- **Guessing on the reason you are unemployed.** If you were fired but say "laid off," the employer's response will contradict you and TWC may deny the claim and impose a penalty.
+- **Missing a payment request window.** You have a specific two-day window each cycle. Miss it, and you usually have to call TWC to reopen the week.
+- **Underreporting earnings or side work.** Any money earned during a claimed week must be reported, even if it is 1099 or gig income.
+- **Ignoring TWC mail and secure messages.** Appeal deadlines and interview notices often arrive by mail or in your TWC inbox. Missing one can cost you benefits.
+- **Not registering on WorkInTexas.com within the required time** after filing. This is a separate step and is mandatory for most claimants.
+- **Not appealing a denial.** You typically have **14 calendar days** from the mail date of a determination to file an appeal. Many denials are overturned at the appeal hearing.
+
+## If Your Claim Is Denied
+
+A denial in Texas is not the last word. You have the right to a formal appeal, and many claimants win.
+
+The first level is a hearing with the **TWC Appeal Tribunal**. A hearing officer will conduct a phone hearing where you and your former employer each have a chance to testify, present documents, and question witnesses. You can represent yourself, bring a witness, or hire an employment attorney. Because appeals often turn on technical points — what counts as misconduct, whether you had good cause to quit — representation can make a real difference.
+
+If you lose at the Appeal Tribunal, you can ask the **TWC Commissioners** to review the decision, and after that, you can appeal to a Texas state district court. Deadlines at each level are strict — usually 14 days — so do not wait.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in Texas is manageable, but the stakes are high when every dollar matters for rent, groceries, and bills.
+
+**Start with our free eligibility tool** to get a quick read on whether your situation is likely to qualify for Texas UI and roughly how much you may receive. It takes just a couple of minutes and does not require an account.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for an Appeal Tribunal hearing**, our attorney directory connects you with employment lawyers in Texas who handle unemployment cases. Many offer free initial consultations, so you can learn your options with no commitment.
+
+**Explore our other guides** for help on calculating your benefits, handling an employer contest, and winning a UI appeal step by step.
+
+Texas's UI system is designed to support workers in transition — but only if you know how to use it. BenefitsPath is here to help you move from confusion to a clear plan, fast.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
