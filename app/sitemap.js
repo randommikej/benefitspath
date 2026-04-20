@@ -28,6 +28,7 @@ const articleSlugs = [
   'do-gig-workers-qualify-for-unemployment-benefits',
   'how-to-file-unemployment-california-2026-guide',
   'can-you-collect-unemployment-if-you-quit-your-job',
+  'how-to-file-unemployment-florida-2026-guide',
   'how-to-file-unemployment-texas-2026-guide',
 ]
 

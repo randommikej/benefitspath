@@ -899,6 +899,193 @@ You do not have to guess at the rules. BenefitsPath is here to help you understa
     `.trim(),
   },
   {
+    slug: 'how-to-file-unemployment-florida-2026-guide',
+    title: 'How to File for Unemployment in Florida: 2026 Step-by-Step Guide',
+    description: 'Lost your job in Florida? Learn how to file a CONNECT claim, what documents you need, how much you can receive, and how to avoid the mistakes that delay or deny benefits.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-20',
+    updatedAt: '2026-04-20',
+    category: 'State Guides',
+    tags: ['florida unemployment', 'CONNECT', 'file for unemployment', 'unemployment benefits florida', 'state guides', 'DEO florida'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in Florida: What You Need to Know
+
+Florida's unemployment insurance (UI) system has a well-earned reputation for being difficult to navigate. The state's online portal — called **CONNECT** — has frustrated claimants for years with technical errors, long processing delays, and confusing procedures. The agency overseeing the system was reorganized as **Florida Commerce** (formerly the Department of Economic Opportunity, or DEO).
+
+Despite those hurdles, Florida workers who lose their jobs through no fault of their own are entitled to benefits. This guide explains every step of the process — from checking eligibility to receiving payments — so you can move through the system with as few surprises as possible.
+
+## Before You File: Do You Qualify?
+
+Florida's eligibility rules mirror the national framework but have some state-specific wrinkles worth knowing before you apply.
+
+### The Basic Requirements
+
+To qualify for Florida unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** Layoffs, position eliminations, and significant reductions in hours typically qualify. Voluntary quits and firings for misconduct generally do not — though there are exceptions.
+- **You earned enough wages during your base period.** Florida uses the first four of the last five completed calendar quarters as its standard base period. You must have earned wages in at least two quarters, and your total base period wages must meet a minimum threshold calculated against your weekly benefit amount.
+- **You are able and available to work.** You must be physically capable of working and ready to accept a suitable job offer.
+- **You are actively searching for work.** Florida requires documented job search activity each week you claim benefits.
+- **You are legally authorized to work in the United States.**
+
+### What Counts as "Good Cause" to Quit
+
+Florida is one of the stricter states on voluntary quits. You generally must show the reason to leave was directly connected to the job or employer. Recognized good cause reasons in Florida include:
+
+- Unsafe or hazardous working conditions the employer refused to address
+- A substantial, unilateral cut in wages or hours
+- Harassment or discrimination that was reported but not resolved
+- A medical condition that made the specific work impossible, verified by a physician
+- Domestic violence, stalking, or sexual assault
+- A military spouse relocation under federal orders
+
+Personal preferences, wanting a career change, or general job dissatisfaction do not meet Florida's standard. If your situation is borderline, it is usually worth filing and letting Florida Commerce make the determination — you can appeal any denial.
+
+## What Documents and Information to Gather
+
+Have everything ready before you open the CONNECT application. Stopping mid-application to hunt for documents is one of the most common causes of filing errors.
+
+You will need:
+
+- Your Social Security number
+- A valid Florida driver's license or ID number (if you have one)
+- Your last employer's full legal business name, address, and phone number
+- Your start and end dates with that employer
+- The reason your job ended (layoff, reduction, discharge, or voluntary quit)
+- Wage information from the last 18 months — pay stubs or W-2 forms are ideal
+- Your bank account and routing numbers if you want direct deposit
+- For non-citizens: your Alien Registration Number or work authorization document
+
+If you worked for more than one employer during your base period, gather information on all of them.
+
+## How to File Your Florida Unemployment Claim
+
+### Option 1: File Online Through CONNECT
+
+CONNECT is the primary way to file. To access it, go to the Florida Commerce website and navigate to the unemployment claims section. Here is what to expect:
+
+1. Create a CONNECT account by providing your personal information and setting up a username and password. Keep this login — you will use it throughout your claim.
+2. Once logged in, select **File a New Claim** and work through each section of the application.
+3. Answer every question carefully and completely. Vague or inconsistent answers about why you left your last job are the single biggest trigger for eligibility holds.
+4. Review your application before submitting. Once submitted, you cannot easily change your answers.
+5. Save or screenshot the confirmation page and your claim number.
+
+**Be aware:** CONNECT has known technical issues. Sessions can time out unexpectedly, and the system occasionally loses progress. Work through the application in one sitting if possible, and avoid peak hours (Monday mornings and the first few days of the month tend to be worst).
+
+### Option 2: File by Phone
+
+You can file by calling the Florida Commerce unemployment service line. This option is useful if you do not have reliable internet access or if CONNECT is experiencing a technical outage. Expect significant hold times. Have your documents in front of you before you call.
+
+## What Happens After You File
+
+### Processing Time
+
+Florida processes most straightforward claims within two to three weeks. However, if there is an eligibility question — particularly if you quit or were fired — the process can stretch to four to six weeks or longer while the agency investigates.
+
+During this period, you must continue to certify for weekly benefits even if no payment has arrived yet. If you do not certify each week, you will not be paid for that week even if the underlying claim is eventually approved.
+
+### Fact-Finding Interview
+
+If Florida Commerce has questions about why your employment ended, an investigator will contact you and your former employer for statements. This is called the **fact-finding** process. When you receive a notice, respond promptly and completely.
+
+This interview is your first opportunity to present your side of the story. Be specific, factual, and consistent with what you wrote on the application. If your employer says you quit but you were laid off, your statement — and any supporting documentation you can provide — will be the most important evidence in your file.
+
+### Determination Letter
+
+After fact-finding is complete, Florida Commerce will mail you a determination. This letter states whether your claim is approved or denied, the reason, and your right to appeal if denied. It also shows your weekly benefit amount and the beginning date of your benefit year.
+
+Read every word of this letter. The appeal deadline is printed on it, and missing that deadline in Florida means losing your right to challenge the decision.
+
+## How Much You Can Receive in Florida
+
+Florida caps weekly UI benefits at **$275 per week** — one of the lowest maximums in the country. The minimum is around **$32 per week**. Your exact amount is calculated based on wages in your base period, divided according to a state formula.
+
+The number of weeks you can collect benefits depends on the state's unemployment rate. Florida uses a sliding scale:
+
+- When the state unemployment rate is below 5 percent, maximum duration is **12 weeks**.
+- As the rate rises, duration extends, up to a maximum of **23 weeks**.
+
+As of 2026, Florida's unemployment rate is relatively low, which means most claimants are looking at 12 to 16 weeks of benefits. This is significantly shorter than the 26 weeks available in most other states.
+
+Florida UI benefits are **taxable at the federal level**. You can elect to have 10 percent withheld when you file. Florida has no state income tax.
+
+## Claiming Benefits Each Week
+
+Filing a claim is just the beginning. To receive payments, you must **claim your benefits** for each week you are unemployed. In Florida, this is done through CONNECT or by phone, and you must complete it **every week** — not every two weeks like some states.
+
+Each weekly certification asks:
+
+- Were you able and available to work?
+- Did you conduct the required job search activities?
+- Did you refuse any work?
+- Did you work or earn any money?
+- Did you attend school or training?
+
+**Report earnings honestly.** Florida compares your answers to wage data reported by employers. Unreported earnings — even from a single gig or temporary shift — can result in an overpayment notice, penalties, or fraud referral. If you earned money, report it. Florida allows you to earn up to 58 percent of your weekly benefit amount in a week before benefits are fully offset.
+
+## Florida's Work Search Requirements
+
+Florida requires claimants to complete a minimum of **five work search activities per week**. Acceptable activities include:
+
+- Submitting a job application or resume
+- Attending a job interview
+- Registering and applying for jobs on **Employ Florida** (the state's job-matching platform — registration is mandatory and must be completed within the first week of filing)
+- Attending a re-employment workshop or job fair
+- Completing an approved skills or vocational training program
+
+Keep a written log with the date, employer name, position, method of contact, and result. Florida Commerce can audit your work search records at any time. Failure to meet the minimum each week — or failing to register on Employ Florida — will result in denial of that week's benefits and may jeopardize your claim.
+
+## Common Mistakes to Avoid
+
+Florida's system leaves little room for error. These are the mistakes that most often delay or eliminate benefits:
+
+- **Not certifying every week.** Unlike most states, Florida requires weekly certifications. Missing one week means no payment for that week, with no retroactive fix.
+- **Failing to register on Employ Florida.** This is a separate step from filing on CONNECT, and it is required within your first week. Many claimants miss it and lose benefits.
+- **Logging off CONNECT mid-application.** Sessions time out quickly. If you lose progress, your saved data may be incomplete or gone.
+- **Misreporting the separation reason.** If the employer's account conflicts with yours, Florida Commerce will investigate. Inconsistencies in your story weaken your credibility.
+- **Underreporting earnings.** Any wages, regardless of source, must be reported during the week they are earned — not the week they are paid.
+- **Missing the appeal deadline.** In Florida, you typically have **20 days** from the mailing date of a denial to file an appeal. This is shorter than many states, and the deadline is strictly enforced.
+
+## If Your Claim Is Denied
+
+A denial is not the end of the road. Florida provides a formal appeals process:
+
+**First level — Appeals Referee.** After you file your written appeal (online or by mail), a hearing is scheduled before an Appeals Referee, usually by phone. You and your employer each present your case, and the referee issues a written decision. You can represent yourself or hire an employment attorney.
+
+**Second level — Unemployment Appeals Commission.** If you disagree with the Referee's decision, you can file a further appeal to the Unemployment Appeals Commission. This is a paper review, not a new hearing, so the quality of your first-level record matters enormously.
+
+**Third level — District Court.** After exhausting administrative appeals, you can challenge a final agency decision in Florida circuit court.
+
+At every level, deadlines are strict — usually 20 days from the date of the decision. If you are considering an appeal, start the process immediately.
+
+## The CONNECT System: What to Know Going In
+
+Florida's CONNECT system has been the subject of intense public criticism and litigation. During periods of high unemployment (including COVID-19), the system buckled, with millions of claims stuck in technical limbo for weeks.
+
+While the system has undergone updates, claimants in 2026 should still expect:
+
+- **Occasional error messages** that require logging out and back in
+- **Unexplained holds** that require a follow-up call to resolve
+- **Long call-center wait times** when you need live assistance
+- **Mail delays** that make it difficult to track appeal deadlines
+
+Document everything: take screenshots of your submissions and confirmations. Keep a log of every call, including the date, the representative's name (if given), and what was discussed. This paper trail is critical if your claim gets stuck or you need to escalate.
+
+## How BenefitsPath Can Help
+
+Florida's unemployment system is notoriously hard to navigate — but the benefits exist, and you are entitled to them if you qualify.
+
+**Start with our free eligibility tool** to get a quick assessment of whether your situation qualifies for Florida UI and roughly what you might expect to receive. It only takes a few minutes and requires no account.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for an Appeals Referee hearing**, our attorney directory connects you with employment lawyers in Florida who handle unemployment cases. Many offer free initial consultations, so you can understand your options without committing to anything.
+
+**Explore our other guides** for help on calculating your benefits, handling an employer contest, and winning a UI appeal step by step.
+
+Florida's system may be difficult, but it is not impossible. With the right preparation and knowledge of the rules, you can move through it successfully. BenefitsPath is here to help.
+    `.trim(),
+  },
+  {
     slug: 'how-to-file-unemployment-texas-2026-guide',
     title: 'How to File for Unemployment in Texas: 2026 Step-by-Step Guide',
     description: 'Lost your job in Texas? Learn exactly how to file a TWC unemployment claim, what documents you need, benefit amounts, work search rules, and how to avoid delays.',
