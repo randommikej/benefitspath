@@ -1086,6 +1086,176 @@ Florida's system may be difficult, but it is not impossible. With the right prep
     `.trim(),
   },
   {
+    slug: 'severance-pay-and-unemployment-benefits-can-you-collect-both',
+    title: 'Severance Pay and Unemployment Benefits: Can You Collect Both?',
+    description: 'Got a severance package? Learn whether severance pay affects your unemployment eligibility, how states handle it differently, and how to protect your benefits.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-21',
+    updatedAt: '2026-04-21',
+    category: 'Unemployment Benefits',
+    tags: ['severance pay', 'unemployment benefits', 'severance package', 'layoff', 'unemployment eligibility', 'separation pay'],
+    readTime: '11 min read',
+    content: `
+## The Question Almost Every Laid-Off Worker Asks
+
+You just lost your job, you have a severance package on the table, and now you're wondering: does taking that money mean you can't collect unemployment? Or can you get both?
+
+It's one of the most common questions workers have after a layoff, and the answer is genuinely complicated — because it depends on your state, how your severance is structured, and in some cases, how your employer reports the payment.
+
+This guide gives you a clear picture of how severance pay and unemployment benefits interact, what the rules look like across different states, and what you should know before you sign any separation agreement.
+
+## What Is Severance Pay?
+
+Severance pay is money your employer gives you when your employment ends — typically through a layoff, a reduction in force, or a mutual separation. It is not the same as your final paycheck (which is wages you earned), or accrued vacation payout (which many states treat as wages).
+
+Severance is generally a voluntary payment — meaning unless you have a contract or company policy that guarantees it, your employer is not legally required to offer it. In exchange for a severance package, employers almost always ask you to sign a **separation agreement** that waives your right to sue for claims like wrongful termination or discrimination. More on that in a moment.
+
+Severance can be structured in different ways:
+- A **lump sum** paid all at once
+- **Salary continuation**, where you receive your regular paycheck for a set number of weeks
+- A combination of cash, extended benefits, and outplacement services
+
+How severance is structured matters significantly for unemployment purposes.
+
+## The Core Question: Does Severance Disqualify You?
+
+The short answer is: **it depends on your state**.
+
+The federal unemployment insurance framework gives states wide latitude in how they treat severance. Some states treat severance as wages that delay when your benefits can begin. Others ignore it entirely. A few states look at whether the severance was paid in exchange for signing a release of claims.
+
+Here is a breakdown of the main approaches:
+
+### States That Delay Benefits Based on Severance
+
+In many states, if you receive severance that is paid out like a salary continuation — regular payments on your normal pay schedule — the state will treat those payments as wages and defer your unemployment benefits until the severance period ends.
+
+For example: if you were laid off and receive eight weeks of salary continuation, several states will not begin paying you unemployment until that eight-week period has expired. You are expected to apply during that window, but your benefit start date gets pushed back.
+
+This approach is common in states like **New York**, **New Jersey**, and **Ohio**. The logic is that you are still receiving income in lieu of wages, so unemployment benefits are not yet necessary.
+
+### States That Do Not Offset Severance Against Benefits
+
+Other states do not penalize you for receiving severance at all. In these states, you can collect your full unemployment benefits immediately, even while severance payments are ongoing.
+
+**Texas** is an example. The Texas Workforce Commission generally does not count severance as wages that delay benefits — unless the agreement specifically designates the payment as back pay for time worked. If your severance is paid as a lump sum or as a separation benefit unconnected to specific pay periods, it typically does not affect when your benefits begin.
+
+**California** similarly does not count standard severance as wages for unemployment purposes. The Employment Development Department focuses on whether the payment represents compensation for work performed, not a goodwill separation payment.
+
+### States That Look at Whether You Signed a Release
+
+A growing number of states have begun scrutinizing whether severance was paid as consideration for signing a waiver of legal claims. In these states, the analysis is more nuanced:
+
+- If you received severance *purely as a separation benefit*, it may not affect benefits.
+- If severance was paid *specifically in exchange for releasing discrimination, retaliation, or other employment law claims*, some states may treat that payment differently — particularly if the release covers potential unemployment-related claims.
+
+**Illinois** and **Pennsylvania** are states where the specifics of the separation agreement matter more than just the dollar amount. If you are unsure how your state handles this, consulting an employment attorney is worth doing before you sign.
+
+## Lump Sum vs. Salary Continuation: Why the Format Matters
+
+Even within states that do offset severance, how the payment is structured can change the outcome:
+
+**Lump sum payments** are generally treated more favorably. Many states that defer benefits for salary continuation do not defer benefits when severance is paid all at once. The reasoning is that a lump sum is not a substitute for weekly wages — it is a one-time separation payment.
+
+**Salary continuation** is treated by many states as an extension of your employment, which delays eligibility for unemployment. When payments arrive on your normal pay schedule and are described as "continued salary," state agencies are more likely to defer your benefits.
+
+**Practical tip:** If you are negotiating a severance package and have a choice, consider asking whether a lump sum structure is possible. In many states, it will result in faster access to unemployment benefits. An employment attorney can help you understand the tradeoff in your specific state.
+
+## Does Accepting Severance Waive Your Right to Unemployment?
+
+This is a critical point that many workers miss: **a private agreement with your employer cannot eliminate your right to file for unemployment benefits**. Unemployment insurance is a government benefit, and you cannot sign away your right to apply for it.
+
+Even if your separation agreement contains language saying you waive "all claims" or that you will not apply for government benefits, those clauses are generally unenforceable as applied to unemployment insurance. You can — and should — still apply.
+
+Your employer may contest the claim (and the separation agreement gives them ammunition to argue you left voluntarily or for cause), but the right to file remains yours.
+
+## The Unemployment Eligibility Basics Still Apply
+
+Receiving severance does not make you automatically eligible for unemployment. You still need to meet your state's standard requirements:
+
+- You must be unemployed through no fault of your own (a layoff qualifies; a resignation or termination for serious misconduct typically does not).
+- You must have sufficient earnings during your base period.
+- You must be able, available, and actively looking for work.
+
+Most workers who were laid off and received severance meet the eligibility criteria. The severance question is primarily about timing — when your benefits begin — not whether you qualify at all.
+
+## Signing a Severance Agreement: What to Watch For
+
+Before you sign a separation agreement in exchange for severance, here are the things that matter most from an unemployment perspective:
+
+### Reason for Termination Language
+
+The agreement should clearly describe your separation as a layoff, reduction in force, or no-fault separation — not as a resignation or termination for cause. If the language is vague or suggests you left voluntarily, it can give your employer grounds to contest your unemployment claim.
+
+### Non-Disparagement and Non-Cooperation Clauses
+
+Some agreements contain clauses that prohibit you from "cooperating with government agencies" or making statements about your former employer. These clauses cannot eliminate your right to file for unemployment, but they can create confusion. If you see this language, ask for clarification or have an attorney review it.
+
+### Release of ADEA Claims
+
+If you are 40 or older, a release of claims under the Age Discrimination in Employment Act (ADEA) must comply with the Older Workers Benefit Protection Act (OWBPA). This means you have **21 days to consider** the agreement and **7 days to revoke** it after signing. Do not let an employer pressure you into signing immediately.
+
+### What You Are Giving Up
+
+Severance agreements routinely waive your right to pursue claims for wrongful termination, discrimination, harassment, retaliation, and wage theft. If you believe you may have been fired illegally — not just laid off — signing away those claims for a few weeks of pay can be a very costly mistake. An employment attorney can give you a quick read on whether your situation warrants that conversation before you sign.
+
+## What to Do When You Are Laid Off with Severance
+
+Here is a practical sequence to follow:
+
+### 1. Do Not Rush to Sign the Agreement
+
+You generally have time to review the agreement. If you are over 40, you have at least 21 days by law. Use that time.
+
+### 2. Understand Your State's Severance Rules
+
+Look up how your state treats severance for unemployment purposes, or call your state unemployment agency. This tells you whether to expect an immediate benefit start date or a deferred one.
+
+### 3. File for Unemployment Right Away
+
+Apply for unemployment benefits as soon as possible after your last day of work — even if you expect severance payments to defer your start date. In most states, the sooner you file, the sooner the clock starts, and some states will back-pay you to your filing date once the deferral period ends.
+
+### 4. Be Honest About Your Separation
+
+When you file, describe your situation accurately: you were laid off as part of a reduction in force and you received (or are receiving) a severance package. Do not characterize the separation differently than it actually was.
+
+### 5. Report Severance as Required
+
+Most state unemployment applications specifically ask whether you received or are receiving severance. Answer honestly. Failing to report severance can result in overpayments, repayment demands, and penalties.
+
+### 6. Consult an Employment Attorney If the Package Involves a Release of Claims
+
+If you believe your termination may have been unlawful — or if the agreement releases significant legal claims in exchange for a relatively modest payment — the few hundred dollars it costs to have an attorney review the agreement is almost always money well spent.
+
+## A State-by-State Snapshot
+
+Here is a quick look at how a few major states handle the severance and unemployment question:
+
+**California:** Severance generally does not delay unemployment benefits. EDD treats standard severance as a separation payment, not wages, and benefits can begin from the first eligible week.
+
+**Texas:** TWC does not typically offset severance against benefits, as long as the payment is structured as a separation package rather than back pay for a specific work period.
+
+**New York:** Severance paid on a salary-continuation basis can delay benefits for the period covered by the payments. Lump sum severance may not delay benefits.
+
+**Florida:** Severance paid in lieu of notice or as a continuation of salary may delay your benefit year start date.
+
+**Illinois:** Separation agreements are reviewed more carefully, especially when a release of legal claims is involved. Consult an attorney if your package includes a substantial release.
+
+**New Jersey:** Salary-continuation severance can delay benefits. Lump sum payments are less likely to cause a deferral.
+
+## How BenefitsPath Can Help
+
+Being laid off with a severance offer is stressful — you are reading complicated legal documents during one of the most financially uncertain moments of your life.
+
+**Start with our free eligibility tool** to check whether you qualify for unemployment benefits in your state and get a sense of when benefits might begin given your severance arrangement. It only takes a few minutes.
+
+**If you have already signed a severance agreement and are having trouble with your unemployment claim** — or if your employer is contesting your claim — our attorney directory connects you with employment lawyers in your state who handle both severance disputes and unemployment appeals. Many offer free initial consultations.
+
+**If you have not yet signed your separation agreement** and you want to make sure you are not giving up rights you may need later, an employment attorney can review the document and flag any provisions that could hurt you — including those that affect your unemployment eligibility.
+
+You worked for those benefits. A severance check does not mean you have to give them up.
+    `.trim(),
+  },
+  {
     slug: 'how-to-file-unemployment-texas-2026-guide',
     title: 'How to File for Unemployment in Texas: 2026 Step-by-Step Guide',
     description: 'Lost your job in Texas? Learn exactly how to file a TWC unemployment claim, what documents you need, benefit amounts, work search rules, and how to avoid delays.',

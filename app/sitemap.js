@@ -30,6 +30,7 @@ const articleSlugs = [
   'can-you-collect-unemployment-if-you-quit-your-job',
   'how-to-file-unemployment-florida-2026-guide',
   'how-to-file-unemployment-texas-2026-guide',
+  'severance-pay-and-unemployment-benefits-can-you-collect-both',
 ]
 
 export default function sitemap() {
