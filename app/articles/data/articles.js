@@ -1429,6 +1429,178 @@ Filing for unemployment in Texas is manageable, but the stakes are high when eve
 Texas's UI system is designed to support workers in transition — but only if you know how to use it. BenefitsPath is here to help you move from confusion to a clear plan, fast.
     `.trim(),
   },
+  {
+    slug: 'how-to-file-unemployment-new-york-2026-guide',
+    title: 'How to File for Unemployment in New York: 2026 Step-by-Step Guide',
+    description: 'Lost your job in New York? Learn how to file a UI claim with NYSDOL, what documents you need, how much you can receive, and how to avoid common delays.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-22',
+    updatedAt: '2026-04-22',
+    category: 'State Guides',
+    tags: ['new york unemployment', 'NYSDOL', 'file for unemployment', 'unemployment benefits new york', 'state guides', 'work search'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in New York: What You Need to Know
+
+Losing a job in New York is stressful, but the state's unemployment insurance (UI) program can replace a meaningful share of your lost wages while you search for new work. The **New York State Department of Labor (NYSDOL)** administers the program, and almost every step — from filing a new claim to certifying for weekly benefits — happens through your online NY.gov account or by phone.
+
+This guide walks you through the full process of filing for unemployment in New York in 2026. It is written for real people dealing with a real loss of income — not HR professionals or tax specialists. If you are trying to make rent next month, this is the plain-English version you need.
+
+## Before You File: Do You Qualify?
+
+New York's eligibility rules look similar to most states at a glance, but there are specific earnings thresholds and availability rules worth understanding before you start.
+
+### The Basic Requirements
+
+To receive UI benefits in New York, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This usually means a layoff, a position elimination, a significant reduction in hours, or a voluntary quit for what NYSDOL considers "good cause."
+- **You earned enough wages during your base period.** You must have worked and been paid wages in at least two calendar quarters of your base period, with total base period earnings above a minimum threshold set each year. You also must meet a "high quarter" earnings minimum.
+- **You are ready, willing, and able to work.** New York treats "availability" as an active requirement — you must be physically able to work, have childcare and transportation lined up, and be ready to accept suitable employment.
+- **You are actively looking for work** and keeping a detailed record of your search activities.
+- **You are legally authorized to work in the United States.**
+
+If you were fired for **misconduct** — which New York defines narrowly but enforces — or if you quit without good cause, NYSDOL may deny your claim. You can and should still file, present your side, and appeal a denial if it happens.
+
+### What Counts as "Good Cause" to Quit in New York
+
+New York is somewhat flexible on voluntary quits, but only for protected reasons backed by evidence. You may still qualify for UI if you quit because of:
+
+- A substantial and unilateral change in pay, hours, duties, or location
+- Unsafe working conditions your employer refused to correct
+- Documented harassment, discrimination, or retaliation
+- A medical reason verified by a healthcare provider
+- Domestic violence or stalking
+- Compelling family circumstances, including caring for a seriously ill family member
+- A spouse's military relocation
+
+Every case is fact-specific. If your reason for leaving is in a gray area, it is almost always worth filing and letting NYSDOL decide rather than self-rejecting.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in makes the application go much faster. NYSDOL will ask for:
+
+- Your Social Security number
+- A valid driver's license or state ID number (if you have one)
+- Your complete work history for the last 18 months — employer names, addresses, phone numbers, and the first and last day you worked each job
+- The reason you are no longer working at each job (layoff, reduction, discharge, or voluntary quit)
+- Your most recent pay stubs and any severance or vacation pay you were paid out
+- Your bank account and routing numbers for direct deposit, or your debit card information
+- For non-citizens: your Alien Registration Number or work authorization document
+- Your SF-8 and SF-50 forms if you were a federal employee
+- Your DD-214 if you were recently separated from the military
+
+If you worked for multiple employers during your base period, gather the details for all of them. Missing information is one of the most common reasons claims get held up.
+
+## How to File Your New York Unemployment Claim
+
+There are two ways to file a new UI claim in New York. Online is faster and strongly recommended.
+
+### Option 1: File Online Through Your NY.gov Account
+
+Most New Yorkers file through the NYSDOL online portal. The steps look like this:
+
+1. Go to labor.ny.gov and select **Apply Online**.
+2. Create or log into your **NY.gov ID** account. This is the same ID used across many state services.
+3. Link your NY.gov account to NYSDOL's unemployment system if this is your first claim.
+4. Complete the new claim application, answering each question carefully and consistently with your documents.
+5. Review everything, then submit the application.
+
+After you submit, you will see a confirmation screen. Save or screenshot the confirmation number.
+
+### Option 2: File by Phone
+
+You can also file by calling the Telephone Claims Center. This is useful if you do not have reliable internet, need language assistance, or your situation is complex. Call volume is highest on Mondays and at the start of the month, so expect waits.
+
+## What Happens After You File
+
+Filing is just step one. Here is what comes next.
+
+### The Waiting Week
+
+New York currently has no unpaid waiting week for most claims, but you still have to **certify for benefits every week** starting with the week you file. Certifying late — or skipping weeks — is one of the top reasons people lose benefits they were otherwise entitled to.
+
+### Your Monetary Determination
+
+Within a couple of weeks, NYSDOL sends you a **Monetary Determination**. This document shows:
+
+- Your **weekly benefit rate** (WBR)
+- Your **maximum benefit amount** for the benefit year
+- The base period used to calculate benefits
+- The wages reported by each of your employers
+
+Review this closely. If an employer under-reported wages or left a quarter blank, request a **recomputation** and be ready to send pay stubs, W-2s, or bank records as proof.
+
+### The Fact-Finding Interview
+
+If you quit, were fired, or there is any question about why you left work, NYSDOL will typically schedule a **fact-finding** interview with you — and contact your former employer. Answer promptly, stick to the facts, and stay consistent with what you wrote on your application. Your answers here often make or break the claim.
+
+## How Much You Can Receive in New York
+
+In 2026, New York weekly unemployment benefits range from a minimum of around **$124** to a maximum of approximately **$504** per week for most claimants. Your weekly rate is calculated from your high-quarter earnings in the base period, using formulas set by state law.
+
+Most claimants can receive benefits for up to **26 weeks** within a one-year benefit year. Extended benefits can become available during periods of high statewide unemployment, but they depend on economic triggers and are not always active.
+
+New York unemployment benefits are **taxable at both the federal and state level**. You can elect to have taxes withheld when you certify. Not withholding is one of the more common April surprises — if you can afford the slightly smaller weekly check, withholding is usually the safer choice.
+
+## Certifying for Benefits Every Week
+
+Filing a claim is not the end. To keep benefits flowing, you must **certify each week** — confirming you were unemployed, able and available to work, and actively looking. Certification is done online or by phone and usually takes only a few minutes.
+
+During each certification you will be asked:
+
+- How many days you were ready, willing, and able to work
+- Whether you worked or earned any money
+- Whether you refused any work
+- Whether you attended approved school or training
+- Whether you looked for work that week
+
+**Answer honestly.** NYSDOL cross-checks certifications against employer wage reports and new-hire databases. An incorrect answer — even a rushed one — can trigger overpayments, penalties, and in severe cases, fraud findings. If you worked even a few hours, or did gig or 1099 work, report the earnings. New York uses a **"day-based"** rule for partial benefits that reduces your weekly payment based on how many days you worked, not just how much you earned.
+
+## The New York Work Search Requirement
+
+New York actively enforces its work search rule. You must perform and **log at least three work search activities each week**. Acceptable activities include:
+
+- Submitting a job application or resume
+- Attending a job interview
+- Creating and using a profile on New York's **JobZone** or on a reputable job site
+- Attending a career workshop at a New York Career Center
+- Completing NYSDOL-approved training
+
+Keep a written log that includes the date, employer or workshop name, position, how you applied, and the result. NYSDOL can audit your log at any time, and missing or weak records are one of the most common reasons claims get interrupted.
+
+## Common Mistakes to Avoid
+
+Even careful applicants make errors that delay or reduce payments. Watch for these:
+
+- **Guessing on the reason you are unemployed.** If you were fired but select "laid off," your employer's response will likely contradict you, and NYSDOL may deny the claim.
+- **Missing a weekly certification.** You typically must certify within seven days of the week ending Sunday. Miss it, and you usually need to call NYSDOL to reopen the week.
+- **Underreporting earnings or side work.** Any money earned during a claimed week must be reported, even 1099 or cash work.
+- **Ignoring NYSDOL letters and secure messages.** Hearing notices and appeal deadlines often arrive by mail or in your online inbox.
+- **Weak or missing work search logs.** "I applied to a few places" is not enough. You need dates, employers, positions, and outcomes.
+- **Not appealing a denial.** You typically have **30 days** from the mail date of a determination to request a hearing. Many denials are overturned on appeal.
+
+## If Your Claim Is Denied
+
+A denial is not the last word. You have the right to a formal hearing before an **Administrative Law Judge (ALJ)** at the New York Unemployment Insurance Appeal Board. Hearings are usually held by phone or video. You and your former employer each present testimony, documents, and witnesses, and the ALJ issues a written decision.
+
+You can represent yourself, bring a witness, or hire an employment attorney. Because appeals often turn on technical issues — what counts as misconduct, whether you had good cause to quit — experienced representation often makes a real difference.
+
+If you lose at the ALJ hearing, you can request review by the **Appeal Board**, and then appeal to the New York State Appellate Division. Deadlines at each level are strict, usually 20 to 30 days, so do not wait.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in New York is manageable, but the stakes are high when every dollar matters for rent, groceries, and bills.
+
+**Start with our free eligibility tool** to get a quick read on whether your situation is likely to qualify for New York UI and roughly how much you may receive. It takes a couple of minutes and does not require an account.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for an ALJ hearing**, our attorney directory connects you with employment lawyers in New York who handle unemployment cases. Many offer free initial consultations, so you can learn your options with no commitment.
+
+**Explore our other guides** for help on calculating your benefits, handling an employer contest, and winning a UI appeal step by step.
+
+New York's UI system is designed to support workers in transition — but only if you know how to use it. BenefitsPath is here to help you move from confusion to a clear plan, fast.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
