@@ -32,6 +32,7 @@ const articleSlugs = [
   'how-to-file-unemployment-texas-2026-guide',
   'severance-pay-and-unemployment-benefits-can-you-collect-both',
   'how-to-file-unemployment-new-york-2026-guide',
+  'unemployment-overpayment-notice-what-to-do',
 ]
 
 export default function sitemap() {

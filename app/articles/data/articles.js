@@ -1601,6 +1601,210 @@ Filing for unemployment in New York is manageable, but the stakes are high when 
 New York's UI system is designed to support workers in transition — but only if you know how to use it. BenefitsPath is here to help you move from confusion to a clear plan, fast.
     `.trim(),
   },
+  {
+    slug: 'unemployment-overpayment-notice-what-to-do',
+    title: 'Unemployment Overpayment Notice: What to Do If You\'re Told to Pay Back Benefits',
+    description: 'Got a letter saying you were overpaid unemployment? Learn why overpayments happen, how to appeal, when waivers are granted, and how to protect your wages.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-23',
+    updatedAt: '2026-04-23',
+    category: 'Unemployment Appeals',
+    tags: ['unemployment overpayment', 'benefit overpayment', 'repay unemployment', 'overpayment waiver', 'unemployment fraud', 'unemployment appeals'],
+    readTime: '12 min read',
+    content: `
+## When the State Says You Owe Benefits Back
+
+You filed for unemployment. You got approved. You collected benefits while searching for work. Then, weeks or even months later, a letter arrives saying the state made a mistake — and now you owe thousands of dollars back.
+
+If that sounds familiar, you are not alone. **Unemployment overpayment notices** have become one of the most common — and most stressful — problems workers face after a claim. Many notices arrive with shocking demands: repay tens of thousands of dollars, plus penalties and interest, often within 30 days.
+
+The good news is that you have rights. Overpayments can be appealed, reduced, or waived altogether in many cases. This guide walks you through what an overpayment notice means, why you got one, and the exact steps to take to protect yourself.
+
+## What Is an Unemployment Overpayment?
+
+An **overpayment** is a determination by your state unemployment agency that you received more benefits than you were legally entitled to. Once the state makes that finding, it will demand that you repay the difference.
+
+Overpayments fall into two broad categories, and the difference matters a lot for how the case is handled.
+
+### Non-Fraud (Administrative) Overpayments
+
+A non-fraud overpayment means the state believes you received too much money, but it does not believe you intentionally lied. This is the most common type. Reasons include:
+
+- The state made a calculation error on your weekly benefit amount
+- Your employer provided wage records after your claim was approved
+- You were later ruled ineligible at an appeal hearing
+- You misunderstood a question on your certification
+- A federal pandemic or emergency program was reinterpreted after the fact
+
+Non-fraud overpayments can often be **waived** — meaning the state forgives the debt — if repayment would cause financial hardship or if the overpayment was not your fault.
+
+### Fraud Overpayments
+
+A fraud overpayment means the state believes you **intentionally** provided false information to collect benefits you did not deserve. Common examples include hiding income from side work, claiming benefits for weeks you did not actually certify for, or using someone else's identity.
+
+Fraud overpayments are serious. They usually come with:
+
+- A 15% to 50% monetary penalty on top of the overpayment amount
+- Disqualification from future unemployment benefits, sometimes for years
+- Interception of tax refunds and, in some states, wages
+- Possible criminal charges in egregious cases
+
+If your notice says "fraud," do not ignore it and do not assume the state is right. Fraud findings are often appealed and overturned, especially when the overpayment was caused by confusion, bad paperwork, or a rushed answer on an online form.
+
+## Why You Probably Got an Overpayment Notice
+
+Most overpayment notices are not sent because someone thinks you are a criminal. They are sent because of fairly ordinary problems in the UI system.
+
+### Reversed Eligibility Determinations
+
+If your employer contested your claim and won at an appeal hearing, the weeks you already received are usually flagged as overpayments. Even if you received the money in good faith, the state treats it as money you were not entitled to once the eligibility ruling flips.
+
+### Employer Wage Corrections
+
+Weekly benefit amounts are calculated from your base-period wages. If your employer updates or corrects those wage reports after your claim is processed, your benefit amount can drop — and the state recovers the difference as an overpayment.
+
+### Unreported Earnings
+
+If you worked part-time, picked up gig work, or did 1099 consulting while on unemployment and did not report those earnings, the state can — and eventually will — find out. Agencies cross-check wage reports, new-hire databases, and IRS data.
+
+### Program Mistakes
+
+During large federal programs — like the pandemic-era PUA, PEUC, and FPUC — many states later determined that certain payments should not have been made. Thousands of claimants received overpayment notices for money their state had told them to accept.
+
+### Identity Issues
+
+Some overpayments happen because of fraud committed against you, not by you. If someone stole your identity and filed a claim, you may get billed for benefits you never received. This is not uncommon, and you can usually get the overpayment removed if you report the identity theft quickly.
+
+## Read the Notice Carefully
+
+Before you do anything else, read the overpayment notice from start to finish. Look for:
+
+- The **exact amount** the state says you were overpaid
+- The **weeks** involved
+- Whether it is marked **fraud** or **non-fraud**
+- The **reason** the state gives for the overpayment
+- The **appeal deadline** — usually 10 to 30 days from the mail date
+- Any **penalty or interest** added to the base amount
+- Instructions for how to pay, appeal, or request a waiver
+
+**Note the appeal deadline immediately.** If you miss it, your right to challenge the overpayment can be lost permanently, even if the state was flat-out wrong.
+
+## Step 1: Do Not Ignore It
+
+The single worst response to an overpayment notice is to set it aside. Interest keeps adding up. Deadlines pass. And once your appeal rights expire, your options shrink dramatically.
+
+Ignoring the notice can also lead to:
+
+- **Tax refund offsets** — the Treasury can intercept your federal tax refund to pay the debt
+- **Wage garnishment** — some states can take money directly from your paycheck
+- **Lottery winnings seizure** and driver's license suspension in certain states
+- **Collections accounts** that damage your credit
+
+Open the envelope, take a breath, and start working a plan the same week.
+
+## Step 2: Request Your File
+
+You have a right to see the evidence the state is using against you. Request your unemployment file — sometimes called a **claim record** or **appeal packet** — in writing. Most states will send it by mail or make it available in your online portal.
+
+Look for:
+
+- The wage records the state used for your calculation
+- Any statements from your former employer
+- Certifications you submitted each week
+- Notes from adjudicators or investigators
+
+Compare the state's numbers to your own records: pay stubs, W-2s, bank deposits, and certification screenshots. Overpayment calculations include errors more often than you might expect.
+
+## Step 3: File an Appeal in Writing
+
+If you disagree with the overpayment — either the amount, the reason, or the fraud finding — **file a written appeal before the deadline**. This is the single most important step.
+
+Your appeal should:
+
+- Be filed using the method the notice specifies (mail, fax, online, or in person)
+- Include your name, Social Security number, and claim identifiers
+- State clearly that you are appealing the overpayment determination
+- Briefly explain why you believe it is wrong
+- Be dated and signed
+
+You do not need to make your full legal argument yet. You just need to preserve your right to a hearing. Detailed evidence comes later.
+
+Keep a copy of the appeal and proof of delivery — a certified mail receipt, a fax confirmation, or a screenshot of your online submission.
+
+## Step 4: Ask About a Waiver
+
+Even if the overpayment is correct, you may still be able to avoid repayment through a **waiver**. A waiver forgives the debt, in whole or in part, when repayment would be unfair or create hardship.
+
+Every state has its own waiver rules, but most consider:
+
+- Whether the overpayment was **your fault** (did you misrepresent anything?)
+- Whether repayment would cause **financial hardship** (can you afford rent, food, medical care?)
+- Whether you relied on the benefits in good faith
+- Whether enforcement would be **against equity and good conscience**
+
+Waiver requests usually require a financial disclosure: your income, expenses, assets, and debts. Be honest and thorough. Attach pay stubs, bills, lease agreements, and any medical or disability documentation that supports hardship.
+
+Waivers are much easier to obtain for non-fraud overpayments. Fraud findings generally must be reversed on appeal before a waiver is possible.
+
+## Step 5: Prepare for the Hearing
+
+If the state denies your appeal at the paper review stage, your case goes to a hearing before an **Administrative Law Judge (ALJ)**. These hearings are usually held by phone or video and are less formal than a courtroom, but they are still legal proceedings with real consequences.
+
+To prepare:
+
+- Gather every document that supports your case — wage records, text messages, emails, certifications
+- Write a short timeline of events
+- List any witnesses who can confirm your version of events
+- Practice explaining what happened in plain, factual language
+- Review the state's evidence so nothing surprises you
+
+Be respectful, stick to the facts, and do not argue with the judge. If you are nervous about handling the hearing alone, this is a strong moment to bring in an employment attorney.
+
+## Step 6: Negotiate a Repayment Plan If Needed
+
+If you ultimately owe the money, you may still be able to negotiate a **repayment plan** that fits your budget. Most states offer monthly installment options that are much more manageable than a lump-sum demand.
+
+Call the overpayment unit, ask what plans are available, and propose a number you can actually sustain. Getting a written plan in place helps stop tax offsets and collections activity. Keep proof of every payment.
+
+## Common Mistakes to Avoid
+
+Across thousands of overpayment cases, the same missteps show up again and again:
+
+- **Missing the appeal deadline** because the notice got lost in junk mail
+- **Admitting fault** in a phone call with an investigator before understanding the rules
+- **Ignoring a "fraud" label** when the facts do not actually support it
+- **Paying the debt** before exploring appeal or waiver options
+- **Skipping the waiver request** because the form looks long or confusing
+- **Representing yourself at a hearing** in a complicated fraud case when an attorney could help
+
+## When to Call an Employment Attorney
+
+Some overpayment cases are straightforward. You made a small mistake, the state calculated the correction, you pay it back, and you move on.
+
+Other cases are not. You should strongly consider speaking with an employment lawyer if:
+
+- The notice accuses you of **fraud**
+- The overpayment is **several thousand dollars or more**
+- The state is threatening **wage garnishment** or **criminal referral**
+- Your case involves **complex employer disputes** or contested wage records
+- You already had an appeal hearing and lost and want to challenge the result
+- You are facing multiple overlapping claims or programs (PUA, PEUC, regular UI)
+
+Many employment attorneys offer free or low-cost consultations for unemployment matters. Even a single session can dramatically change your strategy.
+
+## How BenefitsPath Can Help
+
+An overpayment notice can feel like being punished for asking for help — but it does not have to be the final word. With the right steps, many overpayments are reduced, waived, or reversed.
+
+**Use our free eligibility tool** to confirm whether you actually qualified for the benefits in question. If the eligibility finding is wrong, your overpayment may not be valid either.
+
+**Browse our attorney directory** to connect with experienced employment lawyers in your state. They can review your overpayment notice, identify defenses, help you craft a strong appeal, and represent you at an ALJ hearing.
+
+**Read our related guides** on appealing an unemployment denial, what to do when your employer contests your claim, and how weekly benefits are calculated.
+
+You responded to a hard moment by filing for unemployment. You deserve a fair process — including a fair response if something goes wrong. BenefitsPath is here to help you understand your notice, protect your rights, and keep more of the money you earned.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
