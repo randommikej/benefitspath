@@ -1805,6 +1805,205 @@ An overpayment notice can feel like being punished for asking for help — but i
 You responded to a hard moment by filing for unemployment. You deserve a fair process — including a fair response if something goes wrong. BenefitsPath is here to help you understand your notice, protect your rights, and keep more of the money you earned.
     `.trim(),
   },
+  {
+    slug: 'working-part-time-while-on-unemployment-2026',
+    title: 'Working Part-Time While on Unemployment: How Earnings Affect Your Benefits in 2026',
+    description: 'Can you work part-time and still collect unemployment? Learn how partial benefits work, earnings limits by state, reporting rules, and common mistakes to avoid.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-27',
+    updatedAt: '2026-04-27',
+    category: 'Unemployment Benefits',
+    tags: ['part-time work', 'partial unemployment', 'earnings disregard', 'reporting wages', 'unemployment benefits', 'side income'],
+    readTime: '12 min read',
+    content: `
+## Yes, You Can Often Work Part-Time and Still Collect Unemployment
+
+One of the most common questions people ask after losing a job is simple: **"If I take a part-time job, will I lose my unemployment benefits?"**
+
+The short answer is no — not automatically. Every state allows some form of **partial unemployment**, where you can earn money from part-time or temporary work and still receive a reduced benefit. The longer answer is that the rules are surprisingly tricky, and a small mistake — like forgetting to report a single shift — can cost you weeks of benefits or trigger an overpayment notice.
+
+This guide explains how partial unemployment works in 2026, how each dollar you earn affects your check, the reporting rules every state expects you to follow, and the most common mistakes that get claimants in trouble.
+
+## What Partial Unemployment Means
+
+Unemployment insurance was designed for people who are completely out of work. But policymakers recognized that forcing claimants to choose between **all** or **nothing** discourages people from taking the part-time, gig, or temporary work that often becomes a bridge to a full-time job.
+
+To fix that, every state has rules that let you keep some of your unemployment check while you earn part-time income. This is called **partial unemployment** or **partial benefits**.
+
+The basic structure is the same in almost every state:
+
+- You file your weekly claim like normal.
+- You report **all** the gross earnings you made that week — even if you have not been paid yet.
+- The state subtracts a portion of those earnings from your weekly benefit amount.
+- If what's left is more than zero, you get a partial check.
+
+What differs from state to state is **how much** of your earnings the state ignores before reducing your check, and the **maximum amount** you can earn before your benefits are cut entirely.
+
+## How the Math Actually Works
+
+To understand whether part-time work is worth it, you need to understand two key concepts: the **earnings disregard** and the **earnings limit**.
+
+### The Earnings Disregard
+
+The earnings disregard is the portion of your weekly earnings the state ignores when calculating your partial benefit. Think of it as a buffer. As long as you earn under this buffer, your unemployment check is not reduced at all.
+
+States set the disregard differently:
+
+- Some use a **flat dollar amount** (for example, "the first $50 of earnings is disregarded").
+- Some use a **percentage of your weekly benefit amount** (for example, "the first 25% of your weekly benefit is disregarded").
+- Some use a **multiple of the minimum wage** (for example, "the greater of $50 or one-third of your weekly benefit").
+
+Once you earn more than the disregard, every additional dollar reduces your benefit, often dollar for dollar.
+
+### The Earnings Limit
+
+The earnings limit is the cap. Once your weekly earnings exceed this number, you are no longer eligible for any partial benefit that week. The limit is usually expressed as a percentage of your weekly benefit amount — typically somewhere between 100% and 150%.
+
+For example, if your weekly benefit amount is $400 and your state's earnings limit is 130%, you can earn up to $520 in a week and still potentially qualify for a partial benefit. Earn $521 or more, and you get nothing for that week.
+
+### A Simple Example
+
+Imagine your weekly benefit is **$500**, and your state has these rules:
+
+- **Disregard:** First 25% of weekly benefit ($125)
+- **Earnings limit:** 125% of weekly benefit ($625)
+- **Reduction:** Dollar-for-dollar above the disregard
+
+Now look at three scenarios:
+
+**You earn $100 in a week.** That's below the $125 disregard. Your full $500 benefit is paid. Total income that week: $600.
+
+**You earn $300 in a week.** The first $125 is disregarded. The remaining $175 reduces your benefit. New benefit: $500 - $175 = $325. Total income that week: $625.
+
+**You earn $700 in a week.** That exceeds the $625 limit. You receive zero unemployment that week. Total income: $700.
+
+Notice something important: **even though working reduces your weekly check, your total income usually goes up.** Most claimants come out ahead by working part-time, especially when you factor in the work history it builds and the jobs it can lead to.
+
+## The Rules Vary By State — Here Are Common Patterns
+
+Because each state administers its own unemployment program, the math is different everywhere. But most states fall into a few common patterns:
+
+### Pattern 1: Flat Dollar Disregard
+
+States like **New York** and **New Jersey** historically use a system where you can earn a flat amount (or a small percentage of your benefit) before reductions begin. New York, for example, uses a "partial unemployment" formula that lets you work limited hours and still receive benefits.
+
+### Pattern 2: Percentage of Weekly Benefit
+
+States like **California** disregard a percentage of your weekly benefit amount — commonly 25% — before any reduction kicks in.
+
+### Pattern 3: Hybrid Formulas
+
+Many states use the **greater of** a flat dollar amount or a percentage. **Texas**, for example, allows claimants to earn up to 25% of their benefit amount with no reduction, then reduces dollar-for-dollar above that.
+
+The right answer for your situation depends on your state's specific formula, your weekly benefit amount, and the hours you are picking up. Your state's unemployment agency website should publish the exact disregard and limit. If you cannot find it, call the agency or check your benefits handbook.
+
+## What Counts As "Earnings" — Even If You Haven't Been Paid Yet
+
+This is where many claimants get tripped up. **Earnings are based on when you work, not when you get paid.**
+
+If you work Monday through Friday this week but do not get paid until next Friday, you must still report those earnings on **this** week's claim — not next week's. Reporting them late is the most common cause of overpayment notices for partial unemployment.
+
+What counts as earnings:
+
+- **Wages** from a part-time or temporary job (gross, before taxes)
+- **Tips and commissions** earned during the week
+- **Self-employment income** for hours you worked
+- **Gig work earnings** — rideshare, delivery, freelance projects
+- **Vacation pay or holiday pay** allocated to that week
+- **Bonuses** tied to a specific work period
+- **In some states, severance** (depending on how it is paid)
+
+What usually does **not** count as earnings (but check your state):
+
+- Interest, investment income, or dividends
+- Child support or spousal support received
+- Social Security or disability benefits (though these may affect eligibility)
+- Money received as a gift or loan
+
+If you are unsure whether something counts, the safest move is to **report it and let the agency decide**. Reporting too much is rarely a problem. Reporting too little can be treated as fraud.
+
+## Reporting Rules That Trip People Up
+
+States are strict about how you report part-time earnings. The exact procedure varies, but the principles are the same:
+
+1. **Report gross earnings, not net.** That means before taxes, before health insurance deductions, before any withholding.
+2. **Report by the calendar week your state defines** — usually Sunday through Saturday.
+3. **Report when you earned the money, not when you were paid.**
+4. **Report all hours worked**, even unpaid trial shifts or training hours, if your state asks.
+5. **Keep records.** Save pay stubs, schedules, and 1099s. If your state audits your claim later, you'll need them.
+
+If you make an honest reporting error, contact the agency right away. Most states have a process to correct mistakes. **Waiting** until they catch it is what turns a small error into a fraud finding.
+
+## Common Mistakes That Cost Claimants Benefits
+
+Even careful claimants get tripped up by partial unemployment. Watch out for these common pitfalls:
+
+### Mistake 1: "I'll report it when I get paid."
+
+Reporting late is reporting wrong. Always report earnings in the week you worked, not the week the check arrived.
+
+### Mistake 2: Reporting net pay instead of gross.
+
+Most states want **gross** earnings — the number on your pay stub before deductions. Reporting your take-home pay understates your earnings and can trigger an overpayment.
+
+### Mistake 3: Forgetting gig income.
+
+If you drove for a rideshare service, did a freelance project, or picked up odd jobs, that money counts. Many overpayment notices come from claimants who reported their W-2 part-time job but forgot their 1099 gig work.
+
+### Mistake 4: Working too many hours.
+
+Some states require that you remain "able and available" for full-time work. If your part-time hours grow too large — typically over 32 hours a week — you may be considered "fully employed" and lose eligibility entirely, even if your earnings are low.
+
+### Mistake 5: Skipping the work search.
+
+Most states still require you to actively look for full-time work each week, even when you are working part-time. Document your work search every week — calls, applications, networking, and interviews — and submit it as your state requires.
+
+## Will Working Part-Time Hurt My Total Benefits Long-Term?
+
+This is one of the smartest questions to ask. The answer depends on your state.
+
+In **most states**, partial benefits draw down your unemployment balance more slowly than full benefits do. If you are receiving half your weekly benefit, you are essentially using "half a week" of your maximum benefit allowance — meaning your benefits stretch further over more weeks.
+
+In **some states**, the rules are different and any partial benefit counts as a full week's draw against your maximum.
+
+If you can stretch your benefits over more weeks by working part-time, it can give you a longer runway during your job search. Check your state's specific rules before assuming either approach.
+
+## When Part-Time Work Becomes Disqualifying
+
+There is a line where part-time work crosses into full-time and ends your eligibility entirely. Watch for these signs:
+
+- **You consistently work 32+ hours a week.** Most states define "full-time" at 32 to 40 hours.
+- **Your earnings consistently exceed the state's earnings limit.** Repeated weeks above the cap can lead the agency to consider you fully employed.
+- **You stop looking for full-time work.** If your part-time job becomes "the plan," you may no longer meet the "able and available" requirement.
+- **You decline a suitable full-time offer.** Refusing suitable work can cost you eligibility entirely, even if you are still working part-time.
+
+If your part-time job grows into something more substantial, the right move is usually to close your unemployment claim. Continuing to claim while you are functionally fully employed can be treated as fraud, with serious financial and legal consequences.
+
+## When To Get Legal Help
+
+Most partial unemployment situations are routine — but not all. Consider talking to an employment attorney if:
+
+- You have received an **overpayment notice** related to partial earnings.
+- The state has accused you of **fraud** or **willful misrepresentation**.
+- Your benefits were **denied or reduced** based on a reporting dispute.
+- Your **employer is challenging** your hours or wages on the claim.
+- You are facing **wage garnishment** or **criminal referral** for unemployment fraud.
+
+Many employment lawyers offer free or low-cost consultations for unemployment matters. A short conversation can change your strategy and protect benefits you've already earned.
+
+## How BenefitsPath Can Help
+
+Working part-time while on unemployment can be a smart bridge between job loss and your next opportunity — but only if you follow the rules carefully. A single missed report can turn a few hours of side work into a full-blown overpayment case.
+
+**Use our free eligibility tool** to estimate your weekly benefit amount and understand your state's earnings disregard and limit before you take that part-time job.
+
+**Browse our attorney directory** to connect with experienced employment lawyers in your state if you've received an overpayment notice, a fraud accusation, or a denial tied to part-time work.
+
+**Read our related guides** on how to appeal an unemployment denial, what to do if your employer contests your claim, and how unemployment overpayment notices work.
+
+Part-time work is allowed. Smart, careful reporting is what protects your benefits. BenefitsPath is here to help you understand the rules, stay compliant, and make every dollar you earn — and every dollar you're owed — count.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {

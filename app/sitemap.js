@@ -33,6 +33,7 @@ const articleSlugs = [
   'severance-pay-and-unemployment-benefits-can-you-collect-both',
   'how-to-file-unemployment-new-york-2026-guide',
   'unemployment-overpayment-notice-what-to-do',
+  'working-part-time-while-on-unemployment-2026',
 ]
 
 export default function sitemap() {
