@@ -2004,6 +2004,133 @@ Working part-time while on unemployment can be a smart bridge between job loss a
 Part-time work is allowed. Smart, careful reporting is what protects your benefits. BenefitsPath is here to help you understand the rules, stay compliant, and make every dollar you earn — and every dollar you're owed — count.
     `.trim(),
   },
+  {
+    slug: 'cobra-health-insurance-after-job-loss-2026-guide',
+    title: 'COBRA Health Insurance After Job Loss: A 2026 Guide for Unemployed Workers',
+    description: 'Lost your job and worried about health coverage? Learn how COBRA works in 2026, what it costs, deadlines you must meet, and cheaper alternatives like the ACA marketplace.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-28',
+    updatedAt: '2026-04-28',
+    category: 'Health Benefits',
+    tags: ['COBRA', 'health insurance', 'job loss', 'ACA marketplace', 'unemployment benefits', 'healthcare coverage'],
+    readTime: '12 min read',
+    content: `
+## Losing Your Job Doesn't Have to Mean Losing Your Health Coverage
+
+Of all the worries that come with losing a job, the fear of losing health insurance is often the loudest. A surprise diagnosis, a child's prescription, an ongoing condition — these don't pause just because your paycheck did. The good news is that federal law gives most people a way to keep their employer health plan after a job ends. It's called **COBRA**, and understanding how it works can save you thousands of dollars and a lot of stress.
+
+This guide explains exactly what COBRA is, how to use it, what it really costs, and the cheaper alternatives many unemployed workers overlook.
+
+## What COBRA Actually Is
+
+COBRA stands for the **Consolidated Omnibus Budget Reconciliation Act of 1985**. It's a federal law that lets workers — and their families — keep the same group health insurance they had at work, even after the job ends. Coverage stays the same: same doctors, same network, same prescriptions, same deductible. The only thing that changes is who pays.
+
+While you were employed, your company paid most of your premium. Under COBRA, you pay the **full premium** plus a small administrative fee — usually 2%. That's why COBRA is famous for "sticker shock." A plan that cost you $150 a month at work can suddenly cost $700 or more on COBRA.
+
+But COBRA isn't a trap. It's a bridge. Used correctly, it can prevent gaps in coverage during exactly the moments you most need stability.
+
+## Who Qualifies for COBRA
+
+COBRA applies to most private-sector employers with **20 or more employees** as well as state and local government workers. Small employers under 20 employees aren't covered by federal COBRA, but most states have a "mini-COBRA" law that does something similar — sometimes with shorter coverage periods.
+
+You generally qualify if you experienced a **qualifying event**, which includes:
+
+- Voluntary or involuntary job loss (other than for "gross misconduct")
+- A reduction in your hours that drops you below the plan's eligibility threshold
+- Divorce or legal separation from a covered employee
+- Death of a covered employee
+- A child aging out of dependent coverage
+
+Importantly, **being fired does not automatically disqualify you from COBRA**. Only termination for serious gross misconduct — a high legal bar — blocks eligibility. If your employer claims gross misconduct and denies COBRA, that decision can often be challenged.
+
+## How Long COBRA Lasts
+
+For most job loss situations, COBRA lets you stay on the plan for up to **18 months**. Certain events — disability or a second qualifying event — can extend that to 29 or 36 months. Spouses and dependents have their own independent COBRA rights, which means a divorce or the employee's death can give a family member up to 36 months of continuation coverage.
+
+Coverage starts the day your employer coverage would otherwise end, even if you don't enroll until later. This retroactive feature is one of COBRA's most useful — and most confusing — quirks.
+
+## The Deadlines You Cannot Miss
+
+COBRA is generous, but it is strict about timelines. Missing a deadline can permanently end your right to continuation coverage.
+
+### The 60-Day Election Window
+
+After your employer coverage ends, the plan administrator must send you a **COBRA Election Notice**. From the date that notice is mailed (or the date your coverage ends, whichever is later), you have **60 days** to elect coverage. You don't have to decide right away — you can wait, see whether you find a job or get sick, and then elect within the window.
+
+If you do elect, coverage applies **retroactively** to the day employer coverage ended. That means an unexpected ER visit during the gap can be paid for after the fact, as long as you elect within the 60 days and pay the premium.
+
+### The 45-Day Initial Payment Window
+
+Once you elect COBRA, you have **45 days** to make your first premium payment. This payment must cover the period from the date employer coverage ended through the current month. After that, premiums are due monthly with a 30-day grace period.
+
+### Special Enrollment Period for the Marketplace
+
+Losing job-based coverage triggers a **60-day Special Enrollment Period** on HealthCare.gov or your state ACA marketplace. This is a critical alternative to COBRA — and one many people miss because they assume COBRA is the only path.
+
+## How Much COBRA Really Costs
+
+Your COBRA premium equals the **entire cost** of your group plan plus up to 2% in administrative fees. Most workers had no idea what their employer was paying behind the scenes — typically 70 to 85 percent of the premium.
+
+According to recent industry surveys, the average employer-sponsored family plan costs more than **$24,000 per year**, with single coverage averaging around **$8,500 per year**. On COBRA, that's roughly **$700 a month for an individual** or **$2,000 a month for a family** — often more than a mortgage payment.
+
+That price is exactly why you should always compare COBRA against ACA marketplace plans before electing.
+
+## When COBRA Is the Right Choice
+
+COBRA isn't always the most expensive path. There are real situations where it's the smart move:
+
+- **You're mid-treatment.** If you're already deep into a deductible or out-of-pocket maximum, switching plans resets those numbers. Staying on COBRA can save you thousands.
+- **Your providers are not in any marketplace plan.** A specialist, hospital, or surgeon you must keep can justify higher premiums.
+- **You only need short-term coverage.** A new job starts in five weeks? COBRA fills the gap without disrupting prescriptions or scheduled care.
+- **You qualify retroactively.** If you got sick or injured during the gap, you can elect COBRA after the fact and have those bills covered.
+
+## When the ACA Marketplace Is Cheaper
+
+For most unemployed workers, an ACA marketplace plan ends up dramatically cheaper than COBRA. Here's why:
+
+**You qualify for premium tax credits.** When you lose a job, your projected annual income often drops sharply. Marketplace subsidies are based on income — not assets — and they can reduce premiums to as little as **$0 a month** for lower-income households.
+
+**You may qualify for cost-sharing reductions.** These lower deductibles, copays, and out-of-pocket maximums on Silver-tier plans for people earning under 250% of the federal poverty level.
+
+**Special Enrollment is automatic.** The 60-day window starts the day you lose job-based coverage. You'll need to upload a termination letter or other proof, but the process is straightforward.
+
+A common mistake is electing COBRA first, then trying to switch to a marketplace plan later. Switching mid-month doesn't trigger a Special Enrollment Period — you'd usually have to wait until Open Enrollment in November. Compare options **before** you elect COBRA.
+
+## Medicaid: The Option Many Workers Don't Realize They Now Qualify For
+
+When your income drops, you may suddenly qualify for **Medicaid** — even if you didn't qualify a month ago. Medicaid eligibility is based on current monthly income, not last year's tax return. In most states, a single adult earning less than roughly $1,800 a month qualifies for Medicaid coverage with $0 premiums.
+
+Medicaid enrollment is open year-round and there's no waiting period. If you're newly unemployed and not collecting unemployment yet, this is often the right first call.
+
+## What to Do in Your First Two Weeks Without a Job
+
+Health coverage tends to slip down the priority list when you're focused on finding work and filing for unemployment. Don't let it. A simple checklist:
+
+1. **Confirm exactly when your employer coverage ends.** Some plans run through the last day of the month; others terminate the day you separate.
+2. **Watch for the COBRA Election Notice.** It must arrive within 14 days of the qualifying event in most cases.
+3. **Compare the COBRA premium against marketplace plans the same week.** Use HealthCare.gov or your state exchange. Enter your projected unemployment income — not your old salary — to see real subsidy amounts.
+4. **Check Medicaid eligibility.** Apply through your state Medicaid office. It's free, and approval is often fast.
+5. **Don't let prescriptions lapse.** Pharmacies will often process refills under your old plan up until the termination date — fill what you can before coverage ends.
+
+## What If Your Employer Doesn't Send the COBRA Notice?
+
+Employers and plan administrators are legally required to send the COBRA notice on time. Failure to do so can mean penalties of up to **$110 per day** under federal law, plus liability for any medical costs you incurred during the gap.
+
+If a deadline has passed and no notice arrived, document everything: the date your coverage ended, when you contacted HR, and any costs incurred. This is one of the more common employment law disputes that results in a quick, favorable resolution for the worker — but only if the records exist.
+
+## How BenefitsPath Can Help
+
+Losing a job is rarely just one problem. It usually means three or four problems hitting at the same time: lost income, lost insurance, mounting bills, and an avalanche of paperwork.
+
+**Start with our free eligibility tool** to understand whether you qualify for unemployment benefits and how much you can expect to receive. Many workers who think they don't qualify actually do — and that weekly benefit can change which health coverage option makes sense for you.
+
+**If your employer is denying COBRA**, claiming gross misconduct, or refusing to send required notices, our attorney directory can connect you with employment lawyers in your state who handle exactly these disputes. Many offer free consultations.
+
+**Read our related guides** on what to do if your employer contests your unemployment claim, how to appeal an unemployment denial, and how severance affects your benefits.
+
+You don't have to choose between paying for medication and paying your rent. With the right information — and the right help — most workers find a way to stay covered without draining savings. BenefitsPath is here to make sure you know every option you have.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {

@@ -34,6 +34,7 @@ const articleSlugs = [
   'how-to-file-unemployment-new-york-2026-guide',
   'unemployment-overpayment-notice-what-to-do',
   'working-part-time-while-on-unemployment-2026',
+  'cobra-health-insurance-after-job-loss-2026-guide',
 ]
 
 export default function sitemap() {
