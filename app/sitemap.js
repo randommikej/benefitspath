@@ -35,6 +35,7 @@ const articleSlugs = [
   'unemployment-overpayment-notice-what-to-do',
   'working-part-time-while-on-unemployment-2026',
   'cobra-health-insurance-after-job-loss-2026-guide',
+  'unemployment-identity-theft-fraudulent-claim-what-to-do',
 ]
 
 export default function sitemap() {

@@ -2131,6 +2131,143 @@ Losing a job is rarely just one problem. It usually means three or four problems
 You don't have to choose between paying for medication and paying your rent. With the right information — and the right help — most workers find a way to stay covered without draining savings. BenefitsPath is here to make sure you know every option you have.
     `.trim(),
   },
+  {
+    slug: 'unemployment-identity-theft-fraudulent-claim-what-to-do',
+    title: 'Unemployment Identity Theft: What to Do If a Fraudulent Claim Was Filed in Your Name',
+    description: 'Got an unemployment notice you never applied for? Learn the exact steps to report unemployment identity theft, protect your credit, and clear your name in 2026.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-29',
+    updatedAt: '2026-04-29',
+    category: 'Unemployment Fraud',
+    tags: ['unemployment fraud', 'identity theft', 'fraudulent claim', 'workers rights', 'unemployment benefits', 'fraud reporting'],
+    readTime: '12 min read',
+    content: `
+## When Someone Else Files for Unemployment in Your Name
+
+You open the mailbox and find a letter from your state's unemployment agency. Maybe it's a debit card you never requested, a 1099-G tax form for benefits you never received, or a notice from your current employer telling you they were just contacted to verify your unemployment claim — even though you're still working.
+
+You're not alone, and you're not in trouble. You're a victim of **unemployment identity theft**, one of the fastest-growing financial crimes in the United States. The U.S. Department of Labor estimates that fraudsters stole tens of billions of dollars in pandemic-era unemployment benefits, and the schemes have not stopped. State agencies still report tens of thousands of fraudulent claims every week.
+
+The good news: there's a clear path to making this right. The bad news: the longer you wait, the harder it gets. This guide walks you through exactly what to do, in the order you should do it.
+
+## How to Tell If You're a Victim
+
+Unemployment identity theft can show up in several ways. The most common warning signs are:
+
+- A **1099-G tax form** arrives in January or February reporting unemployment benefits you never collected.
+- Your **current employer tells you** they received a notice asking them to verify a claim you supposedly filed.
+- You receive a **debit card, paper check, or direct-deposit notification** for benefits you didn't apply for.
+- A **denial letter** arrives saying your unemployment claim was rejected — even though you never filed one.
+- The **state unemployment portal** locks you out, citing duplicate accounts or suspicious activity.
+- The IRS sends you a notice about **unreported income** that turns out to be fraudulent unemployment payments.
+
+Any one of these is enough to act on. You do not need to wait for "proof." Reporting early protects you even if it turns out to be a false alarm.
+
+## Step 1: Report the Fraud to Your State Unemployment Agency
+
+This is the single most important step, and it must come first. Each state has a dedicated unemployment fraud reporting channel — usually a web form, a hotline, or both.
+
+To find yours, search "[your state] unemployment fraud report" or visit the U.S. Department of Labor's **DOL.gov/fraud** page, which links to every state's reporting portal. The state agency is the only entity that can actually freeze the fraudulent claim, stop further payments, and start cleaning up the record.
+
+When you report, be ready to provide:
+
+- Your full legal name and Social Security number
+- Your date of birth and current address
+- The name of any employer you've worked for in the last 18 months
+- Any documents the fraudster sent you — debit card numbers, claim ID numbers, dates on letters
+
+**Save a confirmation number or screenshot of your fraud report.** You will need it later when you correct your taxes, dispute credit issues, or talk to creditors. Many states will also send a written acknowledgment within a few weeks. Keep it.
+
+### Don't Cash the Card or Check
+
+If a debit card or check arrives in your name, do not activate it, cash it, or spend it. Even if you suspect the funds are "yours" because the criminal used your identity, the money belongs to the state — and using it can convert you from a victim into a defendant. Mail the card back to the state agency or destroy it, then note the action in your fraud report.
+
+## Step 2: Notify Your Employer (If You're Still Working)
+
+If you're employed, your HR department probably already knows something is off. Employers are required to verify unemployment claims, and most have seen fraudulent ones before. Tell them:
+
+- You did not file the claim.
+- You have already reported the fraud to the state.
+- You'd like a copy of the notice or any documents they received.
+
+Your employer can refuse to verify the claim, which often kills the fraud before any benefits are paid out. They may also need to issue a corrected statement to the state. If your employer suggests that *you* must have filed it, calmly explain that this is identity theft and ask them to put their concerns in writing — that paper trail can matter later if there's a dispute about your job status.
+
+## Step 3: File an Identity Theft Report With the FTC
+
+Even if the only thing the criminal did was file a fake unemployment claim, treat this as a **full identity theft event**. The fraudster has your Social Security number, your date of birth, and likely more. They will not stop with one claim.
+
+Go to **IdentityTheft.gov**, the Federal Trade Commission's official identity theft recovery site. You'll create a personalized recovery plan and download an **FTC Identity Theft Report**, which serves as legal proof of identity theft. Many banks, credit bureaus, and debt collectors require this document before they'll act on your behalf.
+
+The FTC report is free, takes about 20 minutes, and creates a record you can use for years if more fraud surfaces.
+
+## Step 4: Place a Fraud Alert and Consider a Credit Freeze
+
+Contact one of the three major credit bureaus — **Equifax, Experian, or TransUnion** — and request a **fraud alert** on your credit file. By law, that bureau must notify the other two, so a single call covers all three. A fraud alert is free, lasts one year, and forces lenders to verify your identity before opening new accounts.
+
+For stronger protection, place a **credit freeze** at each of the three bureaus separately. A freeze blocks new credit accounts entirely until you lift it. Both fraud alerts and freezes are now free under federal law, and they don't hurt your credit score.
+
+If you haven't done it before, this is also a good moment to:
+
+- Pull your **free credit reports** at AnnualCreditReport.com and look for accounts you don't recognize.
+- Sign up for **free credit monitoring** through your bank, credit union, or a service like Credit Karma.
+- Change passwords on your bank, email, and any accounts that share login info.
+
+## Step 5: File a Police Report
+
+A local police report won't lead to arrests in most unemployment fraud cases — these schemes are usually run by organized rings overseas. But the report itself is valuable. Some banks, employers, and creditors require it. It's also one of the documents that can support a dispute if a debt collector ever contacts you about the fraudulent benefits.
+
+When you go, bring your FTC Identity Theft Report, the fraud confirmation from your state, and any letters or cards you received. Ask for a case number and a copy of the report.
+
+## Step 6: Fix the Tax Problem
+
+This is the step most victims forget — and it's the one that follows you for years if you skip it.
+
+If a fraudulent claim was paid out, the state will report that "income" to the IRS on a **Form 1099-G**. The IRS will treat it as taxable income unless you correct the record.
+
+What to do:
+
+1. **Contact the state unemployment agency** and request a corrected 1099-G showing $0 in benefits. They are required to issue one.
+2. **Do not include the fraudulent amount on your tax return**, even if a 1099-G was issued. The IRS has explicit guidance on this in **IRS Identity Theft Information for Taxpayers**.
+3. If you've already filed and reported the bogus income, **file an amended return (Form 1040-X)** once the corrected 1099-G arrives.
+4. If the IRS sends a notice about unreported income, respond with copies of your fraud reports and the corrected 1099-G.
+
+You will not owe taxes on money you never received — but only if you take these steps. Ignoring the 1099-G can trigger collection actions years later.
+
+## Step 7: Watch for Follow-On Fraud
+
+Unemployment identity theft is rarely an isolated event. The same data can be used to:
+
+- Open credit cards, payday loans, or auto loans
+- File fraudulent tax returns to steal your refund
+- Apply for federal benefits like SNAP or disability
+- Take over your existing bank or brokerage accounts
+
+Keep your fraud alert active, check your credit reports every few months, and request an **IRS Identity Protection PIN (IP PIN)** at IRS.gov. The IP PIN is a six-digit code that blocks anyone else from filing a tax return with your Social Security number.
+
+## What If You're Wrongly Accused of Fraud?
+
+Sometimes the situation flips. The state may send *you* an overpayment notice claiming you collected benefits you weren't entitled to — when in reality, a criminal collected them in your name. Treat this exactly like a fraud case:
+
+- Respond in writing within the deadline on the notice.
+- Include copies of every fraud report you've filed.
+- Request an appeal hearing if the agency does not withdraw the overpayment.
+- Do not pay the bill while the appeal is pending.
+
+If the agency refuses to recognize you as a fraud victim, this is the moment to talk to an employment or consumer-rights attorney. Wage garnishment and tax-refund interception are real risks if a bogus overpayment is left unchallenged.
+
+## How BenefitsPath Can Help
+
+Unemployment identity theft is overwhelming because it hits several systems at once — your state agency, the IRS, the credit bureaus, your employer, and sometimes debt collectors. You don't have to figure it all out alone.
+
+**Use our free eligibility tool** to understand what a real unemployment claim looks like in your state — including what notices you should receive and what you shouldn't. Knowing the legitimate process makes it much easier to spot a fraudulent one.
+
+**If your state agency is treating you as the wrongdoer**, sending you overpayment notices, or refusing to remove fraudulent claims from your record, our attorney directory connects you with employment lawyers who handle unemployment fraud disputes and identity theft appeals. Many offer free consultations.
+
+**Read our related guides** on what to do if you receive an unemployment overpayment notice, how to appeal an unemployment denial, and what to do if your employer contests your claim.
+
+Identity theft is not your fault — but cleaning it up is your responsibility. The faster you act, the less damage it does. BenefitsPath is here to make sure you know every step.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
