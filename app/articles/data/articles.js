@@ -2268,6 +2268,150 @@ Unemployment identity theft is overwhelming because it hits several systems at o
 Identity theft is not your fault — but cleaning it up is your responsibility. The faster you act, the less damage it does. BenefitsPath is here to make sure you know every step.
     `.trim(),
   },
+  {
+    slug: 'fired-for-misconduct-can-you-collect-unemployment-2026',
+    title: 'Fired for Misconduct: Can You Still Collect Unemployment in 2026?',
+    description: 'Fired and told you don’t qualify for unemployment? Learn how states define misconduct, what disqualifies you, and how to win an appeal in 2026.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-04-30',
+    updatedAt: '2026-04-30',
+    category: 'Unemployment Eligibility',
+    tags: ['fired for misconduct', 'unemployment eligibility', 'unemployment denial', 'employment law', 'unemployment appeal', 'gross misconduct'],
+    readTime: '11 min read',
+    content: `
+## Being Fired Doesn't Always Mean You Lose Your Benefits
+
+Getting fired is stressful enough without your former employer telling the unemployment agency that you don't deserve benefits. If you've been let go and are worried that the word "misconduct" on a separation form will block your claim, here's the most important thing to know first: **being fired is not an automatic disqualification for unemployment**.
+
+In every state, unemployment benefits are designed for workers who lose their jobs through no real fault of their own. The legal question is not whether your employer was unhappy with you. It is whether your conduct rises to the specific level the state calls **misconduct** — and that bar is much higher than most people realize.
+
+This guide explains how misconduct is defined, what behavior actually disqualifies you, what does not, and what to do if your claim gets denied.
+
+## What "Misconduct" Means in Unemployment Law
+
+Misconduct is a legal term, not an everyday one. State unemployment agencies use it to describe a narrow category of employee behavior that is serious enough to forfeit benefits.
+
+While definitions vary slightly by state, most follow the same general rule. To qualify as misconduct, your conduct usually must be all three of these things:
+
+- **Willful or intentional** — you knew what you were doing
+- **A material breach** of a duty you owed your employer
+- **Either harmful or showing a pattern of disregard** for your employer's interests
+
+The classic legal definition, used in many states, comes from a 1941 Wisconsin case (*Boynton Cab Co. v. Neubeck*) and describes misconduct as a "deliberate violation or disregard of standards of behavior which the employer has the right to expect." That phrase still drives modern decisions.
+
+The key word in every state's definition is **deliberate**. Mistakes, bad judgment, slow learning, and poor performance are not deliberate. They are human. And they generally do not bar you from benefits.
+
+## What Counts as Disqualifying Misconduct
+
+State agencies and unemployment judges have decided thousands of cases over the years. The behavior that consistently leads to a misconduct denial includes:
+
+### Theft, Fraud, or Dishonesty
+
+Stealing money, products, time, or data from your employer is almost always disqualifying. So is falsifying timecards, expense reports, sales records, or qualifications on a job application.
+
+### Workplace Violence or Threats
+
+Hitting a coworker, threatening physical harm, or creating a hostile environment with violent language will generally disqualify you.
+
+### Drug or Alcohol Use That Violates Policy
+
+Showing up impaired, failing a properly administered drug test under a lawful policy, or drinking on the job typically counts as misconduct — especially in safety-sensitive roles.
+
+### Insubordination
+
+Refusing a clear, reasonable directive from a supervisor, when you understood the order and had no legitimate reason to refuse, is often considered misconduct.
+
+### Repeated Policy Violations After Warnings
+
+A single mistake usually is not enough. But if you broke the same rule multiple times after written warnings, the agency may treat that pattern as a willful disregard of expectations.
+
+### No-Call, No-Show
+
+Walking off the job or missing several shifts without contacting your employer is treated as voluntary abandonment in many states — closer to quitting than firing, but disqualifying either way.
+
+## What Does NOT Count as Misconduct
+
+This is where most denials get reversed on appeal. Many things that feel like "I got fired for cause" are not misconduct in the legal sense.
+
+**Poor job performance** is not misconduct. If you tried your best, learned slowly, made honest mistakes, or simply weren't a good fit, that is a performance issue — not a deliberate violation. You should still qualify for benefits.
+
+**A single isolated mistake**, even an expensive one, is rarely misconduct. Courts have held that one error in judgment, without a pattern, generally does not meet the legal standard.
+
+**Inability due to illness, disability, or family emergency** is not misconduct. Missing work because you were sick, hospitalized, or caring for a family member is not deliberate behavior.
+
+**A personality conflict with a manager** is not misconduct, even if it led to your firing.
+
+**Refusing an unsafe or illegal task** is not misconduct. In fact, retaliation for refusing illegal work can give rise to a separate wrongful termination claim.
+
+**Being part of a layoff or position elimination** is never misconduct, even if your former employer marks the separation form ambiguously.
+
+## Why Employers Sometimes Claim Misconduct Anyway
+
+Here is something the agency will not always tell you: employers have a financial reason to allege misconduct. When a former employee collects unemployment, the employer's state unemployment insurance tax rate can go up. Contesting your claim and labeling the firing as "misconduct" is one way employers try to keep their costs down.
+
+That does not mean every contest is in bad faith. But it does mean that when an employer's misconduct claim is shaky, you should not assume they are right just because they sound official. The agency makes the final decision, and you have the right to push back.
+
+If your employer is contesting your claim, our companion guide on **what to do if your employer contests your unemployment claim** walks through how to respond.
+
+## Gross Misconduct vs. Ordinary Misconduct
+
+Several states divide the term into two tiers, and the difference is significant.
+
+**Ordinary misconduct** typically results in a temporary disqualification — maybe a few weeks of waiting before you can collect, or a benefit reduction. **Gross misconduct** — things like serious crimes, violence, or major theft — can disqualify you from benefits for the entire benefit year and can sometimes wipe out wage credits you earned at that employer.
+
+If you receive a denial that mentions "gross misconduct," read it carefully. The standard is supposed to be high, and these denials are frequently overturned when the conduct is actually ordinary.
+
+## What Happens After You File
+
+When you file for unemployment after being fired, here is roughly what to expect:
+
+1. You file your initial claim and report that you were discharged.
+2. The agency contacts your former employer, who responds with their version of events.
+3. Either side may be asked for additional documentation.
+4. The agency issues a written **determination** — either approving or denying benefits.
+5. If you are denied, you have the right to appeal, usually within **10 to 30 days** depending on your state.
+
+Do not skip step five. Initial determinations are made by examiners reviewing paperwork, often quickly. A real hearing in front of an administrative law judge is where many denials get reversed.
+
+## How to Win a Misconduct Appeal
+
+Appeals are not about retelling your side emotionally. They are about evidence and the legal definition of misconduct. To strengthen your case:
+
+**Get the file.** Request a copy of everything your employer submitted to the agency. You need to know exactly what they alleged so you can respond to it.
+
+**Show that the conduct was not deliberate.** If you missed a shift because you were in the ER, bring discharge papers. If you broke a rule you didn't know about, point to the lack of training or written policy.
+
+**Show pattern, or lack of one.** A single mistake is not misconduct. If your firing was based on one event, emphasize your prior clean record. Bring positive performance reviews if you have them.
+
+**Bring witnesses if you can.** Coworkers who saw what happened, or who can speak to your normal conduct, can be powerful at a hearing.
+
+**Be respectful and factual.** Judges decide credibility quickly. Stick to what you saw, did, and were told. Avoid speculating about your employer's motives unless you have evidence.
+
+Many appeals are won by claimants without lawyers. But for higher-stakes cases — especially gross misconduct allegations or large potential benefit amounts — working with an employment attorney can substantially improve your odds.
+
+## Federal Disqualifying Acts
+
+In addition to state law, federal rules disqualify benefits in certain situations regardless of what your state says. These include unemployment that results from a labor strike (in most cases), and benefits that overlap with disqualifying severance arrangements in some states. They are narrow but worth knowing about.
+
+## Special Situations Worth Knowing
+
+**Fired during a probationary period.** Probation has no special legal status for unemployment. The same misconduct standard applies whether you worked one week or twenty years.
+
+**Fired for off-duty conduct.** If your firing was for something you did outside of work — a social media post, a personal arrest, etc. — the analysis gets more complicated. Many states require a clear connection between the off-duty conduct and your job.
+
+**Fired and offered to resign instead.** If your employer pushed you to "resign" to avoid being fired, the agency typically still treats this as a discharge. Don't let the wording on a paper trick you out of your benefits.
+
+## How BenefitsPath Can Help
+
+If you've been fired and you're not sure whether you qualify for unemployment, you don't have to guess.
+
+**Start with our free eligibility tool.** It walks through your state's specific rules and tells you what to expect from a misconduct claim where you live. If your claim has already been denied, the tool can also point you to the appeal process and deadlines that apply to you.
+
+**If your employer is contesting your claim or you've received a misconduct denial**, our attorney directory connects you with employment lawyers in your state who handle unemployment appeals. Many offer free consultations and only get paid if they help you recover benefits.
+
+The legal standard for misconduct is much narrower than employers often suggest. Don't accept a denial at face value — understand the rules, gather your evidence, and exercise your right to appeal. BenefitsPath is here to help you do exactly that.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {

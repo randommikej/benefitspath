@@ -36,6 +36,7 @@ const articleSlugs = [
   'working-part-time-while-on-unemployment-2026',
   'cobra-health-insurance-after-job-loss-2026-guide',
   'unemployment-identity-theft-fraudulent-claim-what-to-do',
+  'fired-for-misconduct-can-you-collect-unemployment-2026',
 ]
 
 export default function sitemap() {
