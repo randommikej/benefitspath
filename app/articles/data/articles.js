@@ -4,6 +4,169 @@
 
 export const articles = [
   {
+    slug: 'what-is-warn-act-mass-layoff-notification-rights-2026',
+    title: 'What Is the WARN Act? Mass Layoff Notification Rights for Workers in 2026',
+    description: 'Did your employer skip the 60-day layoff notice? Learn how the WARN Act protects workers, what damages you can recover, and when state mini-WARN laws apply.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-01',
+    updatedAt: '2026-05-01',
+    category: 'Employment Law',
+    tags: ['WARN Act', 'mass layoffs', 'plant closing', 'layoff notice', 'workers rights', 'employment law'],
+    readTime: '12 min read',
+    content: `
+## When a Sudden Layoff May Be Illegal
+
+You showed up to work expecting a normal day. By lunchtime, you were told your position was eliminated, effective immediately. No warning. No notice. No time to plan.
+
+For workers in the United States, that scenario is not just demoralizing — it may also be illegal. A 1988 federal law called the **Worker Adjustment and Retraining Notification Act**, better known as the **WARN Act**, requires many large employers to give workers at least **60 days of advance written notice** before a mass layoff or plant closing.
+
+If your employer failed to provide that notice — and the WARN Act applied to your situation — you may be entitled to back pay, benefits, and other damages. This guide explains how the WARN Act works, who is covered, what counts as a violation, and how to figure out whether you have a claim.
+
+## What the WARN Act Requires
+
+The WARN Act is a federal law administered by the U.S. Department of Labor. At its core, it requires covered employers to provide written notice of certain large-scale job losses **60 calendar days before** the layoff takes effect.
+
+Notice must go to:
+
+- Each affected employee (or, if the workers are unionized, to their union representative)
+- The state's designated **dislocated worker unit** (often part of the state labor or workforce agency)
+- The chief elected official of the local government where the layoffs will occur
+
+The notice itself must be specific. It generally has to include the expected date of the layoff, whether the action is permanent or temporary, the name and contact information for a company official who can answer questions, and information about bumping rights if any exist.
+
+A vague all-hands meeting or a verbal announcement is not enough. The WARN Act requires written notice, and courts have repeatedly held employers liable when their communication fell short of that standard.
+
+## Which Employers Are Covered
+
+Not every employer is subject to the WARN Act. The federal law applies to businesses with **100 or more full-time employees**, or 100 or more employees who together work at least 4,000 hours per week (excluding overtime).
+
+Smaller employers are not covered by federal WARN — but they may still be covered by a **state mini-WARN law** with lower thresholds, which we will get to below.
+
+The WARN Act covers private, for-profit and most non-profit employers. Federal, state, and local government employers are generally exempt.
+
+## What Counts as a Triggering Event
+
+The WARN Act is not triggered by every layoff. It applies in three specific situations.
+
+### Plant Closing
+
+A plant closing under the WARN Act is the **permanent or temporary shutdown of a single site of employment**, or one or more facilities or operating units within a site, that results in employment loss for **50 or more full-time employees** during any 30-day period.
+
+"Site of employment" is interpreted broadly. It can mean an entire campus, a single building, or even a group of buildings that form a connected operation. Closing one floor of a multi-floor office can count if 50 or more workers lose their jobs as a result.
+
+### Mass Layoff
+
+A mass layoff is a reduction in force that is not a plant closing but still results in significant job losses at a single site of employment. It applies when, in a 30-day period, the layoffs affect either:
+
+- **At least 500 full-time employees**, or
+- **At least 50 full-time employees, if those employees make up at least 33% of the active workforce** at that site
+
+The 33% rule is what catches many smaller offices. A 600-person office can lose 50 workers without triggering WARN, but a 130-person office that loses the same 50 workers almost certainly does trigger it.
+
+### Sale of a Business
+
+When a business is sold, the seller is responsible for WARN notice for any employment losses that occur up through the date of sale. After the sale, the buyer takes over WARN obligations. Employees of the sold business who are kept on by the buyer are generally not considered to have suffered an employment loss.
+
+## What Counts as Employment Loss
+
+The WARN Act defines employment loss in three ways: a permanent termination (other than a discharge for cause, voluntary departure, or retirement), a layoff exceeding six months, or a reduction in hours of more than 50% in each month of any six-month period.
+
+This last category is sometimes overlooked. If your employer cut your hours dramatically over a sustained period — even without formally laying you off — it may count as employment loss for WARN purposes.
+
+Workers who voluntarily resign, are fired for cause, or retire on their own are not counted. Temporary or seasonal workers hired for a finite project, and workers on strike, are also generally excluded.
+
+## The 60-Day Notice Period
+
+The notice clock starts the day each affected employee receives written notice and runs through the date of the actual layoff. The 60 days are calendar days, not working days, which means weekends and holidays count.
+
+Notices delivered by personal handout or first-class mail are typical. Email is permissible if the employer can verify receipt. A bulletin board posting is **not** sufficient as the sole means of notice.
+
+Employers must update affected workers if there is any material change to the layoff plan. Pulling notice forward by even a few days can give rise to a violation if the employer does not provide updated information promptly.
+
+## Exceptions to the 60-Day Rule
+
+The WARN Act recognizes three narrow exceptions that can reduce the notice period — but never eliminate it entirely.
+
+### Faltering Company
+
+A struggling business that was actively seeking capital or new business at the time it would otherwise have given notice may give shorter notice if the company had a realistic chance of staying open and providing notice would have prevented it from securing the lifeline. This exception is narrow and applies only to plant closings, not mass layoffs.
+
+### Unforeseeable Business Circumstances
+
+Sudden, dramatic, and unexpected events — like the loss of a major customer, a sudden government shutdown of an industry, or an unforeseen catastrophe — can excuse the full 60 days if they were not reasonably foreseeable when notice would otherwise have been given.
+
+Note that "the economy got worse" is generally not enough. Courts have repeatedly held that ordinary business risks like recession, declining sales, or losing a contract do not qualify as unforeseeable.
+
+### Natural Disaster
+
+Flood, earthquake, hurricane, drought, storm, and similar natural disasters that directly cause the closing or layoff can excuse advance notice. The disaster has to be a **direct cause** — not a downstream consequence.
+
+Even when one of these exceptions applies, the employer is still required to **give as much notice as is practicable** and to include a statement explaining why advance notice was not feasible.
+
+## What Damages You Can Recover
+
+If your employer violated the WARN Act, the law gives you the right to recover:
+
+- **Back pay** for each day of the violation, up to a maximum of 60 days
+- **The value of any benefits**, including the cost of any medical expenses you incurred that would have been covered by the employer's health plan
+- **Civil penalties** of up to $500 per day to the local government if it was not properly notified, with the penalty reducing if the employer pays affected workers within three weeks
+
+Your back pay is calculated based on your average regular rate of compensation during your last three years of employment, or your final regular rate, whichever is higher. The recovery is reduced by any wages you were paid by the employer during the violation period, any voluntary and unconditional payments not required by law, and any contributions to employee benefits.
+
+Attorney's fees may also be recoverable, which is one reason employment lawyers will often take WARN cases on contingency.
+
+## State Mini-WARN Laws
+
+Several states have their own versions of the WARN Act, often with lower coverage thresholds and longer notice periods. These state laws can apply where federal WARN does not.
+
+The patchwork of state laws includes some notably stricter regimes. **California** requires notice for layoffs of 50 or more employees regardless of percentage and applies to employers with as few as 75 employees. **New York** requires 90 days of notice (not 60) and applies to employers with 50 or more full-time employees. **New Jersey** requires 90 days of notice plus mandatory severance pay of one week per year of service for covered layoffs. **Illinois** has a 75-employee threshold and a 60-day notice requirement. Several other states — including Maine, Iowa, Tennessee, and Wisconsin — have their own variations.
+
+If you live in a state with a mini-WARN law, you may have rights even when the federal law does not apply. Always check both.
+
+## Common Employer Defenses
+
+When a worker brings a WARN claim, employers commonly raise several defenses worth knowing about.
+
+The first is the **good faith defense**, which can reduce a court-ordered award if the employer can show its violation was made in good faith and that it had reasonable grounds for believing it was complying with the law. This defense rarely eliminates liability altogether, but it can shrink it.
+
+The second is contesting whether a triggering event actually occurred — for example, arguing that the layoffs were spread across multiple sites of employment, or that the 30-day window did not capture enough employees, or that the workforce at the affected site was below the threshold.
+
+The third is one of the statutory exceptions discussed above, particularly the unforeseeable business circumstances exception.
+
+These defenses often succeed at the margins but rarely defeat clear-cut cases. If the employer simply did not give 60 days of written notice for a clearly covered event, recovery is usually available.
+
+## How to Tell If You Have a Claim
+
+If you were laid off recently and you suspect your employer violated the WARN Act, work through these questions.
+
+First, did your employer have at least 100 full-time employees, or workers totaling at least 4,000 hours of work per week? If yes, federal WARN may apply. If no, check whether a state mini-WARN law covers your employer.
+
+Second, was your layoff part of a larger event affecting either 50+ workers (33%+ of the workforce) or 500+ workers at a single site of employment over a 30-day period? Or was it a complete shutdown of a site or unit affecting 50+ workers?
+
+Third, did you receive written notice at least 60 days (or, in some states, 90 days) before the layoff date? A vague meeting or a verbal warning is not the same thing as written notice.
+
+If you answered "yes" to the first two questions and "no" to the third, there is a meaningful chance you have a WARN claim.
+
+## How to Take Action
+
+WARN Act claims are filed in federal district court. There is no requirement to file with a federal agency first, which makes the process more direct than some other employment law claims — but the **statute of limitations varies by state**, often two to six years, so timing matters.
+
+Many WARN cases are filed as class actions on behalf of all the affected workers, which can dramatically reduce per-worker legal cost. If 200 of your former coworkers were laid off without notice, the path to recovery often starts with a single attorney filing on behalf of the entire group.
+
+While you build a WARN case, you should still file for unemployment immediately. WARN damages and unemployment benefits are separate, and pursuing one does not affect the other.
+
+## How BenefitsPath Can Help
+
+If you were caught off guard by a sudden layoff, you don't have to figure this out alone.
+
+**Start with our free eligibility tool.** It takes a few minutes and tells you what unemployment benefits you qualify for in your state, including any extra benefits triggered by mass layoffs in your area.
+
+**If you suspect a WARN Act violation**, our attorney directory connects you with employment lawyers who handle layoff cases in your state. Most offer free initial consultations, and many take WARN cases on contingency — meaning no upfront cost to you. Time-limited statutes of limitations make this one of the situations where moving quickly really matters.
+
+A sudden layoff is one of the hardest things a worker can face. The WARN Act exists because Congress recognized that workers and communities need time to plan when major job losses are coming. If your employer denied you that time, you have rights — and BenefitsPath is here to help you exercise them.
+    `.trim(),
+  },
+  {
     slug: 'what-is-wrongful-termination-your-legal-rights-explained',
     title: 'What Is Wrongful Termination? Your Legal Rights Explained',
     description: 'Fired and think it was illegal? Learn what wrongful termination means, common examples, how to prove it, and what steps to take to protect your rights.',
