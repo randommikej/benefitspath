@@ -2575,6 +2575,189 @@ If you've been fired and you're not sure whether you qualify for unemployment, y
 The legal standard for misconduct is much narrower than employers often suggest. Don't accept a denial at face value — understand the rules, gather your evidence, and exercise your right to appeal. BenefitsPath is here to help you do exactly that.
     `.trim(),
   },
+  {
+    slug: 'how-to-file-unemployment-pennsylvania-2026-guide',
+    title: 'How to File for Unemployment in Pennsylvania: 2026 Step-by-Step Guide',
+    description: 'Lost your job in Pennsylvania? Learn exactly how to file a UC claim, what documents you need, how much you can receive, and how to avoid common mistakes.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-03',
+    updatedAt: '2026-05-03',
+    category: 'State Guides',
+    tags: ['pennsylvania unemployment', 'PA UC', 'file for unemployment', 'unemployment compensation', 'state guides', 'unemployment benefits'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in Pennsylvania: What You Need to Know
+
+A job loss in Pennsylvania is hard enough without trying to figure out a complicated benefits system on your own. Pennsylvania's unemployment program — formally known as **Unemployment Compensation (UC)** — is run by the **Department of Labor & Industry's Office of Unemployment Compensation**. If you qualify, it can replace a meaningful chunk of your lost wages while you look for new work.
+
+This guide walks through every step of filing for UC in Pennsylvania in 2026, from confirming eligibility to certifying for biweekly payments. It's written for real people facing a real income gap, not for HR professionals or tax accountants.
+
+## Before You File: Do You Qualify?
+
+Pennsylvania's eligibility rules combine federal standards with some state-specific quirks. Understanding them up front helps you avoid surprises later.
+
+### The Basic Requirements
+
+To receive UC benefits in Pennsylvania, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** Layoffs, position eliminations, business closures, and reductions in hours typically qualify. Quitting voluntarily or being fired for willful misconduct usually does not — though there are exceptions.
+- **You earned enough wages during your base period.** Your base period is the first four of the last five completed calendar quarters before you filed. Pennsylvania also offers an alternative base period using the most recent four completed quarters, which can help workers who don't qualify under the standard one.
+- **You have enough credit weeks.** You need at least **18 credit weeks** in your base period — weeks where you earned at least the state minimum threshold (around $116 per week in recent years).
+- **You are able and available for work** and actively looking for new employment.
+- **You are authorized to work in the United States.**
+
+If you were fired for misconduct, voluntarily quit without good cause, or are unable to work because of illness, the Office of UC may deny your claim. Some of those situations have separate programs — for example, Workers' Compensation for on-the-job injuries.
+
+### What Counts as "Good Cause" to Quit
+
+Pennsylvania allows UC for voluntary quits in narrower circumstances than some states, but it's not impossible. You may still qualify if you quit because of:
+
+- A substantial unilateral change in your wages, hours, or duties
+- Unsafe working conditions the employer refused to fix
+- Harassment, discrimination, or retaliation
+- A serious health issue that made continued work impossible
+- A compelling family reason, including domestic violence or following a spouse for a mandatory job relocation
+
+Every case is fact-specific. If your reason for leaving is in a gray area, it's usually worth filing and letting the Office of UC make the call.
+
+## What Documents and Information to Gather
+
+Having everything ready before you start the application makes the process much faster. You will need:
+
+- Your Social Security number
+- A valid Pennsylvania driver's license or PennDOT ID number
+- The names, addresses, and phone numbers of all employers you worked for in the last 18 months, plus your start and end dates with each
+- The reason you are no longer working with each employer
+- Your most recent pay stubs or W-2 forms
+- Your bank account and routing numbers if you want direct deposit
+- For non-citizens: your Alien Registration Number or work authorization document
+- If you served in the military in the last 18 months: your DD-214
+- If you worked for the federal government: your SF-8 or SF-50
+
+If your separation involved severance, vacation payouts, or a buyout, have those documents ready too — they can affect your eligibility and weekly amount.
+
+## How to File Your Pennsylvania UC Claim
+
+There are two main ways to file a new UC claim in Pennsylvania. Online is fastest and recommended.
+
+### Option 1: File Online at uc.pa.gov
+
+This is the primary method. The steps look like this:
+
+1. Go to **uc.pa.gov** and select **File for Benefits**.
+2. Create a Keystone ID account if you don't already have one. This single login covers UC, PA CareerLink, and other state workforce services.
+3. Once logged in, click the link to file a new claim.
+4. Complete the application carefully. Take your time — rushed applications often have errors that delay payment for weeks.
+5. Review and submit.
+
+After submission, you will see a confirmation screen with a claim confirmation number. Save it.
+
+### Option 2: File by Phone (PA Teleclaims)
+
+You can file by calling the **PA Teleclaims (PAT) line at 1-888-313-7284**. This is useful if you don't have internet access, prefer to speak with a representative, or need help in a language other than English. Be prepared for long waits, especially Monday mornings and during periods of high unemployment.
+
+You can also call the UC service center at **1-888-313-7284** for help with technical issues, eligibility questions, or filing problems.
+
+## What Happens After You File
+
+Filing is just the first step. Here's what to expect next.
+
+### The Waiting Week
+
+Pennsylvania has a **one-week unpaid waiting period** before benefits begin. You still have to file biweekly claims during your waiting week — you just won't receive payment for it. This is different from some states (like California) that have eliminated the waiting week.
+
+### Your Financial Determination
+
+Within about 10 to 15 days of filing, you'll receive a **Notice of Financial Determination**. This document explains:
+
+- Your weekly benefit rate
+- Your maximum benefit amount (total you can receive during the benefit year)
+- Your base period wages by quarter
+- Your credit weeks count
+- The dependents allowance, if any
+
+If the numbers look wrong — for example, if wages from a recent employer are missing — you have **15 days from the mailing date** to request a wage correction. Keep pay stubs, W-2s, or 1099s on hand to support any dispute.
+
+### Eligibility Interview
+
+In some cases, the Office of UC will schedule a phone interview to clarify the circumstances of your job loss. This is routine and not a sign you've done anything wrong. Common triggers include:
+
+- Your employer reported you quit or were fired for misconduct
+- Questions about your availability for work
+- A gap or conflict in your earnings record
+
+When you receive a scheduled interview notice, **mark the date and answer the phone**. Missing a UC interview is one of the most common reasons claims are denied.
+
+## How Much You Can Receive
+
+In 2026, Pennsylvania weekly UC benefits range from a minimum of about **$68** to a maximum of around **$605** per week, with potential **dependents allowances** of $5 for a spouse and $3 for one child (capped at one or the other plus one dependent). Your weekly benefit rate is calculated based on the highest quarter of wages in your base period.
+
+Most claimants receive benefits for up to **26 weeks** during a one-year benefit year. In times of high statewide unemployment, federally funded extended benefits may be triggered, but those programs depend on national and state economic conditions and are not always available.
+
+Pennsylvania UC benefits are **taxable at the federal level**, and you can elect to have 10 percent withheld for federal taxes when you file. Pennsylvania state and local income taxes generally do not apply to UC benefits — one of the rare cases where Pennsylvania law is more favorable than the federal rule.
+
+## Filing Biweekly Claims
+
+Filing your initial application is not the end of the process. To keep receiving payments, you must **file a biweekly claim every two weeks**. The Office of UC's system tracks your filing schedule, and missing a window can delay or stop your payments.
+
+When you file biweekly, you'll be asked:
+
+- Were you physically able and available for work each day?
+- Did you complete your work search activities?
+- Did you refuse any offer of work?
+- Did you work or earn money? If yes, how much?
+- Did you receive any vacation, severance, or pension pay?
+
+**Answer truthfully.** Pennsylvania cross-checks claim answers against employer wage reports, IRS data, and the National Directory of New Hires. Inaccurate answers can result in overpayments, penalties, and even fraud charges. If you worked a few hours or did some gig work, report the earnings — Pennsylvania allows partial benefits when your earnings are below a certain threshold.
+
+## Work Search Requirements
+
+Pennsylvania requires most claimants to actively look for work each week and document their efforts. The standard rule:
+
+- **Apply for at least two jobs** each week
+- **Complete one additional work search activity** each week (such as attending a job fair, completing a training course, posting a resume, or meeting with a PA CareerLink counselor)
+- **Register with PA CareerLink** within 30 days of filing your initial claim
+
+Your work search log should include the date of each contact, the employer's name and address, the position applied for, how you applied, and any response you received.
+
+The Office of UC can audit your records at any time — and weak documentation is a common cause of avoidable denials.
+
+## Common Mistakes to Avoid
+
+Even careful claimants run into trouble. Watch out for these:
+
+- **Misreporting the reason you separated.** If you describe a quit as a layoff, the employer's response will reveal the discrepancy and may trigger a fraud finding.
+- **Skipping the waiting week claim.** You still have to file for the unpaid waiting week to get credit for it.
+- **Forgetting to register with PA CareerLink.** Failing to do so within 30 days can suspend your benefits.
+- **Underreporting earnings.** Any money earned during a claim week must be reported, including from side gigs, freelance work, or temporary assignments.
+- **Ignoring UC mail.** Critical letters — about appeals deadlines, eligibility interviews, and overpayments — arrive by physical mail.
+- **Letting an appeal deadline slip.** You generally have **15 days** from the mailing date to appeal an unfavorable determination. That is one of the shortest deadlines in the country.
+
+## If Your Claim Is Denied
+
+A denial isn't the end of the road. Pennsylvania has a layered appeal system.
+
+**The first level** is a hearing before a UC Referee. You can submit documents, bring witnesses, and testify under oath. Hearings are usually held by phone, though in-person hearings may be available in some cases.
+
+**The second level** is the **UC Board of Review**, which considers appeals from Referee decisions based on the existing hearing record. You generally cannot introduce new evidence at this stage.
+
+**The third level** is the **Commonwealth Court of Pennsylvania**, which reviews Board decisions for legal error.
+
+You can represent yourself at any stage, but Pennsylvania UC appeals often turn on technical legal issues — what counts as "willful misconduct," what qualifies as "necessitous and compelling" cause to quit, how earnings should be apportioned. Hiring or consulting an employment attorney can make a meaningful difference, especially at the Referee hearing where the factual record is built.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in Pennsylvania is doable, but the stakes are high when you're counting on every dollar to cover rent, groceries, and bills.
+
+**Start with our free eligibility tool.** It walks through your situation in a few minutes and tells you whether you likely qualify for Pennsylvania UC, how much you may receive, and what to watch out for in your specific case.
+
+**If your claim has been denied, your employer is contesting it, or you're preparing for a Referee hearing**, our attorney directory connects you with employment lawyers in Pennsylvania who handle unemployment cases. Many offer free initial consultations, so you can understand your options without committing to anything.
+
+**Explore our other guides** for help understanding what to do if your employer contests your claim, how to handle an overpayment notice, and how to navigate the appeals process step by step.
+
+Pennsylvania's UC system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {

@@ -38,6 +38,7 @@ const articleSlugs = [
   'cobra-health-insurance-after-job-loss-2026-guide',
   'unemployment-identity-theft-fraudulent-claim-what-to-do',
   'fired-for-misconduct-can-you-collect-unemployment-2026',
+  'how-to-file-unemployment-pennsylvania-2026-guide',
 ]
 
 export default function sitemap() {
