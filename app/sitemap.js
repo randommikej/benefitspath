@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'unemployment-work-search-requirements-2026',
   'what-is-warn-act-mass-layoff-notification-rights-2026',
   'how-to-appeal-unemployment-denial-2026-guide',
   'what-is-wrongful-termination-your-legal-rights-explained',

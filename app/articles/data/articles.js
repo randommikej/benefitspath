@@ -4,6 +4,138 @@
 
 export const articles = [
   {
+    slug: 'unemployment-work-search-requirements-2026',
+    title: 'Unemployment Work Search Requirements: How to Stay Eligible in 2026',
+    description: 'Most states require you to apply for jobs every week to keep collecting unemployment. Learn the rules, how to log your search, and how to avoid losing benefits.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-04',
+    updatedAt: '2026-05-04',
+    category: 'Unemployment Eligibility',
+    tags: ['work search', 'job search log', 'unemployment eligibility', 'weekly certification', 'unemployment requirements', 'workers rights'],
+    readTime: '11 min read',
+    content: `
+## Why Work Search Rules Matter More Than Most Claimants Realize
+
+When you file for unemployment, you sign a promise that goes beyond filling out a weekly form. In nearly every state, you also agree to be **able to work, available to work, and actively looking for work** during every week you collect benefits. That last piece — actively looking for work — is what state agencies call the **work search requirement**, and it is one of the most common reasons benefits get cut off in 2026.
+
+The pandemic-era waivers that paused work search rules in many states ended years ago. Today, almost every state checks whether claimants are looking for jobs each week, and many run random audits where you have to produce written proof. If you cannot show what you did, the state can deny that week's benefits, demand repayment of what it already paid you, and in some cases disqualify you going forward.
+
+This guide explains how work search requirements actually work in 2026: what counts as a job search activity, how many contacts you need, how to keep a clean log, and what to do if your benefits are denied for a work search problem.
+
+## What "Actively Seeking Work" Means
+
+Every state defines work search a little differently, but the core idea is the same. To stay eligible, you have to be **making real, documented efforts** to find suitable work — not just checking a job board once and calling it a day.
+
+Most states will accept activities like:
+
+- Submitting a job application online or in person
+- Sending a resume in response to a posted position
+- Interviewing for a job (phone, video, or in person)
+- Registering with a staffing agency or union hiring hall
+- Attending a hiring event, job fair, or recruiting session
+- Completing a job-search workshop run by your state's workforce agency
+- Posting your resume on a state job-bank site (often required)
+- Following up on a previous application with a hiring manager
+
+What generally does **not** count: scrolling LinkedIn without applying, reading career advice articles, asking a friend to "keep an eye out," or just opening your state's job portal without doing anything inside it.
+
+### The Suitable Work Standard
+
+You are expected to look for **suitable work**, which states usually define as a job that matches your training, prior wages, work history, and physical ability to perform. In your first weeks of unemployment, you can be picky and search only within your field. As your claim continues — typically after the first 4 to 13 weeks — most states expect you to broaden your search to jobs that pay less or sit slightly outside your usual experience. Refusing a clearly suitable job offer can disqualify you entirely.
+
+## How Many Job Searches You Need Each Week
+
+There is no single national number. Each state sets its own minimum, and the rules can change with the unemployment rate or new legislation.
+
+In 2026, most states require somewhere between **three and five work search activities per week**. A few examples of typical ranges (always confirm with your own state's current rules):
+
+- **Three contacts per week** is a common minimum in states with higher unemployment or more relaxed enforcement.
+- **Five contacts per week** is the more aggressive standard in many lower-unemployment states.
+- Some states require a mix — for example, two job applications **plus** one additional reemployment activity such as a workshop or resume review.
+
+The exact number, the type of activity that qualifies, and how it has to be documented are all listed in your state's claimant handbook. That handbook is the single most important document in your claim, and most claimants never read it. Find it on your state workforce agency's website and bookmark it.
+
+## How to Keep a Bulletproof Work Search Log
+
+The best way to protect your benefits is to write everything down the moment you do it. State agencies can audit your log months after the fact, and "I remember applying for something" is not going to win the argument.
+
+A solid weekly log entry should include:
+
+- The **date** of the contact
+- The **employer's name** and a current address or website
+- The **position** you applied for
+- The **method of contact** (online application, email, in person, phone call)
+- The **name of the person** you spoke with, if any
+- The **outcome**, if known (interview scheduled, no response, declined)
+
+A simple spreadsheet works perfectly. Some states give you a printable form; others have an online portal where you log searches as you go. Either way, save copies of the confirmation emails employers send when you apply. Those emails are gold during an audit.
+
+### How Long to Keep Your Records
+
+Most states require you to keep work search records for **at least one year** after your benefit year ends, and some require longer. Even after your claim closes, do not throw the log away. If the state later decides you were overpaid, those records may be the only evidence you have to defend yourself.
+
+## Weekly Certification: The Form Where Honesty Counts
+
+Each week (or every two weeks, in some states) you have to **certify** to keep getting paid. The certification form asks a series of yes/no questions. The work-search-related ones usually look something like this:
+
+- Were you able and available to work this week?
+- Did you look for work this week?
+- Did you turn down any work this week?
+- Did you earn any wages this week, even if you have not been paid yet?
+
+Read every question carefully. The single most expensive mistake claimants make is rushing through certification and answering inaccurately. Saying "yes, I looked for work" when you did not look — even by accident — is treated as fraud in many states. That can mean repayment, penalty weeks, fines, and loss of benefits for a future job loss.
+
+If you genuinely could not search one week — for example, you were sick, traveling for a funeral, or had a family emergency — answer honestly and then call the agency to explain. Some states grant exceptions; others do not, but lying is never the safe path.
+
+## Common Reasons Benefits Get Denied for Work Search Issues
+
+After helping thousands of claimants, the same handful of work-search mistakes show up again and again.
+
+### 1. Logging the Same Employer Multiple Times
+
+Applying to the same company three times in one week is usually counted as **one** contact, not three. States want to see different employers, not multiple touches at the same place.
+
+### 2. Not Registering With the State Job Bank
+
+Many states require you to register with their public job portal within the first one to two weeks of your claim. Skipping this step alone can suspend your benefits until you complete it.
+
+### 3. Going on Vacation Without Reporting It
+
+If you are out of town and unable to accept work — even for a long weekend — you generally are not "available to work" that week. Some states allow short approved absences, but only if you report them in advance.
+
+### 4. Refusing a Reasonable Job Offer
+
+Saying no to a job that pays your prior wage and matches your skills can end your claim. If you have a legitimate reason to turn down an offer (the role is far below your training, the commute is unreasonable, the schedule conflicts with documented child care), document it carefully.
+
+### 5. Failing a Random Audit
+
+States randomly select a percentage of claimants every quarter for work-search audits. You will be asked to produce your log. If you cannot, the state can disallow weeks of benefits and assess an overpayment.
+
+## What to Do If You Get a Work Search Denial
+
+If you receive a determination that says you failed to meet the work search requirement, do not panic — but **do not ignore the deadline**. Almost every state gives you a short window, usually **10 to 30 days**, to file a written appeal.
+
+Three steps matter most:
+
+1. **Read the determination carefully** to understand exactly which week or weeks are at issue and why.
+2. **Gather your documentation** — application confirmations, emails, screenshots, calendar entries, and your written log.
+3. **File the appeal in writing** by the deadline, even if you are still gathering evidence. Filing on time preserves your rights; you can submit additional evidence later.
+
+If the dollar amount is significant or your claim is being closed entirely, this is a great time to consult an employment attorney. Many will review your situation at no cost.
+
+## How BenefitsPath Can Help
+
+Work search rules sound simple until your benefits get cut off. If you are filing a new claim, in the middle of one, or fighting a denial, BenefitsPath was built for exactly these situations.
+
+**Start with our free eligibility tool.** In a few minutes, it walks you through the rules in your state — including the current work search requirement — so you know exactly what is expected of you each week.
+
+**If you have already been denied or your benefits have been suspended**, our attorney directory connects you with employment lawyers who handle unemployment appeals in your state. Most offer a free initial consultation, and many help with appeals on a flat fee or contingency basis.
+
+Losing a job is hard enough without losing the safety net on top of it. Knowing the work search rules — and documenting your search every single week — is one of the most powerful things you can do to protect the benefits you have earned.
+    `.trim(),
+  },
+
+  {
     slug: 'what-is-warn-act-mass-layoff-notification-rights-2026',
     title: 'What Is the WARN Act? Mass Layoff Notification Rights for Workers in 2026',
     description: 'Did your employer skip the 60-day layoff notice? Learn how the WARN Act protects workers, what damages you can recover, and when state mini-WARN laws apply.',
