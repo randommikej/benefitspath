@@ -40,6 +40,7 @@ const articleSlugs = [
   'unemployment-identity-theft-fraudulent-claim-what-to-do',
   'fired-for-misconduct-can-you-collect-unemployment-2026',
   'how-to-file-unemployment-pennsylvania-2026-guide',
+  'how-to-file-unemployment-illinois-2026-guide',
 ]
 
 export default function sitemap() {

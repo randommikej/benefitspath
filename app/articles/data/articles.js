@@ -2890,6 +2890,155 @@ Filing for unemployment in Pennsylvania is doable, but the stakes are high when 
 Pennsylvania's UC system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
     `.trim(),
   },
+  {
+    slug: 'how-to-file-unemployment-illinois-2026-guide',
+    title: 'How to File for Unemployment in Illinois: 2026 Step-by-Step Guide',
+    description: "Lost your job in Illinois? Learn exactly how to file an IDES unemployment claim, what documents you need, weekly benefit amounts, work search rules, and how to avoid delays.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-07',
+    updatedAt: '2026-05-07',
+    category: 'State Guides',
+    tags: ['illinois unemployment', 'IDES', 'file for unemployment', 'unemployment benefits illinois', 'state guides', 'work search'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in Illinois: What You Need to Know
+
+Losing a job in Illinois — whether it's a layoff in Chicago, a shutdown in the suburbs, or a contract ending downstate — is unsettling. The state's unemployment insurance (UI) program is designed to give you a financial bridge while you look for new work. The **Illinois Department of Employment Security (IDES)** runs the program, and most claimants now file and certify entirely online.
+
+This guide walks through every step of filing for Illinois unemployment in 2026: from confirming eligibility, to gathering documents, to filing, to keeping your claim active. It is written for real workers dealing with a real loss of income — not for HR departments or attorneys.
+
+## Before You File: Do You Qualify?
+
+Illinois UI rules are set by state statute and administered by IDES. Before you start an application, it helps to confirm you are likely eligible.
+
+### The Basic Requirements
+
+To qualify for Illinois unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This usually means you were laid off, your hours were significantly reduced, your position was eliminated, or you quit for a reason Illinois recognizes as good cause attributable to the employer.
+- **You earned enough wages during your base period.** The standard Illinois base period is the first four of the last five completed calendar quarters before you filed. You must have earned at least $1,600 total during the base period and at least $440 outside the highest-paid quarter.
+- **You are physically able to work.** If you cannot work because of illness or injury, you may need to look at disability programs instead.
+- **You are available for work.** That means you can accept a suitable job if one is offered — transportation, childcare, and any required licensing are in place.
+- **You are actively searching for work** and keeping a record of your weekly efforts.
+- **You are legally authorized to work in the United States.**
+
+If you don't qualify under the standard base period, IDES may use an **alternate base period** — the four most recently completed quarters — to give recently re-entering workers a chance to qualify.
+
+### What Counts as "Good Cause" to Quit in Illinois
+
+Illinois is stricter than some states on voluntary quits, but you may still be eligible if you quit for a reason that is **attributable to the employer** or that the law specifically protects. Common examples include:
+
+- A substantial unilateral change in your pay, hours, duties, or work location
+- Unsafe working conditions your employer refused to correct
+- Documented harassment, discrimination, or retaliation
+- A medical reason verified by a healthcare provider
+- Caring for a seriously ill spouse, child, or parent
+- Domestic violence, stalking, or sexual assault
+- A military spouse relocation
+- Forced retirement or unilateral pension cutbacks
+
+Every situation is fact-specific. If your reason for leaving is in a gray area, file anyway and let IDES review it. You can always appeal a denial.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in keeps the application moving. IDES will ask for:
+
+- Your Social Security number
+- A valid Illinois driver's license or state ID number
+- Names, addresses, and phone numbers of all employers you worked for in the last 18 months
+- The first and last dates you worked at each employer
+- The reason your job ended at each employer
+- Recent pay stubs or W-2s to verify wages
+- Your bank account and routing numbers for direct deposit
+- For non-citizens: your Alien Registration Number or work authorization document
+- For dependents: the name, Social Security number, and date of birth of any dependent spouse or child you plan to claim
+
+If you served in the military or worked for the federal government in the last 18 months, also pull your **DD-214** or federal earnings statement.
+
+## How to File Your Illinois Unemployment Claim
+
+Illinois offers two main ways to start a UI claim. Online is faster and strongly recommended.
+
+### Option 1: File Online Through the IDES Portal
+
+Most Illinoisans file online through the IDES website. The steps look like this:
+
+1. Go to **ides.illinois.gov** and select **File for Unemployment**.
+2. Set up an **ILogin** account if you don't already have one. ILogin is the state's single sign-on system and is required to access IDES.
+3. Verify your identity through ILogin, including the photo ID step.
+4. Start the new claim application and answer every question carefully — rushed answers often trigger eligibility holds.
+5. Review and submit. Save your confirmation number.
+
+You can usually file online 24 hours a day. Filing late in the evening or early in the morning often avoids midday slowdowns.
+
+### Option 2: File by Phone
+
+If you cannot file online, IDES offers a phone option, but wait times can be long. Call IDES and ask to file a new claim. Have your documents ready when you call. You may need to schedule a callback.
+
+### Effective Date of Your Claim
+
+Your claim usually starts on the **Sunday of the week you file**, not the day you actually lost your job. There is generally **no waiting week** in Illinois, so you can be paid for the first eligible week. Filing as soon as you are out of work helps you avoid losing benefits.
+
+## After You File: The Weekly Certification
+
+A new claim is not the same as a paid claim. To keep getting paid, you have to **certify** every two weeks. Certification is where you confirm:
+
+- You were able and available to work each week
+- You looked for work and kept records of your search
+- You did not refuse any suitable work offered to you
+- You report any earnings (gross, before taxes) for the week the work was done — not the week you were paid
+
+You will get a scheduled certification day based on the last digit of your Social Security number. Missing a certification can stop your payments and create extra paperwork to restart them.
+
+### Work Search Requirements
+
+Illinois requires most claimants to make at least **two job-search contacts per week** and to register with **IllinoisJobLink** within a few weeks of filing. Acceptable activities include applying for a job, attending an interview, attending a hiring event, or participating in a state-approved reemployment service.
+
+Keep a written log of each contact: the date, employer name, position, contact method, and outcome. Save confirmation emails. IDES can audit your records up to a year after your claim ends.
+
+## How Much You'll Receive and How Long
+
+Your **weekly benefit amount (WBA)** in Illinois is roughly 47% of your average weekly wage during the two highest-earning quarters of your base period, up to a state maximum that is updated each January. Most claimants in 2026 see weekly benefits between roughly $200 and the state cap.
+
+Illinois also offers a **dependent allowance** — extra weekly money if you have a non-working spouse or dependent child. The exact amount varies, but it can add a meaningful boost for families.
+
+Standard claims pay up to **26 weeks** of benefits within a one-year benefit period. Federal extensions only kick in during periods of very high unemployment, so do not plan around them.
+
+### Tax Withholding
+
+Unemployment is taxable income at the federal level and in Illinois. When you set up your claim, choose to have **10% federal tax withheld** if you can afford it. Otherwise, set aside money each week for taxes — too many claimants are surprised in April by a bill they cannot pay.
+
+## Common Reasons Your Illinois Claim Gets Delayed or Denied
+
+Most claim problems fall into a few familiar buckets:
+
+- **Identity verification issues.** ILogin's photo verification can fail with poor lighting or a damaged ID. Try again in good light or follow the IDES instructions for in-person verification.
+- **Reason-for-separation disputes.** If your employer reports that you quit or were fired for misconduct, IDES will pause your claim and investigate. Respond to every notice — silence is treated as agreement with the employer.
+- **Missed certifications.** Skip a certification day and your payments stop. You may have to call IDES to restart them.
+- **Work search documentation.** If you cannot produce a log when asked, IDES can deny the affected weeks and recover any money already paid.
+- **Unreported earnings.** Cash, gig, side work, vacation pay, and severance can all affect your benefit amount. Report everything to avoid a fraud finding.
+
+## What to Do If Your Claim Is Denied
+
+A denial is not the end of the road. Illinois law gives you the right to **appeal** within a strict deadline — usually **30 days** from the mail date on your determination letter. Miss the deadline and you usually lose your right to appeal.
+
+The first level of appeal is a hearing before an **IDES Referee**, often held by phone. You can present documents, call witnesses, and testify under oath. If you lose at that stage, you can appeal to the **Board of Review**, and from there to the Illinois courts.
+
+You can represent yourself, but Illinois UC hearings often turn on technical legal issues — what counts as misconduct, whether your reason for leaving was attributable to the employer, how earnings should be apportioned. Working with an employment attorney can make a real difference, especially at the Referee hearing where the factual record is built.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in Illinois is doable, but the stakes are high when rent, groceries, and bills are stacking up.
+
+**Start with our free eligibility tool.** It walks through your situation in a few minutes and tells you whether you likely qualify for Illinois UI, how much you may receive, and what to watch for in your specific case.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for a Referee hearing**, our attorney directory connects you with employment lawyers in Illinois who handle unemployment matters. Many offer free initial consultations, so you can understand your options without committing to anything.
+
+**Explore our other guides** for help understanding what to do if your employer contests your claim, how to handle an overpayment notice, and how to navigate the appeals process step by step.
+
+Illinois's UI system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
