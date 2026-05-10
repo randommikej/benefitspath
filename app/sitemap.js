@@ -43,6 +43,7 @@ const articleSlugs = [
   'how-to-file-unemployment-illinois-2026-guide',
   'constructive-discharge-when-quitting-counts-as-wrongful-termination-2026',
   'how-to-file-unemployment-ohio-2026-guide',
+  'are-unemployment-benefits-taxable-federal-state-tax-guide-2026',
 ]
 
 export default function sitemap() {

@@ -3386,6 +3386,137 @@ You can also browse our other guides on **how to appeal an unemployment denial**
 Ohio's unemployment system rewards claimants who file on time, document everything, and keep showing up week after week. Do those three things and you give yourself the best possible shot at the benefits you have already earned.
     `.trim(),
   },
+  {
+    slug: 'are-unemployment-benefits-taxable-federal-state-tax-guide-2026',
+    title: 'Are Unemployment Benefits Taxable? A 2026 Federal and State Tax Guide',
+    description: 'Unemployment benefits are taxable income at the federal level and in most states. Learn how to read your 1099-G, set up withholding, and avoid surprise tax bills in 2026.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-10',
+    updatedAt: '2026-05-10',
+    category: 'Unemployment Benefits',
+    tags: ['unemployment taxes', '1099-G', 'tax withholding', 'federal income tax', 'state income tax', 'tax filing'],
+    readTime: '12 min read',
+    content: `
+## The Surprise No One Warns You About: Unemployment Is Taxable Income
+
+When you file your first claim and the weekly checks start landing in your account, the last thing on your mind is next year's tax return. But unemployment compensation is **taxable income at the federal level** and in **most states** that have an income tax. If you do not plan ahead, the bill comes due in April — sometimes thousands of dollars after you have already spent every benefit dollar on rent, groceries, and bills.
+
+This guide walks through exactly how unemployment benefits are taxed in 2026: what counts as taxable, how to read your Form 1099-G, your two main options for paying the tax, which states tax benefits and which do not, and the most common mistakes that turn a manageable bill into a financial disaster.
+
+## What Federal Law Says About Taxing Unemployment
+
+Under the Internal Revenue Code, unemployment compensation is treated as **ordinary income**. That means it gets reported on your federal return on the same line as wages, freelance earnings, and other taxable money. The IRS taxes it at your regular marginal rate.
+
+The rule applies to virtually every kind of unemployment benefit you might receive, including:
+
+- Standard state unemployment insurance (UI)
+- Federal Pandemic Unemployment Compensation–style supplements, when Congress enacts them
+- Disaster Unemployment Assistance (DUA) after a federally declared disaster
+- Trade Readjustment Allowances (TRA) for workers laid off due to foreign trade
+- Railroad unemployment benefits
+- Unemployment Compensation for Federal Employees (UCFE) and former military members (UCX)
+- Extended Benefits during periods of high state unemployment
+
+The American Rescue Plan Act of 2021 included a one-time exclusion for the first $10,200 of unemployment for some filers. That exclusion was a 2020-only rule. **It is not available in 2026.** Every dollar of unemployment you collected in 2025 is on the table for federal income tax.
+
+### Self-Employment Tax Does Not Apply
+
+Some claimants worry that unemployment will trigger Social Security or Medicare self-employment taxes. It does not. Unemployment compensation is reported on the part of your return reserved for "other income," and it is not subject to the 15.3% self-employment tax that applies to gig income or freelance work.
+
+## Form 1099-G: The Tax Document You Cannot Lose
+
+Every January, your state unemployment agency sends a **Form 1099-G** — "Certain Government Payments" — that reports the total amount of unemployment compensation paid to you the prior year and any federal tax that was withheld. You will use the numbers in Box 1 (total paid) and Box 4 (federal tax withheld) when you fill out your return.
+
+A few important points about the 1099-G:
+
+- It is issued for the **calendar year you received the money**, not the year you originally filed. If your benefits were retroactively paid in January 2026 for weeks of 2025 unemployment, those dollars typically belong on the 2026 return.
+- Most states deliver it electronically through the unemployment portal. **You will not always get a paper copy.** Log in by mid-February to download it.
+- If your state withheld tax, that amount counts as a federal payment already made on your behalf. You still report the full benefit, but you also get credit for the withholding.
+- If you receive a 1099-G for benefits **you never collected**, that is a red flag for unemployment identity theft. Do not just ignore it — report it to the state immediately and request a corrected form.
+
+### What to Do If You Never Get a 1099-G
+
+Some states only post the form to the online portal and never mail anything. If February ends and you have not seen one, log in to your state's claimant account and look for a "Tax Documents" or "1099-G" tab. If it still is not there, call the agency. Filing without your 1099-G almost always results in an IRS underreporting notice 12 to 18 months later.
+
+## Your Two Choices: Withhold or Pay Quarterly
+
+Federal law gives you two ways to pay the tax owed on unemployment compensation, and most claimants do not realize they get to choose.
+
+### Option 1: Have 10% Withheld at the Source
+
+When you set up your unemployment claim, the agency offers you a chance to withhold federal tax. The standard rate is **10% flat**. That is the only number the IRS lets states withhold for unemployment, and you cannot ask for more.
+
+Filling out **Form W-4V** (Voluntary Withholding Request) is how you ask for withholding after the fact, or you can usually opt in inside your state's online portal. Once you do, the state automatically takes 10% out of every payment and sends it to the IRS in your name.
+
+### Option 2: Make Quarterly Estimated Tax Payments
+
+If 10% will not cover what you owe — for example, you have a working spouse, you have other income, or you are in a higher tax bracket — you can make **quarterly estimated tax payments** using IRS Form 1040-ES. The 2026 due dates are April 15, June 15, September 15, and January 15 (of 2027). You pay online at irs.gov/payments using a bank account, debit card, or credit card.
+
+Quarterly payments are how independent contractors normally pay their taxes, and they help you avoid the **estimated tax underpayment penalty** that the IRS charges if you owe more than $1,000 at filing time and did not prepay enough during the year.
+
+### What Happens If You Do Neither
+
+If you neither withhold nor pay quarterly, you are not breaking the law — yet. But on April 15, you will owe the entire tax bill in one lump sum, plus a small underpayment penalty. For someone who collected $20,000 in unemployment with no withholding, that bill can easily land between $3,000 and $5,000 depending on your bracket and state.
+
+## State Income Tax: It Depends Where You Live
+
+Whether your **state** taxes unemployment is a separate question, and the answer varies a lot.
+
+### States That Do Not Tax Unemployment Benefits
+
+In 2026, several states either have no income tax at all or specifically exempt unemployment compensation from state tax. Common examples include:
+
+- **No state income tax:** Alaska, Florida, Nevada, New Hampshire (interest and dividends only), South Dakota, Tennessee, Texas, Washington, Wyoming
+- **Specifically exempt unemployment from state income tax:** California, Montana, New Jersey, Oregon, Pennsylvania, Virginia (with conditions)
+
+If you live in one of these states, you only have to worry about the federal piece.
+
+### States That Tax Unemployment in Full
+
+Most other states with an income tax treat unemployment exactly like wages and tax it at the regular state rate. That includes large states such as New York, Illinois, Massachusetts, Georgia, North Carolina, Ohio, and Michigan. Some of these states will withhold state tax from your benefits if you ask; others do not offer withholding at all and you have to pay quarterly to your state revenue department.
+
+### States With Partial or Conditional Treatment
+
+A handful of states tax some unemployment but exempt portions tied to federally funded programs, household-income thresholds, or specific disasters. **Always check your state revenue department's instructions** before assuming you owe — and before assuming you do not.
+
+## How Unemployment Affects Other Tax Items
+
+Unemployment benefits do more than just add a line to your return. They also interact with several credits and deductions that may be larger or smaller as a result.
+
+- **Earned Income Tax Credit (EITC):** Unemployment is **not** earned income for EITC purposes. Receiving benefits will not increase your EITC, and a year of unemployment may shrink it dramatically compared with a year of full-time work.
+- **Premium Tax Credit (ACA marketplace coverage):** Unemployment counts as part of your modified adjusted gross income, which determines your subsidy. If you started a marketplace plan based on a low income estimate and then collected significant unemployment, you may have to repay part of the subsidy at tax time.
+- **Child Tax Credit:** Most claimants still qualify, but the refundable portion is tied to earned income, so a year mostly on unemployment can reduce the refundable amount.
+- **Retirement contributions:** You generally need earned income to contribute to a Traditional or Roth IRA. Unemployment compensation does not count, so a year on benefits can block IRA contributions unless you have other earned income or a working spouse.
+
+## Common Mistakes That Make the Bill Worse
+
+Most unemployment tax surprises trace back to a small number of avoidable errors.
+
+- **Skipping withholding to maximize cash flow.** It feels like a 10% raise. It is actually a deferred tax bill that grows interest and penalties if you do not pay quarterly.
+- **Throwing away the 1099-G.** The IRS gets a copy directly from the state. If you do not report the income, you will get a CP2000 notice 12 to 18 months later, with penalties and interest stacked on top.
+- **Forgetting state tax entirely.** Federal withholding does **not** cover state tax. Workers who move between states mid-year have an even more complicated situation and usually need to file part-year returns in both states.
+- **Ignoring identity-theft 1099-Gs.** Reporting a fraudulent 1099-G as your own income costs you real money. Reporting nothing when the state thinks you collected gets you a CP2000 letter. Address it the right way: dispute the 1099-G in writing with your state and request a corrected form.
+- **Spending the gross amount.** Treat unemployment as **gross income** in your budget, not net. Set aside roughly 12 to 22 percent for taxes depending on your bracket, and you will be ready when April arrives.
+
+## What to Do Right Now
+
+If you are collecting unemployment in 2026 and have not made a tax plan yet, take three steps this week:
+
+1. Log in to your state portal and **opt in to the 10% federal withholding** if you have not already.
+2. Estimate your total taxable income for the year — wages, unemployment, side income, and any spousal earnings — and check whether 10% will be enough. If not, plan for **quarterly estimated payments** to the IRS and to your state if it taxes unemployment.
+3. Save every payment notice, every approval letter, and the 1099-G you will receive in January. Drop them all in one folder, digital or paper, so tax filing in 2027 is a one-evening job instead of a one-week scramble.
+
+A small amount of planning now can save you a five-figure tax surprise next April.
+
+## How BenefitsPath Can Help
+
+Unemployment benefits are confusing enough on their own. Layering federal and state taxes on top makes the math even harder. Use our **eligibility tool** to get a clear, plain-English read on whether you qualify, your likely weekly benefit amount, and how much you should plan to set aside for taxes given your state.
+
+If your unemployment claim has been denied, your employer is contesting your separation, or you suspect identity theft on your account, our **attorney directory** can connect you with employment lawyers who handle these cases — many for free initial consultations and on contingency. You can also explore our guides on **how to appeal an unemployment denial**, **what to do about an overpayment notice**, and **unemployment identity theft** for next steps that match your specific situation.
+
+Take the time to plan for taxes today, and unemployment becomes one less thing standing between you and your next job.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
