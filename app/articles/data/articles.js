@@ -3517,6 +3517,156 @@ If your unemployment claim has been denied, your employer is contesting your sep
 Take the time to plan for taxes today, and unemployment becomes one less thing standing between you and your next job.
     `.trim(),
   },
+  {
+    slug: 'how-to-file-unemployment-new-jersey-2026-guide',
+    title: 'How to File for Unemployment in New Jersey: 2026 Step-by-Step Guide',
+    description: "Lost your job in New Jersey? Learn how to file an NJDOL unemployment claim, what documents you need, weekly benefit amounts, work search rules, and how to avoid delays.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-11',
+    updatedAt: '2026-05-11',
+    category: 'State Guides',
+    tags: ['new jersey unemployment', 'NJDOL', 'file for unemployment', 'unemployment benefits new jersey', 'state guides', 'work search'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in New Jersey: What You Need to Know
+
+Losing a job in New Jersey — whether it's a layoff in Newark, a warehouse closure in Edison, or a shift ending at the Shore — is stressful. The state's unemployment insurance (UI) program is built to give you a financial bridge while you look for new work. The **New Jersey Department of Labor and Workforce Development (NJDOL)** runs the program, and most claimants now file and certify entirely online.
+
+This guide walks through every step of filing for New Jersey unemployment in 2026: confirming eligibility, gathering documents, filing the application, certifying weekly, and dealing with common holds and denials. It is written for real workers dealing with a real loss of income — not for HR departments or attorneys.
+
+## Before You File: Do You Qualify?
+
+New Jersey UI rules are set by state statute and administered by NJDOL. Before you start an application, it helps to confirm you are likely eligible.
+
+### The Basic Requirements
+
+To qualify for New Jersey unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This typically means you were laid off, your hours were significantly reduced, your position was eliminated, or you quit for a reason New Jersey recognizes as good cause attributable to the work.
+- **You earned enough wages during your base period.** The standard New Jersey base period is the first four of the last five completed calendar quarters before you filed. You generally need at least **20 base weeks** of covered employment (a base week is a week you earned at least the state minimum, which is updated each year) **or** total base period earnings above the annual threshold set by NJDOL.
+- **You are physically able to work.** If you cannot work because of illness, injury, or pregnancy, you may need to look at **Temporary Disability Insurance (TDI)** instead.
+- **You are available for work.** You can accept a suitable job if one is offered — transportation, childcare, and any required licensing are in place.
+- **You are actively searching for work** and keeping a record of your weekly efforts.
+- **You are legally authorized to work in the United States.**
+
+If you don't qualify under the standard base period, NJDOL may use an **alternate base period** — the four most recently completed quarters — to give recently re-entering workers a chance to qualify.
+
+### What Counts as "Good Cause" to Quit in New Jersey
+
+New Jersey is one of the more claimant-friendly states on voluntary quits, but the reason still has to be **attributable to the work**. Common examples that often qualify:
+
+- A substantial unilateral change in your pay, hours, duties, or work location
+- Unsafe working conditions your employer refused to correct
+- Documented harassment, discrimination, or retaliation
+- A medical reason verified by a healthcare provider
+- Caring for a seriously ill family member where leave was not granted
+- Domestic violence, stalking, or sexual assault
+- A military spouse relocation
+- A forced retirement or unilateral pension cutback
+
+Every situation is fact-specific. If your reason for leaving is in a gray area, file anyway and let NJDOL review it. You can always appeal a denial.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in keeps the application moving. NJDOL will ask for:
+
+- Your Social Security number
+- A valid New Jersey driver's license or state-issued ID
+- Names, addresses, and phone numbers of every employer you worked for in the last 18 months
+- The first and last dates you worked at each employer
+- The reason your job ended at each employer
+- Recent pay stubs or W-2s to verify wages
+- Your bank account and routing numbers for direct deposit
+- For non-citizens: your Alien Registration Number or work authorization document
+- For dependents: the name, Social Security number, and date of birth of any dependent spouse or child you plan to claim
+
+If you served in the military or worked for the federal government in the last 18 months, also pull your **DD-214** or federal earnings statement (SF-8 or SF-50).
+
+## How to File Your New Jersey Unemployment Claim
+
+NJDOL offers two main ways to start a UI claim. Online is faster and strongly recommended.
+
+### Option 1: File Online Through myunemployment.nj.gov
+
+Most New Jerseyans file online. The steps look like this:
+
+1. Go to **myunemployment.nj.gov** and select **Apply for Unemployment**.
+2. Set up or sign in to your **ID.me** account. New Jersey uses ID.me for identity verification, and most application delays trace back to a stalled or incomplete ID.me step.
+3. Verify your identity through ID.me, including the photo ID and selfie step. Use good lighting and a clean copy of your ID.
+4. Start the new claim application and answer every question carefully — rushed answers often trigger eligibility holds.
+5. Review and submit. Save your confirmation number and screenshot the final page.
+
+You can usually file online 24 hours a day. Filing late in the evening or early in the morning often avoids midday slowdowns.
+
+### Option 2: File by Phone
+
+If you cannot file online, NJDOL operates **Reemployment Call Centers** organized by region. Call the number listed for your area on the NJDOL website during posted hours. Wait times can be long, so have your documents ready when you call.
+
+### Effective Date of Your Claim
+
+Your claim usually starts on the **Sunday of the week you file**, not the day you actually lost your job. New Jersey **no longer requires an unpaid waiting week**, so the first eligible week can be paid. Filing as soon as you are out of work helps you avoid losing benefits.
+
+## After You File: The Weekly Certification
+
+A new claim is not the same as a paid claim. To keep getting paid, you have to **certify** weekly (NJDOL calls it "claiming" your weekly benefits). Certification is where you confirm:
+
+- You were able and available to work each week
+- You looked for work and kept records of your search
+- You did not refuse any suitable work offered to you
+- You report any earnings (gross, before taxes) for the week the work was done — not the week you were paid
+
+You will receive a scheduled day to certify based on your claim record. Missing a certification can stop your payments and create extra paperwork to restart them.
+
+### Work Search Requirements
+
+New Jersey requires most claimants to make at least **three job-search activities per week** and to be registered with the state's **Jobs4Jersey** system. Acceptable activities include applying for a job, attending an interview, attending a hiring event, taking a state-approved reemployment workshop, or completing a resume review with a One-Stop Career Center.
+
+Keep a written log of each contact: the date, employer name, position, contact method, and outcome. Save confirmation emails. NJDOL can audit your records up to a year after your claim ends.
+
+## How Much You'll Receive and How Long
+
+Your **weekly benefit amount (WBA)** in New Jersey is roughly **60% of your average weekly wage** during the base year, up to a state maximum that is updated every January. New Jersey's maximum is among the highest in the country, but most claimants do not hit the cap — your WBA depends entirely on your earnings.
+
+New Jersey also offers a **dependency benefit** — extra weekly money if you have a non-working spouse or dependent child and no one else is collecting unemployment on the same dependents. The dependency add-on is a small percentage of your WBA for the first dependent and less for additional dependents, capped at three.
+
+Standard claims pay up to **26 weeks** of benefits within a one-year benefit period. Federal extensions only kick in during periods of very high unemployment, so do not plan around them.
+
+### Tax Withholding
+
+Unemployment is **taxable income at the federal level**. New Jersey is one of the few states that **does not tax unemployment benefits** at the state level — a meaningful break compared with neighbors like New York and Pennsylvania. When you set up your claim, choose to have **10% federal tax withheld** if you can afford it. Otherwise, set aside money each week for federal taxes — too many claimants are surprised in April by a bill they cannot pay.
+
+## Common Reasons Your New Jersey Claim Gets Delayed or Denied
+
+Most claim problems in New Jersey fall into a few familiar buckets:
+
+- **Identity verification issues.** ID.me's photo and selfie verification can fail with poor lighting or a damaged ID. Try again in good light, follow the on-screen instructions exactly, or escalate to ID.me's live video agent option.
+- **Reason-for-separation disputes.** If your employer reports that you quit or were fired for misconduct, NJDOL will pause your claim and investigate. Respond to every notice — silence is treated as agreement with the employer.
+- **Missed certifications.** Skip a claim week and your payments stop. You may have to call your Reemployment Call Center to restart them.
+- **Work search documentation.** If you cannot produce a log when asked, NJDOL can deny the affected weeks and recover any money already paid.
+- **Unreported earnings.** Cash, gig, side work, vacation pay, and severance can all affect your benefit amount. Report everything to avoid a fraud finding.
+- **Severance and pay-in-lieu-of-notice.** New Jersey treats severance differently depending on how it is paid out and characterized. Large lump-sum severance is usually not deducted, but pay-in-lieu-of-notice or continued salary continuation can delay the start of your benefits.
+
+## What to Do If Your Claim Is Denied
+
+A denial is not the end of the road. New Jersey law gives you the right to **appeal** within a strict deadline — usually **10 calendar days** from the mail date on your determination letter, or 7 days from personal delivery. New Jersey's appeal window is shorter than most states, so do not wait.
+
+The first level of appeal is a hearing before the **Appeal Tribunal**, often held by phone. You can present documents, call witnesses, and testify under oath. If you lose at that stage, you can appeal to the **Board of Review**, and from there to the New Jersey Superior Court, Appellate Division.
+
+You can represent yourself, but New Jersey UI hearings often turn on technical legal issues — what counts as misconduct, whether your reason for leaving was attributable to the work, how severance and earnings should be apportioned. Working with an employment attorney can make a real difference, especially at the Appeal Tribunal stage where the factual record is built.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in New Jersey is doable, but the stakes are high when rent, groceries, and bills are stacking up.
+
+**Start with our free eligibility tool.** It walks through your situation in a few minutes and tells you whether you likely qualify for New Jersey UI, how much you may receive, and what to watch for in your specific case.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for an Appeal Tribunal hearing**, our attorney directory connects you with employment lawyers in New Jersey who handle unemployment matters. Many offer free initial consultations, so you can understand your options without committing to anything.
+
+**Explore our other guides** for help understanding what to do if your employer contests your claim, how to handle an overpayment notice, and how to navigate the appeals process step by step.
+
+New Jersey's UI system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
