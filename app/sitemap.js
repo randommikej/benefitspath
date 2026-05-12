@@ -45,6 +45,7 @@ const articleSlugs = [
   'how-to-file-unemployment-ohio-2026-guide',
   'are-unemployment-benefits-taxable-federal-state-tax-guide-2026',
   'how-to-file-unemployment-new-jersey-2026-guide',
+  'partial-unemployment-benefits-hours-cut-2026-guide',
 ]
 
 export default function sitemap() {

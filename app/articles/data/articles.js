@@ -3667,6 +3667,137 @@ Filing for unemployment in New Jersey is doable, but the stakes are high when re
 New Jersey's UI system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
     `.trim(),
   },
+  {
+    slug: 'partial-unemployment-benefits-hours-cut-2026-guide',
+    title: 'Partial Unemployment Benefits: What to Do If Your Hours Were Cut in 2026',
+    description: 'If your employer slashed your hours but kept you on payroll, you may qualify for partial unemployment. Learn how it works, who qualifies, and how to file in 2026.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-12',
+    updatedAt: '2026-05-12',
+    category: 'Unemployment Benefits',
+    tags: ['partial unemployment', 'reduced hours', 'hours cut', 'unemployment eligibility', 'wage loss', 'workers rights'],
+    readTime: '12 min read',
+    content: `
+## When a Pay Cut Comes Without a Layoff
+
+Most people think of unemployment benefits as something you collect after you lose your job entirely. But every state in the country has a second track most workers have never heard of: **partial unemployment**. It is designed for the moment your employer cuts your hours, slashes your shifts, or pushes you onto a reduced schedule that takes a serious bite out of your paycheck — without firing you outright.
+
+Hours cuts have become more common in 2026 as employers try to manage staffing through soft economic patches without taking the public-relations hit of a formal layoff. Retail, hospitality, manufacturing, and even tech support roles have seen workforces moved to four-day weeks, shortened shifts, or "on call" schedules where employees lose half their normal income. If that is happening to you, partial unemployment may be able to make up part of the difference.
+
+This guide explains how partial unemployment works in 2026, who qualifies, how it differs from regular unemployment, and how to file for it without making the common mistakes that get claims denied.
+
+## What Partial Unemployment Actually Is
+
+Partial unemployment is a state-run benefit available to workers who are **still employed but earning significantly less than usual** because the employer cut their hours. You do not have to be laid off. You do not have to be looking for a new job in most states. You simply have to be working less than full-time through no fault of your own, and earning below a threshold set by your state.
+
+Think of it this way: full unemployment replaces income you lost when you stopped working entirely. Partial unemployment replaces part of the income you lost when your employer dropped you from 40 hours a week to 20.
+
+### Partial Unemployment vs. Working Part-Time on Unemployment
+
+These two scenarios sound similar but are very different in the eyes of state agencies.
+
+**Working part-time while on unemployment** means you lost your job, filed a regular unemployment claim, and picked up some part-time work to bring in a little income. Your claim is built around being fully unemployed first.
+
+**Partial unemployment** means you never stopped working. Your existing employer is the one who reduced your schedule, and you are filing to recover some of the lost wages from that specific cut.
+
+The distinction matters because the eligibility rules, the way your benefit is calculated, and even the form you file on can differ depending on which situation you are in.
+
+## Who Qualifies for Partial Unemployment in 2026
+
+Each state writes its own rules, but most share the same basic requirements. To qualify for partial unemployment, you usually need to meet **all** of the following:
+
+- You have to be **currently employed but working less than full-time**, with the reduction caused by your employer (not by you).
+- Your **weekly earnings have to fall below a state-set threshold**, which is typically tied to your regular weekly benefit amount.
+- You have to have **enough recent wages** in the state's "base period" — usually the first four of the last five completed calendar quarters — to qualify for any unemployment benefit at all.
+- You have to be **able to work, available to work, and willing to accept additional suitable work** if your employer or another employer offers it.
+- The cut in hours must be **involuntary**. If you asked to drop to part-time so you could go back to school or care for a family member, you typically will not qualify.
+
+A few states have stricter conditions. Some require the hours reduction to be a specific percentage (often 20% or more) before partial benefits kick in. Others require the employer to file a "low earnings report" on your behalf rather than have you file your own claim. Your state's claimant handbook is the place to confirm exactly what applies to you.
+
+### Common Reasons Partial Claims Get Denied
+
+Workers run into the same problems over and over with partial unemployment. The most common are:
+
+- **Earning over the state threshold.** If you make too much in a given week — even one good week of overtime — you may get zero benefits that week and still have to certify.
+- **Not reporting hours correctly.** States want **gross earnings** before taxes, in the week the work was performed, not when you were paid.
+- **Voluntary schedule changes.** If your timecard shows you asked off for shifts, expect questions.
+- **Refusing extra hours.** If your employer offers you a shift and you decline, you can lose that week's benefits.
+
+## How the Benefit Is Calculated
+
+The math behind partial unemployment looks complicated at first, but the underlying idea is simple. The state figures out what you would receive if you were fully unemployed, then subtracts most (but not all) of what you earned during the week. The result is your partial benefit.
+
+Most states use a formula that lets you keep a small amount of your wages without any penalty — often called the **earnings disregard**. After that disregard, the state subtracts the rest of your wages from your weekly benefit amount, dollar for dollar or close to it.
+
+### A Simple Example
+
+Imagine your full unemployment benefit would be **$400 per week** if you were completely out of work. Your state has an earnings disregard of **25% of your weekly benefit amount**, which works out to $100.
+
+In a given week, your employer schedules you for only 12 hours, and you earn **$240** in gross wages.
+
+The math typically looks like this:
+
+- Earnings disregard: $100 (you can earn this much before it affects your benefit)
+- Countable earnings: $240 − $100 = $140
+- Weekly benefit reduction: $140
+- Your partial benefit that week: $400 − $140 = **$260**
+
+Combined with your $240 paycheck, you take home **$500 that week** instead of just $240. That is the point of partial unemployment.
+
+The exact formula and disregard percentage vary by state. Some states use a flat dollar amount instead of a percentage. A few states use a more generous formula meant to encourage workers to keep working any hours they can get.
+
+## How to File a Partial Unemployment Claim
+
+The filing process for partial unemployment is mostly the same as for full unemployment, with a few important differences.
+
+### Step 1: File an Initial Claim
+
+You file through your state's unemployment website, just like any other claim. When the application asks why you are filing, look for an option like "**reduction in hours**," "**lack of work**," or "**still employed but hours reduced**." Do not select "laid off" if you are not laid off — it will create problems later.
+
+### Step 2: Wait for the Determination
+
+The state will review your wages, your separation reason, and your employer's response. Many employers do not contest partial claims because they recognize the hours reduction is real. But some do, especially if they want to argue you were offered hours you turned down. If the state asks for documentation, send it promptly.
+
+### Step 3: Certify Each Week
+
+This is where partial claims get tricky. Every week (or every two weeks in a handful of states), you have to certify and **report your gross earnings** for that week. Report what you earned for the work you did, regardless of when the paycheck actually hits your bank account.
+
+Keep your pay stubs. Take pictures of your schedule. Save any emails or texts about your hours. The state can audit your earnings against your employer's records, and even small inconsistencies can trigger an overpayment notice.
+
+### Step 4: Stay Engaged With Work Search Rules
+
+Some states waive the work search requirement for partial unemployment because you are still attached to your employer. Others require you to log job searches anyway. Read your state's certification questions carefully — if they ask whether you looked for work, you need to answer accurately.
+
+## What Partial Unemployment Will Not Do
+
+Partial unemployment is a real lifeline, but it has limits. It is important to set expectations realistically before you file.
+
+- **It will not make you whole.** Most workers receiving partial benefits still take a meaningful pay cut compared to their old schedule.
+- **It is not unlimited.** Partial benefits draw from the same total benefit pot as full unemployment in most states. Weeks of partial pay still count against your maximum benefit weeks.
+- **It is taxable.** Just like regular unemployment, partial benefits are federal income (and in most states, state-level income), and you can choose to have taxes withheld.
+- **It will not protect you from a future layoff.** If your hours cut turns into a full termination later, that is a new claim issue you will have to handle separately.
+
+## What to Do If Your Partial Claim Is Denied
+
+Denials happen for all kinds of reasons. The employer may have reported wages that do not match yours. The state may have decided your hours reduction was not severe enough. You may have missed a certification deadline.
+
+If you get a denial letter, **read it the day it arrives**. Every state imposes a strict appeal deadline — often **10 to 30 days** from the date the determination was issued — and missing it can wipe out your right to challenge the decision. File the appeal as soon as you can, in writing, and keep a copy of everything you submit.
+
+At the appeal hearing, you will testify under oath. Bring your pay stubs, your schedule, any communications from your employer about the hours change, and a clear timeline. If your case is complex or your employer is fighting hard, this is a good moment to talk with an employment attorney who handles unemployment matters.
+
+## How BenefitsPath Can Help
+
+Partial unemployment is one of the most under-used parts of the unemployment system. Many workers whose hours have been cut never file because they assume "I still have a job, so I do not qualify" — but they do, and they are leaving real money on the table.
+
+**Start with our free eligibility tool.** It asks a handful of quick questions about your work situation, your hours, and your earnings, then tells you whether you likely qualify for partial unemployment in your state and roughly how much you could receive.
+
+**If your claim has been denied or your employer is contesting it**, our attorney directory connects you with employment lawyers in your state who handle unemployment matters and offer free initial consultations. A short conversation can help you decide whether to appeal on your own or bring in professional help.
+
+**Explore our other guides** for more on what to do when an employer contests a claim, how to respond to an overpayment notice, and how to appeal a denial step by step.
+
+Cutting your hours is not the same as keeping your income whole. If your schedule has been chopped down, partial unemployment may be the difference between making rent and falling behind. BenefitsPath is here to help you find out where you stand and what to do next.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {
