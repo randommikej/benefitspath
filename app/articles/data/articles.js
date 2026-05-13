@@ -4,6 +4,178 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-georgia-2026-guide',
+    title: 'How to File for Unemployment in Georgia: 2026 Step-by-Step Guide',
+    description: "Lost your job in Georgia? Learn how to file a GDOL unemployment claim, employer-filed partial claims, weekly benefits, work search rules, and how to avoid delays.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-13',
+    updatedAt: '2026-05-13',
+    category: 'State Guides',
+    tags: ['georgia unemployment', 'GDOL', 'file for unemployment', 'unemployment benefits georgia', 'state guides', 'partial claims'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in Georgia: What Workers Need to Know in 2026
+
+Losing a job in Georgia — whether it is a layoff in Atlanta, a plant closure in Macon, a hospitality cutback on the coast, or a logistics shake-up around Savannah — leaves you with bills that do not pause. The state's unemployment insurance (UI) program exists to give you a bridge while you find your next role. The program is run by the **Georgia Department of Labor (GDOL)**, and Georgia's system has some unique twists that surprise even workers who have filed in other states.
+
+This guide walks through every step of filing for Georgia unemployment in 2026: confirming eligibility, gathering documents, the difference between employer-filed and individual claims, certifying weekly, and what to do if your benefits are denied or held up. It is written for real workers dealing with real bills — not for HR departments or attorneys.
+
+## Before You File: Do You Qualify?
+
+Georgia UI rules are set by state law and administered by GDOL. Before you sit down to apply, it helps to confirm you are likely eligible.
+
+### The Basic Requirements
+
+To qualify for Georgia unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This usually means you were laid off, your position was eliminated, your hours were significantly reduced, or you quit for a reason Georgia recognizes as "good work-connected cause."
+- **You earned enough wages during your base period.** Georgia's standard base period is the first four of the last five completed calendar quarters before you filed. You generally need wages in at least **two quarters**, total base period wages of at least 1.5 times your highest-quarter earnings, and minimum dollar thresholds that GDOL updates each year.
+- **You are physically able to work.** If illness, injury, or pregnancy keeps you from working, you may need to look at short-term disability or other programs instead.
+- **You are available for work.** You can accept a suitable job today if one is offered — transportation, childcare, and any required licensing are in place.
+- **You are actively searching for work** and keeping a record of your weekly efforts.
+- **You are legally authorized to work in the United States.**
+
+If you do not qualify under the standard base period, GDOL may use an **alternate base period** — the four most recently completed quarters — to give recently re-entering workers a chance to qualify.
+
+### What Counts as "Good Work-Connected Cause" to Quit
+
+Georgia is one of the stricter states on voluntary quits. GDOL generally only approves benefits for quits when the reason is **directly tied to the work itself**. Common examples that sometimes qualify:
+
+- A substantial unilateral change in your pay, hours, duties, or job location
+- Unsafe working conditions your employer refused to correct after notice
+- Documented harassment or discrimination
+- A medical issue caused or aggravated by the job, supported by a doctor's note
+- Certain situations involving domestic violence
+
+Personal reasons — moving for a spouse's new job, going back to school, general unhappiness, or a family medical situation unrelated to work — usually do **not** count as good work-connected cause in Georgia. That said, every case is fact-specific. If you are on the fence, file anyway and let GDOL review it. You can always appeal a denial.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in keeps the application moving. GDOL will ask for:
+
+- Your Social Security number
+- A valid Georgia driver's license or state-issued ID
+- Names, addresses, and phone numbers of every employer you worked for in the last **18 months**
+- The first and last dates you worked at each employer
+- The reason your job ended at each employer
+- Recent pay stubs or W-2s to verify wages
+- Your bank account and routing numbers for direct deposit
+- For non-citizens: your Alien Registration Number or work authorization document
+
+If you served in the military in the last 18 months, also pull your **DD-214 (Member 4 copy)**. If you worked for the federal government, gather your **SF-8 or SF-50**.
+
+## Georgia's Two Filing Tracks: Employer-Filed vs. Individual Claims
+
+This is the part of Georgia's system that most often catches new claimants by surprise.
+
+### Employer-Filed (Partial) Claims
+
+Georgia is one of the few states that strongly encourages — and in many cases requires — **employers to file partial unemployment claims on behalf of their workers** when hours are temporarily cut or workers are laid off short-term. This process is rooted in Georgia's longstanding partial-claims rule (often referenced as "Rule 300-2-4-.09" or simply the partial claims process).
+
+If your employer is filing for you:
+
+- They submit your claim and weekly certifications electronically through GDOL's employer portal.
+- You typically do **not** apply on your own.
+- Benefits are usually paid faster because the employer's wage data is already in the system.
+- You usually do **not** have to meet the full work search requirement while you are temporarily laid off and expected to return.
+
+Ask your HR or payroll contact directly whether they are filing a partial claim for you. If they say yes, watch for a confirmation letter from GDOL, set up your **MyUI Claimant Portal** account, and select a payment method. If your employer says no, or if you are permanently separated, you will file on your own.
+
+### Individual Claims
+
+If your employer is not filing for you, you file your own claim through GDOL's **MyUI Claimant Portal**. This is the path for permanent layoffs, terminations for cause, quits, and situations where your employer is unwilling or unable to file.
+
+## How to File Your Georgia Individual Unemployment Claim
+
+GDOL's online system is the fastest way to apply for individual benefits. Phone and in-person options exist but tend to be slower.
+
+### Option 1: File Online Through MyUI
+
+Most Georgians file online. The steps look like this:
+
+1. Go to **dol.georgia.gov** and select the option to file a new claim or open the **MyUI Claimant Portal**.
+2. Create or log in to your MyUI account. You will be guided through identity verification — Georgia uses a combination of GDOL's own checks and, for some claimants, third-party identity providers.
+3. Verify your identity carefully. Most application delays trace back to a stalled identity step or mismatched personal information.
+4. Complete the new claim application and answer every question carefully — rushed answers often trigger eligibility holds.
+5. Review and submit. Save your confirmation number and screenshot the final page.
+
+You can usually file online 24 hours a day. Filing late in the evening or early in the morning often avoids midday slowdowns.
+
+### Option 2: File at a Georgia Career Center
+
+Every region has a **GDOL Career Center**. You can walk in (or in many locations, schedule a visit) and use a public terminal with staff assistance. This is a strong option if your situation is complicated, you do not have reliable internet, or you have struggled with identity verification online.
+
+### Effective Date of Your Claim
+
+Your claim usually starts on the **Sunday of the week you file**, not the day you actually lost your job. Georgia historically applied a one-week unpaid waiting period — confirm the current rule in your determination letter, since this has changed over time. Filing as soon as you are out of work helps you avoid losing benefit weeks.
+
+## After You File: The Weekly Certification
+
+A new claim is not the same as a paid claim. To keep getting paid, you have to **certify** each week (Georgia calls this requesting payment for your weekly benefit). Certification is where you confirm:
+
+- You were able and available to work each week
+- You looked for work and kept records of your search
+- You did not refuse any suitable work offered to you
+- You report any earnings (gross, before taxes) for the week the work was done — not the week you were paid
+
+You will receive instructions on when and how to certify in MyUI. Missing a certification can stop your payments and create extra paperwork to restart them.
+
+### Work Search Requirements
+
+Georgia requires most claimants on **individual claims** to make at least **three job-search contacts per week** and to keep a record of those contacts. Acceptable activities include applying for a job, attending an interview, attending a hiring event, registering with **Employ Georgia** (the state's job-bank system), or completing a state-approved reemployment workshop.
+
+Keep a written log of each contact: the date, employer name, position, contact method, and outcome. Save confirmation emails. GDOL can audit your work search records months after your claim ends, and "I think I applied somewhere" is not a defense.
+
+Workers on **employer-filed partial claims** generally have a lighter work search obligation because they are still attached to a returning employer — but always confirm the current expectations in your claim materials.
+
+## How Much You'll Receive and How Long
+
+Your **weekly benefit amount (WBA)** in Georgia is based on your wages in the **two highest quarters** of your base period — Georgia uses one of the more unusual formulas in the country. As a general rule, your WBA equals roughly 1/42 of the total wages in those two highest quarters, subject to state minimums and a state maximum that is updated by GDOL.
+
+Two important Georgia-specific points to keep in mind:
+
+- The **maximum weekly benefit amount** in Georgia has historically been on the lower end nationally. Check your monetary determination letter for your exact WBA and do not budget based on hopes.
+- The **number of weeks** you can collect in Georgia is on a **sliding scale tied to the state unemployment rate**. In normal times, Georgia caps weekly benefits at substantially **fewer weeks than the 26 weeks** most states offer. When the unemployment rate is low, the cap can be as short as **14 weeks**. When the unemployment rate climbs, the cap rises toward 26 weeks. Your specific maximum will be on your determination letter.
+
+Plan early. Georgia's shorter benefit window means you cannot afford to drift through the job search.
+
+### Tax Withholding
+
+Unemployment is **taxable income at the federal level**. Georgia **also taxes unemployment benefits as state income**. When you set up your claim in MyUI, choose to have **10% federal tax withheld** and **6% Georgia state tax withheld** if you can afford it. Otherwise, set aside money each week — too many Georgia claimants are caught off guard at tax time by a bill they cannot pay.
+
+## Common Reasons Your Georgia Claim Gets Delayed or Denied
+
+Most claim problems in Georgia fall into a few familiar buckets:
+
+- **Identity verification issues.** Mismatched names, addresses, or document quality problems can pause a claim for weeks. Use a current, undamaged ID and follow on-screen instructions exactly.
+- **Reason-for-separation disputes.** If your employer reports that you quit or were fired for misconduct, GDOL will pause your claim and investigate. Respond to every notice — silence is treated as agreement with the employer.
+- **Missed certifications.** Skip a payment request and your benefits stop. You may have to contact GDOL to restart them.
+- **Work search documentation.** If you cannot produce a log when asked, GDOL can deny the affected weeks and recover any money already paid.
+- **Unreported earnings.** Cash work, gig income, side work, vacation pay, and severance can all affect your benefit amount. Report everything to avoid a fraud finding.
+- **Severance and wages-in-lieu-of-notice.** Georgia treats severance differently depending on how it is paid out. Continued salary or wages-in-lieu-of-notice can delay the start of your benefits, while a true lump-sum severance often does not. Always report it accurately.
+
+## What to Do If Your Georgia Claim Is Denied
+
+A denial is not the end of the road. Georgia law gives you the right to **appeal** within a strict deadline — generally **15 calendar days** from the mail date on your determination letter. That window is shorter than many states, and missing it can wipe out your right to challenge the decision.
+
+The first level of appeal is a hearing before a **GDOL Hearing Officer**, almost always held by phone. You can present documents, call witnesses, and testify under oath. If you lose at that stage, you can appeal to the **Board of Review**, and from there to **Superior Court** in your county.
+
+You can represent yourself, but Georgia UI hearings often turn on technical legal issues — what counts as misconduct connected with the work, whether your reason for leaving was "work-connected," how severance and earnings should be apportioned. Working with an employment attorney can make a real difference, especially at the hearing-officer stage, where the factual record is built.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in Georgia is doable, but the stakes are high when rent, groceries, and bills are stacking up — and Georgia's combination of employer-filed claims, a lower maximum WBA, and a shorter benefit window leaves less margin for error than many states.
+
+**Start with our free eligibility tool.** It walks through your situation in a few minutes and tells you whether you likely qualify for Georgia UI, how much you may receive, and what to watch for in your specific case.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for a GDOL hearing**, our attorney directory connects you with employment lawyers in Georgia who handle unemployment matters. Many offer free initial consultations, so you can understand your options without committing to anything.
+
+**Explore our other guides** for help understanding what to do if your employer contests your claim, how to handle an overpayment notice, and how to navigate the appeals process step by step.
+
+Georgia's UI system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
+    `.trim(),
+  },
+  {
     slug: 'unemployment-work-search-requirements-2026',
     title: 'Unemployment Work Search Requirements: How to Stay Eligible in 2026',
     description: 'Most states require you to apply for jobs every week to keep collecting unemployment. Learn the rules, how to log your search, and how to avoid losing benefits.',
