@@ -3970,6 +3970,212 @@ Partial unemployment is one of the most under-used parts of the unemployment sys
 Cutting your hours is not the same as keeping your income whole. If your schedule has been chopped down, partial unemployment may be the difference between making rent and falling behind. BenefitsPath is here to help you find out where you stand and what to do next.
     `.trim(),
   },
+  {
+    slug: 'how-to-negotiate-severance-package-after-layoff-2026-guide',
+    title: 'How to Negotiate a Severance Package After a Layoff: A 2026 Guide',
+    description: "Just got laid off? Learn how to negotiate severance pay, benefits, and references — what to ask for, what to sign, and how an attorney can help in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-14',
+    updatedAt: '2026-05-14',
+    category: 'Workers Rights',
+    tags: ['severance negotiation', 'severance package', 'layoff', 'employment law', 'separation agreement', 'workers rights'],
+    readTime: '13 min read',
+    content: `
+## How to Negotiate a Severance Package After a Layoff in 2026
+
+Getting laid off is disorienting. One day you have a steady paycheck, health insurance, and a routine. The next, you are sitting across from HR holding a thick stack of papers labeled "Separation Agreement" and being told you have 21 or 45 days to sign. The natural instinct is to sign quickly and move on — but that is almost always the wrong move. A severance package is not a take-it-or-leave-it gift. It is an offer, and like most offers, it is negotiable.
+
+This 2026 guide walks through everything you need to know about negotiating a severance package after a layoff: what severance actually is, when employers are willing to negotiate, what to ask for beyond the dollar amount, the legal traps hidden in most separation agreements, and when it is worth bringing in an employment attorney. Whether you have been at the company for two years or twenty, the choices you make in the next few weeks can shape your finances and your career for years to come.
+
+## What Is Severance Pay and Are Employers Required to Offer It?
+
+**Severance pay** is money your employer pays you when your job ends, on top of any final wages and unused PTO. It is usually packaged with continued benefits, outplacement help, and a written **separation agreement** that you have to sign to receive it.
+
+Here is the part most workers do not realize: under federal law, **employers are generally not required to pay severance at all**. The Fair Labor Standards Act (FLSA) does not mandate it. A handful of states and cities have narrow rules — for example, certain mass layoffs under state mini-WARN Acts can trigger pay obligations — but a typical individual layoff carries no statutory severance requirement.
+
+So why do employers pay it? Three reasons:
+
+- **To buy a release of claims.** Most severance agreements require you to waive your right to sue the company for discrimination, harassment, wrongful termination, wage-and-hour violations, and other claims. The check is essentially the price of that waiver.
+- **Company policy or written contract.** Some employers have a published severance policy in the handbook. Executives often have severance terms spelled out in their offer letters.
+- **Reputation and morale.** Treating laid-off workers fairly helps employers retain the ones who remain and avoid public-relations damage.
+
+That third point matters because it gives you leverage. Employers usually pay severance because **they want something from you** — a clean break, a signed release, and a quiet exit. That is a transaction, and transactions can be negotiated.
+
+## What a Typical Severance Package Looks Like in 2026
+
+There is no single industry standard, but most severance packages include some combination of the following:
+
+### Cash Severance Pay
+
+The most common formula is **one to two weeks of base pay per year of service**, though senior roles often see two to four weeks per year, and executives sometimes receive a year or more. A worker with eight years of service might be offered anywhere from 8 to 16 weeks of pay as a starting offer.
+
+Severance is usually paid as a **lump sum** or as **salary continuation** (you stay on payroll for several weeks or months). Each structure has trade-offs for taxes and for unemployment benefits, which we will return to below.
+
+### Continued Health Insurance
+
+This typically takes one of two forms:
+
+- The employer pays your **COBRA premiums** for a set number of months (often 3 to 6).
+- The employer keeps you on the active group plan for a short transition period.
+
+Health coverage is often the most valuable line item in the package after cash, especially if you or a family member has ongoing medical needs.
+
+### Bonuses, Equity, and Unused PTO
+
+If you were on track for a bonus, ask whether a **pro-rated bonus** is included. For stock options or RSUs, the agreement should spell out what vests, what is forfeited, and whether the post-termination exercise window has been extended.
+
+Unused **paid time off** is paid out under state law in many states — California, for example, treats accrued vacation as wages — but in others it is governed by company policy. Read the agreement to make sure your PTO payout matches what you are owed.
+
+### Outplacement and References
+
+Many packages include **outplacement services** (resume help, career coaching) through a third-party provider. You can often negotiate to receive the cash equivalent instead if you would rather use it elsewhere.
+
+You can also negotiate a **neutral or positive reference**, a mutually agreed reason-for-leaving statement, and the company's agreement not to contest your unemployment claim.
+
+## When Employers Will Actually Negotiate
+
+Not every offer is negotiable, but more are than workers assume. Employers are most likely to negotiate when:
+
+- You are part of a **broader reduction in force (RIF)** and the company wants to avoid bad press or coordinated legal action.
+- You have **long tenure** or a senior role.
+- You have **legitimate legal claims** — for example, your layoff happened shortly after you raised a discrimination complaint, requested medical leave, reported safety violations, or filed a wage claim.
+- You were promised something at hire (a guaranteed bonus, accelerated vesting, a relocation reimbursement) that the standard agreement leaves on the table.
+- You were in a **protected class** and were laid off while younger or similarly situated colleagues kept their jobs.
+- You can prove the company miscalculated your years of service or pay rate.
+
+You are less likely to move the number much if you have short tenure, no underlying claims, and the layoff is part of a small, well-documented RIF. Even then, you can usually negotiate **non-cash items** — extended benefits, a longer review window, references, or removal of overbroad legal restrictions.
+
+## What to Ask For Beyond the Dollar Amount
+
+Negotiations that focus only on cash often leave the most valuable items on the table. Here is a fuller checklist of what to consider asking for:
+
+### More Weeks of Pay
+
+The straightforward ask. Anchor it to a specific reason — your tenure, your role, market norms, or the time you realistically need to find comparable work in your field.
+
+### Extended Health Coverage
+
+Adding even one or two more months of employer-paid COBRA can be worth thousands of dollars in real money, especially for workers with families.
+
+### Accelerated Vesting and Extended Option Window
+
+If you have unvested equity, ask whether some can be accelerated. If you have vested options, the standard 90-day post-termination exercise window is often negotiable to a longer period, particularly at later-stage private companies.
+
+### Pro-Rated Bonus
+
+If you worked most of the bonus year, you have a strong case for a pro-rata share.
+
+### Outplacement or Cash Equivalent
+
+Either keep the service or convert it to cash.
+
+### Unemployment Cooperation
+
+Ask the company to agree, in writing, **not to contest** your unemployment claim. Some companies will go further and confirm the separation was a **layoff** rather than termination for cause, which makes your unemployment application much smoother.
+
+### References and Reason for Leaving
+
+A short, written statement the company will use when contacted by future employers — typically confirming dates of employment, title, and that the separation was due to a layoff or restructuring.
+
+### Narrower Non-Compete and Non-Solicit
+
+If your offer letter or current agreement contains a broad **non-compete** or **non-solicit** clause, the separation agreement is a chance to narrow it, shorten it, or remove it entirely. After the 2024–2025 wave of state-level non-compete restrictions, many employers know these clauses are increasingly unenforceable and will agree to relax them.
+
+### Removal of Overbroad Non-Disparagement Clauses
+
+Most agreements bar you from saying anything negative about the company. Recent National Labor Relations Board (NLRB) decisions have invalidated overly broad versions of these clauses for non-supervisory employees. You can often negotiate a **mutual** non-disparagement provision or carve out protected speech.
+
+### Right to Speak with Regulators
+
+Federal law protects your right to file charges with agencies like the EEOC, NLRB, OSHA, and SEC — but some agreements still try to chill those rights. Make sure the agreement clearly preserves them.
+
+## The Legal Traps Hidden in Most Separation Agreements
+
+A severance offer is a legal contract. Before you sign, read every page. Pay particular attention to:
+
+### The Release of Claims
+
+The agreement will list every law and theory you are releasing — Title VII, the ADA, the ADEA, state discrimination laws, wage-and-hour statutes, common-law claims, and more. **Once you sign, those claims are gone.** If you suspect you were laid off for an unlawful reason, do not sign before talking to an attorney.
+
+### The OWBPA Notice (Age 40+)
+
+If you are 40 or older, the **Older Workers Benefit Protection Act (OWBPA)** requires the employer to give you at least **21 days** to consider an individual agreement (or **45 days** if the layoff is part of a group RIF) and **7 days** after signing to revoke. A group layoff also requires a disclosure listing the job titles and ages of everyone selected for layoff and everyone retained — useful evidence if you suspect age discrimination.
+
+### Confidentiality and Non-Disparagement Clauses
+
+These often go beyond protecting genuine trade secrets and try to silence you about your experience at the company. Push for mutual obligations and carve-outs for truthful statements, communications with regulators, and discussions of unlawful conduct.
+
+### Cooperation Clauses
+
+Many agreements require you to "cooperate" with the company in future investigations or litigation. Limit the scope, require reasonable notice, and ask for compensation for your time beyond a minimum threshold.
+
+### Tax Reporting and Withholding
+
+Cash severance is wages, reported on a **W-2** and subject to standard tax withholding. Some agreements try to split off a portion as "non-wage" income reported on a **1099** — be cautious, as misclassification can leave you with a surprise tax bill.
+
+### Effect on Unemployment Benefits
+
+Severance can delay or reduce unemployment benefits in some states. Lump-sum payments are generally treated differently from salary continuation. Check your state's rules — and read our companion guide, "Severance Pay and Unemployment Benefits: Can You Collect Both?" — before agreeing to a payment structure.
+
+## A Step-by-Step Approach to Negotiating
+
+If you have just been handed a severance offer, here is a practical sequence to follow.
+
+### Step 1: Do Not Sign Anything in the Room
+
+It is almost never required, and signing on the spot eliminates your leverage. Politely say you appreciate the offer and want time to review it. If you are 40 or older, federal law guarantees you 21 or 45 days; even if you are younger, ask for at least a week.
+
+### Step 2: Gather Your Documents
+
+Pull together your offer letter, recent pay stubs, performance reviews, equity grant documents, the employee handbook, and any written promises you have received. Calculate exactly what you are owed in final wages, unused PTO, and any earned bonuses.
+
+### Step 3: Calculate Your Walk-Away Number
+
+Figure out, realistically, what you need to bridge to your next role: monthly expenses, health-insurance costs, and how long similar job searches in your field typically take. This becomes your private floor.
+
+### Step 4: Decide Whether to Involve an Attorney
+
+A short consultation with an employment attorney — often free or low-cost — can clarify whether you have leverage you do not realize you have. For higher-dollar packages, or if you suspect discrimination or retaliation, attorney involvement frequently pays for itself many times over.
+
+### Step 5: Make a Written Counter-Offer
+
+A short, professional email is usually best. Lead with appreciation for the offer, then list specific asks with brief justifications: more weeks of pay, extended COBRA, a confirmed reason-for-leaving statement, narrower restrictive covenants. Avoid threats. Anchor your asks to facts.
+
+### Step 6: Be Prepared to Walk Away From Items, Not the Deal
+
+Negotiation is iterative. You may get more cash but not extended benefits. You may get a better reference but not accelerated vesting. Decide in advance which items you most need and which you can give up.
+
+### Step 7: Get Every Change in Writing
+
+Verbal promises do not count. Anything that matters needs to appear in the signed agreement.
+
+## When to Bring In an Employment Attorney
+
+Strong signals it is worth talking to an attorney before signing:
+
+- You believe the layoff was tied to your age, race, gender, disability, pregnancy, religion, national origin, sexual orientation, or another protected characteristic.
+- You recently raised concerns about harassment, discrimination, safety, wage theft, or fraud, and were laid off shortly afterward.
+- You were on, returning from, or had requested **FMLA leave**, medical leave, or accommodations.
+- The agreement contains a non-compete or non-solicit clause that would limit your next job.
+- You are 40 or older and were part of a group layoff (OWBPA disclosures may matter).
+- The severance offered is materially less than what the company's policy or your contract promised.
+- Unvested equity, deferred compensation, or commission disputes are involved.
+
+Many employment attorneys offer **free initial consultations** and can quickly tell you whether negotiation, mediation, or a claim is appropriate.
+
+## How BenefitsPath Can Help
+
+Severance is one of the most important financial conversations of your career, and you usually only get one shot at it. We built BenefitsPath to help workers in exactly this moment.
+
+**Use our free eligibility tool** to figure out whether you qualify for unemployment benefits and how the structure of your severance might affect your claim. Lump-sum versus salary-continuation choices can have a real impact on when your benefits start and how much you receive.
+
+**Browse our attorney directory** to find employment lawyers in your state who handle severance reviews, layoffs, and discrimination cases. Most offer free initial consultations, and many work on a contingency or flat-fee basis for severance reviews.
+
+**Read our companion guides** on the WARN Act, wrongful termination, constructive discharge, COBRA after job loss, and unemployment after a layoff. Together they form a complete playbook for the weeks after a job ends.
+
+A severance package is more than a check. It is the foundation for your next chapter. Take the time it deserves — and do not be afraid to ask for more.
+    `.trim(),
+  },
 ]
 
 export function getArticleBySlug(slug) {

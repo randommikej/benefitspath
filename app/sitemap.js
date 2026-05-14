@@ -47,6 +47,7 @@ const articleSlugs = [
   'how-to-file-unemployment-new-jersey-2026-guide',
   'partial-unemployment-benefits-hours-cut-2026-guide',
   'how-to-file-unemployment-georgia-2026-guide',
+  'how-to-negotiate-severance-package-after-layoff-2026-guide',
 ]
 
 export default function sitemap() {
