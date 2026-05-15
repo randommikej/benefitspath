@@ -4176,12 +4176,163 @@ Severance is one of the most important financial conversations of your career, a
 A severance package is more than a check. It is the foundation for your next chapter. Take the time it deserves — and do not be afraid to ask for more.
     `.trim(),
   },
+  {
+    slug: 'how-to-file-unemployment-michigan-2026-guide',
+    title: 'How to File for Unemployment in Michigan: 2026 Step-by-Step Guide',
+    description: "Lost your job in Michigan? Learn how to file a UIA claim through MiWAM, what documents you need, weekly certification rules, and how to avoid the mistakes that delay benefits.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-15',
+    updatedAt: '2026-05-15',
+    category: 'State Guides',
+    tags: ['michigan unemployment', 'UIA', 'MiWAM', 'file for unemployment', 'unemployment benefits michigan', 'state guides'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in Michigan: What Workers Need to Know in 2026
+
+Losing your job in Michigan — whether it is a layoff at an auto plant in Sterling Heights, a shift cut in a Grand Rapids warehouse, a downsizing in Lansing state government, or a closing restaurant in Detroit — leaves bills that do not stop. The state's unemployment insurance (UI) program is the bridge between your last paycheck and your next one. It is run by the **Michigan Unemployment Insurance Agency (UIA)**, and Michigan's system has features and pitfalls that surprise even workers who have filed before.
+
+This guide walks through every step of filing for Michigan unemployment in 2026: confirming you qualify, gathering documents, opening your **MiWAM** account, certifying every two weeks, and what to do if your claim is delayed, denied, or contested by your employer. It is written for real workers facing real bills.
+
+## Before You File: Do You Qualify?
+
+Michigan UI rules are set by state law and administered by UIA. Confirming eligibility before you sit down to apply saves time and frustration.
+
+### The Basic Requirements
+
+To qualify for Michigan unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This usually means you were laid off, your position was eliminated, your hours were significantly cut, or you quit for a reason Michigan recognizes as "good cause attributable to the employer."
+- **You earned enough wages during your base period.** Michigan's standard base period is the **first four of the last five completed calendar quarters** before you filed. You generally need wages in at least **two quarters** and total base period wages of at least **1.5 times** your highest-quarter earnings, plus state minimums that UIA adjusts.
+- **You are able to work.** If a medical issue keeps you from working, you may need to look at short-term disability instead.
+- **You are available for work** and can accept a suitable job today.
+- **You are actively seeking work** and keeping records of your job search.
+- **You are authorized to work in the United States.**
+
+If you do not qualify under the standard base period, UIA will check whether you qualify under the **alternate base period** — the four most recently completed quarters. This is especially helpful for workers who have re-entered the workforce recently.
+
+### What Counts as "Good Cause" to Quit in Michigan
+
+Michigan generally only approves benefits for quits when the reason is **attributable to the employer**. Examples that may qualify:
+
+- A substantial cut in pay, hours, or duties without a legitimate business reason
+- Unsafe working conditions your employer refused to correct after notice
+- Documented harassment or discrimination
+- A medical condition caused or made worse by the job, backed by a doctor's note
+- Certain domestic violence situations (Michigan has specific protections)
+
+Personal reasons — moving for a partner's job, going back to school, family conflicts unrelated to work — usually do **not** qualify. That said, every case turns on its facts. If you are uncertain, file anyway and let UIA decide. You can always appeal.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in to MiWAM keeps your claim moving. UIA will ask for:
+
+- Your Social Security number
+- A valid Michigan driver's license, state ID, or other government photo ID
+- Names, addresses, and phone numbers of every employer you worked for in the last **18 months**
+- The first and last dates you worked at each employer
+- The reason your job ended at each employer
+- Recent pay stubs or W-2s to verify wages
+- Your bank account and routing numbers for direct deposit
+- For non-citizens: your Alien Registration Number or work-authorization document
+
+If you served in the military in the last 18 months, also pull your **DD-214 (Member 4 copy)**. If you worked for the federal government, gather your **SF-8 or SF-50**.
+
+## How to File Your Michigan Unemployment Claim
+
+UIA's online system, **MiWAM (Michigan Web Account Manager)**, is the fastest way to apply. Phone filing is available, but it is slower and usually requires a callback appointment.
+
+### Option 1: File Online Through MiWAM
+
+Most Michiganders file online through MiWAM. The steps look like this:
+
+1. Go to **michigan.gov/uia** and select the option to file a new claim, which routes you to **MiWAM**.
+2. Create or log in to your MiWAM account. You will be guided through identity verification — Michigan generally uses a third-party identity provider plus UIA's own checks.
+3. Verify your identity carefully. Most claim delays in Michigan trace back to a stalled identity step or a name and address mismatch. Use a current, undamaged ID and make sure the photos you upload are sharp, glare-free, and show all four corners.
+4. Complete the new claim application and answer every question carefully — rushed answers about reason-for-separation, pay rate, or last day worked often trigger eligibility holds.
+5. Review and submit. Save your confirmation number and screenshot the final page.
+
+MiWAM is available 24 hours a day for most functions. Filing late evening or early morning often avoids midday slowdowns.
+
+### Option 2: File by Phone
+
+You can also file by calling the UIA's customer service line. Wait times can be long, and you may be scheduled for a callback. If you choose phone filing, have all the documents listed above in front of you before the call.
+
+### Option 3: In-Person Help
+
+UIA has reopened **regional offices and Local Offices** across the state for in-person help, generally by appointment. This is a strong option if your situation is complicated, you do not have reliable internet, or you have struggled with identity verification online.
+
+### Effective Date of Your Claim
+
+Your Michigan claim usually starts on the **Sunday of the week you file**, not the day you actually lost your job. Michigan still applies an **unpaid waiting week** at the start of most claims — meaning the first eligible week pays nothing, even though you must still certify for it. **File as soon as you are out of work**; waiting to file does not push the clock back.
+
+## After You File: Biweekly Certification (MARVIN and MiWAM)
+
+A new claim is not the same as a paid claim. To keep getting paid, you have to **certify every two weeks**. Michigan calls this the biweekly certification process, and historically it has been handled through both the **MARVIN** phone system and **MiWAM** online. Most workers now certify online inside MiWAM; the phone option is still available for those who prefer it.
+
+Certifying confirms, for each week in the two-week period:
+
+- You were able and available to work
+- You looked for work and kept records of your search
+- You did not refuse any suitable work
+- You report any earnings (gross, before taxes) for the week the work was done — **not** the week you were paid
+- You report any vacation pay, holiday pay, severance, or pension you received
+
+You will receive instructions on your assigned certification day inside MiWAM. **Missing a certification can stop your payments** and may require a phone call to UIA to restart them.
+
+### Work Search Requirements
+
+Michigan generally requires most claimants to make at least **one work-search activity per week**, with details documented for each week, plus completion of **state-required reemployment activities** (such as registering on **Pure Michigan Talent Connect**). Many workers are also referred to a **Reemployment Services and Eligibility Assessment (RESEA)** appointment — attending is mandatory if you are scheduled.
+
+Keep a written log of every job-search activity: the date, employer name, position, contact method, and outcome. Save confirmation emails. UIA can audit your work search records months after your claim ends, and "I think I applied somewhere" is not a defense.
+
+## How Much You Will Receive and How Long
+
+Your **weekly benefit amount (WBA)** in Michigan is based on the wages you earned in your **highest-earning quarter** of the base period. The basic formula is roughly **4.1% of your highest-quarter wages**, plus a small dependent allowance for each qualifying dependent, up to a state maximum.
+
+Two important Michigan-specific points:
+
+- The **maximum weekly benefit amount** in Michigan was increased substantially in 2025 — Public Act 16 of 2025 raised the maximum from the long-standing $362 figure and set it on a path of further increases. **Check your monetary determination letter** for your exact WBA, and check UIA's current maximum on michigan.gov/uia before you budget.
+- The **maximum number of weeks** is **26 weeks** for new claims filed on or after April 2, 2025, restored from the 20-week cap that had been in place for over a decade. This is a meaningful improvement — but it is still finite, and you should treat your job search as urgent from day one.
+
+### Tax Withholding
+
+Unemployment is **taxable income at the federal level**, and **Michigan also taxes unemployment benefits as state income**. When you set up your claim in MiWAM, choose to have **10% federal tax withheld** and **4.25% Michigan state tax withheld** if you can afford it. Otherwise, set money aside every two weeks — too many Michigan claimants are caught off guard at tax time by a bill they cannot pay.
+
+## Common Reasons Your Michigan Claim Gets Delayed or Denied
+
+Most claim problems in Michigan fall into a few familiar buckets:
+
+- **Identity verification issues.** Mismatched names or addresses, expired IDs, and poor photo quality can pause a claim for weeks. Use a current, undamaged ID and follow on-screen instructions exactly.
+- **Reason-for-separation disputes.** If your employer reports you quit or were fired for misconduct, UIA will pause your claim and investigate. Respond to every notice — silence is treated as agreement with the employer.
+- **Missed certifications.** Skip a biweekly certification and your benefits stop. You may have to contact UIA to restart them.
+- **Work search documentation.** If you cannot produce a log when asked, UIA can deny the affected weeks and recover any money already paid.
+- **Unreported earnings.** Cash work, gig income, side work, vacation pay, and severance can all affect your benefit amount. Report everything to avoid a fraud finding.
+- **Severance and separation pay.** Michigan treats severance as earnings in many cases. Continued salary or wages-in-lieu-of-notice can delay the start of your benefits, while a true lump-sum severance is sometimes treated differently. Always report it accurately.
+- **Past MIDAS-era flags.** Michigan claimants who filed years ago and were caught up in the agency's prior automated fraud system sometimes still see old issues resurface. If something old is blocking a new claim, ask UIA in writing to clarify and address it.
+
+## What to Do If Your Michigan Claim Is Denied
+
+A denial is not the end of the road. Michigan law gives you the right to a **protest and appeal** within strict deadlines — generally **30 calendar days** from the mail date on the determination. Missing that window can wipe out your right to challenge the decision.
+
+The path looks like this:
+
+1. **File a protest (redetermination request)** with UIA within 30 days. UIA will review and issue a redetermination.
+2. If you disagree with the redetermination, **appeal to the Michigan Office of Administrative Hearings and Rules (MOAHR)** for a hearing before an Administrative Law Judge (ALJ). The hearing is almost always by phone or video.
+3. If you lose at the ALJ stage, you can appeal further to the **Michigan Compensation Appellate Commission**, and then to **Circuit Court** in your county.
+
+You can represent yourself, but Michigan UI hearings often turn on technical issues — what counts as misconduct connected with the work, whether your quit was for "good cause attributable to the employer," and how severance and earnings should be allocated. An employment attorney can make a real difference, especially at the ALJ hearing stage, where the factual record is built and most cases are won or lost.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in Michigan is doable, but the stakes are high when rent, groceries, car payments, and utilities are stacking up. The combination of an unpaid waiting week, biweekly certification timing, identity verification challenges, and Michigan's history of contested overpayment cases leaves little room for error.
+
+**Start with our free eligibility tool.** It walks through your situation in a few minutes and tells you whether you likely qualify for Michigan UI, how much you may receive, and what to watch for in your specific case.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for a Michigan ALJ hearing**, our attorney directory connects you with employment lawyers in Michigan who handle unemployment matters. Many offer free initial consultations, so you can understand your options without committing to anything.
+
+**Explore our other guides** for help understanding what to do if your employer contests your claim, how to handle an overpayment notice, how to navigate the appeals process step by step, and how severance interacts with unemployment benefits.
+
+Michigan's UI system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
+    `.trim(),
+  },
 ]
-
-export function getArticleBySlug(slug) {
-  return articles.find((a) => a.slug === slug) || null
-}
-
-export function getAllArticles() {
-  return articles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-}
