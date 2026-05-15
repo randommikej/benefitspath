@@ -4336,3 +4336,11 @@ Michigan's UI system is built to support workers in transition — but you have 
     `.trim(),
   },
 ]
+
+export function getArticleBySlug(slug) {
+  return articles.find((a) => a.slug === slug) || null
+}
+
+export function getAllArticles() {
+  return articles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+}
