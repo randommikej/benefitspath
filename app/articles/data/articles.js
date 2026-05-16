@@ -4335,7 +4335,191 @@ Filing for unemployment in Michigan is doable, but the stakes are high when rent
 Michigan's UI system is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan.
     `.trim(),
   },
+  {
+    slug: 'how-to-file-unemployment-north-carolina-2026-guide',
+    title: 'How to File for Unemployment in North Carolina: 2026 Step-by-Step Guide',
+    description: "Lost your job in North Carolina? Learn how to file a DES unemployment claim, weekly benefits, work search rules, appeals, and how to avoid delays in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-16',
+    updatedAt: '2026-05-16',
+    category: 'State Guides',
+    tags: ['north carolina unemployment', 'DES', 'file for unemployment', 'unemployment benefits north carolina', 'state guides', 'NCWorks'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in North Carolina: What Workers Need to Know in 2026
+
+Losing a job in North Carolina — whether it's a tech layoff in the Research Triangle, a manufacturing cutback in Hickory, a banking restructuring in Charlotte, or a hospitality slowdown along the coast — can leave you scrambling to keep up with rent, groceries, and bills. The state's unemployment insurance (UI) program is designed to be a bridge, not a long-term safety net, while you look for your next role. The program is run by the **North Carolina Division of Employment Security (DES)**, a part of the **North Carolina Department of Commerce**, and it has some of the strictest rules in the country.
+
+This guide walks through every step of filing for North Carolina unemployment in 2026: confirming eligibility, gathering the right documents, applying through DES's online system, certifying weekly, meeting work search requirements, and what to do if your claim is denied. It is written for real workers facing real bills — not for HR departments or attorneys.
+
+## Before You File: Do You Qualify?
+
+North Carolina UI rules are set by state law and administered by DES. Before you sit down to apply, it helps to confirm you are likely eligible.
+
+### The Basic Requirements
+
+To qualify for North Carolina unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This usually means you were laid off, your position was eliminated, your hours were significantly reduced, or you quit for a reason DES recognizes as "good cause attributable to the employer."
+- **You earned enough wages during your base period.** North Carolina's standard base period is the first four of the last five completed calendar quarters before you filed. You generally must have wages in at least **two quarters**, your total base period wages must be at least **six times the average weekly insured wage**, and you must meet minimum dollar thresholds DES publishes each year.
+- **You are physically able to work.** If illness, injury, or pregnancy prevents you from working, you may need to look at short-term disability or other programs instead.
+- **You are available for work** and ready to start a suitable job immediately.
+- **You are actively searching for work** — North Carolina requires at least **three valid job contacts per week**.
+- **You are legally authorized to work in the United States.**
+
+If you don't qualify under the standard base period, DES may use an **alternate base period** (the four most recently completed quarters) to see if you can qualify based on more recent wages.
+
+### What Counts as "Good Cause Attributable to the Employer"
+
+North Carolina is one of the strictest states on voluntary quits. DES generally only approves benefits when the reason you quit was **directly caused by the employer**. Common situations that sometimes qualify include:
+
+- A substantial unilateral change in your pay, hours, duties, or job location
+- Unsafe working conditions your employer refused to correct after notice
+- Documented harassment or discrimination
+- A medical issue caused or aggravated by the job, supported by a doctor's note
+- Certain situations involving domestic violence
+
+Personal reasons — moving with a spouse for their new job, going back to school, general dissatisfaction, or family circumstances unrelated to work — usually do **not** count as good cause attributable to the employer in North Carolina. Every case is fact-specific, though. If you are unsure, file anyway and let DES decide. You can always appeal a denial.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in keeps the application moving. DES will ask for:
+
+- Your Social Security number
+- A valid North Carolina driver's license or state-issued ID
+- Names, addresses, and phone numbers of every employer you worked for in the last **18 months**
+- The first and last dates you worked at each employer
+- The reason your job ended at each employer
+- Recent pay stubs or W-2s to verify your wages
+- Your bank account and routing numbers for direct deposit (or a debit card mailing address)
+- For non-citizens: your Alien Registration Number or work authorization document
+
+If you served in the military within the last 18 months, also pull your **DD-214 (Member 4 copy)**. If you worked for the federal government, gather your **SF-8 or SF-50**.
+
+## How to File Your North Carolina Unemployment Claim
+
+DES's online system is the fastest way to apply. Phone filing is available but tends to be slower and is mostly reserved for claimants who can't use the online system.
+
+### Option 1: File Online Through the DES Customer Portal
+
+Most North Carolinians file online. The steps look like this:
+
+1. Go to **des.nc.gov** and select the option to file a new claim. This will take you to the **DES Customer Portal**.
+2. Create or sign in to your portal account. New users will go through email verification and identity proofing — DES uses ID.me or a similar identity service for many claimants.
+3. Verify your identity carefully. Most application delays trace back to a stalled identity step or mismatched personal information.
+4. Complete the application. Be especially careful with the **reason for separation** question — that single answer drives most denials and eligibility holds.
+5. Review and submit. Save your confirmation number and screenshot the final page.
+
+You can usually file online 24 hours a day. Filing late in the evening or early in the morning often avoids midday slowdowns.
+
+### Option 2: File by Phone
+
+If you can't file online, DES's customer call center can take a claim by phone. Wait times can be long — especially on Mondays and Tuesdays — so be prepared to call when lines open and stay patient. The phone number is listed on **des.nc.gov**, and the lines generally operate during standard business hours.
+
+### Effective Date of Your Claim
+
+Your claim usually starts on the **Sunday of the week you file**, not the day you actually lost your job. North Carolina also enforces a **one-week unpaid waiting period** — the first eligible week is unpaid, and you start collecting from your second eligible week onward. Filing as soon as you are out of work helps you avoid losing benefit weeks.
+
+## How Much Will You Get and for How Long?
+
+North Carolina's benefit amounts are calculated from your base period wages, but the state's benefit formula is among the least generous in the country.
+
+### Weekly Benefit Amount
+
+Your **weekly benefit amount (WBA)** is generally calculated as the sum of your wages from the last **two completed quarters** of your base period, divided by **52**. The state caps the WBA at a maximum that DES updates each year. As of the most recent figures, the cap has hovered around **$350 per week** — well below the national average — so even high earners often see a relatively modest benefit.
+
+Your weekly benefit replaces only part of your previous wages. Many workers find they need a side income or a quick re-employment plan to bridge the gap, which is exactly why work search and partial benefits matter so much in North Carolina.
+
+### Maximum Number of Weeks
+
+North Carolina ties the **duration** of benefits to the state's seasonally adjusted unemployment rate. The available weeks generally range from a low of about **12 weeks** when unemployment is low to a maximum of **20 weeks** when unemployment is higher. Compared to most states (which offer up to 26 weeks), North Carolina's shorter duration is one of the strictest features of its system.
+
+Your determination letter from DES will tell you both your weekly benefit amount and your maximum total benefit amount.
+
+## After You File: Weekly Certification and Work Search
+
+A new claim isn't the same as a paid claim. To keep getting paid, you must **certify** each week and meet the state's work search rules.
+
+### Weekly Certification
+
+Each week, you log back into the DES portal and answer a short set of questions confirming you:
+
+- Were able and available to work for the entire week
+- Looked for work and kept records
+- Did not refuse any suitable work offered to you
+- Reported any earnings (gross, before taxes) for the week the work was done — not the week you were paid
+
+Miss a certification week and DES may stop your payments until you call and explain. Two or more missed weeks in a row can close your claim entirely and force you to file again.
+
+### Work Search Rules
+
+North Carolina requires that you make at least **three valid job contacts each week** and that you keep a record of them. A "valid contact" generally includes:
+
+- Submitting a job application (online or in person)
+- Interviewing for a position
+- Registering with **NCWorks** (required for most claimants)
+- Attending a job fair or reemployment workshop
+
+DES audits work search records regularly. Keep a simple spreadsheet or notebook with the date, employer name, contact method, position applied for, and result. If your records are missing or vague, DES can disqualify you and demand repayment for any weeks already paid.
+
+### NCWorks Registration
+
+Within your first few weeks of filing, you must register on **NCWorks.gov** and complete your profile. Failing to register is one of the most common reasons new claims are held up.
+
+## Reasons Your North Carolina Claim Could Be Denied
+
+Some of the most common reasons DES denies claims include:
+
+- **Quit without good cause attributable to the employer**
+- **Discharge for misconduct connected with the work** — examples include theft, intentional rule violations, repeated unexcused absences after warnings, or substance use on the job
+- **Refusing suitable work** while collecting benefits
+- **Insufficient wages** in the base period
+- **Identity verification problems**
+- **Severance pay or wages in lieu of notice** allocated to weeks you also claimed benefits
+- **Pension or retirement payments** from a base period employer that reduce or eliminate your benefit
+
+A denial isn't the end of the road. North Carolina law gives you the right to appeal — and many workers win on appeal once the facts are fully reviewed.
+
+## How to Appeal a North Carolina Unemployment Denial
+
+If DES denies your claim or your employer challenges it, you'll receive a written determination explaining why. You have a strict deadline — usually **10 days from the mailing date** — to file an appeal. Miss the deadline and you may lose the right to appeal entirely.
+
+The appeals path looks like this:
+
+1. **File your appeal in writing** through the DES Customer Portal or by mail within 10 days. Keep a dated copy.
+2. DES schedules a hearing before an **Appeals Referee**, usually by phone. You and your employer both present evidence and testimony.
+3. If you disagree with the referee's decision, you can appeal to the **DES Board of Review**, which reviews the record but generally does not take new testimony.
+4. After that, you can appeal in **Superior Court** in your county and, if necessary, to the **North Carolina Court of Appeals**.
+
+You can represent yourself, but North Carolina unemployment hearings often turn on technical issues — what counts as "misconduct connected with the work," whether your quit was for good cause attributable to the employer, and how severance and earnings should be allocated. An employment attorney can make a real difference, especially at the Appeals Referee stage, where the factual record is built and most cases are won or lost.
+
+## Common Pitfalls That Delay or Reduce North Carolina Benefits
+
+Even strong claims get tripped up by avoidable mistakes. Watch for:
+
+- **Filing late.** Every week you wait is generally a week of benefits you can't recover.
+- **Vague separation answers.** "I was fired" or "I quit" without context lets DES make assumptions in the employer's favor.
+- **Skipping weekly certification.** Missed weeks pause your benefits and can require a new claim.
+- **Ignoring NCWorks registration.** This single oversight stalls thousands of claims each year.
+- **Not reporting side income** — even small side gigs must be reported, gross and in the week earned, not the week paid.
+- **Throwing away the determination letter.** That letter is your road map and your appeal clock.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in North Carolina is doable, but the system is one of the toughest in the country. A capped weekly benefit, a shortened maximum duration, a strict three-contact work search requirement, and a 10-day appeal window leave very little room for error.
+
+**Start with our free eligibility tool.** It walks through your situation in a few minutes and tells you whether you likely qualify for North Carolina UI, gives you an estimate of your weekly benefit, and flags issues to watch for in your specific case.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for a North Carolina Appeals Referee hearing**, our attorney directory connects you with employment lawyers in North Carolina who handle unemployment matters. Many offer free initial consultations, so you can understand your options without committing to anything.
+
+**Explore our other guides** for more help — including what to do if your employer contests your claim, how to handle an overpayment notice, how to appeal a denial step by step, and how severance pay interacts with unemployment benefits.
+
+North Carolina's UI program is built to support workers in transition — but you have to know how to use it. BenefitsPath is here to help you move from confusion to a clear plan and the next paycheck.
+
+    `.trim(),
+  },
 ]
+
 
 export function getArticleBySlug(slug) {
   return articles.find((a) => a.slug === slug) || null
