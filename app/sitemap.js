@@ -50,6 +50,7 @@ const articleSlugs = [
   'how-to-negotiate-severance-package-after-layoff-2026-guide',
   'how-to-file-unemployment-michigan-2026-guide',
   'how-to-file-unemployment-north-carolina-2026-guide',
+  'final-paycheck-laws-by-state-2026-guide',
 ]
 
 export default function sitemap() {
