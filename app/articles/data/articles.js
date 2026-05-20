@@ -4835,6 +4835,158 @@ Speaking up shouldn't cost you your job. When it does, the law is on your side �
     `.trim(),
   },
 
+  {
+    slug: 'what-to-do-when-unemployment-benefits-run-out-2026',
+    title: 'What to Do When Your Unemployment Benefits Run Out: A 2026 Survival Guide',
+    description: "Your unemployment benefits are ending — here's what to do next. 2026 guide to extensions, SNAP, Medicaid, rental help, debt options, and finding work fast.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-20',
+    updatedAt: '2026-05-20',
+    category: 'Unemployment Benefits',
+    tags: ['unemployment benefits running out', 'unemployment extensions', 'after unemployment runs out', 'financial assistance unemployment', 'SNAP after unemployment', 'job loss help'],
+    readTime: '13 min read',
+    content: `
+## When the Checks Stop: What to Do If Your Unemployment Benefits Are Running Out
+
+If you are watching your last few unemployment payments arrive and you still do not have a job lined up, you are not alone — and you are not out of options. State unemployment benefits typically last about **26 weeks**, though that number ranges from as little as 12 weeks in a few states to 30 weeks in others. When those weeks are up, the deposits stop, but rent, groceries, insurance, and car payments do not.
+
+This guide walks through exactly what to do as your benefits wind down: how to confirm what you have left, whether any extensions exist in 2026, what other government and nonprofit programs can fill the gap, how to protect your credit, and how to get back into work without taking the first bad offer that lands in your inbox. It is written for people who are scared, tired, and looking at a calendar — not for policy wonks.
+
+## Step 1: Confirm Exactly How Many Weeks You Have Left
+
+The first thing to do is **stop guessing and check the math**. Log in to your state unemployment portal (UI Online in California, MyUI in Georgia, NY.gov ID in New York, and so on) and look for two numbers:
+
+- Your **maximum benefit amount (MBA)** — the total dollars you can collect in this claim
+- Your **remaining balance** — what is left of that pot
+
+Divide the remaining balance by your weekly benefit amount to get the number of weeks you still have. If you cannot find this in the portal, call your state's UI office and ask directly. Knowing the exact end date — not just "soon" — lets you plan with real numbers.
+
+### Watch the Benefit Year, Not Just the Balance
+
+Most states also impose a **benefit year**, usually 52 weeks from the date you first filed. Once that year ends, you cannot draw any unused balance unless you file a brand new claim and re-qualify (which generally requires new wages earned **after** you started your last claim). If you have weeks left on paper but your benefit year is about to close, those weeks may vanish.
+
+## Step 2: Check for Any Available Extensions
+
+After the federal pandemic-era programs (PUA, PEUC, FPUC) ended in 2021, most American workers no longer have access to additional federal unemployment weeks. But a few state and conditional federal options still exist in 2026.
+
+### Extended Benefits (EB)
+
+The federal-state **Extended Benefits** program adds up to **13 or 20 additional weeks** of benefits, but only when a state's unemployment rate crosses specific triggers. EB rarely activates in healthy labor markets. To check whether your state has triggered EB:
+
+- Visit your state UI website's "extensions" or "EB" page
+- Check the U.S. Department of Labor's weekly trigger notice (search "DOL EB trigger notice")
+- Call your state UI office and ask, "Are Extended Benefits active in this state right now?"
+
+If EB is active, **you do not need to apply separately** — your state will usually contact you automatically and roll you onto the program when your regular benefits run out.
+
+### Disaster Unemployment Assistance (DUA)
+
+If your job loss was tied to a federally declared disaster (hurricane, flood, wildfire, or similar), you may qualify for **Disaster Unemployment Assistance** for up to 26 weeks beyond your regular benefits. Apply through your state UI agency.
+
+### State-Specific Extensions
+
+A handful of states run short-term extensions tied to specific industries or large plant closures. These are rare, but worth a phone call to your state UI office.
+
+## Step 3: Apply for SNAP and Medicaid Immediately
+
+The two programs most people miss when their unemployment ends are the two that move the fastest: **SNAP** (food assistance, formerly "food stamps") and **Medicaid** (free or low-cost health coverage).
+
+### SNAP / Food Assistance
+
+In 2026, the average SNAP household receives roughly **$200–$400 per month** in food benefits. Eligibility depends on household size and income — and once your unemployment ends, your income drops, which usually opens the door. Key facts:
+
+- You can apply online at your state's human services or social services website
+- Most states require an interview, but it is usually by phone
+- **Emergency SNAP** ("expedited SNAP") is available in many cases within **7 days** if your household has very little cash on hand and very low income
+- Receiving SNAP does **not** count against future job offers, taxes, or your credit
+
+### Medicaid
+
+If you lost employer health coverage with your job, **Medicaid** (or your state's version — Medi-Cal, MassHealth, Apple Health, BadgerCare, etc.) is often free, while ACA Marketplace plans cost money. Income limits in most states allow households well above the federal poverty line to qualify, especially after a job loss.
+
+You can apply through your state Medicaid agency or through **HealthCare.gov**, which will route you automatically if you qualify. Apply even if you are not sure — Medicaid applications are free and there is no penalty for being denied.
+
+### TANF Cash Assistance
+
+**Temporary Assistance for Needy Families (TANF)** provides limited monthly cash to families with children. Benefit amounts vary widely by state — generally $200 to $900 per month — but it is real cash, and it is one of the few programs that pays out actual dollars after unemployment ends.
+
+## Step 4: Stabilize Housing Before Anything Else
+
+A roof is the most important thing to protect. The good news is that several programs exist specifically to keep you in your home after a job loss.
+
+### Emergency Rental Assistance
+
+Many cities and counties still run **Emergency Rental Assistance Programs (ERAP)** funded by leftover federal and state housing dollars. These programs can cover **back rent, future rent, and utilities** if you can document a financial hardship. Search "[your county] emergency rental assistance 2026" or call **2-1-1** — the United Way's nationwide social services hotline.
+
+### Talk to Your Landlord Early
+
+If rental aid will not arrive in time, call your landlord **before** you miss a payment. Many landlords will accept a partial payment plan rather than start an eviction. Eviction filings are expensive and slow for them — a written payment plan signed before you fall behind is almost always cheaper for both sides.
+
+### Mortgage Forbearance
+
+If you own your home, contact your mortgage servicer and ask about **forbearance** or **loss mitigation**. Federal mortgage servicers (Fannie, Freddie, FHA, VA, USDA) all have hardship programs that can pause payments while you find work, with the missed amount added to the back of the loan instead of triggering foreclosure.
+
+### Utility Assistance
+
+**LIHEAP** (Low-Income Home Energy Assistance Program) helps with heating and cooling bills. **Lifeline** lowers phone and internet costs. Most utilities also run their own hardship programs — ask for the "customer assistance" team.
+
+## Step 5: Protect Your Credit and Manage Debt
+
+When income disappears, the temptation is to keep paying credit cards on time and let other things slide. That is usually the wrong order.
+
+The right priority order is typically: rent or mortgage first, then utilities, then your car payment if you need the car for work, then car insurance, then any secured debts, and finally credit cards and medical bills. Secured debts come before unsecured ones because the lender can take the property back; medical and credit card debt cannot legally cost you your home, even though collectors will make it feel that way.
+
+**Call every creditor.** Most credit card companies, auto lenders, and student loan servicers have hardship programs that can pause or reduce payments for several months. Federal student loans offer **unemployment deferment**, which can pause payments entirely while you are out of work. Avoid payday loans and car title loans — they almost always make things worse.
+
+## Step 6: Get Serious About Finding Work — But Smart About It
+
+The instinct after benefits end is to apply for anything. That is rational, but the data shows that being **strategic for two to four more weeks** usually pays off more than spraying applications and taking the first low offer.
+
+### Use Free Workforce Services
+
+Every state runs a **CareerOneStop / American Job Center** network with free services: resume coaching, interview practice, training scholarships, and direct employer referrals. Most people who file for unemployment never visit one, even though they paid for it through their tax dollars.
+
+### Consider Short-Term Skills Training
+
+If you have been job-hunting for months in a slow industry, a **2-to-12-week training program** (CDL, IT certifications, medical billing, HVAC, welding, etc.) can dramatically open up the job market. Many states offer free training through Workforce Innovation and Opportunity Act (WIOA) funding. Ask your local American Job Center what they will fund.
+
+### Don't Lie on Applications About Why You Left
+
+If you were laid off, say so. If you were fired, explain it cleanly and move on. Lying about a separation is one of the fastest ways to lose a job a few months later when the employer runs background checks.
+
+## Step 7: Document Everything for Tax Season
+
+Unemployment benefits are taxable at the federal level and in most states. When your benefits end, **download your 1099-G** from the state UI portal and save it. If federal taxes were not withheld during your claim, you may owe money in April — set aside what you can, and look into IRS payment plans early.
+
+Some states (such as California, New Jersey, Pennsylvania, Virginia, and Oregon) do **not** tax unemployment at the state level, but the federal IRS still does. If 2025 was a partial-year job loss, you may also qualify for credits like the **Earned Income Tax Credit (EITC)** that you have never received before. A free **VITA** (Volunteer Income Tax Assistance) site can do your return at no cost.
+
+## Step 8: Think About Whether to File a New Claim
+
+In some cases, you may be able to **file a new unemployment claim** after a previous one runs out — but only if you have new qualifying wages.
+
+You generally need to have:
+
+- Worked and earned new wages **after** you filed your last claim, and
+- Earned enough in the new base period to meet your state's eligibility minimums
+
+A short-term or part-time job during your claim can sometimes be enough to qualify you for a fresh claim once your old one ends. Always ask your state UI office whether you have enough wages to "re-qualify." Even a partial new claim helps.
+
+## When to Talk to an Employment Attorney
+
+If your benefits ran out because of a denial, a delayed appeal, an overpayment notice, or an investigation, talk to an **employment attorney** before you do anything else. The same is true if you were terminated under circumstances that may have been illegal — discrimination, retaliation, FMLA-protected medical leave, or off-the-clock wage theft.
+
+Most employment lawyers offer **free initial consultations**, and many work on contingency, meaning you pay nothing unless you recover money. The earlier they get involved, the more they can do.
+
+## How BenefitsPath Can Help
+
+Running out of unemployment is one of the scariest financial moments most people will ever face. You do not have to navigate it alone.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans understand what they qualify for and where to turn next. Our [eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator) can confirm whether you are eligible for a new unemployment claim or extension based on your situation. Our [state-by-state guides](https://www.benefitspath.org/articles) walk you through filing or refiling in your specific state, and our [attorney directory](https://www.benefitspath.org/attorneys) connects you with employment lawyers in your state who handle denials, overpayments, appeals, and wrongful termination cases — many of whom offer free initial consultations.
+
+When the checks stop, the most important thing is to keep moving — one phone call, one application, one program at a time. The benefits system is only one safety net. There are others, and most of them are quietly waiting for you to ask.
+    `.trim(),
+  },
+
 ]
 
 

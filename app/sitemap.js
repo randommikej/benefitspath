@@ -52,6 +52,7 @@ const articleSlugs = [
   'how-to-file-unemployment-north-carolina-2026-guide',
   'final-paycheck-laws-by-state-2026-guide',
   'workplace-retaliation-legal-rights-how-to-prove-it-2026',
+  'what-to-do-when-unemployment-benefits-run-out-2026',
 ]
 
 export default function sitemap() {
