@@ -4987,6 +4987,154 @@ When the checks stop, the most important thing is to keep moving — one phone c
     `.trim(),
   },
 
+  {
+    slug: 'layoff-vs-furlough-key-differences-unemployment-benefits-2026',
+    title: 'Layoff vs. Furlough: Key Differences and How Each Affects Your Unemployment Benefits in 2026',
+    description: "Furloughed or laid off? Learn the legal and financial differences in 2026 — pay, health insurance, return-to-work status, and how each affects your unemployment benefits.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-21',
+    updatedAt: '2026-05-21',
+    category: 'Workers Rights',
+    tags: ['layoff vs furlough', 'furlough', 'layoff', 'unemployment benefits', 'workers rights', 'job loss'],
+    readTime: '11 min read',
+    content: `
+## Layoff vs. Furlough: What Workers Need to Know in 2026
+
+If your employer just told you that you are being **furloughed** — or **laid off** — you may be wondering whether those two words mean the same thing. They do not. The label your employer uses changes your paycheck, your health insurance, your return-to-work expectations, and the way you file for unemployment benefits. In some cases it even changes whether you have a job to come back to at all.
+
+This guide explains the practical and legal differences between a layoff and a furlough in 2026. It walks through how each one affects your unemployment claim, what questions to ask your employer in writing, and how to protect yourself if the situation drags on longer than promised.
+
+## The Core Difference in Plain Language
+
+The simplest way to think about it:
+
+- A **layoff** usually means your employment is ending. Your job is being eliminated, your position is being cut, or the company is reducing its workforce. You may or may not be called back.
+- A **furlough** usually means your employment is paused. You are still on the company's books as an employee, but you are not working — or you are working reduced hours — for a defined period of time.
+
+In federal employment law, neither word has a single fixed legal definition. Different states, different employers, and even different industries use them in slightly different ways. What matters for your benefits is what your employer actually **does** — not the label they pick.
+
+### Layoff: Job Loss, Often Permanent
+
+A layoff usually involves a clean separation. You stop being an active employee. You receive your final paycheck. You may receive a severance offer, accrued vacation, and a notice of your rights under **COBRA** to continue health insurance at your own cost.
+
+Layoffs can be:
+
+- **Permanent**, with no expectation of being rehired
+- **Indefinite**, where the company says it hopes to bring people back but cannot promise it
+- **Temporary**, where there is a recall date — though in this case many employers and states will treat it more like a furlough for unemployment purposes
+
+If you were laid off in a group, your employer may have been required to give you advance notice under the federal **WARN Act**, which applies to most employers with 100 or more workers when 50 or more people lose their jobs at one site. Many states also have their own "mini-WARN" laws with even broader coverage.
+
+### Furlough: Pause on Pay, Not the Job
+
+A furlough is a temporary, mandatory leave without pay. You are still officially employed. You still appear in payroll systems. Your seniority typically keeps building. In most cases, you keep your health insurance — at least for a while — and the employer continues to pay its share of the premium.
+
+Furloughs are common when:
+
+- A business is going through a slow season
+- A government shutdown stops federal funding
+- A factory or studio cuts production for weeks at a time
+- An employer wants to reduce labor costs without losing the team
+
+A furlough may be **full-time** (you do no work at all for a defined period) or **partial** (your hours are cut, sometimes called a "rolling furlough" or a "reduced work schedule").
+
+## How a Layoff Affects Your Unemployment Claim
+
+Most layoffs make you eligible for unemployment, assuming you meet the standard requirements: you earned enough wages in your base period, you are able and available for work, and you lost the job through no fault of your own.
+
+Here is what to expect:
+
+- **You should file immediately.** Most states pay benefits based on the date you file, not the date you were laid off. Waiting a week to file usually costs you a week of benefits.
+- **Your separation reason matters.** When the state asks why you are no longer working, choose "laid off" or "lack of work." Avoid phrasings like "let go" or "fired" — those can trigger a separate fact-finding review.
+- **Severance can affect timing.** Some states reduce or delay your weekly benefit while you are receiving severance pay. Others do not. Always report severance honestly when the state asks — failing to report it is the most common cause of overpayment notices.
+- **You must keep searching for work.** Almost every state requires you to actively look for a new job and keep a written record of your contacts each week.
+
+### What If the Layoff Is "Temporary" With a Recall Date?
+
+If your employer tells you the layoff is temporary and gives you a recall date, your state may treat your claim more like a furlough — which can mean **waived work search requirements**. Ask your employer to put the recall date in writing and bring that documentation to your unemployment application.
+
+## How a Furlough Affects Your Unemployment Claim
+
+In most states, furloughed workers can collect unemployment benefits — even though you are still technically employed. The key is that you are not earning wages.
+
+What to know:
+
+- **You qualify even though you have not been "fired."** Almost every state recognizes a no-pay furlough as an involuntary loss of work and approves benefits.
+- **Work search requirements may be waived.** If you have a return-to-work date, the state may skip the requirement that you apply to other jobs. Each state handles this differently — check the rules where you live.
+- **Reduced-hours furloughs may qualify for partial benefits.** If your hours were cut rather than eliminated, you may be eligible for **partial unemployment**, which tops up your reduced paycheck with a smaller weekly UI benefit.
+- **You still report everything.** Any income you do earn during a partial furlough must be reported when you file your weekly claim. Underreporting is one of the leading causes of overpayment investigations.
+
+### When a Furlough Turns Into a Layoff
+
+This happens often. An employer announces a two-month furlough, then extends it, then quietly converts everyone to a permanent layoff. If that happens to you, refile or update your unemployment claim right away. The state needs to know your status has changed so your benefits can continue without a gap.
+
+## Health Insurance, Benefits, and Other Hidden Differences
+
+Beyond unemployment, the choice between layoff and furlough affects a lot of things workers do not always think about.
+
+### Health Insurance
+
+- **Layoff:** Your employer-sponsored health insurance typically ends at the end of the month in which you are laid off. You can elect **COBRA** coverage to keep the same plan at your own cost, but it is usually expensive. Many people qualify for cheaper coverage through their state's ACA marketplace under a **Special Enrollment Period** triggered by job loss, or for free or low-cost coverage through Medicaid.
+- **Furlough:** In most cases, your health insurance continues during the furlough — at least temporarily — and the employer keeps paying its share. You may still owe your portion of the premium, sometimes by writing a check to the company. Ask exactly how long this lasts and what happens if the furlough is extended.
+
+### Retirement Contributions
+
+If you contribute to a 401(k) or other retirement plan, layoffs typically stop your contributions and freeze any employer match. Furloughs may pause contributions but generally preserve your account and vesting schedule. You usually cannot withdraw from a 401(k) while still employed, so a furlough can limit your access to those funds compared to a layoff.
+
+### Seniority, Vacation, and Bonuses
+
+Furloughed employees usually keep their seniority and accrued time off. Laid-off employees typically have any unused vacation paid out as part of their final paycheck, depending on state law. Bonuses and stock vesting often depend on whether you are "actively employed" on a specific date — read the plan documents carefully before agreeing to any separation paperwork.
+
+### Final Paycheck Timing
+
+State laws vary widely on when a final paycheck must be issued. Some states require it immediately on the last day of work, others within a few business days, and others by the next regular payday. Furloughed workers do not get a "final paycheck" because they are not separating — but if a furlough later turns into a layoff, the clock starts then.
+
+## Questions to Ask Your Employer in Writing
+
+Whether you are facing a layoff or a furlough, ask your employer to confirm the answers to these questions in writing — by email is fine. Verbal promises from a manager are very hard to enforce later.
+
+- Is this a layoff or a furlough? What is the official term being used in payroll?
+- What is the last day I will receive a paycheck?
+- What is the expected length of the furlough or the expected recall date?
+- Will my health insurance continue, and if so for how long? Who pays the premium during that period?
+- Will my accrued vacation, PTO, or sick time be paid out?
+- Am I being offered severance, and what does signing the agreement require me to give up?
+- Will I be eligible for rehire when conditions improve?
+- Will the company contest my unemployment claim?
+
+The answers to these questions affect your bills, your benefits, and your legal options.
+
+## Common Pitfalls to Avoid
+
+A few mistakes come up over and over again. Watch for these:
+
+- **Waiting to file.** Even if you expect to be recalled in two weeks, file for unemployment now. If you get called back early, you simply stop certifying.
+- **Signing a severance agreement quickly.** Severance agreements often contain non-disparagement clauses, releases of all legal claims, and limits on your right to apply for rehire. Most employers will give you time to review with a lawyer. Take it.
+- **Misclassifying the reason for separation.** If your employer fills in the wrong reason on their side — for example "voluntary quit" instead of "lack of work" — your claim may be denied. You can appeal, but it takes time. Catch it early.
+- **Assuming federal employees follow the same rules.** Federal furloughs (such as during government shutdowns) have their own unemployment process under the **Unemployment Compensation for Federal Employees (UCFE)** program. The basic concept is the same, but the paperwork is different and the federal employer must verify your wages.
+
+## When to Talk to an Employment Lawyer
+
+Most layoffs and furloughs are lawful business decisions. But there are situations where you should at least get a free consultation:
+
+- You suspect you were picked for the layoff because of your age, race, gender, disability, religion, pregnancy, or because you complained about something at work
+- You were laid off shortly after taking medical leave, reporting harassment, or asking about wages or overtime
+- Your employer is offering a severance agreement and you are not sure what you are giving up
+- A large group of workers was let go without WARN Act notice
+- You were furloughed for months and never recalled, and the company is now hiring for the same role
+
+In these cases, an employment attorney can review your situation and tell you whether you have a claim worth pursuing — often at no upfront cost.
+
+## How BenefitsPath Can Help
+
+Whether you are facing a layoff, a furlough, or something in between, you do not have to figure it out alone.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans understand their rights and find their next step. Our [eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator) can give you a quick estimate of your weekly benefit and how long it might last in your state. Our [state-by-state guides](https://www.benefitspath.org/articles) walk you through filing in your specific state, including the questions that trip up furloughed workers most often. And our [attorney directory](https://www.benefitspath.org/attorneys) connects you with experienced employment lawyers in your state — many of whom offer free initial consultations on layoffs, severance review, wrongful termination, and unemployment appeals.
+
+The line between a furlough and a layoff often feels blurry, especially when an employer is buying time. The clearer you are about your status — and your rights — the better positioned you are to protect your income while you figure out what comes next.
+    `.trim(),
+  },
+
 ]
 
 
