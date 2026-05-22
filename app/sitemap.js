@@ -54,6 +54,7 @@ const articleSlugs = [
   'workplace-retaliation-legal-rights-how-to-prove-it-2026',
   'what-to-do-when-unemployment-benefits-run-out-2026',
   'layoff-vs-furlough-key-differences-unemployment-benefits-2026',
+  'independent-contractor-misclassification-unemployment-benefits-2026',
 ]
 
 export default function sitemap() {
