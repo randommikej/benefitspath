@@ -55,6 +55,7 @@ const articleSlugs = [
   'what-to-do-when-unemployment-benefits-run-out-2026',
   'layoff-vs-furlough-key-differences-unemployment-benefits-2026',
   'independent-contractor-misclassification-unemployment-benefits-2026',
+  'non-compete-agreements-after-termination-enforceable-2026',
 ]
 
 export default function sitemap() {

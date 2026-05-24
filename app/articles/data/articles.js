@@ -5285,6 +5285,141 @@ If you were paid on a 1099 but the job looked like a regular job, you are not al
 The label on your pay stub does not decide what you are owed. The facts of how you worked do — and if those facts say you were really an employee, the law is on your side.
     `.trim(),
   },
+  {
+    slug: 'non-compete-agreements-after-termination-enforceable-2026',
+    title: 'Non-Compete Agreements After Termination: Are They Enforceable in 2026?',
+    description: "Fired or laid off and worried about a non-compete? Learn what makes non-competes enforceable in 2026, state law changes, the FTC rule, and your options.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-24',
+    updatedAt: '2026-05-24',
+    category: 'Employment Law',
+    tags: ['non-compete agreement', 'non-compete enforceability', 'employment law', 'after termination', 'workers rights', 'FTC non-compete rule'],
+    readTime: '11 min read',
+    content: `
+## Non-Compete Agreements After Termination: What Workers Need to Know in 2026
+
+You signed something on your first day. You barely remember reading it. Then you got laid off — or fired — and now an HR email is "reminding" you of a **non-compete agreement** that says you cannot work for a competitor for the next 12 months. Suddenly the job offer you were about to accept looks risky.
+
+If this sounds familiar, you are not alone. Non-compete clauses still appear in millions of employment contracts in 2026, even after a high-profile federal effort to ban most of them. The good news: in many situations, that non-compete is **far less enforceable than your former employer wants you to believe**. The harder news: the rules vary widely by state, and the only way to know where you stand is to understand how courts actually look at these clauses.
+
+This guide walks through how non-competes work after termination in 2026, where the **FTC non-compete rule** stands, which states have already banned or limited them, and what to do if a former employer threatens to sue you for taking a new job.
+
+## What Is a Non-Compete Agreement?
+
+A non-compete agreement (sometimes called a non-compete clause or restrictive covenant) is a contract — or part of one — in which an employee promises not to work for a competitor, start a competing business, or sometimes even work in the same industry, for a set period of time after leaving the employer. They typically include three limits:
+
+- **Time** — how long after you leave the restriction lasts (often 6 to 24 months)
+- **Geography** — where you cannot work (a city, a state, "anywhere the company does business")
+- **Scope** — what kinds of work you cannot do (a specific role, a customer list, an industry)
+
+Non-competes are different from two other common clauses that are often bundled into the same document:
+
+- **Non-solicitation agreements**, which restrict you from contacting former clients or coworkers
+- **Non-disclosure agreements (NDAs)**, which protect trade secrets and confidential information
+
+Non-solicitation and NDAs are generally easier to enforce than full non-competes — even in states that have cracked down on non-competes.
+
+## The FTC Non-Compete Rule: Where Things Stand in 2026
+
+In **April 2024**, the Federal Trade Commission issued a final rule that would have banned most non-compete agreements nationwide, calling them an "unfair method of competition." The rule was scheduled to take effect in September 2024.
+
+It never did. In **August 2024**, a federal judge in Texas (Ryan, LLC v. FTC) issued a nationwide order blocking the rule. The court ruled that the FTC had exceeded its authority. The FTC appealed, but the appeals process has continued to leave the federal rule on hold heading into 2026. As of 2026, **there is no broad federal ban on non-compete agreements**. Whether your non-compete is enforceable still depends almost entirely on **state law**.
+
+That said, the FTC's high-profile push changed the conversation. Many states tightened their non-compete rules in 2024 and 2025, and many employers quietly stopped using or stopped enforcing the clauses for lower-paid workers.
+
+## State Law Is What Really Matters
+
+Non-competes are governed mostly by the law of the state where you worked. The rules range from "almost never enforceable" to "enforceable if reasonable." Here is a rough map for 2026:
+
+### States Where Non-Competes Are Largely Unenforceable
+
+- **California** — non-competes are void for almost all employees, and California recently expanded protections so that even **out-of-state** non-competes generally cannot be enforced against workers now living and working in California.
+- **Minnesota** — a 2023 law voided new employee non-competes signed after July 1, 2023.
+- **North Dakota** and **Oklahoma** — long-standing statutes broadly void employee non-competes.
+
+### States With Strong Wage or Job-Type Limits
+
+- **Colorado**, **Illinois**, **Maryland**, **Massachusetts**, **Maine**, **New Hampshire**, **Oregon**, **Rhode Island**, **Virginia**, **Washington**, and **Washington, D.C.** have all passed laws banning non-competes for workers below a certain income threshold, for hourly workers, or for specific occupations (such as healthcare workers, broadcasters, or low-wage service employees). Thresholds and rules differ in each state.
+
+### States Where Courts Apply a "Reasonableness" Test
+
+In most other states, including **Texas**, **Florida**, **Georgia**, **New York**, **Pennsylvania**, **Ohio**, and **North Carolina**, courts will enforce a non-compete only if it is **reasonable**. Judges typically look at:
+
+- Whether the employer has a **legitimate business interest** to protect (trade secrets, customer relationships, special training)
+- Whether the **time** restriction is reasonable (often 6 to 12 months is fine; 3+ years rarely is)
+- Whether the **geographic** scope matches where you actually worked
+- Whether the **scope of work** is limited to what you actually did
+- Whether enforcing it would cause **undue hardship** to you and harm the public
+
+Some of these states will "blue-pencil" an overly broad non-compete — narrowing it to make it enforceable. Others, like Georgia, will throw out an overly broad clause entirely.
+
+## Does the Reason You Left Matter?
+
+Yes — and this is one of the most overlooked points. In a growing number of states, **how your job ended affects whether your non-compete can be enforced**:
+
+- **Illinois, Massachusetts**, and several other states say a non-compete is unenforceable if you were **laid off** or terminated **without cause**.
+- Many courts apply a similar fairness principle even without a specific statute: if your employer fired you or eliminated your job, judges are far less willing to also block you from earning a living elsewhere.
+
+If you quit voluntarily, courts are more likely to enforce a reasonable non-compete. If you were let go through no fault of your own, the leverage shifts toward you.
+
+## What Makes a Non-Compete Hard to Enforce in 2026
+
+Even in states that allow them, courts increasingly look for reasons to **narrow or strike down** non-competes. Common red flags that work in your favor:
+
+- The agreement is **overly broad** ("any business" or "anywhere in the United States").
+- The time period is **too long** for your role.
+- The non-compete was **signed after** you started working with no extra pay or benefit ("consideration") in exchange.
+- The employer **paid you below the state's threshold** for non-compete enforcement.
+- The clause restricts you from doing work that has **nothing to do with the trade secrets or relationships** the employer claims to protect.
+- The employer **breached the contract first** — for example, by not paying severance promised in exchange for the non-compete.
+- Enforcement would leave you **unable to support yourself** in your field.
+
+## What to Do If a Former Employer Threatens You
+
+Many non-compete disputes never reach a courtroom. They start with a **cease-and-desist letter** — a strongly worded email or letter telling you (and often your new employer) to back off. Here is how to handle it without panicking:
+
+### 1. Do Not Sign Anything New Without Reading It Carefully
+
+If your old employer offers you severance, a "transition agreement," or a release, read every word. Some of these documents quietly **extend** non-compete or non-solicit obligations in exchange for the severance check.
+
+### 2. Get a Copy of Every Document You Signed
+
+Pull your offer letter, employee handbook acknowledgments, equity grants, and any standalone non-compete or NDA. Many workers find that the actual contract they signed is **much narrower** than what HR is now describing.
+
+### 3. Save All Communications
+
+Keep emails, letters, voicemails, and texts from your former employer. If they push you to violate a non-compete to "test" you, or make threats designed to intimidate you, that history matters.
+
+### 4. Talk to an Employment Lawyer Before You Respond
+
+Do **not** send an angry reply to HR. Do not promise anything in writing. A 30-minute consultation with an employment attorney is almost always worth it. They can quickly tell you:
+
+- Whether your non-compete is even valid in your state
+- Whether the time/geography/scope is likely to be enforced
+- Whether you have leverage to negotiate a release in exchange for severance
+- Whether your new employer is at risk of being pulled into a lawsuit
+
+Many employment lawyers offer free initial consultations and take cases on a flat fee or contingency basis.
+
+### 5. Loop In Your New Employer Carefully
+
+Most reputable employers expect this. Tell them about the non-compete **before** you start. Many will already have a process — including their own legal review or indemnification — for handling these situations. Hiding the non-compete and then getting sued is far worse than being upfront.
+
+## Non-Competes and Unemployment Benefits
+
+A non-compete does not, by itself, disqualify you from collecting unemployment. Your eligibility is decided by your state's unemployment agency based on **why your job ended** — not by whatever your old employer wrote into your contract.
+
+If you are turning down job offers because of a non-compete, however, you may run into the state's **"able and available for work"** requirement. Document every job you apply for and every offer you receive, and be ready to explain to the state if your job search is being limited by a restrictive agreement.
+
+## How BenefitsPath Can Help
+
+A non-compete should not control the rest of your career — especially when you have been laid off or fired through no fault of your own. The law has moved a long way in your favor over the last few years.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans navigate the legal and financial side of job loss. Our [eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator) gives you a quick estimate of your weekly unemployment benefits while you figure out your next move. Our [articles library](https://www.benefitspath.org/articles) breaks down severance, wrongful termination, appeal rights, and state-specific filing rules in plain English. And our [attorney directory](https://www.benefitspath.org/attorneys) connects you with experienced employment lawyers in your state — many of whom handle non-compete reviews, severance negotiations, and wrongful termination cases on a free-consultation basis.
+
+If a former employer is waving a non-compete at you, take a breath. Find out what your state law actually says. In 2026, more often than not, the leverage is yours — not theirs.
+    `.trim(),
+  },
 
 
 ]
