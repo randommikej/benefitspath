@@ -5421,6 +5421,178 @@ If a former employer is waving a non-compete at you, take a breath. Find out wha
     `.trim(),
   },
 
+  {
+    slug: 'unemployment-phone-interview-how-to-prepare-2026',
+    title: 'Unemployment Phone Interview: How to Prepare and What to Say in 2026',
+    description: "Got a fact-finding call from your state unemployment office? Learn what to expect, what to say, what documents to have ready, and how to protect your benefits in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-25',
+    updatedAt: '2026-05-25',
+    category: 'Unemployment Claims',
+    tags: ['unemployment phone interview', 'fact-finding interview', 'unemployment hearing', 'unemployment eligibility', 'claim adjudication', 'unemployment tips'],
+    readTime: '11 min read',
+    content: `
+## What Is an Unemployment Phone Interview?
+
+You filed for unemployment, hit submit, and waited for payment. Then a letter — or an email, or a text — showed up telling you that the state needs to **interview you by phone** before your claim can be approved. Your heart sinks. Did you do something wrong? Are you about to lose the benefits you were counting on?
+
+Take a breath. A phone interview, often called a **fact-finding interview** or **adjudication interview**, is a routine part of how most state unemployment agencies decide claims. It does not mean you have been denied. It means the state has a **question about your separation, your eligibility, or your weekly certifications** and needs to hear directly from you (and usually from your former employer) before it makes a decision.
+
+This guide walks through exactly what to expect, what the interviewer will ask, what documents you should pull together, what to say, what **not** to say, and what to do if you miss the call or get a decision you disagree with. It is written for real workers — not lawyers — in plain English.
+
+## Why the State Wants to Talk to You
+
+Most unemployment claims are paid without any phone interview. The state pulls wages from its database, confirms that you were laid off, and starts payments. A fact-finding interview is triggered when something on your claim does not have a clean, automatic answer. Common triggers include:
+
+- Your employer reported that you **quit** or were **fired for misconduct** — not laid off.
+- You were paid **severance**, **vacation payout**, **PTO**, or **a pension** when you left.
+- You worked while certifying weekly and the state wants to confirm the hours and earnings.
+- You are **self-employed** or doing **gig work** on the side.
+- You **moved to another state**, **went to school full time**, or were **out of the country** during a week you claimed.
+- You **refused a job offer** or did not meet the **work search requirement**.
+- Your **identity** was flagged for verification.
+- Your employer **protested** your claim and the state needs both sides of the story.
+
+The interview is the state's way of giving you a chance to explain — in your own words — what actually happened. If you handle it well, the call often ends with the examiner saying, "Thanks, that clears it up." If you handle it poorly, it can cost you weeks or months of benefits.
+
+## When and How the Interview Happens
+
+Each state runs interviews a little differently, but the general pattern is the same.
+
+### How You'll Be Notified
+
+You will get a notice — often by mail, but increasingly by email, secure message in your claimant portal, or text — telling you:
+
+- The **date and time** of the call
+- The **phone number** the state will be calling from (often a blocked or 800 number)
+- The **topics** to be discussed (sometimes called "issues")
+- A reminder that **failure to participate may result in denial of benefits**
+
+Read the notice carefully. The "issues" section tells you exactly what the examiner wants to talk about — separation reason, severance, work search, whatever it is. That is your study guide.
+
+### How Long the Call Takes
+
+Most fact-finding interviews run **15 to 30 minutes**. Some are shorter. Complex separations — long employment history, multiple jobs, contested misconduct — can run an hour. The examiner controls the pace.
+
+### Will Your Former Employer Be on the Call?
+
+Usually not. In most states, fact-finding interviews are **one-sided**: the state interviews you and your employer **separately**, then weighs the evidence. A few states use a **three-way call**. Your notice will tell you which format applies. If your employer will be on the line, you have every right to **also be there with notes prepared** — see the prep section below.
+
+## What to Do Before the Call
+
+The single biggest predictor of a good outcome is **preparation**. Workers who walk into a fact-finding interview without notes lose far more often than workers who walked in ready.
+
+### Step 1: Re-read the Notice and Identify the Issue
+
+Look at the "issues" listed on your notice. If it says *"voluntary quit without good cause,"* you know the conversation will be about why you left. If it says *"discharge for misconduct,"* it will be about what your employer claims you did. Match your prep to the issue listed.
+
+### Step 2: Pull Together Your Documents
+
+Have these in front of you on the day of the call:
+
+- Your **separation notice**, **termination letter**, or **layoff notice** if you have one
+- Your **last few pay stubs** and your **W-2** if available
+- Any **severance agreement** or **PTO payout statement**
+- **Emails or texts** between you and your manager around the time of separation
+- Your **employee handbook** or written **company policy** if misconduct is alleged
+- Your **work search log** if work search is the issue
+- Any **doctor's notes**, **medical leave paperwork**, or **disability records** if health is involved
+- A **timeline** you wrote out yourself: when you were hired, when you got each promotion or transfer, when problems started, when the final incident occurred, and the exact date you separated
+
+### Step 3: Write a Short Statement
+
+Before the call, write out — in two or three short paragraphs — **exactly what happened and why you believe you qualify for unemployment**. Read it out loud once. You will not read it word-for-word during the call, but having it in front of you keeps you from rambling, contradicting yourself, or forgetting key dates.
+
+### Step 4: Pick a Quiet Spot and a Reliable Phone
+
+Sit somewhere quiet. Use a phone with a strong signal. Have water, your notes, and a pen ready. If the examiner calls from a blocked number and your phone normally screens those, **temporarily turn off call screening** the morning of the interview.
+
+### Step 5: Decide Whether You Need an Attorney
+
+For routine layoffs, you do not need a lawyer for a fact-finding interview. For higher-stakes situations — contested misconduct firings, claims that overlap with a wrongful termination or discrimination case, large severance disputes — talking to an employment attorney **before** the call can be the best money you ever spend. Many offer free initial consultations.
+
+## What the Interviewer Will Ask
+
+Examiners follow a script tied to the issue listed on your notice. Expect questions like:
+
+- "Please state your name, address, and the last four digits of your Social Security number."
+- "Who was your last employer and what was your job title?"
+- "When did you start working there and what was your last day?"
+- "In your own words, why did your job end?"
+- "Did you give a written resignation? Did you receive a written termination notice?"
+- "Were you offered another position before you left?"
+- "Did your employer follow its written disciplinary policy?"
+- "Have you received any severance, vacation pay, PTO payout, or pension?"
+- "Are you currently working, including part-time or self-employment?"
+- "Are you able and available to work full time?"
+- "What jobs have you applied for in the last few weeks?"
+
+Answer each question **directly and briefly**. Then stop talking. Silence is the examiner's tool, not yours.
+
+## What to Say — and What Not to Say
+
+This is where workers most often hurt themselves. A few simple rules:
+
+### Do
+
+- **Tell the truth.** Unemployment fraud is a serious offense and the state cross-checks your answers against employer records, wages, and even bank deposits.
+- **Stick to facts and dates.** "On April 12 my supervisor told me my position was eliminated effective April 26."
+- **Frame your separation in the state's language** when it honestly fits. Workers who were laid off should say "laid off." Workers whose hours were cut to zero should say "hours were reduced to zero" or "my position was eliminated."
+- **Pause before answering** when a question surprises you. It is fine to say, "Let me think for a second."
+- **Ask the examiner to repeat** any question you do not understand.
+- **Have your timeline in front of you** so dates come out right.
+
+### Don't
+
+- **Don't volunteer information that wasn't asked.** If the examiner asks why you left, do not also explain that you were already job hunting before you quit. Answer the question and stop.
+- **Don't guess at dates.** "I think it was sometime in March" can sink your claim. Look at your notes.
+- **Don't argue, swear, or insult your employer.** Examiners are trained to discount emotional testimony. Stick to facts.
+- **Don't say "I quit"** if you were forced out, constructively discharged, or laid off. The legal label of your separation matters. If the company eliminated your role, that is a layoff — not a quit, even if you signed a resignation letter under pressure.
+- **Don't admit to misconduct you did not commit** just to keep the call short. Misconduct findings can disqualify you for the entire benefit year.
+- **Don't joke about side income, side hustles, or "under the table" work.** Even joking comments are written into the examiner's notes.
+
+## What If You Miss the Call?
+
+This happens more than you would think. Phones get blocked. Voicemails get filled. Notices get lost in spam folders. If you miss the interview:
+
+- **Call the state agency the same day** the call was scheduled, if at all possible.
+- Ask the agency to **reschedule the interview** and explain what happened.
+- Get the name of the person you spoke with and write down the date and time.
+- If you receive a denial because you missed the call, **file an appeal immediately**. Most states give you only 10 to 30 days to appeal.
+
+A missed interview is one of the most common reasons claims get denied. It is also one of the most fixable — if you act fast.
+
+## After the Interview: How the Decision Is Made
+
+You will not get a yes-or-no answer on the call. The examiner is gathering information, not making a ruling on the spot. Within a few days to a few weeks, you will receive a **written determination** in the mail or in your claimant portal. The determination will:
+
+- State whether you are **eligible** or **ineligible**
+- Explain the **reason** in writing
+- Show the **weekly benefit amount** and **maximum benefit amount** if eligible
+- Include **appeal rights** and a **deadline** if ineligible
+
+Read the determination carefully. Even an "approved" determination can have hidden issues — a wrong base period, a misstated weekly benefit, or a non-monetary issue still pending.
+
+## If You Are Denied — Appeal Right Away
+
+Most workers who win unemployment after an initial denial win it on appeal, not on the first phone interview. Appeals are scheduled as **hearings**, which are more formal than fact-finding interviews and are run by an administrative law judge or hearing officer. You can present evidence, call witnesses, and cross-examine your former employer.
+
+If you receive a denial, do three things immediately:
+
+1. **Note the appeal deadline.** It is short — usually 10, 15, or 30 days from the date on the notice.
+2. **File the appeal in writing** through the state's portal or by mailing the form. A short, dated statement that you disagree with the determination is enough to preserve your rights.
+3. **Consider hiring or consulting an employment attorney** for the hearing, especially if your case involves a contested firing, large severance, or potential discrimination.
+
+## How BenefitsPath Can Help
+
+A fact-finding phone interview should not be the thing that decides whether you can pay rent next month. Going in prepared makes the difference between losing your benefits and being approved within days.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans understand their rights, estimate their benefits, and get connected with the right help. Our [eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator) gives you a quick estimate of your weekly unemployment payment based on your state and recent earnings. Our [articles library](https://www.benefitspath.org/articles) walks through severance, work search rules, misconduct firings, appeals, and state-specific filing tips. And our [attorney directory](https://www.benefitspath.org/attorneys) connects you with experienced employment lawyers in your state — many of whom handle fact-finding interviews and appeal hearings on a free-consultation basis.
+
+If a phone interview is on your calendar, do not go into it cold. Read the notice. Pull your documents. Write your timeline. Take the call from a quiet room. Tell the truth, stick to facts, and stop talking when you have answered the question. That is almost always all it takes.
+    `.trim(),
+  },
+
 
 ]
 

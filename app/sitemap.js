@@ -56,6 +56,7 @@ const articleSlugs = [
   'layoff-vs-furlough-key-differences-unemployment-benefits-2026',
   'independent-contractor-misclassification-unemployment-benefits-2026',
   'non-compete-agreements-after-termination-enforceable-2026',
+  'unemployment-phone-interview-how-to-prepare-2026',
 ]
 
 export default function sitemap() {
