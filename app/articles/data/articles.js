@@ -5594,6 +5594,132 @@ If a phone interview is on your calendar, do not go into it cold. Read the notic
   },
 
 
+  {
+    slug: 'age-discrimination-in-layoffs-adea-rights-2026',
+    title: 'Age Discrimination in Layoffs: How to Spot It and Protect Your ADEA Rights (2026)',
+    description: "Laid off after 40? Learn how to recognize age discrimination, what the ADEA and OWBPA require in severance agreements, and how to file an EEOC charge in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-05-26',
+    updatedAt: '2026-05-26',
+    category: 'Employment Law',
+    tags: ['age discrimination', 'ADEA', 'OWBPA', 'layoff rights', 'EEOC charge', 'wrongful termination'],
+    readTime: '11 min read',
+    content: `
+## Age Discrimination in Layoffs: What Workers Over 40 Need to Know in 2026
+
+A round of layoffs lands on your inbox. You look around the team and notice something uncomfortable — most of the people cut are over 50, while younger colleagues with less experience kept their jobs. Or the package on your desk asks you to "voluntarily" sign away your right to sue in exchange for a few weeks of severance, and you have only days to decide.
+
+If any of that sounds familiar, you are not imagining it. Age discrimination is one of the most common — and most under-reported — forms of workplace bias in U.S. layoffs, and federal law gives workers age 40 and older specific protections that many employers either ignore or quietly bet you will never enforce. This guide walks through how to recognize age discrimination in a layoff, what the **Age Discrimination in Employment Act (ADEA)** and the **Older Workers Benefit Protection Act (OWBPA)** require, and the practical steps to take in 2026 if you suspect your termination crossed the line.
+
+## What the ADEA Actually Protects
+
+The ADEA is a federal law passed in 1967 that prohibits employment discrimination against people **age 40 and older**. It applies to employers with 20 or more employees, plus most federal, state, and local government employers. The law covers every part of the employment relationship — hiring, promotions, pay, training, benefits, and yes, terminations and layoffs.
+
+A few important nuances most workers do not know:
+
+- The ADEA only protects workers **40 and older**. Someone 39 cannot bring an ADEA claim, although many states extend their own age discrimination laws to younger workers.
+- A 55-year-old can sue if they are replaced by a 45-year-old, even though both are in the protected class. The U.S. Supreme Court ruled in *O'Connor v. Consolidated Coin Caterers* that the comparison is whether the replacement is **substantially younger**, not whether they are under 40.
+- The ADEA prohibits "disparate impact" claims too — meaning a layoff policy that looks neutral on paper but disproportionately cuts older workers can still violate the law unless the employer can show a "reasonable factor other than age" justifies it.
+
+If you work in California, New York, New Jersey, or several other states, your state's age discrimination law may be even stronger than the ADEA — covering smaller employers, allowing more damages, or extending protection to workers under 40.
+
+## Signs Your Layoff May Be Age Discrimination
+
+Layoffs happen for legitimate business reasons every day. The question is not whether you were laid off, but **whether age was a meaningful factor** in why you were the one cut. Some patterns to look for:
+
+### Statistical Patterns in Who Got Cut
+
+Pull out a sheet of paper and write down everyone you know who was laid off in the same round, along with their approximate age. Then list the people in similar roles who **kept** their jobs. If older workers were cut at a rate noticeably higher than younger workers, you have the start of a disparate-impact case. Courts and the EEOC routinely look at exactly this kind of data.
+
+### "Code Words" in Performance Reviews or Manager Comments
+
+Comments from leadership in the months before the layoff sometimes telegraph the real reason. Watch for phrases like:
+
+- "We need fresh blood" or "new energy" on the team
+- "Digital natives" or "people who grew up with this technology"
+- Concerns that you are "not a culture fit" with a younger team
+- Suggestions that you should think about retirement, or questions about your retirement plans
+- Sudden negative performance reviews after years of strong evaluations
+
+A single comment is rarely enough to prove a case, but a pattern of remarks plus a layoff that hits older workers hard is the kind of evidence employment lawyers take seriously.
+
+### Replacement by a Younger, Lower-Paid Worker
+
+If your "eliminated" position is filled within a few months by someone substantially younger — especially at a lower salary — that is one of the strongest red flags. The ADEA does not require the replacement to be under 40; it just has to be someone meaningfully younger.
+
+### Restructurings That Conveniently Cut the Highest-Paid Roles
+
+Employers sometimes restructure in ways that cut "expensive" senior roles and replace them with cheaper, more junior positions. Cost-cutting is not automatically illegal — but if the cost-cutting consistently lines up with cutting older workers, courts will look closely.
+
+## The OWBPA: Special Rules for Severance Agreements
+
+If your layoff comes with a severance agreement that asks you to release age discrimination claims, federal law has a separate set of rules called the **Older Workers Benefit Protection Act (OWBPA)**. The OWBPA amended the ADEA in 1990 specifically because employers were pressuring older workers into signing away their rights without enough time or information.
+
+A severance agreement that waives ADEA claims is **not valid** unless it meets these requirements:
+
+### For Individual Layoffs
+
+- The waiver is written in plain language you can understand
+- It specifically references the ADEA
+- It does not waive **future** claims, only ones that already exist
+- You receive consideration (severance pay or benefits) beyond what you would already be entitled to
+- You are advised in writing to consult an attorney
+- You have **at least 21 days** to consider the agreement
+- You have **7 days after signing** to revoke your signature
+
+### For Group Layoffs (Two or More Workers)
+
+- All of the individual requirements above, **plus**
+- You get **at least 45 days** (not 21) to consider the agreement
+- The employer must give you a written list showing the job titles and ages of every person in the "decisional unit" who was selected for the layoff **and** every person in that unit who was not selected
+
+That last requirement — the "OWBPA disclosure" — is huge. It is essentially a roadmap that shows you whether older workers were cut at higher rates. If your severance packet does not include this list and you are over 40 being laid off as part of a group, the agreement is almost certainly defective and your right to sue under the ADEA may still be intact even if you sign.
+
+If any of these rules are missing, you may be able to keep the severance money and still bring an age discrimination claim. Do not assume your employer got this right — many do not.
+
+## What to Do If You Suspect Age Discrimination
+
+### Step 1: Do Not Sign the Severance Agreement Immediately
+
+If you are over 40, federal law gives you 21 days (individual) or 45 days (group) to review. Use that time. Signing on day one is almost never required, and pressure to sign quickly is itself a warning sign.
+
+### Step 2: Preserve Your Documents
+
+Before you lose access to company systems, save:
+
+- Performance reviews going back several years
+- Emails reflecting recognition, promotions, or positive feedback
+- Comments or messages about "energy," "culture fit," "retirement," or related themes
+- The org chart of your team or department
+- Your severance packet and any OWBPA disclosure
+- Notes about who was laid off and who stayed, with approximate ages
+
+Use a personal email or a printed copy — never store company-confidential information you are not entitled to keep.
+
+### Step 3: File for Unemployment First
+
+A pending age discrimination claim does not stop you from collecting unemployment benefits. In most states, severance pay only delays your start date for unemployment — it does not disqualify you. File for unemployment as soon as you separate so you do not lose weeks of benefits while you sort out the bigger legal questions.
+
+### Step 4: Talk to an Employment Lawyer Before the Deadline
+
+This is the step most older workers skip — and the one that matters most. An experienced employment attorney can review your severance agreement, look at the OWBPA disclosure, evaluate the strength of your potential claim, and tell you whether the offer on the table is fair or low. Most plaintiff-side employment lawyers offer **free initial consultations** and work on contingency, meaning you pay nothing unless they recover money for you.
+
+### Step 5: File an EEOC Charge
+
+Before you can sue under the ADEA in federal court, you generally have to file a charge with the **Equal Employment Opportunity Commission (EEOC)** or, in some states, the state civil-rights agency. The deadline is usually **180 days** from the discrimination, extended to **300 days** in states with their own age discrimination laws (most states). Miss the deadline and you lose the right to sue, no matter how strong your case is.
+
+The EEOC will investigate, attempt mediation, and ultimately issue you a "right to sue" letter if they do not resolve the case themselves. Filing a charge is free and can be done online at **eeoc.gov**.
+
+## How BenefitsPath Can Help
+
+A layoff after years of service is hard enough without trying to decipher the ADEA, the OWBPA, and a 12-page severance agreement on your own. The decisions you make in the next 21 or 45 days — whether to sign, when to file, who to talk to — can be worth tens of thousands of dollars and, in some cases, your career.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans understand their rights, estimate what unemployment benefits they qualify for, and connect with attorneys who handle real cases for real workers. Our [eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator) gives you a quick estimate of your weekly unemployment payment based on your state and recent earnings, so you know what financial bridge you have while you evaluate your legal options. Our [articles library](https://www.benefitspath.org/articles) walks through severance negotiation, wrongful termination, appeals, and state-specific filing rules. And our [attorney directory](https://www.benefitspath.org/attorneys) connects you with experienced employment lawyers in your state — many of whom offer free consultations on age discrimination, ADEA, and OWBPA matters.
+
+If you are over 40 and the math of your layoff does not add up, do not sign anything yet. Read the severance packet carefully, check it against the OWBPA requirements above, save your documents, file for unemployment, and call an employment lawyer before the clock runs out. The law is on your side — but only if you use it in time.
+    `.trim(),
+  },
+
 ]
 
 
