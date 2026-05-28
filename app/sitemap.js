@@ -59,6 +59,7 @@ const articleSlugs = [
   'unemployment-phone-interview-how-to-prepare-2026',
   'age-discrimination-in-layoffs-adea-rights-2026',
   'refusing-job-offer-while-on-unemployment-suitable-work-2026',
+  'unemployment-benefits-for-veterans-ucx-program-2026',
 ]
 
 export default function sitemap() {
