@@ -60,6 +60,7 @@ const articleSlugs = [
   'age-discrimination-in-layoffs-adea-rights-2026',
   'refusing-job-offer-while-on-unemployment-suitable-work-2026',
   'unemployment-benefits-for-veterans-ucx-program-2026',
+  'snap-food-stamps-after-job-loss-2026-guide',
 ]
 
 export default function sitemap() {
