@@ -6216,7 +6216,129 @@ Unemployment insurance pays the bills while you look for the next job, but it is
 If you have not yet applied for SNAP, the next step is to search **"SNAP apply [your state]"**, start the application today, and ask explicitly for **expedited processing** if your savings are close to zero. Your application date sets your benefit start date — so even a partial application filed today is worth more than a perfect application filed in two weeks.
     `.trim(),
   },
+  {
+    slug: 'health-insurance-marketplace-after-job-loss-aca-subsidies-2026',
+    title: 'Health Insurance After Job Loss: ACA Marketplace Subsidies and Medicaid in 2026',
+    description: "Losing your job ends your work health plan. Learn how ACA Marketplace subsidies, Medicaid, and Special Enrollment can give you affordable coverage — often cheaper than COBRA.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-01',
+    updatedAt: '2026-06-01',
+    category: 'Health Insurance',
+    tags: ['aca marketplace', 'health insurance after job loss', 'medicaid', 'special enrollment period', 'unemployment health insurance', 'subsidized health insurance'],
+    readTime: '11 min read',
+    content: `
+## Health Insurance After You Lose Your Job: The Options You Actually Have in 2026
 
+When the job ends, your employer's health plan usually ends with it — sometimes on your last day, sometimes at the end of the month. The first letter you get is almost always about **COBRA**, the federal law that lets you stay on the same plan if you pay the full premium yourself. What that letter rarely says clearly is that COBRA is often the *most expensive* option on the table, and that you may qualify for coverage that costs a fraction of what your employer was paying — sometimes nothing at all.
+
+This guide walks through the two pathways most unemployed workers in 2026 should look at first: the **Health Insurance Marketplace** (often called the ACA Marketplace or "Obamacare") with premium subsidies, and **Medicaid** for households whose income drops sharply after losing a paycheck. We will cover how the Special Enrollment Period works, how subsidies are calculated when your income changes mid-year, and the steps to take in the first 30 days after your coverage ends.
+
+## Why COBRA Often Is Not the Right Answer
+
+COBRA gives you the comfort of keeping the exact plan, doctors, and prescriptions you already have. But it makes you pay the **full premium** — your old share plus the share your employer was paying, plus a 2 percent administrative fee. For a typical family plan, that can run **\$1,800–\$2,400 per month**. For an individual, \$600–\$900 is common.
+
+That price does not change because you lost your income. COBRA has no subsidies built in. The federal premium tax credit that makes the ACA Marketplace affordable does **not** apply to COBRA.
+
+For many people, the right move is to compare COBRA against a Marketplace plan with subsidies — and against Medicaid if income has dropped low enough — before choosing. You have a strict window to do this, so the comparison should happen in the first two weeks after your coverage ends, not the day before COBRA's deadline.
+
+## The Special Enrollment Period: Your 60-Day Window
+
+You normally cannot enroll in a Marketplace health plan outside of open enrollment (which runs roughly November 1 through January 15 in most states). **Losing job-based coverage is a qualifying life event**, which opens a **Special Enrollment Period (SEP)** of 60 days.
+
+### How the 60-Day SEP Works
+
+- The clock starts on the **date your job-based coverage ends** (not the date you lost the job, if the plan runs through the end of the month).
+- You may also enroll **up to 60 days before** coverage ends if you already know the end date.
+- You must select a plan within the 60 days, or you lose the SEP and generally cannot enroll until the next open enrollment.
+- New coverage usually starts the **first of the month after you enroll**, though some states allow earlier effective dates if you enroll before your old plan ends.
+
+### What Documents to Have Ready
+
+When you apply through HealthCare.gov or your state's Marketplace, you will be asked to confirm the loss of coverage. Useful documents include:
+
+- A letter from your former employer or insurer showing the coverage end date
+- Your final pay stub or a COBRA election notice
+- A separation or layoff letter
+
+You do not need to enroll in COBRA first — and in fact, enrolling in COBRA can complicate later switching to a Marketplace plan, because voluntarily dropping COBRA mid-year is **not** itself a qualifying event.
+
+## ACA Marketplace Subsidies: How They Work When Your Income Drops
+
+The Marketplace offers two forms of help with cost:
+
+### 1. The Premium Tax Credit
+
+The premium tax credit lowers what you pay each month for the plan itself. The credit is based on your **projected annual income** for the coverage year and your household size. Under the rules in effect for 2026, the credit is designed so that no household pays more than a sliding-scale percentage of income — capped at around **8.5 percent of income** for most enrollees — for a benchmark Silver plan.
+
+When you lose your job, your projected annual income for the year usually drops sharply. That is the number you put on the application — not what you would have earned if you had kept the job. Include:
+
+- Wages you already earned this year
+- Unemployment insurance benefits you expect to receive
+- Any severance, freelance, or self-employment income
+- Spouse income, if filing jointly
+- Other taxable income (interest, dividends, retirement distributions)
+
+Update the Marketplace immediately if your income changes again — your subsidy adjusts up or down. Reporting changes promptly avoids a surprise bill at tax time.
+
+### 2. Cost-Sharing Reductions (CSRs)
+
+If your household income falls below roughly **250 percent of the federal poverty level**, and you pick a **Silver-level** plan, you also qualify for cost-sharing reductions. CSRs lower your **deductible, copays, and out-of-pocket maximum** — sometimes dramatically. A Silver plan that ordinarily has a \$5,000 deductible might drop to \$500 or less with CSRs. This is one of the most underused benefits of the Marketplace.
+
+CSRs are only available on Silver plans, so if your income qualifies, it is usually a mistake to take a Bronze plan just because the premium is slightly lower.
+
+### Tip: Run the Numbers Before You Sign Anything
+
+HealthCare.gov has a free **"See plans and prices"** tool that estimates your subsidy in under five minutes — no account needed. Run it with your *post-layoff* income estimate, not what you used to earn. Most newly unemployed workers are surprised by how much the monthly premium drops.
+
+## Medicaid: When the Marketplace Subsidy Is Not Enough
+
+If your household income falls below a certain threshold — typically around **138 percent of the federal poverty level** in states that have expanded Medicaid — you and your family may qualify for **Medicaid** instead. Medicaid usually has:
+
+- No monthly premium
+- Minimal or no copays
+- A broad benefit package, including hospital, primary care, behavioral health, and prescription drugs
+
+Eligibility differs by state. In the **40 states plus DC** that expanded Medicaid under the Affordable Care Act, adults qualify on income alone. In the remaining non-expansion states, adults without dependent children often cannot qualify even at very low incomes — but children, pregnant women, and people with disabilities still can.
+
+When you apply through HealthCare.gov, the system automatically checks whether anyone in your household qualifies for Medicaid or **CHIP** (the Children's Health Insurance Program) and routes you to your state agency. You can also apply directly through your state Medicaid office.
+
+### Medicaid Has No 60-Day Window
+
+Unlike the Marketplace SEP, **Medicaid enrollment is open year-round**. If your income drops mid-year and you become eligible, you can apply that day. Coverage often starts the first of the month you applied, and some states cover medical bills from up to **three months before** you applied (this is called retroactive coverage).
+
+## Putting It Together: A Step-by-Step Plan for the First 30 Days
+
+**Week 1 — Confirm your end date.** Ask HR exactly when your job-based coverage ends. Note that date. Save the COBRA notice when it arrives — even if you do not plan to enroll in COBRA, the notice serves as proof of losing coverage.
+
+**Week 1 — Estimate your post-layoff income.** Add up wages already earned this year, projected unemployment benefits, severance, and any other income. This is the number you will use for the Marketplace application.
+
+**Week 1 — Run the HealthCare.gov price tool.** Compare the subsidized Marketplace premium with the COBRA premium your employer quoted. Note the deductible and out-of-pocket maximum for the Silver CSR plan if you qualify.
+
+**Week 2 — Apply through HealthCare.gov** (or your state Marketplace). If the system says you may qualify for Medicaid, follow the prompts to complete the Medicaid application — do not let the referral sit.
+
+**Week 2–3 — Pick a plan that matches your doctors and prescriptions.** Use the "Provider lookup" and "Drug lookup" tools on each plan's detail page. Switching plans later because your provider is out of network usually requires another qualifying event.
+
+**Week 3 — Pay your first premium.** Marketplace coverage does **not** start until the first premium is paid, even if you have already enrolled.
+
+**Week 4 — Update if anything changes.** If you get a new job, get a side gig, or your unemployment amount changes, update HealthCare.gov within 30 days. Your subsidy will adjust automatically.
+
+## Special Situations Worth Knowing About
+
+- **Spouse's plan.** If your spouse has employer coverage, losing your own job is a qualifying event that lets you enroll on their plan. Often this is cheaper than COBRA but more expensive than a subsidized Marketplace plan — compare all three.
+- **Short-term plans.** These are cheaper but offer skimpy coverage, exclude pre-existing conditions, and do not count as minimum essential coverage. Avoid them unless you have no other option.
+- **Catastrophic plans.** Only available to people under 30 or those with a hardship exemption. Low premium, very high deductible.
+- **Income too low in non-expansion states.** In a few states that have not expanded Medicaid, adults with the lowest incomes fall into the "coverage gap" — too low to qualify for Marketplace subsidies, too high or in the wrong category for Medicaid. If this happens to you, check whether any 2025 or 2026 state legislation has changed the rules in your state, and look at community health centers and county health programs for sliding-scale primary care.
+- **Pre-existing conditions.** ACA Marketplace plans **cannot** deny you or charge you more for any pre-existing condition, including cancer, diabetes, pregnancy, or mental health diagnoses.
+
+## How BenefitsPath Can Help
+
+Health insurance is one of the highest-stakes decisions you will make in the first month after losing your job. Picking the wrong path can mean paying \$1,500 a month when you could have paid \$0 — or being uninsured during the one month a medical emergency hits.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans make sense of the full set of benefits available after job loss — not just unemployment insurance. Our [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) gives you a fast read on your weekly UI amount, which is exactly the number you need to estimate your post-layoff income for a Marketplace application. Our [articles library](https://www.benefitspath.org/articles) covers the related decisions that come up the same week — including [COBRA health insurance after job loss](https://www.benefitspath.org/articles/cobra-health-insurance-after-job-loss-2026-guide), [what to do when your unemployment benefits run out](https://www.benefitspath.org/articles/what-to-do-when-unemployment-benefits-run-out-2026), and [how to negotiate a severance package](https://www.benefitspath.org/articles/how-to-negotiate-severance-package-after-layoff-2026-guide). And if the way your job ended raises legal questions — wrongful termination, retaliation, or misclassification — our [attorney directory](https://www.benefitspath.org/attorneys) connects you with experienced employment lawyers in your state.
+
+The single most important thing you can do this week is **start the Marketplace application** — even if you are not sure what to enter. The process will tell you whether you qualify for Medicaid, what your subsidy will be, and how much each plan actually costs. Once you see the real numbers, the decision between COBRA, the Marketplace, and Medicaid almost always becomes clear.
+    `.trim(),
+  },
 
 ]
 

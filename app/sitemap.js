@@ -61,6 +61,7 @@ const articleSlugs = [
   'refusing-job-offer-while-on-unemployment-suitable-work-2026',
   'unemployment-benefits-for-veterans-ucx-program-2026',
   'snap-food-stamps-after-job-loss-2026-guide',
+  'health-insurance-marketplace-after-job-loss-aca-subsidies-2026',
 ]
 
 export default function sitemap() {
