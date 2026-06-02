@@ -6340,6 +6340,171 @@ The single most important thing you can do this week is **start the Marketplace 
     `.trim(),
   },
 
+  {
+    slug: 'unemployment-benefits-for-federal-employees-ucfe-rif-2026',
+    title: 'Unemployment Benefits for Federal Employees: How UCFE Works After a Layoff or RIF in 2026',
+    description: "Federal worker laid off in a RIF? Learn how Unemployment Compensation for Federal Employees (UCFE) works in 2026 — eligibility, SF-8 and SF-50 paperwork, how to file, and how severance affects benefits.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-02',
+    updatedAt: '2026-06-02',
+    category: 'Federal Workers',
+    tags: ['UCFE', 'federal employees unemployment', 'reduction in force', 'RIF', 'SF-8', 'SF-50', 'federal worker benefits'],
+    readTime: '12 min read',
+    content: `
+## Federal Employees and Unemployment: What Changed in 2026
+
+If you are a federal employee who was just separated through a **reduction in force (RIF)**, a deferred resignation program, an early-out, or a non-renewal — you almost certainly qualify for unemployment benefits. The benefits are funded by your former federal agency (not the state), but they are paid out and administered by your **state unemployment agency** under a federal program called **Unemployment Compensation for Federal Employees (UCFE)**.
+
+UCFE has been on the books since 1954, but most federal workers never expect to use it. The wave of agency restructurings, RIFs, and contract non-renewals in 2025 and 2026 has pushed tens of thousands of former federal employees into a system they have never navigated before. The rules are different from regular state unemployment in a few important ways, and the paperwork — especially around the **SF-8** and **SF-50** — trips people up.
+
+This guide walks you through how UCFE works in 2026: who qualifies, what paperwork to gather, how to file in your state, how severance and the **Voluntary Separation Incentive Payment (VSIP)** affect your weekly benefit, and what to do if your claim is delayed.
+
+## What Is UCFE?
+
+**Unemployment Compensation for Federal Employees (UCFE)** is the federal program that extends state unemployment insurance to civilian federal workers. It is run jointly by the **U.S. Department of Labor** and the **state workforce agency** in the state where you last worked (or, in some cases, the state where you live).
+
+The key idea: **you file in a state, and that state pays you under its rules**, but the money comes from the federal agency that employed you. The state uses **your federal salary** as if it were covered "wages" to calculate your weekly benefit amount and total benefits.
+
+### Who Is Covered
+
+UCFE generally covers civilian federal employees, including:
+
+- Employees of executive branch agencies
+- Employees of most independent agencies
+- U.S. Postal Service employees (covered under a closely related program)
+- Many employees of the federal judiciary and legislative branch
+- Employees who were on probationary or term appointments
+- Most contract employees of the federal government **if** they were paid as federal employees on a W-2 (true 1099 contractors are not UCFE-eligible; they may qualify under different rules — see our article on [gig workers and unemployment](https://www.benefitspath.org/articles/do-gig-workers-qualify-for-unemployment-benefits))
+
+### Who Is **Not** Covered
+
+A few categories are excluded or covered under separate programs:
+
+- **Military service members** are covered under a parallel program called **UCX** — see our [UCX guide for veterans](https://www.benefitspath.org/articles/unemployment-benefits-for-veterans-ucx-program-2026).
+- **Self-employed federal contractors paid on a 1099** — these workers are not UCFE-eligible.
+- **Elected federal officials and certain political appointees** in narrow categories.
+
+If you are not sure which bucket you fall into, file anyway. The state will determine your eligibility and reach out to your former agency for the wage and separation information it needs.
+
+## Reduction in Force (RIF): The Most Common Reason Federal Workers Claim UCFE
+
+A **RIF** is the federal government's formal layoff process. It is governed by **5 CFR Part 351** and includes specific notice requirements, retention registers, bumping and retreat rights, and severance calculations. From the state unemployment agency's perspective, a RIF separation is the cleanest possible "no fault of your own" termination. It almost always qualifies for benefits.
+
+Other separation reasons that typically qualify under UCFE:
+
+- **Deferred resignation programs** and buyouts where you accepted because your position was being abolished
+- **Voluntary Early Retirement Authority (VERA)** when paired with an agency restructuring
+- **Term and temporary appointments** that ended on schedule (non-renewal)
+- **Position abolishment** outside of a formal RIF
+- **Probationary termination** for reasons other than misconduct — see [fired for misconduct](https://www.benefitspath.org/articles/fired-for-misconduct-can-you-collect-unemployment-2026) for the misconduct rules
+- **Constructive discharge** based on a hostile or unlawful work environment — see [constructive discharge](https://www.benefitspath.org/articles/constructive-discharge-when-quitting-counts-as-wrongful-termination-2026)
+
+If you took a buyout or accepted a deferred resignation, the state will ask whether your position was going to be eliminated regardless. Bring documentation that shows the offer was made in connection with a workforce reduction.
+
+## The Paperwork You Need: SF-8 and SF-50
+
+Two federal forms drive almost every UCFE claim. Hold onto both — your state agency will ask for them.
+
+### SF-8 — Notice to Federal Employee About Unemployment Insurance
+
+The **SF-8** is a one-page handout your agency is supposed to give you on or before your last day. It is essentially a federal "you may qualify for unemployment" notice and tells the state where to verify your federal wages.
+
+If you did not receive an SF-8, do not panic — it is not required to file. You can still apply, and the state will pull the data it needs from the National Finance Center, the Defense Finance and Accounting Service, or your agency's HR office.
+
+### SF-50 — Notification of Personnel Action
+
+The **SF-50** is the official record of every personnel action in your federal career: hires, promotions, pay changes, and especially **separations**. The SF-50 documenting your separation is the single most important document for your UCFE claim. It shows:
+
+- Your separation date
+- The legal authority and reason for separation (this controls eligibility)
+- Your final grade, step, and salary
+- Your service computation date and tenure
+
+Pull your final SF-50 from your agency's electronic Official Personnel Folder (eOPF). If you cannot access eOPF anymore, request a copy from your former agency's HR office. States routinely deny or delay UCFE claims when the SF-50 is missing or the **separation reason code** does not match what the worker reported.
+
+### Other Documents to Have Ready
+
+- Your last two or three SF-50s (any pay or position changes in the last 18 months affect your weekly benefit calculation)
+- Recent **Leave and Earnings Statements (LES)** showing your final salary
+- Any **RIF notice letter** you received
+- Any **severance agreement** or **VSIP** paperwork
+- Your bank account and routing numbers for direct deposit
+
+## How to File a UCFE Claim
+
+UCFE claims are filed through your **state** unemployment agency, not through OPM or the Department of Labor. The process looks almost identical to a regular state UI claim — there is usually no separate "UCFE button."
+
+### Step 1: File in the Correct State
+
+For UCFE purposes, you generally file in the state where your **official duty station** was on your last day of federal employment. Remote and telework employees should file in the state where their **assigned duty station** was, not necessarily where they lived. If you are unsure, file in your home state — the agency will redirect the claim if needed.
+
+### Step 2: Apply Online (or by Phone)
+
+Go to your state workforce agency's website and start a new unemployment claim. When the application asks who your last employer was, you will:
+
+- Select the option for **"federal employer"** or enter the agency's full name (for example, *U.S. Department of the Treasury, Internal Revenue Service*).
+- Enter your duty station address — not your remote home address.
+- Enter your separation date exactly as shown on your SF-50.
+- Enter the **reason for separation** using language that matches the SF-50 — "reduction in force," "position abolished," "term appointment expired."
+
+### Step 3: Upload or Mail Your SF-50 and SF-8
+
+Many states now let you upload the SF-50 directly. If yours does not, the state will send a request for documentation. Respond promptly — UCFE claims often sit in "pending verification" status until the state hears back from your federal agency, and providing the SF-50 yourself is usually the fastest way to break the logjam.
+
+### Step 4: Certify Weekly
+
+Just like regular UI, you must file a **weekly or biweekly claim** confirming you are able to work, available for work, and actively searching. See our [work search requirements article](https://www.benefitspath.org/articles/unemployment-work-search-requirements-2026) for what counts in your state.
+
+### Step 5: Expect a Longer First Check
+
+Because the state has to verify your federal wages and separation through the federal **ICON** system, **first UCFE checks often take 4 to 6 weeks** instead of the usual 2 to 3 weeks for a private-sector claim. Keep certifying every week even if you have not been paid yet. When the claim is approved, the back weeks will be paid in a lump sum.
+
+## How Severance, VSIP, and Lump-Sum Annual Leave Affect UCFE
+
+This is where federal claimants are most often surprised. Three different kinds of separation payments can affect your weekly benefit, and the rules vary by state.
+
+### Federal Severance Pay
+
+Federal severance under **5 U.S.C. § 5595** is paid as a **biweekly continuation of salary**, not as a lump sum. In most states, that continuing pay is treated as **wages** that disqualify you from UI for the weeks it covers. Once severance ends, your eligibility begins.
+
+A few states treat severance differently — see our article on [severance pay and unemployment](https://www.benefitspath.org/articles/severance-pay-and-unemployment-benefits-can-you-collect-both) for the state-by-state breakdown. Always report severance honestly when you file. Failure to report it can trigger an [overpayment notice](https://www.benefitspath.org/articles/unemployment-overpayment-notice-what-to-do) months later.
+
+### Voluntary Separation Incentive Payment (VSIP)
+
+A **VSIP** is the federal "buyout" — up to **$25,000** (or up to $40,000 at the Department of Defense). VSIPs are paid as a **single lump sum**. Most states do not treat a one-time VSIP as disqualifying wages, but a few prorate it. Report it on your application and let the state decide.
+
+### Lump-Sum Annual Leave
+
+When you leave federal service, you receive a single check for your **unused annual leave**. Most states treat this as wages allocated to a specific time period — usually the period right after your separation date. That can push back the start of your benefits by a few weeks. Again, report it and let the state apply its rules.
+
+### Retirement and TSP
+
+Pulling money out of your **Thrift Savings Plan (TSP)** is not wages and does not affect UCFE. Drawing a **FERS or CSRS annuity** can affect benefits in some states if the federal government contributed to the pension and you are now drawing it — many states reduce your weekly UI by a portion of the monthly annuity. Report your pension and let the state do the math.
+
+## Common UCFE Problems and How to Fix Them
+
+**Problem: The state says it cannot verify your federal wages.**
+Solution: Send your last three SF-50s and your most recent LES directly to the state's UCFE unit. Ask in writing for a determination based on the documents you provided. Most states will issue a "constructive wage determination" rather than wait indefinitely.
+
+**Problem: The separation reason on your SF-50 reads "voluntary."**
+Solution: Even if you accepted a buyout or deferred resignation, attach the agency's offer letter showing the program was tied to a workforce reduction. Ask your former HR office to amend the SF-50 separation code if it does not accurately reflect what happened.
+
+**Problem: You worked remotely and the state will not accept the claim.**
+Solution: File in the state of your **official duty station**, not where you lived. If you are caught between states, file in both — the system is designed to resolve which state pays.
+
+**Problem: You were denied.**
+Solution: You have appeal rights, exactly like any other UI claimant. See our [appeal guide](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide). Federal-employee appeals often turn on the SF-50 separation code, so bring every personnel document you can find.
+
+## How BenefitsPath Can Help
+
+Losing a federal job in a RIF is disorienting in a way that private-sector layoffs usually are not — you are likely losing your **FEHB health insurance**, your **TSP contributions**, your **pension accruals**, and your security clearance maintenance, all in the same week. UCFE is one piece of the puzzle, and it is the piece that puts cash in your account while you figure out the rest.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans — including federal employees navigating a RIF for the first time — understand exactly what they qualify for. Our [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) gives you a fast read on your weekly benefit using your former federal salary. Our [articles library](https://www.benefitspath.org/articles) covers the related decisions that come up the same month — including [health insurance after job loss](https://www.benefitspath.org/articles/health-insurance-marketplace-after-job-loss-aca-subsidies-2026), [COBRA continuation](https://www.benefitspath.org/articles/cobra-health-insurance-after-job-loss-2026-guide), and [what to do when your benefits run out](https://www.benefitspath.org/articles/what-to-do-when-unemployment-benefits-run-out-2026). If your separation raises legal questions — improper RIF procedures, retention register errors, or retaliation — our [attorney directory](https://www.benefitspath.org/attorneys) connects you with employment lawyers experienced in federal-sector cases.
+
+The most important thing to do this week is **file your UCFE claim** in the state of your last duty station — even if you have severance, VSIP, or annual leave coming. The clock on your benefit year starts the week you file, and waiting only shortens the runway you have when the lump sums run out.
+    `.trim(),
+  },
+
 ]
 
 

@@ -62,6 +62,7 @@ const articleSlugs = [
   'unemployment-benefits-for-veterans-ucx-program-2026',
   'snap-food-stamps-after-job-loss-2026-guide',
   'health-insurance-marketplace-after-job-loss-aca-subsidies-2026',
+  'unemployment-benefits-for-federal-employees-ucfe-rif-2026',
 ]
 
 export default function sitemap() {
