@@ -63,6 +63,7 @@ const articleSlugs = [
   'snap-food-stamps-after-job-loss-2026-guide',
   'health-insurance-marketplace-after-job-loss-aca-subsidies-2026',
   'unemployment-benefits-for-federal-employees-ucfe-rif-2026',
+  '401k-after-job-loss-rollover-cash-out-leave-it-2026-guide',
 ]
 
 export default function sitemap() {

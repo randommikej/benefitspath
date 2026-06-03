@@ -6505,6 +6505,135 @@ The most important thing to do this week is **file your UCFE claim** in the stat
     `.trim(),
   },
 
+  {
+    slug: '401k-after-job-loss-rollover-cash-out-leave-it-2026-guide',
+    title: '401(k) After Job Loss: Rollover, Cash Out, or Leave It? (2026 Guide)',
+    description: "Lost your job? Learn what to do with your old 401(k) - leave it, roll to an IRA, move to a new employer, or cash out - and how to avoid IRS penalties.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-03',
+    updatedAt: '2026-06-03',
+    category: 'Job Loss Finance',
+    tags: ['401k after job loss', 'retirement rollover', 'IRA rollover', 'early withdrawal penalty', '401k options', 'job loss finances'],
+    readTime: '11 min read',
+    content: `
+## What to Do With Your 401(k) After You Lose Your Job
+
+Losing a job hits your paycheck first — but for most workers, the **second-biggest financial decision** in that first month is what to do with the **401(k) you left behind at your old employer**. Get it right and you protect years of tax-deferred growth. Get it wrong and you can hand the IRS a chunk of your savings in penalties and back taxes that you cannot afford while you are out of work.
+
+This guide walks through the four real choices the IRS gives you, the deadlines and traps that surprise people, and how to think about cashing out when bills are piling up. It is written for workers — not financial advisors — and assumes you just got laid off, were fired, or accepted a severance package and now have **30 to 90 days** to decide what to do with your account.
+
+## Your Four Options for an Old 401(k)
+
+When you separate from an employer, the plan administrator (Fidelity, Vanguard, Empower, Principal, Schwab, and so on) will mail you a packet — sometimes called a **"distribution election" notice** — outlining your choices. Every plan offers the same four basic paths, though the details vary.
+
+### Option 1: Leave It in the Old Plan
+
+If your **vested balance is at least $7,000**, federal law lets you keep the account exactly where it is. You stop contributing, but the money keeps growing tax-deferred. You give up nothing in investment terms, and the account stays protected by **ERISA** — federal pension law that shields it from most creditors and lawsuits.
+
+This is often the right call when:
+
+- The old plan has low-fee institutional funds you cannot match in a retail IRA.
+- You are between jobs and want time to think before moving the money.
+- You expect to retire between **ages 55 and 59½** — a 401(k) you separate from at age 55 or later qualifies for the **Rule of 55**, which lets you take penalty-free withdrawals years earlier than an IRA would allow.
+
+The catch: balances **under $7,000** can be **force-cashed-out** by your old employer. Balances between **$1,000 and $7,000** are typically rolled into a default IRA chosen by the plan, usually in a low-yield money market fund. Balances **under $1,000** can be mailed to you as a check — and that check is a taxable distribution unless you roll it over fast.
+
+### Option 2: Roll It Into Your New Employer's 401(k)
+
+If you have already lined up a new job, most employer plans accept incoming rollovers. This keeps your retirement money in one place, preserves ERISA protections, and lets you keep using the higher **401(k) contribution limit** ($23,000+ in 2026, plus catch-up amounts for workers 50 and older) instead of the lower IRA limit.
+
+Ask your new HR or benefits administrator for a **rollover packet**. You will need:
+
+- The new plan's name, plan administrator, and account number.
+- A direct-rollover form authorizing your old plan to send the money straight to the new plan.
+
+The phrase to insist on is **"direct trustee-to-trustee transfer."** The check should be made payable to the **new plan for your benefit** — not to you personally. That single detail is what keeps the IRS from treating the move as a taxable distribution.
+
+### Option 3: Roll It Into an IRA
+
+This is the most flexible option and the most common one for people changing employers — or for anyone who does not have a new job lined up yet. You open an **IRA at a brokerage of your choice** (Fidelity, Vanguard, Schwab, and the major online brokers all offer free rollovers) and your old 401(k) money moves into it. Once it is there, you can invest it in nearly anything: index funds, ETFs, target-date funds, individual stocks, bonds, or CDs.
+
+Why people choose an IRA rollover:
+
+- More investment options than almost any 401(k) plan.
+- Lower fees than many small-employer 401(k)s.
+- Easier to consolidate multiple old 401(k)s into one account.
+- Simpler beneficiary management.
+
+The trade-offs to know about:
+
+- You **lose the Rule of 55** — IRA withdrawals before age 59½ are subject to a **10% early withdrawal penalty** unless one of a narrow set of exceptions applies.
+- You lose the slightly stronger ERISA creditor protection — IRAs are still protected in bankruptcy up to roughly $1.5 million, but state-level lawsuit protection varies.
+- You cannot take a **401(k) loan** against an IRA. (You also cannot take a loan from a former employer's 401(k) — loans require active employment.)
+
+### Option 4: Cash It Out
+
+You can ask the plan to send the entire balance directly to you. Many laid-off workers do this when bills are piling up — and it is almost always the most expensive option.
+
+If you cash out an old 401(k) before age 59½:
+
+- The plan **withholds 20% for federal income tax** before sending you the check.
+- The full amount counts as **ordinary income** on your tax return — which can push you into a higher bracket.
+- You owe a **10% early withdrawal penalty** on top of the income tax, unless an exception applies.
+- Many states also tax the distribution as ordinary income.
+
+A worker in the 22% federal bracket who cashes out a $50,000 401(k) at age 40 can easily lose **$17,000 to $20,000** to federal taxes and penalties — before state taxes. The original $50,000 becomes roughly **$30,000 in your hand**, and the retirement runway you spent years building disappears overnight.
+
+## The 60-Day Rollover Trap
+
+If the plan does mail a check to **you** instead of to the new account, you have **60 days from receipt** to deposit the full amount into an IRA or new 401(k). Miss the deadline and the IRS treats the whole thing as a taxable cash-out — penalties and all.
+
+Worse, the old plan is required to **withhold 20%** when it cuts you the check. To complete a tax-free rollover, you have to deposit the **full pre-withholding amount** into the new account and recover the withheld 20% on your tax return. Most workers do not have that 20% sitting in a checking account, so the rollover ends up partly taxable by accident.
+
+The fix is simple: **never let the check come to you**. Always request a **direct rollover** to the new IRA or 401(k). The check goes from custodian to custodian and never touches your hands.
+
+## Penalty Exceptions Worth Knowing
+
+The 10% early withdrawal penalty has real exceptions. The ones most relevant to recently unemployed workers:
+
+- **Rule of 55**: You separated from the employer sponsoring the plan in the year you turned 55 or later. Applies only to that specific 401(k), not to IRAs or other 401(k)s.
+- **Substantially Equal Periodic Payments (72(t))**: You commit to taking equal annual withdrawals for at least 5 years or until age 59½, whichever is longer. Complex and irreversible — talk to a CPA before electing it.
+- **Medical expenses** above 7.5% of your adjusted gross income for the year.
+- **Health insurance premiums** while unemployed — if you received unemployment compensation for 12 consecutive weeks, you can withdraw from an **IRA** (not a 401(k)) to pay health insurance premiums without the 10% penalty.
+- **Permanent disability** or death of the account holder.
+- **Up to $5,000** from a 401(k) or IRA for the birth or adoption of a child.
+- **Qualified domestic relations order (QDRO)** distributions in a divorce.
+
+Even when an exception applies, you still owe **ordinary income tax** on the money you withdraw. The exception only removes the 10% penalty.
+
+## What If You Are Already Behind on Bills?
+
+If you are weighing a cash-out against missed rent, eviction, or medical debt, work through this order of operations first:
+
+1. **File for unemployment immediately.** Even a partial benefit is cash that does not cost you retirement savings. Use the [BenefitsPath unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) for a fast estimate of your weekly amount, then file with your state.
+2. **Apply for healthcare subsidies.** Job loss is a [qualifying life event for the ACA marketplace](https://www.benefitspath.org/articles/health-insurance-marketplace-after-job-loss-aca-subsidies-2026), and the subsidies for laid-off workers can be substantially larger than people expect.
+3. **Look at SNAP and other safety-net benefits.** Our [SNAP after job loss guide](https://www.benefitspath.org/articles/snap-food-stamps-after-job-loss-2026-guide) walks through eligibility.
+4. **Negotiate, do not withdraw.** Most landlords, utilities, and credit card issuers have hardship programs. Call before you fall behind, not after.
+5. **Consider a partial withdrawal** instead of a full cash-out. If you genuinely need $5,000 to keep the lights on, withdrawing $5,000 still beats withdrawing $50,000 — even with the 10% penalty.
+6. **Last resort: cash out only the amount you actually need.** And only after confirming whether any of the penalty exceptions above apply to your situation.
+
+## Roth 401(k)s Follow Different Rules
+
+If your old plan included a **Roth 401(k)** balance, the contributions you made (after-tax) are already yours — they come out tax-free and penalty-free at any age. The **growth** on those contributions is subject to the same age-59½-and-five-year-holding rules as a Roth IRA. The cleanest move is usually to **roll a Roth 401(k) into a Roth IRA**, which preserves the tax-free treatment.
+
+Avoid one common mistake: do not roll a **Roth 401(k) into a traditional IRA**. That triggers an immediate tax bill on the Roth balance.
+
+## What If You Have a 401(k) Loan Outstanding?
+
+If you took a 401(k) loan while you were employed and still owe a balance when you leave, your old plan will typically demand repayment within a short window — often as short as **60 to 90 days**, though current law lets you take until your **tax-filing deadline (including extensions) for the year you separated** to repay the loan or roll the offset amount into an IRA.
+
+If you cannot repay, the unpaid balance becomes a **deemed distribution**: it is taxable, and if you are under 59½, the 10% penalty applies. Some plans allow continued repayment after separation — read your plan's **Summary Plan Description** or call the administrator before assuming you have to repay in 60 days.
+
+## How BenefitsPath Can Help
+
+Your 401(k) is one piece of the financial puzzle that opens up the day you lose a job — but it is the piece that has the most expensive wrong answers. The right move is almost always to **leave it alone or roll it over**, not cash it out, even when money is tight. The difference is measured not in this month's rent but in the retirement you have ten or twenty years from now.
+
+[BenefitsPath](https://www.benefitspath.org) helps unemployed Americans understand every benefit and right that opens up the day a job ends. Start with our [eligibility checker](https://www.benefitspath.org/unemployment-benefits-calculator) to see what your weekly unemployment benefit looks like, then explore our [articles library](https://www.benefitspath.org/articles) for the related decisions that come up the same month — including [COBRA continuation](https://www.benefitspath.org/articles/cobra-health-insurance-after-job-loss-2026-guide), [ACA marketplace coverage](https://www.benefitspath.org/articles/health-insurance-marketplace-after-job-loss-aca-subsidies-2026), and [what to do when your unemployment runs out](https://www.benefitspath.org/articles/what-to-do-when-unemployment-benefits-run-out-2026). If your separation involved a forced cash-out, missed vesting, or a 401(k) administered improperly, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment lawyer who handles ERISA and benefits cases.
+
+The most important thing this week is to **not touch the 401(k)** in panic. Open the distribution packet, mark the 60-day deadline on your calendar if a check is coming, and pick the rollover option that protects the money you have already worked years to save.
+`.trim(),
+  },
+
 ]
 
 
