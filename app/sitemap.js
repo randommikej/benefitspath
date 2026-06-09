@@ -64,6 +64,7 @@ const articleSlugs = [
   'health-insurance-marketplace-after-job-loss-aca-subsidies-2026',
   'unemployment-benefits-for-federal-employees-ucfe-rif-2026',
   '401k-after-job-loss-rollover-cash-out-leave-it-2026-guide',
+  'disaster-unemployment-assistance-dua-how-to-qualify-2026',
 ]
 
 export default function sitemap() {
