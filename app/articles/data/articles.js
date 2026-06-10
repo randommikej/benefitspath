@@ -6753,6 +6753,122 @@ The single most important thing you can do this week is **act fast**: watch for 
 `.trim(),
   },
 
+  {
+    slug: 'how-unemployment-benefits-are-calculated-base-period-weekly-amount-2026',
+    title: 'How Are Unemployment Benefits Calculated? Base Period and Weekly Amount (2026)',
+    description: "Confused about how your unemployment check is figured out? Learn how the base period, weekly benefit amount, and benefit duration are calculated in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-10',
+    updatedAt: '2026-06-10',
+    category: 'Unemployment Benefits',
+    tags: ['how unemployment is calculated', 'base period', 'weekly benefit amount', 'unemployment benefits', 'benefit calculation', 'maximum benefit'],
+    readTime: '11 min read',
+    content: `
+## How Unemployment Benefits Are Calculated in 2026
+
+One of the first questions people ask after losing a job is simple: "How much will my unemployment check actually be?" The answer is not a flat number. Your weekly payment is based on a formula that looks at how much you earned before you filed, and every state runs its own version of that formula. Once you understand the moving parts, you can estimate your own benefit and spot mistakes before they cost you money.
+
+This guide explains the three things that decide your unemployment payment: the **base period**, the **weekly benefit amount**, and the **number of weeks** you can collect. It is written in plain language for workers, not for accountants.
+
+## The Three Numbers That Decide Your Benefit
+
+Every unemployment claim comes down to three figures:
+
+- **Your base period earnings** — the wages the state uses to decide if you qualify and how much you get.
+- **Your weekly benefit amount (WBA)** — the dollar figure you receive each week you are eligible.
+- **Your maximum benefit amount and duration** — the total you can collect and how many weeks it lasts.
+
+Get the first one right and the other two usually fall into place, because the WBA and duration are both built on your base period wages.
+
+## What Is the Base Period?
+
+The **base period** is the stretch of past earnings your state uses to calculate your claim. In almost every state, the standard base period is the **first four of the last five completed calendar quarters** before the week you file.
+
+That sounds technical, so here is the plain version. The calendar is split into four quarters:
+
+- **Q1:** January, February, March
+- **Q2:** April, May, June
+- **Q3:** July, August, September
+- **Q4:** October, November, December
+
+When you file, the state drops the most recently completed quarter (because employers have not always reported those wages yet) and looks at the four quarters before it. For example, if you file in **June 2026**, your standard base period is generally **January 2025 through December 2025**.
+
+The most important thing to understand: the base period usually does **not** include the months right before you filed. If you earned a lot recently but little a year ago, your benefit may be lower than you expect, because those recent paychecks often fall outside the window.
+
+### The Alternate Base Period
+
+If you do not qualify using the standard base period — common for people who recently entered the workforce or returned after time away — most states will check an **alternate base period (ABP)**. The ABP uses the **four most recently completed quarters**, which captures more recent earnings.
+
+States do not always apply the alternate base period automatically. If you are told you do not qualify, ask specifically whether your state will recalculate using the alternate base period. It can be the difference between a denial and an approved claim.
+
+## Do You Have Enough Earnings to Qualify?
+
+Before the state calculates a dollar amount, it checks whether you earned **enough** during the base period. There are two common tests states use:
+
+- **High-quarter / multiple test:** You must have earned a minimum amount in your highest-earning quarter, plus total base period wages of at least 1.5 times that highest quarter. This spreads the requirement across more than one quarter so a single big paycheck does not qualify you on its own.
+- **Multiple of WBA test:** Your total base period wages must equal a set multiple (often around 40 times) of your weekly benefit amount.
+
+Most states also require wages in **at least two quarters** of the base period. This rule exists so that benefits go to people with a genuine work history, not a one-time gig.
+
+## How Your Weekly Benefit Amount Is Calculated
+
+Once you qualify, the state calculates your **weekly benefit amount** — the check you receive each eligible week. States use one of three main methods:
+
+### Method 1: High-Quarter Calculation
+
+This is the most common approach. The state takes your **highest-earning quarter** in the base period and divides it by a set number (often between 21 and 26, depending on the state) to arrive at your weekly amount. A higher peak quarter means a higher weekly check, up to the state cap.
+
+### Method 2: Annual-Wage Calculation
+
+Some states divide your **total base period wages** (or a percentage of them) across the year. This rewards steady earners and can produce a different result than the high-quarter method for someone with uneven income.
+
+### Method 3: Average-Weekly-Wage Calculation
+
+A handful of states calculate your **average weekly wage** during the base period and pay a percentage of it — frequently around 50%. This ties your benefit closely to what you were actually taking home week to week.
+
+In every method, the goal is roughly the same: replace a portion of your lost wages, usually **40% to 55%**, never the full amount.
+
+## Minimum and Maximum Benefit Caps
+
+No matter what the formula produces, your weekly amount is bounded by a **state minimum** and a **state maximum**. These caps vary dramatically across the country. Some states cap weekly benefits a few hundred dollars below others, which is why two people who earned the same salary can receive very different checks depending on where they worked.
+
+If your calculated amount lands above the cap, you receive the cap — not the higher figure. This is the single biggest reason high earners feel their unemployment check seems low relative to their old salary: the state maximum kicks in.
+
+### Dependent Allowances
+
+A number of states add a small **dependent allowance** on top of your base weekly amount for each qualifying child or dependent, often with its own cap. If you support dependents, make sure you claim them when you file — this money is easy to leave on the table.
+
+## How Many Weeks Can You Collect?
+
+Your **maximum benefit amount** is the total dollar value of your claim, and your **duration** is how many weeks it lasts. Many states offer up to **26 weeks** in a standard benefit year, but a growing number tie the number of available weeks to the **state unemployment rate**, offering fewer weeks when the economy is strong and more when it weakens.
+
+Your total is usually calculated as the **lesser of**: your weekly amount times the maximum number of weeks, or a percentage (often around one-third) of your total base period wages. Whichever is smaller becomes your cap. Once you hit that total — or reach the end of your benefit year — payments stop, even if you have not used every week.
+
+## Why Your First Check May Be Smaller (or Late)
+
+Two things commonly surprise first-time filers:
+
+- **The waiting week.** Many states require one unpaid "waiting week" at the start of your claim. You still certify for it, but you are not paid for it.
+- **Deductions.** Part-time earnings, severance, pensions, and taxes can reduce a given week's payment. If you choose to have federal taxes withheld (often 10%), your deposit will be smaller than your gross weekly amount.
+
+Knowing this in advance prevents the panic of seeing a first deposit that is lower than you calculated.
+
+## Double-Check the State's Math
+
+States make calculation errors more often than people realize — usually because an employer reported wages incorrectly or a quarter was left out. When you receive your **monetary determination** (the notice stating your weekly and maximum amounts), compare it against your own pay stubs and W-2s for the base period.
+
+If the wages listed look too low, file a **wage protest** or appeal right away. There is a strict deadline, often just **10 to 30 days** from the date on the notice. Acting quickly can permanently raise your weekly benefit for the life of the claim.
+
+## How BenefitsPath Can Help
+
+Unemployment math is confusing by design — every state uses a slightly different formula, and the rules are written for agencies, not for the people relying on the check. BenefitsPath exists to make it understandable.
+
+Start with our [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) to estimate your weekly benefit amount before you even file, so you know what to expect. Then browse our [articles library](https://www.benefitspath.org/articles) for the next steps that come up, including [how long benefits take to arrive](https://www.benefitspath.org/articles/how-long-unemployment-benefits-take), [whether your benefits are taxable](https://www.benefitspath.org/articles/are-unemployment-benefits-taxable-federal-state-tax-guide-2026), and [what to do if your claim is denied](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide).
+
+If your monetary determination looks wrong and the state will not fix it, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment lawyer who handles unemployment wage disputes and appeals. The most valuable move you can make this week is to verify the numbers on your determination notice — a single corrected quarter can raise your weekly check for months.
+`.trim(),
+  },
+
 ]
 
 
