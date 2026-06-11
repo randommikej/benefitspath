@@ -6869,6 +6869,102 @@ If your monetary determination looks wrong and the state will not fix it, our [a
 `.trim(),
   },
 
+  {
+    slug: 'can-you-collect-unemployment-while-in-school-or-job-training-2026',
+    title: 'Can You Collect Unemployment While in School or Job Training? (2026 Guide)',
+    description: "Going back to school after a layoff? Learn when you can keep unemployment benefits, how approved training waivers work, and when classes can disqualify you in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-11',
+    updatedAt: '2026-06-11',
+    category: 'Unemployment Eligibility',
+    tags: ['unemployment and school', 'approved training waiver', 'job training', 'WIOA training', 'unemployment eligibility', 'work search waiver'],
+    readTime: '11 min read',
+    content: `
+## Can You Collect Unemployment While Going to School or Job Training?
+
+Losing a job often pushes people to think about their next move in a bigger way. Maybe you want to finish a degree, earn a certification, learn a trade, or retrain for a field that is actually hiring. A fair question comes up fast: **if I go back to school or enter a training program, will I lose my unemployment check?**
+
+The short answer is that it depends on the type of program, how many hours it takes, and your state's rules. In many cases you absolutely can keep collecting benefits while training — and some states even reward you for it by waiving the usual work search requirement. In other cases, going to school can actually disqualify you. This 2026 guide explains the difference so you do not accidentally cut off your own benefits.
+
+## The Core Rule: You Must Be "Able and Available" for Work
+
+Every state's unemployment insurance (UI) program is built on one central idea. To collect benefits, you must be **able to work, available for work, and actively looking for work**. Unemployment insurance is designed to replace part of your income while you search for a new job — not to fund a full-time return to school.
+
+This is where school and training run into trouble. If your classes are so demanding that you could not start a suitable job right away, the state may decide you are no longer "available," and stop your payments. A worker enrolled in a full-time, daytime degree program who cannot accept a 9-to-5 job is the classic example of someone who can be denied.
+
+But there are major exceptions, and they are written into the law on purpose. The most important one is **approved training**.
+
+## Approved Training: The Exception That Protects Your Benefits
+
+Most states have a rule, sometimes called an **approved training waiver** or "Section 236" benefit, that lets you keep collecting unemployment while you attend a training program the state has signed off on. When your training is approved, two powerful things happen:
+
+First, your work search requirement is **waived**. You no longer have to apply for a set number of jobs each week or prove you are job hunting, because the state agrees that finishing your training is the better path back to work.
+
+Second, you cannot be denied just because school makes you less available for an immediate job. The state has already decided your training is worth it.
+
+### How to Get Your Training Approved
+
+You usually have to apply for approval — it is not automatic, and you should not assume your program qualifies. Contact your state workforce agency or your local **American Job Center** (also called a One-Stop Career Center) as soon as you start your claim. Many states require you to request approval **before** the training begins, so timing matters.
+
+States generally approve training when it meets conditions like these:
+
+- The skills you have are **outdated or in low demand**, so finding work in your old field is unlikely.
+- The training teaches skills that are **in demand** in your local labor market.
+- The program is a **reasonable length** and you can realistically finish it.
+- You are **making satisfactory progress** and attending regularly.
+
+Programs funded under the federal **Workforce Innovation and Opportunity Act (WIOA)** are a common route, and many community college and vocational certificate programs qualify. If you were laid off because of foreign trade or offshoring, you may also qualify for **Trade Adjustment Assistance (TAA)**, which pairs training with extended benefits.
+
+## Part-Time School While Job Hunting
+
+What if you are not in a formal approved program, but just want to take a class or two while you look for work? This is often fine — as long as your schooling does not get in the way of accepting a job.
+
+The key test is availability. If your classes are in the evening or online and you remain ready to start full-time work tomorrow, most states will keep paying you. You still have to meet all the normal rules: certify each week, report any income, and complete your required job searches.
+
+Be honest on your weekly certification. Many states ask directly whether you are attending school or training and whether anything limits your availability for work. Answering "no" to hide your classes can be treated as fraud, which leads to penalties, repayment, and disqualification. Answering honestly, on the other hand, often triggers a short review that you can pass easily if your schedule really is flexible.
+
+## When School Can Disqualify You
+
+Going back to school becomes a problem mainly in these situations:
+
+A **full-time daytime program** that you have not gotten approved can sink your claim, because the state assumes you could not accept normal working hours. If you are enrolled full time and have not requested a training waiver, expect questions.
+
+**Refusing suitable work** because it conflicts with class is another trap. If an employer offers you a reasonable job and you turn it down to keep your school schedule, the state can deny benefits for refusing suitable work — unless your training is already approved.
+
+**Quitting a job to go to school** generally counts as leaving work voluntarily without good cause, which usually disqualifies you. Unemployment is for people who lost work through no fault of their own, not for people who chose school over a paycheck.
+
+## State-by-State Differences You Should Know
+
+Because each state runs its own UI program, the details vary widely. Some states are generous with training waivers and even offer extra weeks of benefits for workers in approved long-term training. Others apply the availability rule strictly and rarely approve full-time school.
+
+A few examples of how rules can differ:
+
+- **Waiver deadlines.** Some states require you to apply for training approval within a set number of weeks of opening your claim.
+- **Extended benefits.** Certain states add weeks of payments specifically for people completing approved training, so your check does not run out mid-program.
+- **Online and self-paced courses.** A handful of states treat fully online programs differently from in-person ones when judging your availability.
+
+Because of this variation, the single most valuable step you can take is to call your state agency or visit a local American Job Center and ask specifically about **approved training waivers** before you enroll.
+
+## A Simple Action Plan
+
+If you want to train or study while collecting unemployment, follow these steps to protect your benefits:
+
+1. **File and certify normally.** Keep your claim active and keep meeting work search rules until your training is approved.
+2. **Contact your state agency early.** Ask about approved training or a work search waiver *before* classes start.
+3. **Choose an in-demand program.** Training tied to jobs that are actually hiring in your area is far more likely to be approved.
+4. **Get the approval in writing.** Keep documentation showing your training was approved and your work search requirement waived.
+5. **Stay honest every week.** Report your school status truthfully on each certification to avoid fraud findings.
+6. **Keep attending and progressing.** Approval can be revoked if you stop attending or fall behind.
+
+## How BenefitsPath Can Help
+
+Deciding whether to go back to school after a layoff is stressful enough without worrying that one wrong move will cut off your only income. The rules around school, training, and availability are some of the most misunderstood in the entire unemployment system — and they change from state to state.
+
+Start by using our [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) to see what your weekly benefit and total amount would be, so you know how much support you are working with before you commit to a program. Then explore our [articles library](https://www.benefitspath.org/articles) for closely related topics, including [unemployment work search requirements](https://www.benefitspath.org/articles/unemployment-work-search-requirements-2026), [what to do when your benefits run out](https://www.benefitspath.org/articles/what-to-do-when-unemployment-benefits-run-out-2026), and [how to appeal an unemployment denial](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide) if your claim is wrongly stopped over school.
+
+If your state denies your benefits because of training or availability and you believe the decision is wrong, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment lawyer who handles unemployment appeals in your state. The smartest move you can make this week is simple: contact your state workforce agency and ask whether your program qualifies for an **approved training waiver** before you enroll — that one phone call can mean the difference between keeping your check and losing it.
+`.trim(),
+  },
 ]
 
 
