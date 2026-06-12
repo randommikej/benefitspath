@@ -6965,6 +6965,117 @@ Start by using our [unemployment benefits calculator](https://www.benefitspath.o
 If your state denies your benefits because of training or availability and you believe the decision is wrong, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment lawyer who handles unemployment appeals in your state. The smartest move you can make this week is simple: contact your state workforce agency and ask whether your program qualifies for an **approved training waiver** before you enroll — that one phone call can mean the difference between keeping your check and losing it.
 `.trim(),
   },
+  {
+    slug: 'filing-unemployment-different-state-interstate-combined-wage-claims-2026',
+    title: 'Filing for Unemployment in a Different State: Interstate and Combined Wage Claims (2026 Guide)',
+    description: "Worked in one state and moved to another, or earned wages in several states? Learn how interstate and combined wage claims work, which state pays, and how to file in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-12',
+    updatedAt: '2026-06-12',
+    category: 'Multi-State Claims',
+    tags: ['interstate unemployment claim', 'combined wage claim', 'moving while on unemployment', 'multi-state wages', 'unemployment eligibility', 'out of state benefits'],
+    readTime: '11 min read',
+    content: `
+## Filing for Unemployment Across State Lines in 2026
+
+The American workforce moves around more than ever. People take remote jobs for companies headquartered three states away, follow work across regional borders, get laid off and then relocate to live with family, or split a single year between two or three employers in different states. When a job ends, all of that movement creates one confusing question: **which state do I file my unemployment claim with — and what happens to the wages I earned somewhere else?**
+
+The good news is that the unemployment insurance system was built to handle exactly these situations. You do not lose the wages you earned in another state, and you do not have to travel back to where you used to work to collect benefits. Two federal mechanisms — the **interstate claim** and the **Combined Wage Claim (CWC)** — exist to make sure workers with multi-state histories still get the benefits they earned.
+
+This guide explains how both work in 2026, which state ends up paying you, and the practical steps to file without losing weeks of benefits to a paperwork mix-up.
+
+## First, Understand How States "Own" Your Wages
+
+Every dollar you earn in covered employment is reported to a specific state's unemployment agency, along with the unemployment tax your employer paid on it. That state is said to have "jurisdiction" over those wages. When you file a claim, the state you file with pulls your wage history to calculate your weekly benefit amount and how many weeks you can collect.
+
+The complication is simple: if your wages live in more than one state, or if you no longer live in the state that holds your wages, your claim has to reach across state lines. That is what interstate and combined wage claims do.
+
+### The Key Question: Where Were the Wages Earned vs. Where Do You Live Now?
+
+Two different facts drive which path you take:
+
+- **Where you physically performed the work** determines which state holds your wage credits.
+- **Where you live now** determines whether you are filing an interstate claim from a distance.
+
+Keep these separate in your mind. Many people assume they must file where they currently live. In reality, you usually file against the state (or states) where you earned your wages — you can just do it remotely.
+
+## Interstate Claims: You Worked in One State and Now Live in Another
+
+An **interstate claim** is what you file when your wages are in one state but you have moved to a different state. The state that holds your wages is called the **liable state** (also called the paying state). The state you now live in is the **agent state** — it simply helps relay your claim but does not pay you.
+
+### How an Interstate Claim Works
+
+Say you worked in Illinois for the past two years, got laid off, and moved to Tennessee to be closer to family. Illinois holds your wages, so Illinois is the liable state. You file your claim **with Illinois**, not Tennessee — typically online through the Illinois agency's website or by phone. Illinois calculates your benefit using Illinois rules and pays you, even though you are physically living in Tennessee.
+
+You will still need to meet the liable state's ongoing requirements: certifying each week, completing work search activities, and reporting any earnings. The work search you do, though, happens in your new location — you look for jobs where you actually live.
+
+### What This Means for Your Benefit Amount
+
+Because the liable state pays you, **the liable state's rules set your weekly benefit amount, maximum duration, and eligibility standards** — not the state you moved to. This matters a lot. If you moved from a state with generous benefits to one with low benefits, you keep the higher amount from the liable state. The reverse is also true. Your benefit follows the wages, not your new ZIP code.
+
+### Moving While Already on a Claim
+
+If you are already collecting benefits and then move, you do not have to start over. You continue your existing claim and update your address and contact information with the liable state. Keep certifying on schedule, and adjust your work search to your new area. Just make sure the agency can reach you — a missed phone interview or letter is one of the most common reasons benefits get interrupted after a move.
+
+## Combined Wage Claims: You Earned Wages in More Than One State
+
+A **Combined Wage Claim** is the tool for a different situation: you earned wages in **two or more states** during your base period, and combining them helps you qualify or increases your benefit.
+
+### Why You Might Need to Combine Wages
+
+Unemployment eligibility depends on earning enough during your base period — usually the first four of the last five completed calendar quarters. If your earnings are split across states, you might not have enough in any single state to qualify, even though your total earnings were plenty. Or you might technically qualify in one state but get a much larger benefit by combining all of your wages into one claim.
+
+A Combined Wage Claim lets you pull wages from every state where you worked during the base period into a single claim, filed through one state.
+
+### How to File a Combined Wage Claim
+
+You file with a single state — your **paying state** — and that state requests your wage records from the other states and folds them into one benefit calculation. Under federal rules, you generally get to choose your paying state from among the states where you have qualifying wages, as long as you have wages there during the base period.
+
+That choice is worth thinking about, because the paying state's rules govern everything:
+
+- **The weekly benefit amount** is calculated under the paying state's formula using your combined wages.
+- **The maximum number of weeks** follows the paying state's schedule.
+- **Eligibility rules** — including how voluntary quits and misconduct are treated — are the paying state's rules.
+
+### Choosing the Right Paying State
+
+If you have qualifying wages in more than one state, compare them before you commit. A state where you earned most of your high-quarter wages, or a state with a higher maximum weekly benefit, may produce a substantially larger check. Once your wages are combined into one state's claim, those wage credits are generally committed to that claim, so it is worth getting the choice right the first time. When the difference is significant, this is exactly the kind of decision worth a quick conversation with your state agency or an employment attorney before you file.
+
+## Common Pitfalls With Multi-State Claims
+
+Multi-state claims take longer to process because one agency has to request records from another. A few habits keep things moving:
+
+### Do Not File Two Claims at Once
+
+Filing separate claims in two states for the same period can trigger a cross-match flag, freeze your benefits, and create an overpayment to untangle later. Choose one path — interstate or combined — and file a single claim.
+
+### Have Documentation for Every State
+
+Gather pay stubs, W-2s, and employer contact information for **each** state where you worked during your base period. If a state's wage records are incomplete or delayed, your own documentation can keep your claim from stalling.
+
+### Expect a Longer Timeline
+
+Because your paying state has to pull records from other states, approval can take longer than a single-state claim. File as soon as you are unemployed, respond quickly to every request, and keep certifying each week even while the claim is pending so you do not lose those weeks.
+
+### Federal and Military Wages Are Their Own Category
+
+If part of your base period includes federal civilian work or military service, those wages are handled through separate federal programs (UCFE and UCX) but can still be combined with your state wages. Mention that history when you file so none of your wage credits get left out.
+
+## Quick Reference: Which Type of Claim Do You Need?
+
+- **You worked in one state and moved to another:** File an **interstate claim** against the state where you earned your wages (the liable state). You can do it remotely from your new home.
+- **You earned wages in two or more states during your base period:** File a **Combined Wage Claim** through one paying state, and that state will gather your other-state wages.
+- **You both moved and worked in multiple states:** You may file a combined wage claim and choose a paying state, then certify from wherever you now live. This is the most complex case and the one most worth getting guidance on.
+
+## How BenefitsPath Can Help
+
+Multi-state unemployment claims are one of the most confusing corners of the entire system, and a single wrong choice — filing in the wrong state, filing two claims, or picking a paying state that pays less — can cost you hundreds of dollars a week. You do not have to figure it out alone.
+
+Start with our [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) to estimate what your weekly benefit and total payout would look like under different states' rules — that comparison alone can tell you which paying state to choose. Then browse our [articles library](https://www.benefitspath.org/articles) for closely related guides, including [how unemployment benefits are calculated](https://www.benefitspath.org/articles/how-unemployment-benefits-are-calculated-base-period-weekly-amount-2026), [what to do when your benefits run out](https://www.benefitspath.org/articles/what-to-do-when-unemployment-benefits-run-out-2026), and [how to appeal an unemployment denial](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide) if a state wrongly rejects your wages.
+
+If a state denies your claim, leaves wages out of your calculation, or you are unsure which state should be paying you, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment lawyer who handles unemployment cases in your state. The single smartest move you can make this week is to gather your pay records from every state you worked in and file one claim — interstate or combined — as soon as possible, so the clock starts and your wages are counted while you sort out the details.
+`.trim(),
+  },
 ]
 
 

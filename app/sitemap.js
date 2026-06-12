@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'filing-unemployment-different-state-interstate-combined-wage-claims-2026',
   'can-you-collect-unemployment-while-in-school-or-job-training-2026',
   'unemployment-work-search-requirements-2026',
   'what-is-warn-act-mass-layoff-notification-rights-2026',
