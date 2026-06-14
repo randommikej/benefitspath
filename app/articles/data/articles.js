@@ -7076,6 +7076,109 @@ Start with our [unemployment benefits calculator](https://www.benefitspath.org/u
 If a state denies your claim, leaves wages out of your calculation, or you are unsure which state should be paying you, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment lawyer who handles unemployment cases in your state. The single smartest move you can make this week is to gather your pay records from every state you worked in and file one claim — interstate or combined — as soon as possible, so the clock starts and your wages are counted while you sort out the details.
 `.trim(),
   },
+  {
+    slug: 'can-teachers-collect-unemployment-over-summer-reasonable-assurance-2026',
+    title: 'Can Teachers Collect Unemployment Over the Summer? Reasonable Assurance Rules (2026)',
+    description: "Teachers and school staff often can't get unemployment over summer break. Learn the reasonable assurance rule, who is exempt, and how to qualify in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-14',
+    updatedAt: '2026-06-14',
+    category: 'Unemployment Eligibility',
+    tags: ['teacher unemployment', 'reasonable assurance', 'school employees', 'summer unemployment', 'substitute teachers', 'unemployment eligibility'],
+    readTime: '11 min read',
+    content: `
+## Can Teachers and School Staff Collect Unemployment Over Summer Break?
+
+Every June, the same question lands in inboxes at school districts and state labor offices across the country: now that the school year is over and the paychecks have stopped, can teachers and other school employees collect unemployment over the summer? It is a fair question. If you are a teacher, paraprofessional, bus driver, cafeteria worker, or substitute, your income often dries up for two or three months while the bills keep coming.
+
+The short answer for most school employees is **no** — not because of a technicality, but because of a specific federal rule called **reasonable assurance**. But "most" is not "all," and the exceptions matter. This guide explains exactly how the rule works in 2026, who is blocked from summer benefits, who can still qualify, and what to do if you think your state got it wrong.
+
+## What Is the "Reasonable Assurance" Rule?
+
+The rule comes from federal law — specifically a section of the Federal Unemployment Tax Act (FUTA) that every state must follow. It says that employees of educational institutions generally **cannot** collect unemployment benefits during the period between two academic years or terms (summer break) **if they have "reasonable assurance" of returning to a similar job when school resumes.**
+
+**Reasonable assurance** is a written, verbal, or implied agreement that you will perform services for the school in the next academic year or term, under roughly the same terms and conditions — similar pay, similar duties, and a similar work schedule. It does not have to be a signed contract. A letter from your district, a re-employment notice, or even an established pattern of being called back can be enough.
+
+The logic behind the rule is this: if your district has told you that your job is waiting for you in August, the law treats you as still "attached" to that job over the summer. You are on a scheduled break, not unemployed through no fault of your own — and unemployment insurance is designed for people who have actually lost work, not for people on a recurring seasonal recess.
+
+### Two Periods the Rule Covers
+
+The reasonable assurance rule applies to more than just summer. It covers:
+
+- **Between academic years or terms** — the long summer break, and the gap between semesters or quarters.
+- **During scheduled breaks within a term** — holiday breaks, spring break, and similar paid or unpaid recesses, as long as you return afterward.
+
+In all of these situations, if you have reasonable assurance of returning, you generally cannot draw benefits for those weeks.
+
+## Who the Rule Blocks From Summer Benefits
+
+The reasonable assurance rule reaches a wide range of school workers — not just classroom teachers. It applies to employees of public school districts, charter schools, colleges, universities, and many private educational institutions. Two broad groups are treated slightly differently.
+
+### Professional Employees
+
+This group includes teachers, principals, counselors, and other staff in a "professional" or "instructional" capacity. If a professional employee has reasonable assurance of returning, benefits are denied for the break, and that denial is generally **final** — even if the job later falls through, most states will not pay benefits retroactively for those summer weeks.
+
+### Non-Professional Employees
+
+This group includes support staff: bus drivers, cafeteria and food-service workers, custodians, classroom aides, and clerical staff. The between-terms denial applies to them too **if** they have reasonable assurance. But there is an important safety net: if a non-professional employee is denied summer benefits because of reasonable assurance and then is **not actually given the job** when school resumes, many states will pay **retroactive benefits** for the weeks that were denied. This retroactive-pay protection generally does **not** extend to professional employees, which is one of the most important differences between the two groups.
+
+## Who Can Still Qualify for Summer Unemployment
+
+The rule has real limits, and a meaningful number of school employees fall outside it. You may still be eligible for benefits over the break if any of the following apply.
+
+### You Don't Have Reasonable Assurance
+
+This is the biggest exception. If your district has **not** told you that you will be coming back — for example, you received a layoff or reduction-in-force (RIF) notice, your position was eliminated, your program lost funding, or you are simply waiting on a "maybe" with no real offer — then you do not have reasonable assurance, and the rule does not block you. A vague "we hope to bring you back" or "it depends on enrollment" is often **not** strong enough to count as reasonable assurance. The offer generally has to be genuine and reasonably certain, not contingent on events the school cannot predict.
+
+### Your Pay or Conditions Will Drop Significantly
+
+Reasonable assurance requires that the next year's job be under **similar** economic terms. If the school offers you the fall back at substantially lower pay or sharply reduced hours, several states have held that this is not "reasonable assurance" of a comparable job, which can open the door to benefits.
+
+### You're a Substitute or Contingent Employee
+
+Substitute teachers and on-call staff are a gray area that comes up constantly. If your future work is genuinely uncertain — you are on a call list with no guaranteed assignments — you may not have reasonable assurance. Some states have specifically found that day-to-day substitutes without a firm commitment are eligible. Others apply the rule more strictly. This is one of the most litigated corners of the entire topic, so substitutes should always file and let the state decide rather than assuming they are blocked.
+
+### You Have Non-School Base Period Wages
+
+Here is a detail many school workers miss: the reasonable assurance rule only blocks benefits based on your **school wages**. If you also worked a **non-school job** during your base period — a summer job, a weekend retail shift, a side business — those wages are **not** subject to the rule. You may qualify for a (often smaller) benefit based on the non-school portion of your earnings. It is always worth filing to find out.
+
+### You Work a Year-Round or 12-Month Schedule
+
+If your position is genuinely year-round rather than tied to the academic calendar, the between-terms rule may not apply to you the same way. The rule targets seasonal academic schedules, not staff who work straight through the summer.
+
+## How the Rule Plays Out: A Few Examples
+
+Consider a high school math teacher who signs a contract in May for the next school year. She has clear reasonable assurance and will not be able to collect over the summer.
+
+Now consider a paraprofessional who receives a RIF notice in May because his district cut its aide budget. He has no assurance of returning, so he can generally file and collect over the summer like any other laid-off worker.
+
+Finally, consider a substitute teacher on a district call list with no guaranteed days. Whether she qualifies depends on her state's rules and how firm her future assignments are — which is exactly why she should file rather than guess.
+
+## What to Do This Summer
+
+If you are a school employee facing a summer without a paycheck, here is a practical plan.
+
+**File a claim anyway — do not self-disqualify.** The single most common mistake school workers make is assuming they cannot get benefits and never applying. Eligibility is decided by your state agency on the specific facts of your case, not by a rule of thumb. File, and let them make the determination.
+
+**Read your "reasonable assurance" letter carefully.** Districts often send a notice asking you to confirm you intend to return. How this is worded — and whether the offer is firm or contingent — can directly affect your eligibility. If the job is not actually guaranteed, that matters.
+
+**Report all your employers.** Make sure your claim includes any non-school work in your base period. Those wages may not be subject to the rule and could form the basis of a benefit.
+
+**Appeal if you are denied and the facts are on your side.** If you were denied based on reasonable assurance but you did not really have a firm offer — or your fall job fell through and you are a non-professional employee — file an appeal before the deadline. These cases are frequently won on appeal because the facts often do not match the school's paperwork.
+
+**Look at other support while you wait.** If benefits are off the table for the summer, programs like SNAP food assistance, Medicaid, and ACA marketplace coverage may help bridge the gap.
+
+## How BenefitsPath Can Help
+
+The reasonable assurance rule is one of the most misunderstood parts of the entire unemployment system — and that confusion costs school workers real money every single summer. The good news is that you do not have to interpret it on your own.
+
+Start with our [free eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator), which walks through your situation in a few minutes and helps you understand whether your school and non-school wages might support a claim this summer. Then browse our [articles library](https://www.benefitspath.org/articles) for closely related guides, including [how unemployment benefits are calculated](https://www.benefitspath.org/articles/how-unemployment-benefits-are-calculated-base-period-weekly-amount-2026), [how to appeal an unemployment denial](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide), and [what to do when your benefits run out](https://www.benefitspath.org/articles/what-to-do-when-unemployment-benefits-run-out-2026).
+
+If your district has contested your claim, if you were denied based on a "reasonable assurance" you do not believe was real, or if your promised fall job disappeared, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment lawyer who handles unemployment cases in your state. Many offer free initial consultations.
+
+The smartest move you can make this week is simple: **file your claim now**, report every employer, and let your state decide — because the only school worker guaranteed to get nothing this summer is the one who never applies.
+    `.trim(),
+  },
 ]
 
 
