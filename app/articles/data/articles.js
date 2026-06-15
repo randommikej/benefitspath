@@ -4,6 +4,85 @@
 
 export const articles = [
   {
+    slug: 'can-you-collect-unemployment-and-social-security-at-the-same-time-2026',
+    title: 'Can You Collect Unemployment and Social Security at the Same Time? (2026)',
+    description: "Yes — in 2026 you can collect unemployment and Social Security together in every state. Learn how the offset repeal works, the SSDI exception, and the tax rules.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-15',
+    updatedAt: '2026-06-15',
+    category: 'Benefits Eligibility',
+    tags: ['unemployment and social security', 'social security offset', 'retirement benefits', 'SSDI', 'unemployment eligibility', 'older workers'],
+    readTime: '9 min read',
+    content: `
+## Can You Collect Unemployment and Social Security at the Same Time?
+
+If you have lost your job later in your career, you may be wondering whether filing for unemployment will hurt the Social Security check you already receive — or whether claiming Social Security will shrink your unemployment benefits. The short answer is reassuring: in 2026, **you can collect unemployment benefits and Social Security retirement benefits at the same time in every state**, and neither one reduces the other.
+
+This used to be more complicated. For years, some states cut your weekly unemployment payment if you also drew Social Security. That practice — called the **Social Security offset** — is now gone nationwide. This guide explains how the two programs interact, what changed, and the few situations where you still need to be careful.
+
+## The Social Security Offset Is Officially Dead
+
+Back in the early 2000s, about 20 states and Washington, D.C. had laws that reduced your unemployment check — sometimes by as much as 50% of your Social Security benefit — if you collected both. The idea was that Social Security was a form of "double dipping." Workers, retiree advocates, and groups like AARP and the National Employment Law Project pushed hard against these rules for two decades.
+
+One by one, states repealed their offset laws. **Minnesota was the last state to do so, ending its offset in July 2022.** That means as of 2026, **no state reduces your unemployment benefits because you receive Social Security.** Your weekly unemployment amount is based on your past work earnings, not on what you collect from Social Security.
+
+## Does Unemployment Reduce Your Social Security?
+
+This is the question that worries most people, and the answer is no — at least not the way many fear.
+
+Social Security retirement benefits are **not** reduced by unemployment compensation. Here is why: Social Security has an earnings test that can temporarily lower benefits for people who claim before their full retirement age and keep working. But that test only counts **wages from work and net self-employment income.** Unemployment benefits are **not** considered wages or earnings for this purpose.
+
+In plain terms: the money you receive from your state unemployment office does not count against the Social Security earnings limit. You can draw both without your Social Security retirement check shrinking.
+
+### A Quick Note on the Earnings Test
+
+If you claimed Social Security early (before your full retirement age, which is 67 for people born in 1960 or later) and you go back to work part-time while also collecting unemployment, only the **wages from that part-time job** count toward the earnings test — not your unemployment benefits. Once you reach full retirement age, the earnings test disappears entirely and you can earn any amount without affecting Social Security.
+
+## Will Social Security Reduce Your Unemployment?
+
+No. Your unemployment benefit amount is calculated from the wages you earned during your "base period" — typically the first four of the last five completed calendar quarters before you filed. Social Security income is not part of that calculation, and as explained above, no state subtracts it from your weekly benefit anymore.
+
+There is one practical point worth knowing: when you apply for unemployment, some states may ask whether you receive a **pension** from a base-period employer. A private or government **pension** can sometimes reduce unemployment benefits in certain states. But **Social Security retirement is treated differently from an employer pension** and does not trigger that reduction. If a claims form lumps "pension or retirement pay" together, list your sources accurately and let the agency apply the correct rule.
+
+## The Big Exception: Social Security Disability (SSDI)
+
+Everything above applies to Social Security **retirement** benefits. **Social Security Disability Insurance (SSDI) is a different story**, and this is where people get into trouble.
+
+The two programs send conflicting signals:
+
+- **Unemployment** requires that you are **able to work, available for work, and actively looking for work.**
+- **SSDI** requires that you are **unable to engage in substantial gainful activity** because of a disability.
+
+Saying "I am ready and able to work" to the unemployment office while telling the Social Security Administration "I cannot work" can look contradictory. It is **not automatically illegal** to receive both — the Social Security Administration has said an application for unemployment is just one factor it weighs, not an automatic disqualifier. Some people can do limited work, and the definitions do not perfectly overlap. But collecting both at once can raise red flags, may be used as evidence against your disability claim, and can lead to overpayment problems.
+
+If you are receiving or applying for SSDI and also considering unemployment, talk to a knowledgeable attorney or benefits counselor before filing. The interaction is fact-specific and the stakes are high.
+
+## Don't Forget: Unemployment Is Taxable
+
+Collecting both benefits has a tax wrinkle worth planning for. **Unemployment benefits are fully taxable** as ordinary income on your federal return, and some states tax them too. On top of that, **receiving unemployment can push more of your Social Security benefits into the taxable range.**
+
+Up to 85% of your Social Security benefits can become taxable once your "combined income" crosses certain thresholds, and unemployment compensation counts toward that combined income. To avoid a surprise tax bill, consider having taxes withheld from your unemployment checks (you can request this on **Form W-4V**) or setting money aside for quarterly estimated payments.
+
+## How to File for Both Without Problems
+
+If you are drawing Social Security retirement and just lost a job, here is a simple game plan:
+
+1. **File for unemployment promptly** in the state where you worked. Do not assume your Social Security check makes you ineligible — it does not.
+2. **Report your income honestly.** List Social Security where asked, and distinguish it from any employer pension.
+3. **Keep meeting work-search rules.** You still must be able, available, and actively looking for work to keep your unemployment benefits, even as a retiree.
+4. **Plan for taxes** on your unemployment income and the possible ripple effect on your Social Security taxation.
+5. **Get advice first if SSDI is involved**, since disability and unemployment send opposite messages about your ability to work.
+
+## How BenefitsPath Can Help
+
+Losing a job near or in retirement brings a unique set of worries, and the rules around stacking benefits are easy to misread. BenefitsPath was built to make this clearer. Our free **eligibility tool** walks you through your situation in a few minutes and helps you see whether you likely qualify for unemployment — including when you already collect Social Security.
+
+If your claim is denied, your benefits are unexpectedly reduced, or you are caught between an unemployment claim and a disability claim, you do not have to figure it out alone. Our **attorney directory** connects you with experienced employment lawyers who handle unemployment appeals and benefits disputes and can review the specifics of your case.
+
+You worked for these benefits. Use BenefitsPath's free eligibility checker today to confirm what you are owed, and reach out to a qualified attorney through our directory if you hit a roadblock.
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-georgia-2026-guide',
     title: 'How to File for Unemployment in Georgia: 2026 Step-by-Step Guide',
     description: "Lost your job in Georgia? Learn how to file a GDOL unemployment claim, employer-filed partial claims, weekly benefits, work search rules, and how to avoid delays.",
