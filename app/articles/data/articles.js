@@ -7258,6 +7258,100 @@ If your district has contested your claim, if you were denied based on a "reason
 The smartest move you can make this week is simple: **file your claim now**, report every employer, and let your state decide — because the only school worker guaranteed to get nothing this summer is the one who never applies.
     `.trim(),
   },
+  {
+    slug: 'can-you-collect-unemployment-and-workers-comp-at-the-same-time-2026',
+    title: 'Can You Collect Unemployment and Workers\' Comp at the Same Time? (2026)',
+    description: "Can you collect unemployment and workers' comp together in 2026? Learn the able-and-available rule, offsets, light-duty exceptions, and how settlements affect benefits.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-16',
+    updatedAt: '2026-06-16',
+    category: 'Benefits Eligibility',
+    tags: ['unemployment and workers comp', 'workers compensation', 'work injury', 'temporary disability', 'unemployment eligibility', 'able and available'],
+    readTime: '10 min read',
+    content: `
+## Can You Collect Unemployment and Workers' Comp at the Same Time?
+
+Losing your income after a workplace injury is frightening, and the rules around what you can collect only make it more confusing. If you were hurt on the job, you may be wondering whether you can receive **workers' compensation** and **unemployment benefits** at the same time — or whether claiming one will cancel out the other.
+
+The short answer: in most cases you **cannot** collect both at the same time, because the two programs are built on opposite assumptions about your ability to work. But there are important exceptions, and many injured workers leave money on the table because they do not understand how the two systems fit together. This 2026 guide breaks it down in plain language.
+
+## The Core Conflict: "Unable to Work" vs. "Able to Work"
+
+The reason you usually cannot collect both comes down to one simple idea.
+
+**Workers' compensation** pays you when a job-related injury or illness leaves you **unable to work**. To receive temporary total disability (TTD) benefits, you are essentially certifying that your injury prevents you from doing your job.
+
+**Unemployment insurance**, on the other hand, requires the exact opposite. To qualify for unemployment, you must be **able to work, available for work, and actively looking for a job.** That is the legal standard in every state.
+
+So if you tell the workers' comp system "I am too injured to work" while telling the unemployment office "I am ready, willing, and able to work," you are making contradictory claims. States cross-check these programs, and collecting both for the same period of total disability can be treated as fraud.
+
+## When You Generally Cannot Collect Both
+
+You typically **cannot** receive unemployment and workers' comp together in these situations:
+
+You are receiving **temporary total disability** because your doctor has taken you completely off work. During this period you are, by definition, not able and available for work, so you do not meet the unemployment standard.
+
+You are out on doctor-ordered restrictions that no employer could accommodate and you are not capable of any work at all. Again, the "able and available" test fails.
+
+## When You May Be Able to Collect Both (or Switch Between Them)
+
+Here is where many injured workers miss out. There are real scenarios where the two programs overlap or hand off to each other.
+
+### You Are on Light Duty or Partial Disability
+
+If your doctor clears you for **light-duty or part-time work** and your employer cannot or will not provide it, you may be in a gray area. You might be receiving **temporary partial disability** from workers' comp while also being genuinely able and available for the kind of work you can now do. Some states allow a limited combination in this situation, though your unemployment benefit may be reduced by the workers' comp amount you receive. The rules vary significantly by state.
+
+### You Have Been Released to Work but Still Have a Claim Open
+
+Once your doctor gives you a **full or modified release to return to work**, you are considered able to work again. If your old job is gone — because you were laid off, the position was eliminated, or the company would not take you back — you may now qualify for unemployment even though your workers' comp case is still open for medical treatment or a permanent disability rating.
+
+### You Are Receiving a Permanent Partial Disability Award
+
+A **permanent partial disability (PPD)** settlement compensates you for lasting impairment, not for being unable to work entirely. Because a PPD award is not the same as certifying total inability to work, you may be able to collect unemployment at the same time if you are otherwise job-ready and looking. Some states offset the amounts; others do not.
+
+## How One Benefit Can Reduce the Other
+
+Even where overlap is allowed, you rarely get the full amount of both. States use **offset rules** to prevent you from receiving more than you would have earned while working.
+
+In many states, if you collect workers' comp wage-replacement benefits and unemployment for the same week, your unemployment check is reduced dollar-for-dollar (or by a percentage) by the comp payment. The goal is to make you whole, not to let you collect twice for the same lost wages. Always report any workers' comp income when you certify for unemployment — failing to do so can trigger an **overpayment notice** and penalties later.
+
+## What About a Workers' Comp Settlement?
+
+Many injury claims end in a lump-sum settlement. Whether that settlement affects unemployment depends on how it is structured.
+
+If part of your settlement is allocated to **future wage replacement**, some states will treat that as income and reduce or delay unemployment benefits for a corresponding number of weeks. If the settlement is purely for **medical expenses or permanent impairment**, it is less likely to affect unemployment. Because settlement language directly controls how state agencies treat the money, this is one of the most important reasons to have the wording reviewed before you sign.
+
+## Step-by-Step: What to Do If You Were Injured and Lost Your Job
+
+1. **Report the injury and file your workers' comp claim first.** Medical care and wage-replacement for a work injury should be your immediate priority. Do not delay — most states have strict deadlines for reporting workplace injuries.
+
+2. **Get clear documentation of your work status.** Whether your doctor has taken you fully off work, placed you on restrictions, or released you to full duty determines which benefit you qualify for. This medical paperwork is the key that unlocks the right program.
+
+3. **Apply for unemployment once you are released to work.** If you are cleared for full or modified duty and have no job to return to, file an unemployment claim. Be honest on the application about your work restrictions.
+
+4. **Report all income honestly on both claims.** Never hide a workers' comp payment from the unemployment office or vice versa. Cross-matching is automatic and the penalties for fraud are severe.
+
+5. **Get advice before signing a settlement.** A poorly worded settlement can accidentally wipe out weeks of unemployment eligibility.
+
+## Watch Out for These Common Mistakes
+
+**Assuming you can collect both freely.** This is the fastest way to end up with an overpayment notice and a fraud investigation.
+
+**Assuming you can collect neither.** Many injured workers wrongly believe that an open comp claim blocks unemployment forever. Once you are released to work, that is usually not true.
+
+**Forgetting that the rules are state-specific.** Workers' comp and unemployment are both run at the state level. What is allowed in one state may be prohibited in another, and offset formulas differ widely.
+
+## How BenefitsPath Can Help
+
+The overlap between workers' compensation and unemployment is one of the trickiest corners of the entire benefits system, and the cost of getting it wrong — a denied claim, a clawback, or a fraud finding — is real. You do not have to figure it out alone.
+
+Start with our [free eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator), which walks through your work status and situation in a few minutes to help you understand whether you may qualify for unemployment after a workplace injury. Then explore our [articles library](https://www.benefitspath.org/articles) for closely related guides, including [how unemployment benefits are calculated](https://www.benefitspath.org/articles/how-unemployment-benefits-are-calculated-base-period-weekly-amount-2026), [what to do about an unemployment overpayment notice](https://www.benefitspath.org/articles/unemployment-overpayment-notice-what-to-do), and [how to appeal an unemployment denial](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide).
+
+If your claim was denied, if your benefits were reduced by an offset you do not understand, or if you are weighing a workers' comp settlement that could affect your eligibility, our [attorney directory](https://www.benefitspath.org/attorneys) can connect you with an employment or workers' compensation lawyer in your state. Many offer free initial consultations.
+
+The bottom line: the timing of your medical release is what usually determines which benefit you can claim — so keep your paperwork current, report every dollar honestly, and apply for unemployment the moment you are cleared to work.
+    `.trim(),
+  },
 ]
 
 
