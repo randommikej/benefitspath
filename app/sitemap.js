@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'can-you-collect-unemployment-while-pregnant-or-on-maternity-leave-2026',
   'can-you-collect-unemployment-and-workers-comp-at-the-same-time-2026',
   'can-you-collect-unemployment-and-social-security-at-the-same-time-2026',
   'can-teachers-collect-unemployment-over-summer-reasonable-assurance-2026',

@@ -7352,6 +7352,110 @@ If your claim was denied, if your benefits were reduced by an offset you do not 
 The bottom line: the timing of your medical release is what usually determines which benefit you can claim — so keep your paperwork current, report every dollar honestly, and apply for unemployment the moment you are cleared to work.
     `.trim(),
   },
+  {
+    slug: 'can-you-collect-unemployment-while-pregnant-or-on-maternity-leave-2026',
+    title: 'Can You Collect Unemployment While Pregnant or on Maternity Leave? (2026)',
+    description: "Pregnant or postpartum and out of work in 2026? Learn when you can collect unemployment, how 'able and available' rules apply, and your rights under the PWFA and FMLA.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-17',
+    updatedAt: '2026-06-17',
+    category: 'Unemployment Eligibility',
+    tags: ['unemployment while pregnant', 'maternity leave unemployment', 'pregnancy discrimination', 'PWFA', 'able and available', 'FMLA'],
+    readTime: '10 min read',
+    content: `
+## Can You Collect Unemployment While Pregnant or on Maternity Leave?
+
+Losing income while you are expecting a baby is one of the most stressful situations a worker can face. If you are pregnant, recently gave birth, or planning maternity leave and you are now out of work, you are probably asking a simple question with a complicated answer: **can you collect unemployment benefits?**
+
+The honest answer is: **sometimes, depending on your situation.** Pregnancy by itself does not disqualify you from unemployment, and it is illegal for a state to deny you benefits just because you are pregnant. But unemployment has rules about being **able and available to work**, and those rules are where pregnancy and maternity leave can complicate things. This guide breaks down exactly when you qualify, when you may not, and what other benefits and legal protections you should know about in 2026.
+
+## The Core Rule: You Must Be "Able and Available" to Work
+
+Every state's unemployment program requires that you be **able to work, available to work, and actively looking for work** each week you claim benefits. Unemployment is not a paid-leave program — it is designed for people who can take a job right now but cannot find one.
+
+This single rule explains most of the confusion around pregnancy:
+
+- **You are pregnant but still physically able to work.** You generally remain eligible. Being pregnant does not make you "unavailable." If you lost your job through no fault of your own and you can still accept suitable work, you can usually collect.
+- **You are temporarily unable to work** because of a medical restriction, late-term complications, childbirth recovery, or doctor's orders. During the weeks you genuinely cannot work, you may **not** meet the "able and available" test, and benefits can pause for that period.
+
+The key point: it is your **ability to work**, not the pregnancy itself, that the state is looking at. Many people work comfortably through most of a pregnancy and stay fully eligible.
+
+### It Is Illegal to Deny You Benefits Just for Being Pregnant
+
+Federal law prohibits states from singling out pregnancy for worse treatment than any other temporary medical condition. A state cannot have a rule that automatically cuts off a pregnant claimant while allowing someone with a different short-term health issue to keep benefits. If your only "problem" is that you are pregnant and you can still work, you should not be denied.
+
+## When You Probably Qualify
+
+You are in the strongest position to collect unemployment if **all** of these are true:
+
+1. You **lost your job through no fault of your own** — a layoff, a position elimination, a plant closing, or the end of a contract.
+2. You are **physically able to keep working** and willing to accept suitable work.
+3. You meet your state's **earnings and work-history requirements** from your base period (typically the first four of the last five completed calendar quarters before you filed).
+4. You are **actively looking for work** and meeting weekly work-search requirements.
+
+In this scenario, your pregnancy is simply not a disqualifier. File promptly, report your situation honestly, and keep up with your state's work-search rules.
+
+## When It Gets Complicated
+
+Several common situations create gray areas. Here is how each typically plays out.
+
+### You Quit Your Job Because of Pregnancy
+
+If you **voluntarily quit**, most states require that you had **good cause** to keep benefits, and "I left to prepare for the baby" usually does not count on its own. However, there are important exceptions. If you quit because your employer **refused a reasonable accommodation** you needed for your pregnancy — and that refusal made it impossible to keep working safely — you may have **good cause** or even a **constructive discharge** claim. Document everything, because the burden is on you to show the quit was justified.
+
+### You Are on Maternity Leave Right Now
+
+If you are **still employed** and on approved leave, you are generally **not "unemployed"** in the eyes of the system, so you typically cannot collect unemployment during that leave. Unemployment is for people who have lost their jobs, not for people taking time off from a job they still hold. If your leave is unpaid, look instead at **state paid-leave programs and short-term disability** (covered below).
+
+### You Were Fired or Laid Off While Pregnant
+
+Being let go while pregnant does not erase your eligibility — and it may also signal something more serious. If you suspect you were targeted **because** of your pregnancy, that is **pregnancy discrimination**, which is illegal. You can pursue unemployment and, separately, a discrimination claim. More on your legal rights below.
+
+### You Are Recovering From Childbirth
+
+In the weeks immediately after delivery, you may be medically unable to work. During that window you likely will not meet the "able and available" standard, so unemployment may not apply. Once your doctor clears you to return to work and you are actively job-hunting, you can file or resume a claim if you otherwise qualify.
+
+## Unemployment vs. Disability vs. Paid Family Leave
+
+A frequent and costly mistake is confusing unemployment with two other benefits that often fit pregnancy better. They are not the same, and you usually cannot collect overlapping benefits for the same period.
+
+- **Short-term disability (STD).** Several states run **State Disability Insurance** programs — including California, New York, New Jersey, Rhode Island, Hawaii, and others — that pay partial wages when you cannot work due to pregnancy and childbirth recovery. Many private employers also offer STD coverage. This is the right tool for the period when you physically **cannot** work.
+- **Paid Family Leave (PFL).** A growing number of states — such as California, New York, New Jersey, Massachusetts, Washington, Colorado, Connecticut, Oregon, and others — offer **paid family leave** to bond with a new child. This covers the bonding period **after** recovery and is separate from unemployment.
+- **Unemployment Insurance (UI).** This is for when you have **lost your job** and are **ready, able, and available** to take a new one.
+
+Think of it this way: disability covers the time you **cannot** work, paid family leave covers **bonding** time, and unemployment covers the time you **can** work but are out of a job. Check your state's labor department to see which programs exist where you live, because availability varies widely.
+
+## Your Legal Rights as a Pregnant Worker in 2026
+
+Beyond unemployment, several federal laws protect you, and knowing them can change your options.
+
+- **The Pregnancy Discrimination Act (PDA)** makes it illegal for employers with 15 or more workers to fire, demote, or refuse to hire you because of pregnancy, childbirth, or related conditions.
+- **The Pregnant Workers Fairness Act (PWFA)**, in full effect since 2023, requires covered employers to provide **reasonable accommodations** for pregnancy and childbirth — such as extra breaks, a stool, lighter lifting, or schedule changes — unless doing so causes undue hardship. An employer's refusal to accommodate can be the very reason a worker is forced out, which ties directly into "good cause" for unemployment.
+- **The Family and Medical Leave Act (FMLA)** gives eligible employees up to **12 weeks of unpaid, job-protected leave** for the birth and care of a newborn. FMLA protects your job, but it does not pay you — which is why state paid-leave and disability programs matter so much.
+
+If you were pushed out, denied an accommodation you were entitled to, or fired around the time you announced your pregnancy, you may have a claim that goes well beyond unemployment.
+
+## What to Do Right Now
+
+If you are pregnant or postpartum and out of work, here is a practical plan:
+
+1. **File for unemployment promptly** in the state where you worked. Do not assume pregnancy disqualifies you — apply and let the agency evaluate your claim.
+2. **Be accurate about your ability to work.** Only certify that you are "able and available" for the weeks you truly can take a job.
+3. **Check your state's disability and paid-leave programs.** If you cannot work due to pregnancy or recovery, these may pay you when unemployment cannot.
+4. **Keep records.** Save accommodation requests, doctor's notes, termination letters, and any messages from your employer. These matter for both unemployment and any discrimination claim.
+5. **Meet your work-search requirements** for any week you claim unemployment.
+
+## How BenefitsPath Can Help
+
+Pregnancy, job loss, and a maze of overlapping benefit programs are a lot to juggle at once — and the rules differ from state to state. BenefitsPath exists to make this clearer and less overwhelming.
+
+Start with our free [eligibility tool](https://www.benefitspath.org/unemployment-benefits-calculator), which walks through your work history and current situation in a few minutes to help you understand whether you may qualify for unemployment. For related questions, our [articles library](https://www.benefitspath.org/articles) covers topics like [can you collect unemployment if you quit your job](https://www.benefitspath.org/articles/can-you-collect-unemployment-if-you-quit-your-job), [constructive discharge](https://www.benefitspath.org/articles/constructive-discharge-when-quitting-counts-as-wrongful-termination-2026), and [what is wrongful termination](https://www.benefitspath.org/articles/what-is-wrongful-termination-your-legal-rights-explained).
+
+And if you believe you were fired, denied an accommodation, or forced out because you were pregnant, you should not navigate that alone. Our [attorney directory](https://www.benefitspath.org/attorneys) connects you with experienced employment lawyers who handle pregnancy discrimination, wrongful termination, and unemployment appeals — many of whom offer a free initial consultation.
+
+You have rights, and you have options. Use BenefitsPath's free eligibility checker today to see where you stand, and reach out to a qualified attorney through our directory if your job loss may have crossed a legal line.
+`.trim(),
+  },
 ]
 
 
