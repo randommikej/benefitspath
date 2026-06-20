@@ -7456,6 +7456,116 @@ And if you believe you were fired, denied an accommodation, or forced out becaus
 You have rights, and you have options. Use BenefitsPath's free eligibility checker today to see where you stand, and reach out to a qualified attorney through our directory if your job loss may have crossed a legal line.
 `.trim(),
   },
+  {
+    slug: 'how-to-reopen-or-reactivate-unemployment-claim-2026-guide',
+    title: 'How to Reopen or Reactivate Your Unemployment Claim (2026 Guide)',
+    description: "Stopped getting unemployment payments? Learn how to reopen or reactivate an existing claim in 2026, when to file new instead, payment timing, and how to appeal a denial.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-20',
+    updatedAt: '2026-06-20',
+    category: 'Unemployment Benefits',
+    tags: ['reopen unemployment claim', 'reactivate unemployment claim', 'unemployment benefit year', 'stopped unemployment payments', 'file additional claim', 'unemployment certification'],
+    readTime: '8 min read',
+    content: `
+## How to Reopen or Reactivate Your Unemployment Claim
+
+If your unemployment payments stopped and you still need help, you may not have to start from scratch. In most states, you can **reopen** (sometimes called **reactivate**) an existing claim instead of filing a brand-new one. Knowing the difference can save you weeks of waiting and hundreds of dollars in benefits you are entitled to.
+
+This guide explains when to reopen a claim, how the process works, what can go wrong, and what to do if your reopened claim is delayed or denied.
+
+## What "Reopening" a Claim Actually Means
+
+When you first apply for unemployment, the state opens a **benefit year** — a 52-week window that begins the week you file. Within that benefit year, you have a set amount of benefits available (your "maximum benefit amount").
+
+Your weekly payments can stop for many reasons before that benefit year ends. When they do, the claim becomes **inactive** but does not disappear. **Reopening** simply restarts payments on that same existing claim, using the same benefit year and the same remaining balance.
+
+This is different from **filing a new claim**, which you do when your benefit year has fully expired (after 52 weeks) and you want to establish a new one based on more recent wages.
+
+### Reopen vs. File New: The Quick Rule
+
+- **Benefit year still open and you have a balance left?** You usually **reopen**.
+- **Benefit year has expired (more than 52 weeks since you first filed)?** You file a **new** claim.
+
+When in doubt, your state's online portal will often tell you which option applies once you log in.
+
+## Common Reasons a Claim Goes Inactive
+
+Payments stop for ordinary reasons all the time. You likely need to reopen if any of these happened:
+
+- **You went back to work** and then lost the job or had your hours cut again.
+- **You stopped certifying.** Most states require you to "certify" or file a weekly or biweekly claim confirming you were able, available, and looking for work. Miss a certification or two, and the claim goes dormant.
+- **You took yourself off the rolls** because you thought you no longer qualified.
+- **You traveled, were sick, or were temporarily unavailable** for work and paused your claim.
+- **An issue or "stop payment" was placed** on your account and later resolved.
+
+In each of these cases, if your benefit year is still open and money remains, reopening is the path back to payments.
+
+## How to Reopen Your Claim Step by Step
+
+The exact screens vary by state, but the process is similar everywhere.
+
+### Step 1: Log Into Your State Unemployment Account
+
+Go to your state workforce agency's website and sign in with the username and password you used originally. If you have forgotten your login, use the account-recovery option rather than creating a second account — duplicate accounts cause delays and confusion.
+
+### Step 2: Look for "Reopen Claim" or "Reactivate Claim"
+
+Most portals show a clear button or menu item such as **Reopen Existing Claim**, **Reactivate Your Claim**, or **File Additional Claim**. Selecting it tells the state you are returning to an open benefit year.
+
+### Step 3: Report Why Your Claim Stopped
+
+You will be asked what happened since your last payment. Answer honestly and completely. If you worked, you will report the employer, your start and end dates, gross earnings, and the reason the job ended. **The reason your most recent job ended matters** — if you quit or were fired, the state may open a new eligibility review even on a reopened claim.
+
+### Step 4: Resume Weekly Certifications
+
+Reopening the claim is only half the job. You must **start certifying again** for each week you want to be paid. No certification means no payment, even on an active claim. Note the day of the week your state assigns for certifying and set a reminder.
+
+### Step 5: Watch for Confirmation and Any New Requirements
+
+After you reopen, the state may ask you to verify your identity again, attend a reemployment workshop, or update your work-search log. Complete every request quickly to keep payments flowing.
+
+## How Long Does a Reopened Claim Take to Pay?
+
+If nothing on your claim needs review, a reopened claim often pays within the same one-to-three-week window as a normal certification. But a few situations slow things down:
+
+- **A new separation to investigate.** If you worked since your last claim and that job ended, the state may contact your former employer before releasing payment. This adjudication can add two to four weeks.
+- **A waiting week.** Some states require an unpaid "waiting week" on a reopened claim if you did not already serve one in the benefit year.
+- **Identity or eligibility flags.** Outstanding issues from before, or new fraud-prevention checks, can hold payment until cleared.
+
+If your reopened claim has been pending longer than the timeframe your state lists, call the agency or use its online message center to ask what is holding it up.
+
+## What If You Have No Money Left or Your Benefit Year Ended?
+
+Two things can block a reopen:
+
+1. **You used your full maximum benefit amount.** Once you have drawn every dollar available in the benefit year, reopening will not produce more payments. You may qualify for an **extension** only when special extended-benefit programs are active in your state, which generally happens during periods of high unemployment.
+2. **Your benefit year has expired.** If more than 52 weeks have passed since you first filed, you cannot reopen — you must **file a new claim.** A new claim looks at your more recent work history, so you will need enough qualifying wages in the new base period to establish eligibility.
+
+If you are unsure which situation applies to you, our free eligibility checker can help you sort it out in a couple of minutes.
+
+## When a Reopened Claim Gets Denied
+
+A reopen can be denied — most often because of how your most recent job ended. If you **quit without good cause** or were **fired for misconduct** since your last payment, the state can rule you ineligible, even though your original claim was approved.
+
+If that happens, remember that **a denial is not the end.** You have the right to **appeal**, usually within 10 to 30 days of the decision depending on your state. Read the determination letter carefully, note the deadline, and gather any documents — pay stubs, texts, emails, termination paperwork — that support your side. Filing the appeal on time preserves your right to a hearing where you can tell your story.
+
+## Tips to Avoid Problems When You Reopen
+
+- **Act quickly.** Reopen as soon as you are unemployed again. Many states only let you backdate a week or two, so waiting can cost you benefits.
+- **Keep certifying on schedule.** A reopened claim still requires weekly or biweekly certifications to pay.
+- **Report all earnings.** If you are working part-time, report gross wages for the week you earned them — not when you were paid. Under-reporting leads to overpayments and possible fraud penalties.
+- **Use one account only.** Never create a second login. Recover your original account instead.
+- **Save your confirmation numbers.** Screenshot or write down every confirmation in case a payment is questioned later.
+
+## How BenefitsPath Can Help
+
+Reopening a claim should be simple, but state systems are confusing and a single wrong answer can stall your payments for weeks. BenefitsPath helps you take the next step with confidence.
+
+Use our free **eligibility checker** to find out whether you should reopen your existing claim or file a new one, and what to expect for payment timing in your state. If your reopened claim is denied because of how a job ended, our **attorney directory** can connect you with an experienced employment lawyer in your area who can review your determination letter and help you prepare a strong appeal before the deadline passes.
+
+You worked for these benefits. If your claim went quiet, do not assume you are out of options — in most cases, your benefit year is still open and a few minutes of work can get your payments moving again.
+`,
+  },
 ]
 
 
