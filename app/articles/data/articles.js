@@ -4,6 +4,118 @@
 
 export const articles = [
   {
+    slug: 'what-is-at-will-employment-your-rights-when-you-can-be-fired-2026',
+    title: 'What Is At-Will Employment? Your Rights When You Can Be Fired',
+    description: "At-will employment lets your employer fire you for almost any reason — but not every reason. Learn the exceptions, your rights, and what to do after.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-21',
+    updatedAt: '2026-06-21',
+    category: 'Employment Law',
+    tags: ['at-will employment', 'employee rights', 'getting fired', 'wrongful termination', 'employment law', 'illegal firing'],
+    readTime: '9 min read',
+    content: `
+## What Is At-Will Employment?
+
+If you have ever been told you can be fired "for any reason or no reason at all," you have run into the idea of **at-will employment**. It is the default rule for most working relationships in the United States, and it surprises a lot of people the first time they hear it spelled out.
+
+At-will employment means that either you or your employer can end the working relationship at any time, for almost any reason, with or without advance notice. You can quit on a Monday without explaining why. Your employer can let you go on a Friday without giving a reason. Neither side has to point to a specific cause.
+
+That sounds one-sided, and in many ways it is. But "almost any reason" is not the same as "any reason." There are important limits on what an employer can legally do, and knowing those limits is the difference between a tough-but-legal firing and one you can fight.
+
+## At-Will Is the Default in Nearly Every State
+
+Every U.S. state except **Montana** treats employment as at-will by default. Montana is the lone exception: after a probationary period, employers there generally need "good cause" to fire a worker.
+
+Everywhere else, the law assumes your job is at-will unless something changes that. The most common things that change it are:
+
+- **A written contract** that promises employment for a set term or that says you can only be fired for cause.
+- **A collective bargaining agreement** if you are in a union. These almost always require "just cause" for discipline and termination.
+- **Employer promises**, sometimes made in an offer letter or even a handbook, that a court treats as a binding commitment.
+
+If none of those apply to you, you are almost certainly an at-will employee.
+
+## What At-Will Employment Does NOT Mean
+
+Here is the most important thing to understand: **at-will does not mean an employer can fire you for an illegal reason.** The "any reason" rule has real exceptions carved out by federal and state law. If your firing falls into one of these categories, it may be unlawful — no matter what your at-will status is.
+
+### Illegal Reason #1: Discrimination
+
+Federal law makes it illegal to fire someone because of a **protected characteristic**. Under laws like Title VII of the Civil Rights Act, the Americans with Disabilities Act (ADA), and the Age Discrimination in Employment Act (ADEA), an employer cannot fire you because of your:
+
+- Race or color
+- National origin
+- Religion
+- Sex, including pregnancy, sexual orientation, and gender identity
+- Age (40 and older)
+- Disability
+- Genetic information
+
+Many states add their own protected categories, such as marital status or military service. If you believe your firing was tied to one of these traits, you may have a discrimination claim.
+
+### Illegal Reason #2: Retaliation
+
+An employer cannot fire you for exercising a legal right. This is called **retaliation**, and it is one of the most common kinds of unlawful firing. Examples include being let go after you:
+
+- Reported harassment or discrimination
+- Filed a workers' compensation claim
+- Reported a safety violation (whistleblowing)
+- Took protected leave under the Family and Medical Leave Act (FMLA)
+- Discussed wages or working conditions with coworkers
+
+You used a right the law gives you, and the employer punished you for it. That is illegal even in an at-will state.
+
+### Illegal Reason #3: Breach of Contract or Public Policy
+
+If you have an employment contract that limits when you can be fired, your employer has to honor it. On top of that, most states recognize a **public policy exception**: an employer cannot fire you for a reason that violates a clear public interest. Classic examples include being fired for refusing to break the law, for serving on a jury, or for taking time to vote.
+
+A handful of states also recognize an **implied covenant of good faith** or treat detailed handbook promises as enforceable. These doctrines vary widely from state to state.
+
+## At-Will Firing vs. Wrongful Termination
+
+People often use the phrase "wrongful termination" loosely to mean any firing that feels unfair. Legally, it means something narrower: a firing that breaks the law or a contract.
+
+Being fired because your manager simply does not like you, because the company is cutting costs, or because of a personality clash is generally **legal** under at-will rules — even if it feels deeply unfair. Being fired because of your race, in retaliation for reporting harassment, or in violation of a contract is **wrongful termination**.
+
+The key question is not "Was this fair?" It is "Was this illegal?" An experienced employment attorney can help you tell the two apart, which is not always obvious from the outside.
+
+## Does At-Will Employment Affect Unemployment Benefits?
+
+This is where at-will status matters a great deal for your wallet, and the news is mostly good.
+
+Unemployment benefits are generally available to workers who lose their jobs **through no fault of their own** — and most at-will firings qualify. If you were laid off, let go because you were "not a good fit," or terminated for ordinary performance issues, you are usually **eligible** for unemployment.
+
+The main exception is being fired for **misconduct**, which can disqualify you in many states. Misconduct means something more serious than poor performance — think theft, repeated rule violations after warnings, or showing up intoxicated. A simple at-will firing is not automatically "misconduct."
+
+Importantly, the burden is often on the **employer** to prove misconduct if they want to block your claim. So do not assume that because you were fired, you cannot collect benefits. Many people in this exact situation qualify. If you are not sure, it is worth checking.
+
+## What to Do If You Have Been Fired
+
+Whether your firing was legal or not, a few steps protect your interests:
+
+1. **Write down what happened** while it is fresh — dates, who said what, and any reasons you were given. This record is gold if you later need to file a claim or talk to a lawyer.
+2. **Save your documents.** Hold on to your offer letter, employee handbook, performance reviews, emails, and any termination paperwork.
+3. **Ask about your final pay and benefits**, including unused vacation, your last paycheck, and options like COBRA for health insurance.
+4. **File for unemployment right away.** Do not wait. Most at-will firings qualify, and benefits are usually backdated only to when you apply.
+5. **Get a legal opinion if something feels off.** If you suspect discrimination, retaliation, or a contract violation, an employment attorney can tell you whether you have a case — often in a free consultation.
+
+## The Bottom Line
+
+At-will employment gives employers a lot of freedom, but it is not a blank check. They cannot fire you for a discriminatory reason, in retaliation for exercising your rights, or in violation of a contract or public policy. And in most cases, an at-will firing still leaves you eligible for unemployment benefits.
+
+The trick is knowing which side of the line your situation falls on — and that is rarely obvious in the moment.
+
+## How BenefitsPath Can Help
+
+If you have just lost your job, two questions are probably on your mind: *Can I get unemployment?* and *Was this firing even legal?* BenefitsPath helps you answer both.
+
+Start with our free **eligibility tool**. In a few minutes, it walks through your situation and helps you understand whether you likely qualify for unemployment benefits — including after an at-will firing. It is free, and it takes the guesswork out of a stressful moment.
+
+If your gut tells you the firing crossed a legal line — discrimination, retaliation, or a broken promise — you do not have to sort it out alone. Our **attorney directory** connects you with experienced employment lawyers who can review the facts of your case and tell you where you stand. Many offer free initial consultations.
+
+Losing a job is hard enough. Let BenefitsPath help you understand your rights and claim what you are owed. Check your eligibility today, and reach out to a qualified attorney through our directory if something about your firing does not sit right.
+`,
+  },
+  {
     slug: 'can-you-collect-unemployment-and-social-security-at-the-same-time-2026',
     title: 'Can You Collect Unemployment and Social Security at the Same Time? (2026)',
     description: "Yes — in 2026 you can collect unemployment and Social Security together in every state. Learn how the offset repeal works, the SSDI exception, and the tax rules.",
