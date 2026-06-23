@@ -7800,6 +7800,90 @@ BenefitsPath is built to make this easier. Use our free **eligibility checker** 
 You earned these benefits through your work. With the right preparation, you can get your Washington unemployment claim filed, approved, and paid — and keep your focus where it belongs, on getting back to work.
 `,
   },
+  {
+    slug: 'can-you-collect-unemployment-during-a-strike-or-lockout-2026',
+    title: 'Can You Collect Unemployment During a Strike or Lockout? (2026)',
+    description: "Striking workers usually can't collect unemployment, but a lockout may change that. Learn the labor dispute rules, state-by-state differences, and your options.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-23',
+    updatedAt: '2026-06-23',
+    category: 'Benefits Eligibility',
+    tags: ['unemployment during strike', 'labor dispute disqualification', 'lockout unemployment', 'union strike benefits', 'striking workers', 'unemployment eligibility'],
+    readTime: '9 min read',
+    content: `
+## Can You Collect Unemployment During a Strike or Lockout?
+
+When a contract dispute boils over and workers walk off the job — or an employer locks them out — the paychecks stop almost immediately. One of the first questions on every worker's mind is simple: can I collect unemployment while this plays out?
+
+The honest answer is "it depends," and it depends on two things above all: whether you are on **strike** or in a **lockout**, and which **state** you live in. This 2026 guide explains the labor dispute rules in plain language so you know where you stand before you give up a paycheck.
+
+## The General Rule: Strikers Usually Cannot Collect
+
+In most states, if you stop working because of a **labor dispute that you and your union chose to start** — in other words, a strike — you are generally **disqualified** from unemployment benefits for as long as the work stoppage lasts.
+
+The reasoning behind this rule is rooted in how unemployment insurance is meant to work. Unemployment benefits exist to support people who lose their jobs **through no fault of their own** — layoffs, plant closings, and similar events outside their control. When workers voluntarily withhold their labor as a bargaining tactic, most state laws treat that as a choice rather than an involuntary job loss, and the **labor dispute disqualification** kicks in.
+
+This is not a punishment for union activity. It reflects a longstanding policy that the state unemployment fund should stay **neutral** in a contract fight and not effectively subsidize one side of the bargaining table.
+
+## Strike vs. Lockout: Why the Difference Matters So Much
+
+Here is the distinction that changes everything for many workers.
+
+### A Strike Is Worker-Initiated
+
+A **strike** happens when employees collectively stop working to pressure the employer during negotiations. Because the workers chose to stop, most states apply the labor dispute disqualification and deny benefits for the duration.
+
+### A Lockout Is Employer-Initiated
+
+A **lockout** is the mirror image: the employer shuts workers out and refuses to let them work, usually to gain leverage in bargaining. Many states view a lockout very differently. If the employer is the one preventing you from working — and you were ready, willing, and able to keep working under the existing terms — some states will allow you to collect unemployment because the stoppage was **not your choice**.
+
+The line between a strike and a lockout is not always obvious, and employers and unions often disagree about which one is happening. State agencies look at the facts: Who stopped the work? Did workers offer to keep working under the old contract while negotiations continued? Was the union the moving party, or the company? These details can decide whether your claim is approved or denied.
+
+## State Rules Vary Widely
+
+Unemployment is run state by state, and the treatment of labor disputes is one of the areas where states differ the most.
+
+A handful of states — most notably **New York and New Jersey** — have laws that allow striking workers to collect unemployment after a **waiting period** (in recent years New York shortened its waiting period for strikers significantly). In these states, even a worker-initiated strike can eventually lead to benefits if the stoppage drags on.
+
+Most other states **disqualify strikers** for the entire duration of the work stoppage, with no waiting-period exception. In these states the disqualification typically lasts until the strike ends and the labor dispute is resolved.
+
+Because the differences are so large, the single most important step you can take is to find out exactly how **your** state classifies your situation before you assume you will or will not get paid. Do not rely on what a coworker in another state told you — the law that matters is the one where you worked.
+
+## Exceptions That May Restore Your Eligibility
+
+Even in states that disqualify strikers, the disqualification is not always permanent or absolute. Watch for these situations.
+
+### The Dispute Ends or You Are Permanently Replaced
+
+Once the **work stoppage is over**, the disqualification generally lifts. If the strike ends and your employer does not bring you back — for example, because you were **permanently replaced** — you may then qualify for benefits as a regular unemployed worker, because at that point you are out of work for reasons beyond your control.
+
+### You Were Not Participating in or Financing the Dispute
+
+Some state laws only disqualify workers who are **participating in, financing, or directly interested in** the labor dispute. If you are in a separate bargaining unit or a different department and you are laid off **because** another group's strike shut the plant down — but you have no stake in their dispute — you may be able to argue you should not be disqualified. These cases are fact-specific and often contested.
+
+### Health-and-Safety or Unfair-Labor-Practice Strikes
+
+In certain situations, a strike triggered by an employer's **unfair labor practices** or by genuine safety concerns may be treated differently than a purely economic strike. The analysis is complex and varies by state, which is exactly the kind of situation where professional advice pays off.
+
+## What About Union Strike Pay?
+
+Many unions provide **strike pay** from a strike fund to help members get through a work stoppage. Strike pay is not unemployment, and it does not come from the state. If you are in a state where strikers can eventually collect unemployment, be aware that the agency may **reduce your benefit** by the amount of strike pay you receive, or may factor it in when deciding eligibility. Always report strike pay accurately when you certify — failing to disclose income can lead to an **overpayment notice** and penalties down the line.
+
+## What You Should Do Right Now
+
+If you are facing or already in a work stoppage, take these steps to protect yourself.
+
+File a claim anyway, even if you think you might be disqualified. The state will make an official determination, and you cannot win an appeal on a claim you never filed. Document everything about how the stoppage started — whether workers walked out or the employer locked the doors, and whether your union offered to keep working under the old terms. Keep records of any strike pay you receive. And read any determination letter the moment it arrives, because the deadline to **appeal a denial** is often just **10 to 30 days** depending on your state.
+
+## How BenefitsPath Can Help
+
+Labor dispute cases are some of the most confusing in all of unemployment law, and the rules can flip your eligibility based on a single fact — strike versus lockout, which state you are in, or whether you had a stake in the dispute. Getting it wrong can cost you weeks of benefits at the worst possible time.
+
+BenefitsPath is built to cut through that confusion. Use our free **eligibility checker** to get a fast, plain-English read on whether your situation may qualify and what to gather before you file. And if your claim is denied because of a labor dispute, our **attorney directory** can connect you with an experienced employment lawyer in your state who can review your determination letter and help you build a strong appeal before the deadline runs out.
+
+A work stoppage is stressful enough without fighting the unemployment system blind. Know your rights, file your claim, and get the right help so you can focus on the bigger fight ahead.
+`,
+  },
 ]
 
 
