@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'can-seasonal-workers-collect-unemployment-off-season-2026',
   'can-you-collect-unemployment-during-a-strike-or-lockout-2026',
   'how-to-file-unemployment-washington-state-2026-guide',
   'what-is-at-will-employment-your-rights-when-you-can-be-fired-2026',

@@ -7884,6 +7884,98 @@ BenefitsPath is built to cut through that confusion. Use our free **eligibility 
 A work stoppage is stressful enough without fighting the unemployment system blind. Know your rights, file your claim, and get the right help so you can focus on the bigger fight ahead.
 `,
   },
+  {
+    slug: 'can-seasonal-workers-collect-unemployment-off-season-2026',
+    title: 'Can Seasonal Workers Collect Unemployment in the Off-Season? (2026 Guide)',
+    description: "Laid off when the season ends? Seasonal workers can often collect unemployment in the off-season. Learn the rules, common pitfalls, and how to qualify in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-24',
+    updatedAt: '2026-06-24',
+    category: 'Benefit Eligibility',
+    tags: ['seasonal workers', 'off-season unemployment', 'unemployment eligibility', 'seasonal employment', 'temporary work', 'base period'],
+    readTime: '10 min read',
+    content: `
+## Can Seasonal Workers Get Unemployment in the Off-Season?
+
+If you work a job that only runs part of the year — a ski resort, a summer landscaping crew, a holiday retail job, a fishing boat, a construction site that shuts down in winter — you have probably wondered what happens when the season ends and the paychecks stop. The short answer is encouraging: **many seasonal workers can collect unemployment benefits during the off-season.** But it depends on your state, your work history, and a few rules that trip people up.
+
+This guide explains, in plain language, when seasonal workers qualify, what can disqualify you, and the exact steps to give yourself the best shot at benefits when your season wraps up.
+
+## What Counts as a Seasonal Worker?
+
+A seasonal worker is someone whose job naturally exists only during certain months of the year. Common examples include:
+
+- **Summer roles** like landscaping, lifeguarding, amusement parks, tourism, and agriculture
+- **Winter roles** like ski instructors, snow removal, and holiday retail
+- **Weather-dependent trades** like roofing, paving, and outdoor construction
+- **Industry cycles** like commercial fishing, canneries, and tax-season preparers
+
+The key feature is that the work ends not because you did anything wrong, but because the season is simply over. That distinction matters a lot, because unemployment is generally available to people who lose work **through no fault of their own** — and a season ending usually fits that description perfectly.
+
+## The General Rule: A Season Ending Is a Layoff
+
+When your seasonal job ends on schedule, the state usually treats it the same way it treats a layoff. You did not quit, and you were not fired for misconduct. The employer simply ran out of work for you. In most states, that means you are not disqualified the way someone who quit without good cause or was terminated for cause might be.
+
+So the bigger question for seasonal workers is usually not "Why did my job end?" It is **"Did I earn enough, and work enough, to qualify?"**
+
+## The Real Hurdle: Earning Enough in Your Base Period
+
+Every state requires you to have earned a minimum amount of wages during a stretch of time called the **base period** — typically the first four of the last five completed calendar quarters before you file. This is where seasonal workers most often run into trouble.
+
+If your seasonal job is your only source of income and it only lasted a few months, your total base-period wages might fall below your state's minimum. States set these thresholds differently, and many also require that you earned wages in **more than one quarter** of the base period. A job packed into a single quarter can leave you short even if the total dollars were decent.
+
+Two things work in your favor here:
+
+First, your base period looks back **a full year or more**, so wages from a previous season — or from a different job earlier in the year — can count toward your total. A worker who does summer landscaping and winter snow removal, for example, often stitches together enough qualifying wages from both.
+
+Second, if you do not qualify under the standard base period, most states offer an **alternate base period** that uses more recent quarters. If your standard base period leaves you just short, ask the agency whether the alternate base period helps. It often does for seasonal and newer workers.
+
+## Watch Out for State "Seasonal Employment" Laws
+
+Here is the rule that surprises people. A handful of states have specific **seasonal employment statutes** that limit when wages from a designated seasonal employer can be used to claim benefits. In these states, an employer in an industry like agriculture, tourism, or food processing can be officially classified as "seasonal." When that happens, wages you earned during the season may only count toward benefits **during that same season** — not in the off-season when you actually need them.
+
+States that have used some version of these rules include North Carolina, Wisconsin, Minnesota, Delaware, and a few others, and the details change over time. The classification is not automatic; the employer has to be approved as seasonal by the state agency, and not every seasonal employer is.
+
+This is exactly why you should **never assume you are disqualified.** The only way to know how your state and your specific employer are treated is to file a claim and let the agency issue a determination. If the determination goes against you because of a seasonal classification, that decision can often be appealed.
+
+## "Reasonable Assurance" and Returning Workers
+
+If your employer tells you that you will be rehired next season, the state may ask whether you have **reasonable assurance** of returning to work. This concept is most famous in the school-employee context, but it can appear for other seasonal workers too. A vague "we'd love to have you back" is generally not the same as a firm, written commitment to re-employ you at similar terms. If the promise is informal or conditional, you may still qualify in the meantime. Be honest and precise when the agency asks about it, because how you describe the arrangement can change the outcome.
+
+## You Still Have to Meet the Weekly Rules
+
+Qualifying based on past wages is only half the battle. To keep collecting each week during the off-season, you generally must:
+
+- Be **able and available** to work
+- **Actively search for work** and keep records of your job-search activities
+- **Report any income** you earn from odd jobs or part-time work
+- **Certify** your status on schedule, usually every week or two
+
+A common mistake among seasonal workers is treating the off-season as a guaranteed paid break while waiting to return. If you turn down suitable work or stop looking, you can lose benefits. The system expects you to be genuinely looking, even if you plan to go back to your seasonal job later.
+
+## Steps to Take When Your Season Ends
+
+To give yourself the best chance at benefits, do the following as soon as your last day arrives:
+
+1. **File your claim right away.** Do not wait. Benefits generally are not retroactive to before you applied, so every week you delay is potentially money lost.
+2. **Gather your wage records** from every job in the past 18 months, not just your seasonal one. Pay stubs and W-2s help the agency build an accurate base period.
+3. **Report the reason your job ended accurately** — "seasonal layoff" or "lack of work," not "quit."
+4. **Start your work search immediately** and log every application, even if you expect to return next season.
+5. **Read every letter** the agency sends. If you receive a denial tied to a seasonal classification or base-period shortfall, note the **appeal deadline**, which is often just 10 to 30 days.
+
+## Common Reasons Seasonal Claims Get Denied
+
+The most frequent denials for seasonal workers come down to a few issues: not enough base-period wages, wages concentrated in a single quarter, a state seasonal-employer classification, or a finding that you were not truly available for work. Many of these are appealable, and some can be fixed simply by switching to an alternate base period or adding wage records the agency missed. A denial is not the end of the road — it is often just the first determination.
+
+## How BenefitsPath Can Help
+
+Seasonal unemployment rules are some of the most confusing in the system, because the answer can swing on which state you are in, how your employer is classified, and exactly how your wages fall across the calendar. It is easy to assume you do not qualify and leave real money on the table — or to file in a way that triggers an avoidable denial.
+
+BenefitsPath is built to take the guesswork out of it. Use our free **eligibility checker** to get a quick, plain-English read on whether your seasonal work history may qualify and what to gather before you file. And if your claim is denied over a base-period or seasonal-employer issue, our **attorney directory** can connect you with an experienced employment lawyer in your state who can review your determination letter and help you appeal before the deadline passes.
+
+When the season ends, you should not have to face the unemployment system alone. Know your rights, file early, and get the right help so you can bridge the off-season with confidence.
+`,
+  },
 ]
 
 
