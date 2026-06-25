@@ -7976,6 +7976,95 @@ BenefitsPath is built to take the guesswork out of it. Use our free **eligibilit
 When the season ends, you should not have to face the unemployment system alone. Know your rights, file early, and get the right help so you can bridge the off-season with confidence.
 `,
   },
+  {
+    slug: 'self-employment-assistance-program-start-business-on-unemployment-2026',
+    title: 'Self-Employment Assistance: Start a Business While on Unemployment (2026)',
+    description: "The Self-Employment Assistance (SEA) program lets you collect unemployment while building your own business. Learn which states offer it and how to qualify in 2026.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-25',
+    updatedAt: '2026-06-25',
+    category: 'Unemployment Benefits',
+    tags: ['self-employment assistance', 'SEA program', 'start a business', 'unemployment benefits', 'entrepreneurship', 'work search waiver'],
+    readTime: '9 min read',
+    content: `
+## Can You Start a Business While Collecting Unemployment?
+
+Normally, unemployment benefits come with a catch: you have to be looking for a job, ready to take one, and not spending your days building something of your own. For many people who lost a job and want to turn it into a fresh start, that rule is a roadblock. You cannot pour your energy into launching a business and keep certifying that you are searching for traditional work.
+
+The **Self-Employment Assistance (SEA) program** was created to solve exactly this problem. It lets certain unemployed workers collect their weekly benefits while they build a business instead of job hunting. This guide explains how the program works, who qualifies, which states offer it in 2026, and how to take advantage of it.
+
+## What Is the Self-Employment Assistance Program?
+
+SEA is a federally authorized but **state-run** program. Under it, a state can pay you a weekly **self-employment allowance** in place of your regular unemployment check. The dollar amount is the same as the unemployment benefit you would have received — SEA does not pay extra, and it does not pay less. The difference is what you are allowed to do with your time.
+
+Instead of proving you are searching for a job each week, SEA participants spend their time on **full-time self-employment activities**: writing a business plan, registering the business, finding customers, building a product, and completing required entrepreneurial training. The work-search requirement is waived, which is the heart of the program.
+
+In plain terms: SEA pays you to build your own job rather than find someone else's.
+
+## How SEA Is Different From Regular Unemployment
+
+The benefit amount and the maximum number of weeks you can collect are the **same** as regular unemployment. What changes are the rules you live under while collecting:
+
+- **No work-search requirement.** You do not have to apply for jobs or log applications. Your "search" is your business-building.
+- **Full-time focus on your business.** You are expected to devote substantial time to getting the business off the ground.
+- **Required training.** Most states require you to attend entrepreneurial workshops or counseling, often through a local small-business development center.
+- **Self-employment income does not reduce your allowance** the way wages from a part-time job normally cut your unemployment check. Earnings from the new venture generally do not lower your weekly SEA payment, which is a major advantage over regular benefits.
+
+That last point is important. Under standard unemployment, money you earn typically reduces your check dollar-for-dollar above a small threshold. Under SEA, the early income from your startup usually does not.
+
+## Which States Offer SEA in 2026?
+
+SEA is **voluntary for states**, so it is not available everywhere. The states that have operated active SEA programs in recent years include **Delaware, Mississippi, New Hampshire, New Jersey, New York, Oregon, Pennsylvania, and Rhode Island.** Washington State runs a closely related program called the **Self-Employment Assistance Program (SEAP)**.
+
+Because participation is optional and programs open and close based on state funding and policy, the list can change from year to year. The only reliable way to know whether your state offers SEA right now is to **ask the agency directly when you file your unemployment claim.** Tell the representative you are interested in self-employment and ask whether an SEA or self-employment program is currently operating. If it is, they can point you to the application and the enrollment deadline.
+
+If your state does not offer SEA, you are not necessarily out of luck. Some states have separate entrepreneurship or workforce-training programs that offer similar flexibility, and small-business development centers across the country provide free counseling regardless of your benefit status.
+
+## Who Qualifies for SEA?
+
+Eligibility is more selective than regular unemployment. To enroll, you generally must:
+
+### Already Qualify for Regular Unemployment
+
+You must first be eligible for standard unemployment insurance under your state's rules. SEA is an alternative way to receive benefits you already qualify for — it is not a separate pot of money for people who would otherwise be denied.
+
+### Be Identified as Likely to Exhaust Benefits
+
+States use a statistical "profiling" system to flag claimants who are at high risk of running out of benefits before finding a new job. SEA is typically targeted at these workers, on the theory that self-employment may be their fastest route back to income. When you file, the state may tell you that you have been identified as eligible, or you may need to ask to be screened.
+
+### Enroll Early
+
+Most states require you to apply for SEA within the **first few weeks** of your unemployment claim. There is usually a firm deadline — for example, within 60 days of filing. Miss it and you may lose the chance to participate for that claim, so move quickly if self-employment is your goal.
+
+### Commit to Building the Business Full Time
+
+You have to genuinely intend to become self-employed and be willing to work at it full time. Casual side projects or hobbies do not qualify. You will also need to complete the required training and may have to show progress, such as a business plan or business registration.
+
+## The Steps to Get Into an SEA Program
+
+1. **File your regular unemployment claim first.** SEA is layered on top of an approved claim, so start there and report the reason for your job loss accurately.
+2. **Ask about SEA immediately.** At the time you file, ask whether your state runs a Self-Employment Assistance program and how to apply. Do not wait — deadlines are short.
+3. **Complete the application and any orientation.** You will likely sign an agreement laying out the program rules and your obligations.
+4. **Attend the required training.** Many states partner with Small Business Development Centers or SCORE for free workshops on business planning, marketing, and finance.
+5. **Build your business and certify weekly.** You will still certify each week, but instead of reporting job-search activities, you confirm you are working on your self-employment plan.
+
+## What to Watch Out For
+
+SEA is a powerful option, but it is not risk-free. A few things to keep in mind:
+
+If you **stop working full time on the business**, drop out of training, or take a regular job, you typically come off SEA and revert to standard unemployment rules — including the work-search requirement. Your benefits also still end when your regular claim runs out; SEA does not extend the number of weeks you can collect. And starting a business is hard: the allowance gives you a runway, but it is a finite one, so a realistic plan and tight spending matter.
+
+It is also worth remembering that **SEA allowances are taxable income**, just like regular unemployment benefits. Set aside money for taxes so a startup with thin early profits does not leave you with a surprise bill.
+
+## How BenefitsPath Can Help
+
+The Self-Employment Assistance program is one of the most underused benefits in the unemployment system, largely because most people never learn it exists until their claim is nearly over. If you have dreamed of working for yourself, losing a job may be the moment that makes it possible — but only if you act fast and file the right way.
+
+BenefitsPath helps you make sense of your options. Use our free **eligibility checker** to confirm you qualify for unemployment in the first place and understand your weekly benefit amount, which is also what your SEA allowance would be. And if you hit a snag — a denied claim, a missed deadline, or a dispute over why your job ended — our **attorney directory** can connect you with an experienced employment lawyer in your state who can protect the benefits that make programs like SEA possible.
+
+A layoff can be the end of one chapter or the start of something you own. Know your rights, ask about Self-Employment Assistance the day you file, and give your new business the strongest possible start.
+`,
+  },
 ]
 
 
