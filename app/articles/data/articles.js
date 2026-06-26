@@ -4,6 +4,178 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-massachusetts-2026-guide',
+    title: 'How to File for Unemployment in Massachusetts: 2026 Step-by-Step Guide',
+    description: 'Lost your job in Massachusetts? Learn how to file a DUA unemployment claim on UI Online, what documents you need, the $1,105 max benefit, work search rules, and how to avoid delays.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-06-26',
+    updatedAt: '2026-06-26',
+    category: 'State Guides',
+    tags: ['massachusetts unemployment', 'DUA', 'UI Online', 'file for unemployment', 'unemployment benefits massachusetts', 'state guides'],
+    readTime: '12 min read',
+    content: `
+## Filing for Unemployment in Massachusetts: What You Need to Know
+
+Losing your job in Massachusetts is hard, but the state runs one of the most generous unemployment insurance (UI) programs in the country to help you stay afloat while you look for new work. The program is administered by the **Department of Unemployment Assistance (DUA)**, and almost everything — filing, certifying, and getting paid — happens online through the **UI Online** portal.
+
+This guide walks you through every step of filing for Massachusetts unemployment in 2026, from confirming you qualify to keeping your weekly payments coming. It is written in plain language for people dealing with a real loss of income, not for lawyers or HR staff.
+
+## Before You File: Do You Qualify?
+
+Massachusetts UI rules are set by state law and run by DUA. Before you start an application, it helps to confirm you are likely eligible.
+
+### The Basic Requirements
+
+To qualify for Massachusetts unemployment benefits, you generally must meet all of the following:
+
+- **You are unemployed through no fault of your own.** This usually means you were laid off, your position was eliminated, your hours were cut substantially, or you left for a reason the state recognizes as "good cause."
+- **You earned enough wages during your base period.** Your base period is the last four completed calendar quarters before you file. In 2026 you generally must have earned at least **$6,300** in your base period and have total wages of at least 30 times your weekly benefit amount.
+- **You are able to work.** If you are too sick or injured to work at all, you are not eligible for UI, though you may qualify for other programs.
+- **You are available for work** and ready to accept a suitable job if one is offered.
+- **You are actively searching for work** and keeping a record of your efforts.
+- **You are legally authorized to work in the United States.**
+
+If you were fired for misconduct — which Massachusetts defines narrowly — or you quit without good cause, DUA may deny your claim. You still have the right to file and tell your side of the story.
+
+### What Counts as "Good Cause" to Quit in Massachusetts
+
+Massachusetts is more flexible than many states on voluntary quits. You may still qualify for UI if you left your job because of:
+
+- A significant, unilateral change in your pay, hours, duties, or work location
+- Unsafe or unhealthy working conditions your employer would not fix
+- Documented harassment, discrimination, or illegal activity at work
+- A medical reason verified by a healthcare provider
+- The need to care for a seriously ill family member
+- Domestic violence affecting you or your family
+- Following a spouse who relocated for work (in certain circumstances)
+
+Every situation is fact-specific. If your reason for leaving falls into a gray area, it is almost always worth filing and letting DUA decide. You can appeal a denial.
+
+## What Documents and Information to Gather
+
+Having everything ready before you log in makes the application go smoothly. DUA will ask for:
+
+- Your Social Security number
+- Your driver's license or Massachusetts ID number
+- Your complete work history for the **last 15 months**, including employer names, addresses, and phone numbers
+- The first and last dates you worked for each employer
+- The reason you are no longer working with each employer
+- Your bank account and routing numbers for direct deposit
+- For non-citizens: your Alien Registration Number and work authorization document
+- If you served in the military in the last 18 months: your **DD-214** form
+- If you worked for the federal government: your **SF-8** or **SF-50** form
+
+If you worked for several employers during your base period, gather details for all of them. DUA needs the full picture to calculate your benefits correctly.
+
+## How to File Your Massachusetts Unemployment Claim
+
+Massachusetts strongly encourages online filing. There are two main ways to apply.
+
+### Option 1: File Online Through UI Online
+
+Most people file through the **UI Online** system on the Mass.gov website. The steps look like this:
+
+1. Go to the DUA UI Online page on Mass.gov and select **Apply for Benefits**.
+2. Create an account and verify your identity. Massachusetts uses identity-verification checks to fight fraud, so have your ID ready.
+3. Complete the application, answering every question carefully. Rushed or inconsistent answers are the leading cause of payment delays.
+4. Review your answers and submit.
+
+After you submit, you will see a confirmation. Write down or screenshot your confirmation details.
+
+### Option 2: File by Phone
+
+You can also file through the **DUA TeleClaim Center**. This is helpful if you do not have reliable internet access or you need an interpreter. Expect long hold times, especially on Mondays and early in the month. Have all your documents in front of you before you call.
+
+## What Happens After You File
+
+Filing is just step one. Here is what comes next.
+
+### The Waiting Week
+
+Massachusetts has a **one-week unpaid waiting period** at the start of your claim. You still have to certify for that week, and you must stay eligible — but the first payable week is not paid out. This is normal and applies to almost everyone.
+
+### Your Monetary Determination
+
+Within a couple of weeks, DUA will mail you a **Monetary Determination**. This notice shows:
+
+- Your **weekly benefit amount** (WBA)
+- Your **maximum benefit amount** (the total you can collect during your benefit year)
+- The base period DUA used
+- The wages each employer reported
+
+Look this over carefully. If an employer under-reported your wages or left out a quarter, you can request a redetermination. Keep your pay stubs and W-2s in case you need to prove your earnings.
+
+### The Fact-Finding Review
+
+If you quit, were fired, or there is any question about why you left work, DUA usually contacts both you and your former employer for a statement. This is called **fact-finding**. Answer promptly, stick to the facts, and stay consistent with what you wrote on your application. Your statement is the most important piece of evidence in your file.
+
+## How Much You Can Receive in Massachusetts
+
+Massachusetts has one of the highest unemployment benefit caps in the nation. Your WBA is roughly **50 percent of your average weekly wage** during the two highest-earning quarters of your base period, up to the state maximum.
+
+As of October 2025 through October 2026, the **maximum weekly benefit amount is $1,105**. On top of that, if you are the primary financial support for dependent children, you may receive a **dependency allowance of $25 per child** — though the total payment, including the allowance, cannot exceed the $1,105 cap.
+
+For benefit years established in 2026, Massachusetts is currently paying up to **30 weeks** of regular benefits because a statewide unemployment trigger is active. When that trigger turns off, the maximum returns to **26 weeks** for new claims. Extended benefits can also become available during periods of very high unemployment.
+
+Massachusetts unemployment benefits are **taxable** at both the federal and state level. You can choose to have taxes withheld when you file, which many people do to avoid a surprise bill at tax time.
+
+## Certifying for Benefits Every Week
+
+Filing a claim is not the end. To keep benefits flowing, you must **request your benefit payment** each week through UI Online or TeleCert. During each certification you will be asked:
+
+- Were you able and available to work each day?
+- Did you look for work?
+- Did you refuse any work?
+- Did you work or earn any money?
+- Did you attend school or training?
+
+**Answer honestly.** DUA cross-checks your answers against employer wage reports and new-hire databases. A wrong answer — even an accidental one — can lead to overpayments, penalties, and in serious cases, fraud charges. If you worked a few hours or did a side gig, report the earnings. Massachusetts lets you earn up to one-third of your WBA before your benefits are reduced dollar for dollar above that amount.
+
+## The Massachusetts Work Search Requirement
+
+Massachusetts enforces an active work search rule. Most claimants must make at least **three work search activities each week** and keep a detailed log. Acceptable activities include:
+
+- Submitting a job application or resume
+- Attending a job interview
+- Registering and using the **MassHire JobQuest** system
+- Attending a career workshop at a MassHire Career Center
+- Completing approved training
+
+Keep a written log that records the date, employer name, position, how you applied, and the result. DUA can audit your log at any time. Failing to document your work search is one of the most common reasons people lose their benefits.
+
+## Common Mistakes to Avoid
+
+Even careful applicants make errors that delay or reduce payments. Watch out for these:
+
+- **Guessing on the reason you are unemployed.** If you were fired but say "laid off," your employer's response will contradict you, and DUA may deny the claim and add a penalty.
+- **Missing a weekly certification.** If you forget to certify, you usually have to call DUA to fix the week.
+- **Underreporting earnings or side work.** Any money earned during a claimed week must be reported, even 1099 or gig income.
+- **Ignoring DUA mail and UI Online messages.** Appeal deadlines and fact-finding notices arrive this way, and missing one can cost you benefits.
+- **Skipping the MassHire JobQuest registration**, which is a separate required step for most claimants.
+- **Not appealing a denial.** Many denials are overturned at a hearing.
+
+## If Your Claim Is Denied
+
+A denial in Massachusetts is not the final word. You have the right to appeal, and many claimants win.
+
+The first level is a hearing before the **DUA Hearings Department**. A review examiner conducts a hearing — usually by phone — where you and your former employer each get to testify, present documents, and ask questions. You can represent yourself, bring a witness, or hire an employment attorney. Because appeals often turn on technical points — what counts as misconduct, or whether you had good cause to quit — representation can make a real difference.
+
+To protect your back pay, file your appeal within **10 days** of the date on your determination notice. You can still appeal up to 30 days with good cause, but acting fast protects the most benefits. If you lose at the hearing, you can ask the **DUA Board of Review** to review the decision, and after that you can appeal to a Massachusetts District Court. Deadlines at every level are strict, so do not wait.
+
+## How BenefitsPath Can Help
+
+Filing for unemployment in Massachusetts is manageable, but the stakes are high when every dollar matters for rent, groceries, and bills.
+
+**Start with our free eligibility tool** to get a quick read on whether your situation is likely to qualify for Massachusetts UI and roughly how much you may receive. It takes a couple of minutes and does not require an account.
+
+**If your claim has been denied, your employer is contesting it, or you are preparing for a DUA hearing**, our attorney directory connects you with employment lawyers in Massachusetts who handle unemployment cases. Many offer free initial consultations, so you can learn your options with no commitment.
+
+**Explore our other guides** for help calculating your benefits, responding to an employer contest, and winning a UI appeal step by step.
+
+Massachusetts has built one of the strongest safety nets in the country for workers in transition — but only if you know how to use it. BenefitsPath is here to help you move from confusion to a clear plan, fast.
+`.trim(),
+  },
+  {
     slug: 'what-is-at-will-employment-your-rights-when-you-can-be-fired-2026',
     title: 'What Is At-Will Employment? Your Rights When You Can Be Fired',
     description: "At-will employment lets your employer fire you for almost any reason — but not every reason. Learn the exceptions, your rights, and what to do after.",
