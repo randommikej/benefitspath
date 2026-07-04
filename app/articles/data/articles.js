@@ -8237,6 +8237,106 @@ BenefitsPath helps you make sense of your options. Use our free **eligibility ch
 A layoff can be the end of one chapter or the start of something you own. Know your rights, ask about Self-Employment Assistance the day you file, and give your new business the strongest possible start.
 `,
   },
+  {
+    slug: 'unemployment-benefits-and-pension-how-retirement-income-affects-your-claim-2026',
+    title: 'Unemployment Benefits and Your Pension: How Retirement Income Affects Your Claim (2026)',
+    description: 'Will a pension reduce your unemployment check? Learn how the pension offset rule works, when retirement income counts against benefits, and how to report it in 2026.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-07-04',
+    updatedAt: '2026-07-04',
+    category: 'Benefits Eligibility',
+    tags: ['unemployment and pension', 'pension offset', 'retirement income', 'unemployment eligibility', 'pension deduction', 'benefits eligibility'],
+    readTime: '9 min read',
+    content: `
+## Can You Collect Unemployment and a Pension at the Same Time?
+
+If you lost your job and you also receive a pension, you are probably wondering whether that retirement money will cancel out your unemployment benefits. The short answer is: **sometimes, but not always.** Whether your pension reduces your unemployment check depends on who paid into the pension, which employer it came from, and the rules in your state.
+
+This guide explains the "pension offset" rule in plain language, walks through the situations where your benefits are reduced and where they are not, and shows you how to report a pension correctly so you avoid an overpayment down the road.
+
+## What Is the Pension Offset Rule?
+
+Federal law requires every state to consider certain retirement payments when calculating unemployment benefits. This is often called the **pension offset** or **retirement pay deduction.** The idea is that unemployment insurance is meant to partly replace lost wages, so if you are already receiving retirement income tied to the same work, the state may subtract some or all of it from your weekly benefit.
+
+The key word is *tied.* The rule only applies to a pension paid by a **base-period employer** — that is, an employer whose wages are being used to calculate your unemployment claim. A pension from an unrelated employer years ago usually has no effect at all.
+
+## When Your Pension Reduces Your Benefits
+
+Your unemployment check is most likely to be reduced when **all** of these are true:
+
+- The pension comes from an employer in your **base period** (the roughly 12-month window of past wages the state uses to set your benefit).
+- The pension is a **periodic payment** you receive regularly, such as a monthly retirement annuity.
+- The money is **maintained or contributed to by the employer**, not funded entirely by you.
+
+In this situation, many states reduce your weekly benefit dollar-for-dollar by the weekly value of the pension. For example, if your weekly unemployment benefit would be $400 and your monthly pension works out to about $400 a week, your unemployment payment could be reduced to zero.
+
+### The 100% vs. 50% Difference
+
+Here is where states differ. Federal law lets a state choose how much of an employer-funded pension to deduct:
+
+- **Full (100%) offset:** Some states subtract the entire weekly pension value from your benefit.
+- **Half (50%) offset:** Other states only count the portion the employer contributed, or apply a reduced offset formula.
+
+Because this is a state choice, the exact math varies. The takeaway is the same everywhere: an **employer-funded pension from a base-period employer can lower your check**, and you must report it.
+
+## When Your Pension Does NOT Reduce Your Benefits
+
+Plenty of retirement income has **no effect** on unemployment. Your benefits generally are not reduced when:
+
+### The Pension Is From an Unrelated Employer
+
+If your pension comes from a job that is **not** in your base period, most states ignore it completely. A teacher who retired ten years ago, drew a pension, and then lost a newer job at a store would typically collect full unemployment on the store wages.
+
+### You Funded the Retirement Account Yourself
+
+Money you set aside on your own usually does not count. This includes payments from:
+
+- A personal **IRA** you funded
+- Retirement accounts built entirely with **your own contributions**
+
+Some states do not reduce benefits at all for **Social Security**, and no state may reduce your unemployment based on Social Security retirement benefits — that offset was repealed years ago. (For a deeper look at that specific combination, see our guide on collecting unemployment and Social Security at the same time.)
+
+### You Take a Lump Sum and Roll It Over
+
+If you take your retirement as a **lump sum** and roll it directly into another qualified account (like an IRA), most states do not treat it as a periodic pension payment, so it usually does not reduce your weekly benefit. Cashing it out instead of rolling it over can be treated differently and may have tax consequences, so handle a lump sum carefully.
+
+## Pensions vs. Severance vs. 401(k) Withdrawals
+
+People often lump all "money after a job ends" together, but the state treats each type differently:
+
+- **Pension (periodic, employer-funded):** May reduce your weekly benefit under the offset rule.
+- **Severance pay:** Handled under separate state rules — in some states it delays or reduces benefits, in others it does not. This is different from the pension offset.
+- **401(k) or IRA you funded:** Generally does not reduce benefits, especially if rolled over.
+- **Lump-sum pension rolled into an IRA:** Usually no effect.
+
+Because severance is treated on its own track, do not assume a rule you heard about one type applies to another.
+
+## How to Report a Pension on Your Claim
+
+Reporting is not optional. When you file and when you certify each week, the state will ask whether you are receiving or have applied for a pension, annuity, or other retirement pay. To stay out of trouble:
+
+1. **Answer honestly.** Say yes if you receive a pension, even if you think it will not affect your claim. Let the agency decide.
+2. **Have the details ready.** Know which employer pays it, the monthly amount, and whether the employer contributed to it.
+3. **Report changes.** If a pension starts, stops, or changes amount while you are collecting, tell the agency right away.
+4. **Keep your paperwork.** Save pension award letters and statements in case the agency asks you to verify.
+
+Failing to report a pension is one of the most common reasons people end up with an **overpayment notice** demanding they pay benefits back — sometimes with penalties. Reporting it up front protects you.
+
+## What If the State Reduces or Denies Your Benefit Incorrectly?
+
+State agencies make mistakes. They sometimes apply the pension offset to a pension from the *wrong* employer, count an IRA you funded yourself, or miscalculate the weekly value. If your benefit is reduced or denied because of a pension and you believe the math is wrong, you have the right to **appeal.**
+
+Appeals have short, strict deadlines — often just 10 to 30 days from the date on the notice. Read any determination carefully, note the deadline, and file your appeal in writing even if you are still gathering documents. At a hearing you can show pension statements proving who funded the plan and which employer it came from.
+
+## How BenefitsPath Can Help
+
+The pension offset is one of the more confusing corners of unemployment law, and the rules genuinely differ from state to state. The good news is that a pension does not automatically wipe out your benefits — in many cases it has no effect at all, and even when it applies, you may still qualify for a reduced weekly payment that adds up over time.
+
+BenefitsPath is here to help you sort it out. Use our free **eligibility checker** to estimate your weekly benefit amount and understand how your specific situation fits your state's rules before you file. And if your claim is reduced or denied over a pension you believe was counted incorrectly, our **attorney directory** can connect you with an experienced employment lawyer in your state who can review the determination and help you appeal.
+
+Losing a job is stressful enough without guessing about your retirement money. Report your pension honestly, know that most self-funded and unrelated retirement income does not count against you, and act fast if you need to challenge a decision.
+`,
+  },
 ]
 
 
