@@ -4,6 +4,147 @@
 
 export const articles = [
   {
+    slug: 'missed-unemployment-appeal-deadline-late-appeal-good-cause-2026',
+    title: 'Missed Your Unemployment Appeal Deadline? How Late Appeals and "Good Cause" Work',
+    description: 'Missed the deadline to appeal your unemployment denial? See how late appeals and good cause work in CA, WA, NY and TX, and what to do right now.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-02',
+    updatedAt: '2026-11-02',
+    category: 'Unemployment Appeals',
+    tags: ['late unemployment appeal', 'missed appeal deadline', 'good cause', 'unemployment denial', 'unemployment appeal deadline', 'unemployment appeals'],
+    readTime: '7 min read',
+    content: `
+## Can You Still Appeal an Unemployment Denial After the Deadline?
+
+**Maybe, but it depends on your state and your reason.** Some states let you file late if you can show "good cause" for missing the deadline. Others are very strict. In every case, the best move is to file your appeal right now, explain why it is late, and not wait for permission.
+
+If you just found out you missed the date on your denial letter, take a breath. This is a common problem, and you have a few options. This guide is general information, not legal advice.
+
+## What Should You Do Today?
+
+Do these things in order:
+
+1. **Find your denial letter.** Look for the date it was mailed or sent, and the appeal deadline printed on it.
+2. **File your appeal immediately.** Do not spend days deciding. Every day adds to the delay you will have to explain.
+3. **Explain the delay in writing.** Say what happened, when you found out about the deadline, and when you filed.
+4. **Keep proof.** Save envelopes, screenshots, emails, medical notes, or anything that supports your reason.
+5. **Keep certifying for benefits.** Where your state allows it, keep filing your weekly or biweekly requests while the appeal is pending.
+
+## How Long Do You Have to Appeal?
+
+The deadline is short, and it differs by state. Here is what four state agencies say on their official pages:
+
+- **California:** According to the California Employment Development Department (EDD), you must submit your appeal in writing within 30 days of the mailing date on your notice.
+- **Washington:** The Washington Employment Security Department (ESD) says you need to appeal within 30 days from the date it sends its decision.
+- **New York:** The New York State Department of Labor says you can request a hearing if you disagree with a determination, and a request made more than 30 days after the determination was issued needs good cause.
+- **Texas:** The Texas Workforce Commission (TWC) says you must appeal in writing within 14 calendar days from the date it mails the Determination Notice.
+
+Notice that Texas gives you less than half the time of the other three. Always trust the date printed on your own letter over any general guide.
+
+## What Is "Good Cause" for a Late Appeal?
+
+"Good cause" means a reason the agency accepts for why you could not file on time. It usually means something outside your control. Agencies decide this case by case, so the same reason may be accepted in one place and rejected in another.
+
+Examples of the kinds of reasons people raise include:
+
+- The notice reached you late, or at the wrong address
+- A serious illness or hospital stay
+- A family emergency
+- Wrong information from the agency about the deadline
+- Language barriers or lack of access to the notice
+
+These are examples only. None of the agencies above published a complete list on the pages reviewed, and being accepted is never guaranteed.
+
+## What Do Different States Say About Late Appeals?
+
+### California
+
+The EDD says you can still submit an appeal after the 30-day deadline, but you must provide the reasons why you missed it. An Administrative Law Judge (ALJ) will review those reasons. If the ALJ decides you had good cause, the ALJ will continue to review your appeal.
+
+### Washington
+
+The ESD says that if you appeal after 30 days, you need to explain why you are appealing late. It also says the Office of Administrative Hearings (OAH) may dismiss your case if you do not have a good reason for the late appeal. The ESD appeal page also lists "If your appeal is late, explain why it is late" as one of the things to include in your appeal.
+
+### New York
+
+According to the New York State Department of Labor, if you request a hearing more than 30 days after the determination was issued, you need to show good cause why you were unable to request it within the 30-day period.
+
+### Texas
+
+The TWC page on filing an appeal gives the 14-day deadline and notes that the last day to file is printed at the bottom of your determination form. If the fourteenth day falls on a federal or state holiday, you have until the next business day. The page does not describe a late-appeal exception, so act quickly and contact TWC about your situation if you are past the date.
+
+## Is Missing the Deadline the Same as Missing a Hearing?
+
+No. These are two different problems.
+
+- **Late appeal:** You never filed in time. You must explain the delay.
+- **Missed hearing:** You filed on time but did not attend. In Texas, the TWC says you can ask to reopen your case at the Appeal Tribunal level, but you must show you had a good reason for missing the prior hearing.
+
+If you missed a hearing, contact the office that sent the hearing notice right away. The deadline to ask for a reopening can be very short.
+
+## How Do You Write a Good Late Appeal Explanation?
+
+Keep it short, honest, and specific. A simple structure works:
+
+1. **Your details:** Name, claim information, and the decision you are appealing.
+2. **The facts:** "I received the notice on [date]" or "I was in the hospital from [date] to [date]."
+3. **Why it prevented you from filing:** Connect the event to the delay.
+4. **What you did next:** "I filed this appeal on [date], the day I found out."
+5. **Your proof:** List and attach what you have.
+
+Avoid blaming or anger toward the agency, even if you feel it was at fault. Calm, clear facts are easier for a judge to follow. For help with the appeal itself, see our [complete guide to appealing an unemployment denial](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide).
+
+## What If Your Late Appeal Is Denied?
+
+If a judge decides you did not have good cause, your appeal may be dismissed. Many states then allow a further review or appeal of that ruling, often with its own short deadline. Read the dismissal notice carefully and note the date.
+
+You may also have other paths, depending on your situation:
+
+- **Filing a new claim** if your circumstances changed since the denial
+- **Reporting a new reason or new facts** if the agency's decision was based on wrong information
+- **Talking to legal aid or an attorney** about whether any option remains
+
+## When Should You Talk to an Attorney?
+
+Consider getting advice if your benefits are large, your reason for lateness is complicated, or the agency has already dismissed your appeal. If your claim was denied, you can find an employment attorney through the [BenefitsPath attorney directory](https://www.benefitspath.org/attorneys). Many offer a free first consultation, but ask about fees up front.
+
+## Frequently Asked Questions
+
+### Does the 30 days start when I get the letter or when it was mailed?
+
+In California, the EDD page counts from the mailing date on the notice. Washington counts from the date the ESD sends its decision. If your letter arrived days after it was mailed, say so in your explanation, because that is part of why you may have been late.
+
+### Should I wait to see if my late appeal will be accepted?
+
+No. File first. A late appeal that is on record gives you a chance. No appeal gives you none.
+
+### Do I keep filing weekly requests during a late appeal?
+
+California's EDD tells claimants to continue to certify for benefits while an appeal is pending, because you can only be paid for weeks you certified. Check your own state's instructions.
+
+### Can I appeal if I never got the notice?
+
+You can try. Explain that you did not receive it, when you learned of the decision, and how you learned of it. Include your current address and any proof of an address problem.
+
+### Is this legal advice?
+
+No. This article is general information. Rules change, so confirm the current deadline and process with your state unemployment agency.
+
+## How BenefitsPath Can Help
+
+Losing benefits is stressful, and a missed date can feel final. Start by reading our [guide to appealing a denial](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide) and use the [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) to see what you may be owed. If your claim was denied, you can [find an employment attorney](https://www.benefitspath.org/attorneys) through BenefitsPath.
+
+## Sources
+
+- California Employment Development Department, Unemployment Insurance Appeals (2026): https://edd.ca.gov/en/unemployment/appeals/
+- Washington Employment Security Department, Appeal an unemployment benefits decision (2026): https://esd.wa.gov/get-financial-help/unemployment-benefits/appeal-unemployment-benefits-decision
+- New York State Department of Labor, Unemployment Insurance Benefit Rules for Teachers and Other School Workers (2026): https://dol.ny.gov/unemployment/unemployment-insurance-benefit-rules-teachers-and-other-school-workers
+- Texas Workforce Commission, File an Unemployment Appeal (2026): https://www.twc.texas.gov/services/file-unemployment-appeal
+
+Always confirm deadlines and rules with your state unemployment agency, since they can change.
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-massachusetts-2026-guide',
     title: 'How to File for Unemployment in Massachusetts: 2026 Step-by-Step Guide',
     description: 'Lost your job in Massachusetts? Learn how to file a DUA unemployment claim on UI Online, what documents you need, the $1,105 max benefit, work search rules, and how to avoid delays.',

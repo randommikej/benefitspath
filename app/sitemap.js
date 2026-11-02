@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'missed-unemployment-appeal-deadline-late-appeal-good-cause-2026',
   'unemployment-benefits-and-pension-how-retirement-income-affects-your-claim-2026',
   'how-to-file-unemployment-massachusetts-2026-guide',
   'self-employment-assistance-program-start-business-on-unemployment-2026',
