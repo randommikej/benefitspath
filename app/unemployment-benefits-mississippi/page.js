@@ -77,7 +77,7 @@ export default function Page() {
       </p>
 
       <CTABlock title="Generate Your Mississippi Appeal Letter" description="Our free tool creates a professional appeal letter tailored to your situation and Mississippi unemployment law." href="/" btnText="Create My Appeal Letter" variant="green" />
-      <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/#lawyer" btnText="Find Free Legal Help" variant="blue" />
+      <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/legal-help/mississippi" btnText="Find Free Legal Help" variant="blue" />
 
       <FAQSection faqs={faqs} />
     </SeoLayout>

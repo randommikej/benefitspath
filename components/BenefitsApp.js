@@ -2,6 +2,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { STATE_DATA, STATES, computeEligibility, generateAppealLetter } from '../lib/data'
+import LegalHelpDirectory from './LegalHelpDirectory'
 
 const SHEETS_WEBHOOK_URL = process.env.NEXT_PUBLIC_SHEETS_WEBHOOK_URL || ''
 
@@ -58,34 +59,6 @@ function AdSlot({ slot = 'inline', style = {} }) {
 }
 
 // ─── ATTORNEY CARDS ───────────────────────────────────────────────────────────
-function AttorneyCards({ state }) {
-  // Placeholder attorneys — replaced by live Supabase data after setup
-  const attorneys = [
-    { id: 1, name: 'Sarah Mitchell', firm: 'Mitchell Employment Law', tags: ['Wrongful Termination', 'UI Appeals', 'Discrimination'], phone: '1-800-555-0101', featured: true },
-    { id: 2, name: 'James Reyes', firm: 'Reyes & Associates', tags: ['UI Denials', 'Contractor Disputes'], phone: '1-800-555-0102', featured: false },
-  ]
-  return (
-    <div style={{ marginBottom: 24 }}>
-      <div className="sectit" style={{ fontSize: 18, marginBottom: 4 }}>Talk to an Attorney</div>
-      <p style={{ fontSize: 14, color: 'var(--text2)', marginBottom: 16 }}>Employment lawyers who specialize in unemployment cases. Most offer free consultations.</p>
-      {attorneys.map(a => (
-        <div key={a.id} className={`attorney-card${a.featured ? ' featured' : ''}`}>
-          {a.featured && <div className="attorney-badge">⭐ Featured</div>}
-          <div className="attorney-name">{a.name}</div>
-          <div className="attorney-firm">{a.firm}</div>
-          <div className="attorney-tags">
-            {a.tags.map(t => <span key={t} className="attorney-tag">{t}</span>)}
-          </div>
-          <div className="attorney-contact">
-            <a href={`tel:${a.phone}`} className="call">📞 Call Free</a>
-            <a href="#attorney-form" className="consult">💬 Free Consult</a>
-          </div>
-        </div>
-      ))}
-    </div>
-  )
-}
-
 // ─── MAIN APP ─────────────────────────────────────────────────────────────────
 export default function BenefitsApp() {
   const [screen, setScreen] = useState('home')
@@ -188,7 +161,7 @@ export default function BenefitsApp() {
         </div>
         <nav style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
           <a href="/articles" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Articles</a>
-          <a href="/for-attorneys" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Find a Lawyer</a>
+          <a href="/legal-help" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Find a Lawyer</a>
           <span className="fbadge">100% Free</span>
         </nav>
       </header>
@@ -458,8 +431,11 @@ export default function BenefitsApp() {
             </div>
           </div>
 
-          {/* Attorney cards */}
-          <AttorneyCards state={answers.state} />
+          {/* Legal help */}
+          <div className="hnote" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12, flexWrap: 'wrap' }}>
+            <span><strong>Need legal help?</strong> See free legal aid and employment attorneys in {si.name}, and contact them in one tap.</span>
+            <button className="btn bog" style={{ width: 'auto', margin: 0 }} onClick={() => go('lawyer')}>⚖️ Find legal help</button>
+          </div>
 
           <a className="plink" href={si.portal} target="_blank" rel="noopener noreferrer">
             <div className="plink-l"><div className="plico"><GlobeIco /></div><div><div style={{ fontWeight: 600, fontSize: 14 }}>Apply on {si.name}'s official site</div><div style={{ fontSize: 12, color: 'var(--text3)' }}>Official government portal</div></div></div>
@@ -593,39 +569,32 @@ export default function BenefitsApp() {
           <button className="bkbtn" onClick={() => go(answers.state ? 'result' : 'home')}><ArrL /> Back</button>
           <div className="lhero"><div className="lhtit">You may have legal protections.</div><div className="lhsub">Employment law protects workers in many situations. A free consultation can help you understand your options.</div></div>
 
-          {/* Attorney listing cards */}
-          <AttorneyCards state={answers.state} />
+          <div className="sectit" style={{ fontSize: 20, marginBottom: 4 }}>Contact legal help directly</div>
+          <p style={{ fontSize: 14, color: 'var(--text2)', marginBottom: 16, lineHeight: 1.6 }}>
+            Pick a free legal aid office, your bar&apos;s referral service or an employment attorney below. One tap opens your own email
+            or phone with a message that explains your situation and that BenefitsPath pointed you to them.
+          </p>
 
-          {/* Ad slot in sidebar position */}
-          <AdSlot slot="attorney-sidebar" />
+          <LegalHelpDirectory
+            initialState={answers.state}
+            answers={answers}
+            appeal={aData}
+            eligibility={elig}
+            initialDetails={{
+              name: [answers.firstName || firstNameVal, answers.lastName || lastNameVal].filter(Boolean).join(' '),
+              phone: answers.phone || phoneVal || '',
+              email: answers.email && answers.email !== '(skipped)' ? answers.email : '',
+            }}
+          />
 
-          <div style={{ fontWeight: 600, fontSize: 15, marginBottom: 12 }}>Or submit your own request</div>
+          <div style={{ fontWeight: 600, fontSize: 15, margin: '8px 0 12px' }}>Situations where a lawyer can often help</div>
           <div className="rlist">
             {[['🚫', 'Wrongfully terminated', 'Fired for illegal reasons: discrimination, retaliation, or whistleblowing'], ['👷', 'Misclassified as a contractor', 'Denied benefits because your employer called you independent contractor'], ['😤', 'Retaliated against', 'Fired after reporting harassment, safety issues, or illegal activity'], ['⚖️', 'Denied benefits unfairly', "Denied unemployment despite qualifying under your state's law"], ['📢', 'Discriminated against', 'Treated differently due to race, gender, age, disability, or religion']].map(([ico, t, d]) => (
               <div className="ritem" key={t}><div className="rico">{ico}</div><div className="rtxt"><strong>{t}</strong>{d}</div></div>
             ))}
           </div>
-          {!lSent ? (
-            <>
-              <div style={{ fontWeight: 600, fontSize: 15, marginBottom: 14 }}>Request a Free Consultation</div>
-              <div className="hnote"><strong>No fees unless you win.</strong> Most employment lawyers work on contingency.</div>
-              {[['name', 'Your Name *', 'text', 'Full name'], ['phone', 'Phone Number', 'tel', 'Best number to reach you'], ['email', 'Email Address', 'email', 'Your email']].map(([k, l, t, p]) => (
-                <div className="ig" key={k}><label className="ilbl">{l}</label><input className="inp" type={t} placeholder={p} value={lForm[k]} onChange={e => setLForm(f => ({ ...f, [k]: e.target.value }))} /></div>
-              ))}
-              <div className="ig"><label className="ilbl">Briefly describe your situation</label><textarea className="inp ta" placeholder="What happened? When were you terminated? Any details…" value={lForm.situation} onChange={e => setLForm(f => ({ ...f, situation: e.target.value }))} /></div>
-              <div className="bnav">
-                <button className="btn bblu" disabled={!lForm.name} style={{ opacity: lForm.name ? 1 : .4 }} onClick={handleLawyerSubmit}>Request Free Consultation <Arr s={18} /></button>
-              </div>
-            </>
-          ) : (
-            <div style={{ textAlign: 'center', padding: '24px 0' }}>
-              <div style={{ fontSize: 48, marginBottom: 12 }}>✅</div>
-              <div className="sectit">Request Submitted</div>
-              <p style={{ color: 'var(--text2)', fontSize: 14, lineHeight: 1.6, marginBottom: 24 }}>An employment attorney will reach out within 1–2 business days. Most consultations are completely free.</p>
-              <div className="hnote">While you wait, keep records of everything: emails, texts, performance reviews, and notes on conversations with your employer.</div>
-              <button className="btn bog" onClick={() => go('home')}>Back to Home</button>
-            </div>
-          )}
+
+          <AdSlot slot="attorney-sidebar" />
         </div>
       )}
 

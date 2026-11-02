@@ -100,6 +100,16 @@ export default function sitemap() {
     priority: 0.8,
   }))
 
+  const legalHelpRoutes = [
+    { url: `${BASE_URL}/legal-help`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    ...states.map((state) => ({
+      url: `${BASE_URL}/legal-help/${state}`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })),
+  ]
+
   const articleRoutes = articleSlugs.map((slug) => ({
     url: `${BASE_URL}/articles/${slug}`,
     lastModified: now,
@@ -123,5 +133,6 @@ export default function sitemap() {
     ...articleRoutes,
     ...topicRoutes,
     ...stateRoutes,
+    ...legalHelpRoutes,
   ]
 }

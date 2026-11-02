@@ -48,7 +48,7 @@ export function SeoLayout({ children }) {
           </Link>
           <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
             <Link href="/articles" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Articles</Link>
-            <Link href="/for-attorneys" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Find a Lawyer</Link>
+            <Link href="/legal-help" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Find a Lawyer</Link>
             <Link href="/" style={{ background: '#2d6a4f', color: '#fff', padding: '8px 18px', borderRadius: 10, fontSize: 14, fontWeight: 600, textDecoration: 'none' }}>Check Eligibility →</Link>
           </div>
         </nav>
@@ -60,7 +60,7 @@ export function SeoLayout({ children }) {
             <div style={{ display: 'flex', gap: 24, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 16, fontSize: 14 }}>
               <Link href="/" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Check Eligibility</Link>
               <Link href="/#appeal" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Appeal Letter</Link>
-              <Link href="/#lawyer" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Find Attorney</Link>
+              <Link href="/legal-help" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Find Legal Help</Link>
               <Link href="/articles" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Articles</Link>
               <Link href="/how-to-appeal-unemployment-denial" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Guides</Link>
               <Link href="/for-attorneys" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>For Attorneys</Link>

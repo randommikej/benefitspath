@@ -89,7 +89,7 @@ export default function Page() {
       <CTABlock
         title="Talk to an Unemployment Attorney"
         description="Many employment lawyers offer free consultations and work on contingency — meaning you pay nothing unless they win."
-        href="/#lawyer"
+        href="/legal-help"
         btnText="Request Free Consultation"
         variant="blue"
       />

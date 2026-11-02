@@ -57,7 +57,7 @@ export default function Page() {
       </ul>
 
       <CTABlock title="Was Your Claim Denied After Applying?" description="A denial isn't final. Generate a professional appeal letter for free and learn how to fight back." href="/" btnText="Generate Appeal Letter" variant="green" />
-      <CTABlock title="Talk to an Employment Attorney" description="If your employer is contesting your claim, legal help can make the difference. Free consultations available." href="/#lawyer" btnText="Get Free Legal Help" variant="blue" />
+      <CTABlock title="Talk to an Employment Attorney" description="If your employer is contesting your claim, legal help can make the difference. Free consultations available." href="/legal-help" btnText="Get Free Legal Help" variant="blue" />
 
       <FAQSection faqs={[
         { q: 'Can I apply for unemployment online?', a: 'Yes — all 50 states have online application portals. Applying online is typically the fastest method and is available 24/7. Phone applications are also available in most states for those without internet access.' },

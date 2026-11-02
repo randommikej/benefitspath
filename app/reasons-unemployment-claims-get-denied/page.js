@@ -44,7 +44,7 @@ export default function Page() {
       </ol>
 
       <CTABlock title="Appeal Your Denial — Generate a Letter" description="Our free tool creates a professional appeal letter tailored to your situation and state." href="/" btnText="Generate Appeal Letter" variant="green" />
-      <CTABlock title="Talk to an Unemployment Attorney" description="If your employer contested your claim or the situation is complex, legal help can make the difference." href="/#lawyer" btnText="Find a Free Consultation" variant="blue" />
+      <CTABlock title="Talk to an Unemployment Attorney" description="If your employer contested your claim or the situation is complex, legal help can make the difference." href="/legal-help" btnText="Find a Free Consultation" variant="blue" />
 
       <FAQSection faqs={[
         { q: 'Can I appeal if I quit my job?', a: 'Yes — if you quit for "good cause," which varies by state but generally includes unsafe working conditions, harassment, a major reduction in pay or hours, or compelling personal circumstances. File the appeal and explain your reasons clearly.' },

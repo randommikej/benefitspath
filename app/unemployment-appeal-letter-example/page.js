@@ -111,7 +111,7 @@ Attachments:
       </ul>
 
       <CTABlock title="Generate Your Personalized Appeal Letter" description="Our tool creates a complete appeal letter with your name, state, claim number, and situation. Takes 2 minutes." href="/" btnText="Create My Letter" variant="green" />
-      <CTABlock title="Get Legal Help" description="If your case is complex or your employer has a lawyer, consider a free consultation with an employment attorney." href="/#lawyer" btnText="Talk to an Attorney Free" variant="blue" />
+      <CTABlock title="Get Legal Help" description="If your case is complex or your employer has a lawyer, consider a free consultation with an employment attorney." href="/legal-help" btnText="Talk to an Attorney Free" variant="blue" />
 
       <FAQSection faqs={[
         { q: 'How long should an unemployment appeal letter be?', a: 'One to two pages is ideal. Long enough to cover all the key facts and make your case clearly, but concise enough that the hearing officer can quickly understand your situation. Quality matters more than length.' },

@@ -77,7 +77,7 @@ export default function Page() {
       </p>
 
       <CTABlock title="Generate Your Ohio Appeal Letter" description="Our free tool creates a professional appeal letter tailored to your situation and Ohio unemployment law." href="/" btnText="Create My Appeal Letter" variant="green" />
-      <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/#lawyer" btnText="Find Free Legal Help" variant="blue" />
+      <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/legal-help/ohio" btnText="Find Free Legal Help" variant="blue" />
 
       <FAQSection faqs={faqs} />
     </SeoLayout>
