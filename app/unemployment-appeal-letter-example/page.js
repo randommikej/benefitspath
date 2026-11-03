@@ -9,16 +9,16 @@ export const metadata = {
 export default function Page() {
   return (
     <SeoLayout>
-      <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 'clamp(28px, 5vw, 44px)', lineHeight: 1.15, marginBottom: 16, color: '#1a1714' }}>
+      <h1 className="guide-title">
         Unemployment Appeal Letter Example
       </h1>
-      <p style={{ fontSize: 17, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="guide-lede">
         A well-written appeal letter is one of the most important things you can do to win your unemployment appeal. Below you'll find a real-world example of an unemployment appeal letter, broken down section by section, along with a free tool to generate your own personalized version.
       </p>
 
       <CTABlock title="Skip the Template — Generate Your Letter" description="Enter your details and get a complete, personalized appeal letter for your state in under 2 minutes. Free, always." href="/" btnText="Generate My Letter Now" variant="green" />
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Sample Unemployment Appeal Letter</h2>
+      <h2 className="prose-h2">Sample Unemployment Appeal Letter</h2>
       <p style={{ fontSize: 15, color: '#5a524a', marginBottom: 16 }}>Below is an example of a well-structured unemployment appeal letter for someone who was laid off:</p>
 
       <div style={{ background: '#fff', border: '1px solid #e5e0d8', borderRadius: 14, padding: 28, fontFamily: 'Courier New, monospace', fontSize: 13, lineHeight: 1.8, whiteSpace: 'pre-wrap', color: '#1a1714', marginBottom: 32, overflowX: 'auto' }}>{`Jane Smith
@@ -89,7 +89,7 @@ Attachments:
 - Final pay stub
 `}</div>
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>What Makes This Letter Effective</h2>
+      <h2 className="prose-h2">What Makes This Letter Effective</h2>
       {[
         ['Clear identification', 'The letter immediately establishes who is writing, what claim is being appealed, and when the denial occurred.'],
         ['Factual, unemotional tone', 'It sticks to verifiable facts rather than emotional arguments. Hearing officers respond better to evidence than to anger or desperation.'],
@@ -103,10 +103,10 @@ Attachments:
         </div>
       ))}
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Common Mistakes to Avoid</h2>
-      <ul style={{ paddingLeft: 22, marginBottom: 32 }}>
+      <h2 className="prose-h2">Common Mistakes to Avoid</h2>
+      <ul className="prose-ul prose-end">
         {['Missing the appeal deadline (this automatically loses your appeal)', 'Being vague — include specific dates, names, and facts', 'Focusing on emotion rather than facts', 'Forgetting to attach supporting documents', 'Not requesting a hearing explicitly', 'Sending the appeal to the wrong address or department'].map(m => (
-          <li key={m} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 6 }}>{m}</li>
+          <li key={m} className="prose-li">{m}</li>
         ))}
       </ul>
 

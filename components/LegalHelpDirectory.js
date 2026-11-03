@@ -26,21 +26,21 @@ function ContactButtons({ entry, kind, stateCode, stateName, message, subject, o
     <div className="lh-actions">
       {entry.email && (
         <a className="lh-btn lh-primary" href={mailtoHref(entry.email, subject, message)}
-           onClick={() => logContact(stateCode, target, 'email')}>✉️ Email them</a>
+           onClick={() => logContact(stateCode, target, 'email')}>Email them</a>
       )}
       {tel && (
         <a className={`lh-btn ${entry.email ? 'lh-secondary' : 'lh-primary'}`} href={tel}
-           onClick={() => logContact(stateCode, target, 'call')}>📞 Call {entry.phone}</a>
+           onClick={() => logContact(stateCode, target, 'call')}>Call {entry.phone}</a>
       )}
       {site && (
         <a className="lh-btn lh-secondary" href={site} target="_blank" rel="noopener noreferrer"
            onClick={() => logContact(stateCode, target, entry.intakeUrl ? 'apply_online' : 'website')}>
-          🌐 {entry.intakeUrl ? (kind === 'aid' ? 'Apply online' : 'Request online') : 'Website'}
+          {entry.intakeUrl ? (kind === 'aid' ? 'Apply online' : 'Request online') : 'Website'}
         </a>
       )}
       {!entry.email && (
         <button type="button" className="lh-btn lh-secondary" onClick={() => { onCopy(); logContact(stateCode, target, 'copy') }}>
-          📋 Copy my message
+          Copy my message
         </button>
       )}
     </div>
@@ -91,7 +91,7 @@ export default function LegalHelpDirectory({ initialState = '', answers = {}, ap
             <summary>Preview the message</summary>
             <pre>{`Subject: ${subject}\n\n${message}`}</pre>
           </details>
-          <button type="button" className="lh-btn lh-secondary" onClick={copy}>{copied ? '✅ Copied' : '📋 Copy message'}</button>
+          <button type="button" className="lh-btn lh-secondary" onClick={copy}>{copied ? 'Copied' : 'Copy message'}</button>
         </div>
       )}
 
@@ -151,7 +151,7 @@ export default function LegalHelpDirectory({ initialState = '', answers = {}, ap
               <div className="lh-card lh-slim" key={n.name}>
                 <div className="lh-name">{n.name}</div>
                 <div className="lh-note">{n.description}</div>
-                <div className="lh-actions"><a className="lh-btn lh-secondary" href={n.website} target="_blank" rel="noopener noreferrer">🌐 Open</a></div>
+                <div className="lh-actions"><a className="lh-btn lh-secondary" href={n.website} target="_blank" rel="noopener noreferrer">Open site ↗</a></div>
               </div>
             ))}
           </section>

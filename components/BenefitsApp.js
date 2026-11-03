@@ -159,9 +159,9 @@ export default function BenefitsApp() {
           <div className="lmark"><Shld /></div>
           <span className="ltxt">BenefitsPath</span>
         </div>
-        <nav style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-          <a href="/articles" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Articles</a>
-          <a href="/legal-help" style={{ fontSize: 14, color: '#5a524a', textDecoration: 'none', fontWeight: 500 }}>Find a Lawyer</a>
+        <nav className="topnav-links">
+          <a href="/articles" className="topnav-link topnav-opt">Articles</a>
+          <a href="/legal-help" className="topnav-link">Find a Lawyer</a>
           <span className="fbadge">100% Free</span>
         </nav>
       </header>
@@ -175,8 +175,8 @@ export default function BenefitsApp() {
             <h1 className="htitle">Lost your job?<br />We'll help you figure out <em>what to do next.</em></h1>
             <p className="hsub">Answer a few quick questions and we'll guide you to the right benefits, forms, and support — completely free.</p>
             <div className="hfeats">
-              {[['Check if you qualify', 'Takes about 2 minutes'], ['Get your state\'s forms & links', 'Direct to official portals'], ['Generate an appeal letter', 'If your claim was denied'], ['Connect with a lawyer', 'If you think you were wronged']].map(([l, d]) => (
-                <div className="hfeat" key={l}><div className="hdot"><Chk /></div><div><strong style={{ color: 'var(--text)', fontSize: 14 }}>{l}</strong> — <span style={{ fontSize: 13 }}>{d}</span></div></div>
+              {[['Check if you qualify', 'Takes about 2 minutes'], ['Get your state\'s forms & links', 'Direct to official portals'], ['Generate an appeal letter', 'If your claim was denied'], ['Connect with a lawyer', 'If you think you were wronged']].map(([l, d], i) => (
+                <div className="hfeat" key={l}><span className="hnum">{String(i + 1).padStart(2, '0')}</span><div><strong>{l}</strong><span className="hfd">{d}</span></div></div>
               ))}
             </div>
             <button className="btn bp" onClick={() => go('state')}>Check Your Benefits <Arr s={18} /></button>
@@ -191,13 +191,13 @@ export default function BenefitsApp() {
           </div>
           <div className="fbanner"><Shld /><p className="fbtxt">This service costs nothing. Access to benefits information should be simple and free for everyone.</p></div>
           <div className="dvdr">or jump to</div>
-          <button className="btn bs" style={{ marginBottom: 10 }} onClick={() => go('appeal_intro')}>✉️ Generate an Appeal Letter</button>
-          <button className="btn bs" style={{ marginBottom: 16 }} onClick={() => go('lawyer')}>⚖️ Talk to an Employment Lawyer</button>
+          <button className="jrow" onClick={() => go('appeal_intro')}><span>Generate an appeal letter</span><Arr s={16} /></button>
+          <button className="jrow" style={{ marginBottom: 16 }} onClick={() => go('lawyer')}><span>Talk to an employment lawyer</span><Arr s={16} /></button>
           <button className="skip" onClick={() => go('privacy')}>Privacy Policy</button>
           {/* EMAIL CAPTURE — for visitors not ready to start the quiz */}
-          <div style={{ marginTop: 28, padding: 20, background: 'var(--green-light, #d8f3dc)', borderRadius: 12, border: '1px solid var(--green-border, #b7e4c7)' }}>
-            <div style={{ fontWeight: 600, fontSize: 16, color: 'var(--text)', marginBottom: 4 }}>Not ready yet? Stay informed.</div>
-            <p style={{ fontSize: 13, color: 'var(--text2)', marginBottom: 14, lineHeight: 1.5 }}>Get a free guide to unemployment benefits and deadlines for your state — delivered to your inbox.</p>
+          <div className="ecap">
+            <div className="ecap-t">Not ready yet? Stay informed.</div>
+            <p className="ecap-s">Get a free guide to unemployment benefits and deadlines for your state — delivered to your inbox.</p>
             {homeEmailSent ? (
               <div style={{ padding: '12px 16px', background: 'white', borderRadius: 8, fontSize: 14, color: 'var(--green)', fontWeight: 500, textAlign: 'center' }}>Thank you! Check your inbox.</div>
             ) : (
@@ -215,7 +215,7 @@ export default function BenefitsApp() {
                       setHomeEmailSent(true)
                     }
                   }}
-                  style={{ flex: 1, margin: 0 }}
+                  style={{ flex: 1, minWidth: 0, margin: 0 }}
                 />
                 <button
                   className="btn bp"
@@ -225,7 +225,7 @@ export default function BenefitsApp() {
                     submitToSheets({ email: homeEmail, source: 'homepage_signup' })
                     setHomeEmailSent(true)
                   }}
-                  style={{ margin: 0, padding: '10px 16px', fontSize: 14, opacity: homeEmail.includes('@') ? 1 : .4 }}
+                  style={{ margin: 0, width: 'auto', flex: 'none', padding: '0 20px', fontSize: 15, borderRadius: 'var(--rs)', opacity: homeEmail.includes('@') ? 1 : .45 }}
                 >Send</button>
               </div>
             )}

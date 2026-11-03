@@ -17,7 +17,7 @@ export function generateMetadata({ params }) {
   if (!code) return {}
   const name = STATE_DATA[code].name
   return {
-    title: `Unemployment Lawyers & Free Legal Aid in ${name} | BenefitsPath`,
+    title: `Unemployment Lawyers & Free Legal Aid in ${name}`,
     description: `Free legal aid, the lawyer referral service and employment attorneys who help with unemployment claims and appeals in ${name}. Contact them in one tap.`,
     alternates: { canonical: `https://www.benefitspath.org/legal-help/${params.state}` },
   }
@@ -29,13 +29,13 @@ export default function StateLegalHelp({ params }) {
   const sd = STATE_DATA[code]
   return (
     <SeoLayout>
-      <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 36, lineHeight: 1.15, margin: '0 0 12px' }}>Unemployment legal help in {sd.name}</h1>
-      <p style={{ fontSize: 17, color: '#5a524a', lineHeight: 1.6, marginBottom: 16 }}>
+      <h1 className="guide-title">Unemployment legal help in {sd.name}</h1>
+      <p className="guide-lede">
         If your {sd.name} unemployment claim was denied or your employer is fighting it, you usually have about {sd.appealDays} days to appeal.
         These offices and attorneys help workers with unemployment problems. Tap a button to email or call them with your situation already written out.
       </p>
-      <p style={{ fontSize: 14, color: '#5a524a', marginBottom: 24 }}>
-        Not sure you qualify yet? <Link href="/" style={{ color: '#1e40af' }}>Check your eligibility</Link> or read the <Link href={`/unemployment-benefits-${sd.slug}`} style={{ color: '#1e40af' }}>{sd.name} benefits guide</Link>.
+      <p className="guide-aside">
+        Not sure you qualify yet? <Link href="/">Check your eligibility</Link> or read the <Link href={`/unemployment-benefits-${sd.slug}`}>{sd.name} benefits guide</Link>.
       </p>
       <LegalHelpDirectory initialState={code} />
     </SeoLayout>

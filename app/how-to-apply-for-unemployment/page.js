@@ -9,17 +9,17 @@ export const metadata = {
 export default function Page() {
   return (
     <SeoLayout>
-      <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 'clamp(28px, 5vw, 44px)', lineHeight: 1.15, marginBottom: 16, color: '#1a1714' }}>
+      <h1 className="guide-title">
         How to Apply for Unemployment Benefits
       </h1>
-      <p style={{ fontSize: 17, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="guide-lede">
         Applying for unemployment benefits can feel overwhelming — especially right after losing your job. The process is different in every state, but the basic steps are the same. This guide walks you through exactly what to do, what you'll need, and what to expect after you apply.
       </p>
 
       <CTABlock title="Check If You Qualify First" description="Before you apply, find out your likelihood of qualifying based on your state and situation. Takes 2 minutes." href="/" btnText="Check My Eligibility" variant="green" />
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>What You'll Need to Apply</h2>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 16 }}>Gather these before you start your application to avoid delays:</p>
+      <h2 className="prose-h2">What You'll Need to Apply</h2>
+      <p className="prose-p">Gather these before you start your application to avoid delays:</p>
       {[
         ['🪪', 'Personal identification', 'Your Social Security number and a government-issued photo ID'],
         ['💼', 'Employer information', 'Your former employer\'s full name, address, and phone number'],
@@ -34,7 +34,7 @@ export default function Page() {
         </div>
       ))}
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Step-by-Step Application Process</h2>
+      <h2 className="prose-h2">Step-by-Step Application Process</h2>
       {[
         ['Find your state\'s unemployment portal', 'Go to your state\'s official unemployment insurance website. Use our tool above to find the direct link for your state — it varies by state and changes periodically.'],
         ['Create an account or log in', 'Most states require you to create an online account before filing. Have your email address ready and create a secure password you\'ll remember.'],
@@ -49,10 +49,10 @@ export default function Page() {
         </div>
       ))}
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Tips to Avoid Common Mistakes</h2>
-      <ul style={{ paddingLeft: 22, marginBottom: 32 }}>
+      <h2 className="prose-h2">Tips to Avoid Common Mistakes</h2>
+      <ul className="prose-ul prose-end">
         {['Apply immediately — don\'t wait. Most states won\'t backpay before your application date', 'Be completely accurate about your separation reason — inconsistencies get flagged', 'Apply even if you\'re not sure you qualify — let the state determine eligibility', 'Set calendar reminders for your weekly certification dates', 'Keep records of every job application you make (you\'ll need to report them)', 'Don\'t quit a job without good cause — it will likely disqualify you'].map(t => (
-          <li key={t} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 6 }}>{t}</li>
+          <li key={t} className="prose-li">{t}</li>
         ))}
       </ul>
 

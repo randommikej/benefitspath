@@ -9,10 +9,10 @@ export const metadata = {
 export default function Page() {
   return (
     <SeoLayout>
-      <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 'clamp(28px, 5vw, 44px)', lineHeight: 1.15, marginBottom: 16, color: '#1a1714' }}>
+      <h1 className="guide-title">
         How Long Does It Take to Receive Unemployment Benefits?
       </h1>
-      <p style={{ fontSize: 17, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="guide-lede">
         When you've lost your job, every day matters. Most people want to know exactly when their first unemployment check will arrive — and that answer depends on your state, your situation, and how quickly you act. Here's what to expect and how to speed things up.
       </p>
 
@@ -24,7 +24,7 @@ export default function Page() {
         </div>
       </div>
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Typical Unemployment Timeline</h2>
+      <h2 className="prose-h2">Typical Unemployment Timeline</h2>
       {[
         ['Day 1', 'Apply', 'File your claim online as soon as possible after losing your job. Most state portals take 20–45 minutes to complete.'],
         ['Week 1', 'Waiting period', 'Most states have a mandatory one-week waiting period during which no benefits are paid. Some states have waived this requirement.'],
@@ -38,13 +38,13 @@ export default function Page() {
         </div>
       ))}
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>What Causes Delays?</h2>
-      <ul style={{ paddingLeft: 22, marginBottom: 32 }}>
+      <h2 className="prose-h2">What Causes Delays?</h2>
+      <ul className="prose-ul prose-end">
         {['Your employer contests the claim', 'Missing or incomplete information on your application', 'High claim volume at your state unemployment office', 'Issues verifying your wages or employment history', 'Additional review needed for your separation circumstances', 'Failure to certify each week on time'].map(d => (
-          <li key={d} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 6 }}>{d}</li>
+          <li key={d} className="prose-li">{d}</li>
         ))}
       </ul>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="prose-p prose-end">
         If your claim is taking longer than 3–4 weeks, contact your state unemployment office directly. Ask for a specific reason for the delay and whether any additional information is needed from you.
       </p>
 

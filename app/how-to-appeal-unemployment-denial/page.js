@@ -11,14 +11,14 @@ export const metadata = {
 export default function Page() {
   return (
     <SeoLayout>
-      <div style={{ background: '#fef3c7', border: '1px solid #fcd34d', borderRadius: 12, padding: '12px 18px', marginBottom: 24, fontSize: 14, color: '#92400e' }}>
-        ⏰ <strong>Act fast:</strong> Most states give you only 10–30 days to appeal a denial. Don't wait.
+      <div className="sg-deadline">
+        <strong>Act fast:</strong> Most states give you only 10–30 days to appeal a denial. Don't wait.
       </div>
 
-      <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 'clamp(28px, 5vw, 44px)', lineHeight: 1.15, marginBottom: 16, color: '#1a1714' }}>
+      <h1 className="guide-title">
         How to Appeal an Unemployment Denial
       </h1>
-      <p style={{ fontSize: 17, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="guide-lede">
         Being denied unemployment benefits can feel devastating — especially when you need that income. The good news: denial is not the final word. Millions of unemployment claims are overturned every year through the appeals process. This guide walks you through exactly how to appeal an unemployment denial, step by step.
       </p>
 
@@ -30,20 +30,20 @@ export default function Page() {
         variant="green"
       />
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Why Unemployment Claims Get Denied</h2>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 16 }}>
+      <h2 className="prose-h2">Why Unemployment Claims Get Denied</h2>
+      <p className="prose-p">
         Before you appeal, it helps to understand why your claim was denied. Common reasons include:
       </p>
-      <ul style={{ paddingLeft: 22, marginBottom: 24 }}>
+      <ul className="prose-ul">
         {['The state believes you quit voluntarily (even if you didn\'t)', 'Your employer contested the claim', 'You were classified as an independent contractor', 'You didn\'t meet the minimum earnings requirement', 'Missing or incorrect information on your application', 'You were fired and the state classified it as misconduct'].map(r => (
-          <li key={r} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 6 }}>{r}</li>
+          <li key={r} className="prose-li">{r}</li>
         ))}
       </ul>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="prose-p prose-end">
         Many of these reasons can be successfully challenged — especially if your employer misrepresented facts or the state made a procedural error.
       </p>
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Step-by-Step: How to Appeal</h2>
+      <h2 className="prose-h2">Step-by-Step: How to Appeal</h2>
       {[
         ['1', 'Read your denial letter carefully', 'Your denial notice explains the exact reason your claim was rejected. This is the foundation of your appeal. Look for the specific section of law cited and the factual basis for the denial.'],
         ['2', 'Note your appeal deadline', 'Every state has a strict deadline — typically 10 to 30 days from the denial date. Missing this window usually means losing your right to appeal, so act immediately.'],
@@ -61,10 +61,10 @@ export default function Page() {
         </div>
       ))}
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>What to Include in Your Appeal Letter</h2>
-      <ul style={{ paddingLeft: 22, marginBottom: 32 }}>
+      <h2 className="prose-h2">What to Include in Your Appeal Letter</h2>
+      <ul className="prose-ul prose-end">
         {['Your full name, address, and contact information', 'Your claim number and the date of your denial', 'A clear statement that you are appealing the decision', 'The specific reason(s) you believe the denial was wrong', 'A factual account of how your employment ended', 'A list of evidence you are attaching', 'A request for a hearing'].map(r => (
-          <li key={r} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 6 }}>{r}</li>
+          <li key={r} className="prose-li">{r}</li>
         ))}
       </ul>
 
@@ -76,13 +76,13 @@ export default function Page() {
         variant="green"
       />
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>When to Hire an Unemployment Attorney</h2>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 16 }}>
+      <h2 className="prose-h2">When to Hire an Unemployment Attorney</h2>
+      <p className="prose-p">
         You don't always need a lawyer to appeal, but in some situations, legal help significantly improves your odds:
       </p>
-      <ul style={{ paddingLeft: 22, marginBottom: 24 }}>
+      <ul className="prose-ul">
         {['Your employer has legal representation at the hearing', 'You believe you were fired illegally (discrimination, retaliation)', 'The case involves complex facts or contradictory evidence', 'You\'ve already lost an initial appeal', 'There are significant benefits at stake'].map(r => (
-          <li key={r} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 6 }}>{r}</li>
+          <li key={r} className="prose-li">{r}</li>
         ))}
       </ul>
 

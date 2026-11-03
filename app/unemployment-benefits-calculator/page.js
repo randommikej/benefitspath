@@ -9,24 +9,24 @@ export const metadata = {
 export default function Page() {
   return (
     <SeoLayout>
-      <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 'clamp(28px, 5vw, 44px)', lineHeight: 1.15, marginBottom: 16, color: '#1a1714' }}>
+      <h1 className="guide-title">
         Unemployment Benefits Calculator
       </h1>
-      <p style={{ fontSize: 17, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="guide-lede">
         Wondering how much you'll receive in unemployment benefits? Every state calculates benefits differently — using your past wages, your state's formula, and your work history. This guide explains how the calculation works and what you can expect in your state.
       </p>
 
       <CTABlock title="Check Your Eligibility & Estimated Benefits" description="Answer 5 quick questions and see your state's maximum weekly benefit amount and how long you can receive it." href="/" btnText="See My Estimated Benefits" variant="green" />
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>How Unemployment Benefits Are Calculated</h2>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 16 }}>
+      <h2 className="prose-h2">How Unemployment Benefits Are Calculated</h2>
+      <p className="prose-p">
         Most states use a formula based on your highest-earning quarter (or multiple quarters) during your "base period" — typically the first four of the last five completed calendar quarters before you filed your claim.
       </p>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 16 }}>
+      <p className="prose-p">
         Your <strong>Weekly Benefit Amount (WBA)</strong> is usually calculated as a percentage of your average weekly wage during the base period — typically between 40% and 60%. This amount is then capped at your state's maximum weekly benefit.
       </p>
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Example Calculation</h2>
+      <h2 className="prose-h2">Example Calculation</h2>
       <div style={{ background: '#fff', border: '1px solid #e5e0d8', borderRadius: 14, padding: 24, marginBottom: 32 }}>
         <p style={{ fontSize: 15, color: '#5a524a', marginBottom: 12 }}>Say you earned $60,000/year ($1,154/week average). In a state that pays 50% of your average weekly wage:</p>
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
@@ -40,7 +40,7 @@ export default function Page() {
         <p style={{ fontSize: 14, color: '#8a8078', marginTop: 12, marginBottom: 0 }}>If your state's maximum weekly benefit is $500, your actual WBA would be $500, not $577.</p>
       </div>
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>Weekly Benefit Maximums by State</h2>
+      <h2 className="prose-h2">Weekly Benefit Maximums by State</h2>
       <p style={{ fontSize: 15, color: '#5a524a', marginBottom: 16 }}>Weekly benefit maximums vary widely across states. Here are some examples:</p>
       <div style={{ overflowX: 'auto', marginBottom: 32 }}>
         <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: 15 }}>
@@ -77,10 +77,10 @@ export default function Page() {
         </table>
       </div>
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>What Reduces Your Benefit Amount?</h2>
-      <ul style={{ paddingLeft: 22, marginBottom: 32 }}>
+      <h2 className="prose-h2">What Reduces Your Benefit Amount?</h2>
+      <ul className="prose-ul prose-end">
         {['Part-time earnings while on unemployment (benefits are reduced proportionally)', 'Severance pay (may delay when benefits start)', 'Pension payments from a former employer', 'Vacation pay being paid out', 'Working reduced hours rather than full separation'].map(i => (
-          <li key={i} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 6 }}>{i}</li>
+          <li key={i} className="prose-li">{i}</li>
         ))}
       </ul>
 

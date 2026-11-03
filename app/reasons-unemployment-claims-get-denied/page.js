@@ -18,10 +18,10 @@ export default function Page() {
 
   return (
     <SeoLayout>
-      <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 'clamp(28px, 5vw, 44px)', lineHeight: 1.15, marginBottom: 16, color: '#1a1714' }}>
+      <h1 className="guide-title">
         Top Reasons Unemployment Claims Get Denied
       </h1>
-      <p style={{ fontSize: 17, color: '#5a524a', lineHeight: 1.75, marginBottom: 32 }}>
+      <p className="guide-lede">
         Unemployment claims are denied far more often than many people realize — and the reasons aren't always obvious. Understanding why claims get denied is the first step to protecting yours, or successfully appealing a decision. Here are the most common reasons, and what you can do about each one.
       </p>
 
@@ -35,9 +35,9 @@ export default function Page() {
         </div>
       ))}
 
-      <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginBottom: 16, marginTop: 40 }}>What to Do If Your Claim Is Denied</h2>
-      <p style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 16 }}>A denial is not the end. Here's what to do immediately:</p>
-      <ol style={{ paddingLeft: 22, marginBottom: 32 }}>
+      <h2 className="prose-h2">What to Do If Your Claim Is Denied</h2>
+      <p className="prose-p">A denial is not the end. Here's what to do immediately:</p>
+      <ol className="prose-ul prose-end">
         {['Read your denial notice carefully — understand the exact reason given', 'Note your appeal deadline (usually 10–30 days from the denial date)', 'Gather any documentation that contradicts the reason for denial', 'Write a clear, factual appeal letter addressing the denial reason', 'Submit your appeal before the deadline and keep copies of everything', 'Prepare for your hearing by organizing your evidence and your account of events'].map(s => (
           <li key={s} style={{ fontSize: 16, color: '#5a524a', lineHeight: 1.75, marginBottom: 8 }}>{s}</li>
         ))}
