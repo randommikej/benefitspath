@@ -4,6 +4,136 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-virginia-2026-guide',
+    title: 'How to File for Unemployment in Virginia: 2026 Step-by-Step Guide',
+    description: 'Lost your job in Virginia? Learn how to file with the VEC, what the new $478 weekly maximum means, weekly claim rules and how to appeal a denial.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-03',
+    updatedAt: '2026-11-03',
+    category: 'State Guides',
+    tags: ['virginia unemployment', 'VEC', 'file for unemployment', 'unemployment benefits virginia', 'state guides', 'weekly benefit amount'],
+    readTime: '8 min read',
+    content: `
+## How Do You File for Unemployment in Virginia?
+
+**File online through the Virginia Employment Commission (VEC) Customer Self Service portal, using an ID.me account, as soon as you lose your job or your hours are cut.** The VEC says to apply "preferably in the first week." Claims cannot be backdated, and a higher benefit cap applies to claims filed on or after July 5, 2026, so waiting does not help.
+
+This guide walks through each step in order, from the day you lose work to your first payment. It is general information, not legal advice.
+
+## What Changed for Virginia Claims in 2026?
+
+On June 25, 2026, the VEC announced that the maximum weekly unemployment benefit rises from $430 to $478 for new claims filed on or after July 5, 2026. The minimum weekly benefit rises from $112 to $160. According to the VEC (2026), the new amounts apply only to new claims, and older claims keep the old amounts.
+
+To reach the $478 maximum, your combined earnings from two quarters of your base period must total at least $18,900.01, the VEC says. The VEC also offers an online Benefits Estimator if you want to see what your own wages might produce.
+
+If you filed before July 5, your claim stays at the older amounts. If you are filing now, the newer amounts apply to you.
+
+## Step 1: Do You Qualify in Virginia?
+
+The VEC says you must meet three tests: money, reason for job loss, and weekly requirements.
+
+**Money (monetary qualification).** You must have earned at least $3,000 in your two highest-paying quarters combined, in work covered by Virginia unemployment tax. The VEC looks at a "base period," which is the first four of the last five completed calendar quarters before your claim starts. Your claim starts on the Sunday of the week you file.
+
+**Reason you lost the job (separation).** The VEC says benefits are for people who are unemployed through no fault of their own, such as a layoff or furlough. Other reasons may qualify, but the VEC will review them. According to the VEC, you can be disqualified if you were let go for misconduct or if you quit without good cause and without trying reasonable alternatives with your employer first.
+
+**Weekly requirements.** You must be able to work, available to work, and filing weekly claims. Most people must also search for work.
+
+Not sure how your situation fits? Our [Virginia unemployment benefits page](https://www.benefitspath.org/unemployment-benefits-virginia) has a quick overview, and the [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) can give you a rough idea of your weekly amount.
+
+## Step 2: What Do You Need Before You Start?
+
+The VEC says the application takes about 45 minutes, and incomplete applications will not be processed. Gather these first:
+
+- Your Social Security number
+- A government-issued ID, such as a driver's license, passport, passport card or state ID, for ID.me
+- Names, addresses, phone numbers and dates of employment for every employer in the last 18 months (your W-2 or pay stubs help)
+- Your bank routing and account numbers if you want direct deposit
+- If you are not a U.S. citizen, your Alien Registration number
+- If you are a former service member, your DD214; if you left a job because of a spouse's military move, a copy of the PCS orders
+
+If you worked in more than one state in the last 18 months, you may be able to choose which state to file in, according to the VEC. If all your work was in other states, do not file a Virginia claim.
+
+## Step 3: How Do You Submit the Claim?
+
+1. Go to the VEC Customer Self Service portal and click the green "Sign in with ID.me" button. If you do not have an account, the VEC says it takes a few minutes to create one.
+2. Complete the application and choose how to be paid.
+3. Save your confirmation and keep copies of anything you upload.
+
+You can also apply by phone at 1-866-832-2363, Monday to Friday, 8:00 a.m. to 4:30 p.m. The VEC warns of long wait times by phone and recommends applying online. The VEC also lists scheduled maintenance windows, when the system is offline: Wednesdays from 7:30 p.m. to 10:30 p.m. and Sundays from 9:00 a.m. to 12:00 p.m.
+
+### Should You Pick Direct Deposit or the Debit Card?
+
+Either works. If you choose the VA debit card, the VEC says it is called the Way2Go Card, it has no VEC or Virginia name on it, and it arrives in a plain white envelope. Watch your mail so you do not throw it out as junk.
+
+## Step 4: What Happens After You Apply?
+
+You will get a Statement of Wages and Potential Benefit Entitlement in a separate mailing. Read it closely. It shows your weekly benefit amount and how many weeks you may receive. If wages are wrong or an employer is missing, follow the instructions on the statement to send proof. You can also call the number above.
+
+If your job loss was for a reason other than lack of work, the VEC says you and your employer will get questionnaires, and a VEC deputy may call you. Answer calmly, stick to the facts, and meet every deadline in the letters.
+
+## Step 5: How Do Weekly Claims Work?
+
+You must file a weekly claim for each week you want paid. This is the step people miss most.
+
+- The benefit week runs Sunday through Saturday. You cannot claim a week until it is over.
+- Your first weekly claim is due within 21 days of the date you filed your claim. Later weeks are due within 21 days of that week's Saturday, according to the VEC.
+- The first week you meet the weekly requirements is a waiting week, and it is not paid.
+- If a deputy has to decide your eligibility, keep filing weekly claims anyway. The VEC says not to wait for the decision.
+
+### What About a Work Search?
+
+If the VEC directs you to search for work, you must register with Virginia's job system, contact employers each week, and keep records for one year. The records should include the date, employer name and address, the person you spoke with, the position and the result. The VEC's benefits roadmap also says weekly claims confirm you made at least two job contacts. Keep a simple log from day one.
+
+## Step 6: What If You Work Part-Time or Get Severance?
+
+Report all gross pay (before taxes) for the week you earn it, not the week you are paid. The VEC says that if your gross earnings are less than your weekly benefit, the amount over $100 is deducted from your benefit. If your earnings equal or exceed your weekly benefit, you get no payment for that week.
+
+For example, with a $300 benefit and $200 in gross weekly pay, the VEC's example reduces your payment to $200.
+
+You must also report vacation, holiday and severance pay. Vacation and holiday pay count like wages in the week they apply to. A deputy may decide how severance affects your benefit. Pension payments from a recent or base-period employer can also reduce benefits dollar for dollar.
+
+Not reporting income correctly can lead to an overpayment, which you would have to repay. See our guide on [what to do if you get an overpayment notice](https://www.benefitspath.org/articles/unemployment-overpayment-notice-what-to-do).
+
+## What If Your Claim Is Denied?
+
+You have 30 days from the mailing date of the deputy's decision to appeal, and the last day is printed on the decision, according to the VEC. The appeal must be in writing and explain why you disagree. You can appeal online through Customer Self Service, by mail, by fax, or at a Virginia Works office. Keep filing weekly claims while the appeal is pending.
+
+The VEC grants extensions only with proof of "good cause," meaning circumstances beyond your control. Do not count on it. File early. Our [appeal guide](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide) and [appeal letter example](https://www.benefitspath.org/unemployment-appeal-letter-example) can help you organize your reasons. If your claim was denied, you can also find an employment attorney through BenefitsPath, and many offer a free first consultation.
+
+## Are Virginia Unemployment Benefits Taxable?
+
+Yes. The VEC says benefits are subject to federal income tax and must be reported when you file. It sends a Form 1099-G by January 31 each year showing what you received the year before. Tell the VEC about an address change by December 27 so the form reaches you, because it will not be forwarded. You can choose to have federal tax withheld from payments.
+
+## Frequently Asked Questions
+
+### How long does it take to get my first payment in Virginia?
+It varies. You must finish the application, get through any questions about why you lost your job, and file weekly claims. The first eligible week is a waiting week and is unpaid. Check Customer Self Service for status updates.
+
+### Can I file if I was fired?
+You can file. The VEC will look at the reason, and misconduct can lead to disqualification. Give honest, specific answers, and appeal if you disagree with the result.
+
+### What if I forget to file a weekly claim?
+Weekly claims older than 21 days cannot be filed through the VEC's online or phone systems, according to the VEC. Mark your calendar every Sunday.
+
+### Do I have to pay the money back if I was overpaid?
+Possibly. The VEC says you can appeal an overpayment decision within 30 days, and you may be able to ask for a waiver of repayment. Overpayments can be taken out of future benefits.
+
+### Is the cost taken out of my paycheck?
+No. The VEC says benefits are paid by employer taxes, and no part comes out of your earnings.
+
+## Sources
+
+- Virginia Employment Commission, Virginia Unemployment Benefits Increasing in July (June 25, 2026): https://www.vec.virginia.gov/news/virginia-unemployment-benefits-increasing-july
+- Virginia Employment Commission, Apply for Unemployment Benefits (2026): https://www.vec.virginia.gov/apply-unemployment-benefits
+- Virginia Employment Commission, Benefits Eligibility (2026): https://www.vec.virginia.gov/benefits-eligibility
+- Virginia Employment Commission, Benefits Information (2026): https://www.vec.virginia.gov/unemployed/benefits-information
+- Virginia Employment Commission, Benefits Roadmap (2026): https://www.vec.virginia.gov/unemployed/benefits-roadmap
+- Virginia Employment Commission, Appeals (2026): https://www.vec.virginia.gov/appeals
+
+Rules and amounts can change. Always confirm details with the Virginia Employment Commission before you act.
+`,
+  },
+  {
     slug: 'missed-unemployment-appeal-deadline-late-appeal-good-cause-2026',
     title: 'Missed Your Unemployment Appeal Deadline? How Late Appeals and "Good Cause" Work',
     description: 'Missed the deadline to appeal your unemployment denial? See how late appeals and good cause work in CA, WA, NY and TX, and what to do right now.',
