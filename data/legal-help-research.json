@@ -55,9 +55,58 @@
     "practiceNote": "Labor & employment (wrongful termination, discrimination, FLSA) practice; publishes an article on what to do if denied unemployment benefits in Alabama, but does not explicitly say it handles UI appeals.",
     "unemploymentSpecific": false,
     "source": "https://vlgal.com/blog/what-happens-if-i-get-denied-unemployment-benefits/"
+   },
+   {
+    "name": null,
+    "firm": "Winston Cooks, LLC",
+    "city": "Birmingham",
+    "phone": "(205) 482-5174",
+    "email": "info@winstoncooks.com",
+    "website": "https://winstoncooks.com/",
+    "practiceNote": "Homepage: \"We represent people, not companies.\" and \"an assertive advocate for employees\" facing discrimination. No unemployment mention. Alternate number on contact section: (205) 482-3551.",
+    "unemploymentSpecific": false,
+    "source": "https://winstoncooks.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Beckum Law LLC",
+    "city": "Birmingham",
+    "phone": "(205) 588-0699",
+    "email": null,
+    "website": "https://beckumlaw.com/",
+    "practiceNote": "Homepage: \"We represent employees across Alabama in cases involving wrongful termination\", discrimination, retaliation, wage disputes. Also does construction work for contractors/homeowners (not employer-side employment work as far as stated). No unemployment mention. Address 3184 Cahaba Heights Rd.",
+    "unemploymentSpecific": false,
+    "source": "https://beckumlaw.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Hardin & Hughes, LLP",
+    "city": "Tuscaloosa",
+    "phone": "(205) 344-6690",
+    "email": "attorneys@hardinhughes.com",
+    "website": "https://www.hardinhughes.com/",
+    "practiceNote": "Homepage: firm \"represents employees facing wage violations and other workplace disputes\"; employment + personal injury firm. No employer-side work stated; no unemployment mention. Address 1490 Northbank Pkwy, Suite 234.",
+    "unemploymentSpecific": false,
+    "source": "https://www.hardinhughes.com/contact",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "McPhillips Shinbaum LLP",
+    "city": "Montgomery",
+    "phone": "(334) 262-1911",
+    "email": null,
+    "website": "https://www.mcphillipsshinbaum.com/",
+    "practiceNote": "Homepage lists Employment Law (wrongful termination, workplace harassment, discrimination); tagline \"Protecting Alabama's workers one case at a time.\" No employer-side work mentioned; general practice firm (also PI etc.). Toll-free 1-866-224-8664. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://www.mcphillipsshinbaum.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Alabama State Bar posted (Mar 24, 2026) that the LRS was temporarily unavailable, expected back mid-April 2026; current status not reconfirmed. No private firm found whose own site explicitly offers unemployment appeal representation."
+  "gaps": "Alabama State Bar posted (Mar 24, 2026) that the LRS was temporarily unavailable, expected back mid-April 2026; current status not reconfirmed. No private firm found whose own site explicitly offers unemployment appeal representation.",
+  "researchNotes2026_11": "No AL private firm found whose own site explicitly offers unemployment appeal representation. Excluded: Wrady Michel & King (also small-business/employer services), Mastando & Artrip (business clients/employers), Heather Leonard PC (site doesn't state employee-only). Haynes & Haynes and Wiggins Childs could not be fetched (permission/blocked). LSA is statewide and already confirmed for UI, so no legal aid added."
  },
  {
   "state": "AK",
@@ -95,7 +144,8 @@
     "source": "https://www.shortelllaw.com/"
    }
   ],
-  "gaps": "Only 1 attorney (below min of 2). LRS toll-free in Alaska: (800) 770-9999, hours M-F 9-12, 1-4. Few employee-side firms found in Alaska; Carlson Law Group (Anchorage) excluded because it also lists Employment Litigation Defense. Search budget ran out before more could be found."
+  "gaps": "Only 1 attorney (below min of 2). LRS toll-free in Alaska: (800) 770-9999, hours M-F 9-12, 1-4. Few employee-side firms found in Alaska; Carlson Law Group (Anchorage) excluded because it also lists Employment Litigation Defense. Search budget ran out before more could be found.",
+  "researchNotes2026_11": "No new Alaska attorneys verified. Candidates excluded: Cusack Law (also counsels companies), Seaver & Wagner (also represents companies), Birch Horton (primarily employers), Kemppel Huffman & Ellis (side not stated). The shared web-search budget ran out mid-state, so Fairbanks/Juneau could not be searched. ALSC is statewide with UI coverage already noted."
  },
  {
   "state": "AZ",
@@ -163,9 +213,34 @@
     "practiceNote": "Employment law for private and public employees; says it has experience on each side of employment law. No unemployment mention.",
     "unemploymentSpecific": false,
     "source": "https://www.turchiklawfirm.com/employment-law/"
+   },
+   {
+    "name": null,
+    "firm": "Robinson Law Offices",
+    "city": "Phoenix",
+    "phone": "(602) 888-8994",
+    "email": "info@robinsonlawoffices.com",
+    "website": "https://www.robinsonlawoffices.com/",
+    "practiceNote": "Homepage: \"an employee advocacy law firm that fights for employee rights in Arizona\"; \"holding employers accountable\"; representation at EEOC, DOL, state/federal court. No employer work mentioned. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://www.robinsonlawoffices.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Martin & Bonnett, PLLC",
+    "city": "Phoenix",
+    "phone": "(602) 240-6900",
+    "email": null,
+    "website": "https://www.martinbonnett.com/",
+    "practiceNote": "Homepage: \"passionate about protecting employee rights\"; \"We represent unions, union members, and non-union employees across the United States.\" No employer work mentioned. Mostly wage/class-action litigation; may not take small individual matters. City from site meta (Phoenix AZ / Seattle WA); no street address printed. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://www.martinbonnett.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "MCBA LRS phone is (602) 257-4434 ext. 1. All three attorneys have mixed or partly employer practices per their sites (Houk, Weiler, Turchik); none strictly employee-only. Arizona Employment Attorney (Joseph Velez) excluded because it serves employers too."
+  "gaps": "MCBA LRS phone is (602) 257-4434 ext. 1. All three attorneys have mixed or partly employer practices per their sites (Houk, Weiler, Turchik); none strictly employee-only. Arizona Employment Attorney (Joseph Velez) excluded because it serves employers too.",
+  "researchNotes2026_11": "Only 2 added, both Phoenix; no Tucson/Flagstaff firm verified. Tyler Allen Law Firm (Phoenix, (602) 995-3777) says it 'concentrates on helping employees' but also offers business-formation services, so left out per 'if unsure' rule; you may choose to add. Excluded both-sides firms: Simmons & Gottfried, Shields Petitti & Zoldan, Jaburg Wilk. Southern Arizona Legal Aid UI coverage still unconfirmed; web-search budget ran out before I could look."
  },
  {
   "state": "AR",
@@ -225,7 +300,8 @@
     "source": "https://www.aremploymentlaw.com/"
    }
   ],
-  "gaps": "Arkansas Bar has no traditional phone LRS; listed phone is the bar's general number, and ArkansasFindALawyer is an online directory (no fee published). Placzek site publishes no phone/email/address (contact page blocked). Cox Sterling represents both sides."
+  "gaps": "Arkansas Bar has no traditional phone LRS; listed phone is the bar's general number, and ArkansasFindALawyer is an online directory (no fee published). Placzek site publishes no phone/email/address (contact page blocked). Cox Sterling represents both sides.",
+  "researchNotes2026_11": "No new Arkansas attorneys verified. Excluded: Sanford Law Firm (directory says plaintiffs and defendants; already listed under arkansasovertime.com), Barber Law Firm (both), Hickey & Hull (both), Rose Law Firm (employers), Muskheli Law Firm (does employer due diligence/investigations; no contact info on site), WH Law (bankruptcy, no employment content). Web-search budget ran out; Jonesboro directory page failed to load."
  },
  {
   "state": "CA",
@@ -293,9 +369,58 @@
     "practiceNote": "Lists 'Unemployment Benefits Appeal' as a service with many EDD appeal client testimonials. Note: also represents businesses in EDD payroll tax audits.",
     "unemploymentSpecific": true,
     "source": "https://pershingsquarelaw.com/posts/california-unemployment-benefits-appeal-process/"
+   },
+   {
+    "name": null,
+    "firm": "Cal Law APC (Law Office of Calvin Chang)",
+    "city": "Sacramento",
+    "phone": "(916) 538-0225",
+    "email": "info@callawapc.com",
+    "website": "https://callawapc.com/",
+    "practiceNote": "Homepage: \"REPRESENTING EMPLOYEES AND INDIVIDUALS\"; \"represents employees in cases against employers of all sizes.\" Sacramento office 500 Capitol Mall, Suite 2350; also LA office (323) 736-0225. No unemployment/EDD mention. Fills Sacramento gap.",
+    "unemploymentSpecific": false,
+    "source": "https://callawapc.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Goldstein Browne (formerly Coyle Browne Law)",
+    "city": "Oakland",
+    "phone": "(510) 584-9020",
+    "email": "team@goldsteinbrowne.com",
+    "website": "https://goldsteinbrowne.com/",
+    "practiceNote": "Homepage FAQ: \"employment and civil rights team represents employees who have been discriminated against, harassed, or retaliated against\"; \"fighting for workers' rights.\" Offices: Oakland (1111 Broadway, Suite 300), Marina del Rey (310) 421-4810, San Diego (619) 930-9440; general (800) 421-2594. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://goldsteinbrowne.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Setyan Law APC",
+    "city": "Los Angeles",
+    "phone": "(213) 618-3655",
+    "email": null,
+    "website": "https://setyanlaw.com/",
+    "practiceNote": "Homepage: firm \"represents employees only, never employers\" / \"We never represent employers, so our loyalty is never divided.\" Offices listed: Los Angeles (HQ), Pasadena, Beverly Hills, Burbank, San Diego, Santa Ana, San Jose. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://setyanlaw.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Eric P. Oren",
+    "firm": "Law Offices of Eric P. Oren, Inc.",
+    "city": "Fresno",
+    "phone": "(559) 224-5900",
+    "email": "epo@ericorenlaw.com",
+    "website": "https://www.ericorenlaw.com/",
+    "practiceNote": "Homepage: \"represents employees across the Central Valley of California in lawsuits against employers\"; also personal injury. No employer work. 516 W. Shaw Ave., Ste. 200, Fresno; Bakersfield (661) 401-7621. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://www.ericorenlaw.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "SmartLaw consult fee not verified; alternate SmartLaw phone (866) 762-7852. No unemployment attorney verified in Sacramento/Inland/Bay Area beyond SF. Itkin and Pershing Square also have employer-side work."
+  "gaps": "SmartLaw consult fee not verified; alternate SmartLaw phone (866) 762-7852. No unemployment attorney verified in Sacramento/Inland/Bay Area beyond SF. Itkin and Pershing Square also have employer-side work.",
+  "researchNotes2026_11": "No new unemployment-specific CA firm verified (search budget ran out). Added coverage for Sacramento, Oakland, Fresno/Central Valley. Excluded: Levy Vinick (no contact info printed on homepage), Siegal & Richardson (Berkeley PI/criminal/business mix), Benton Employment Law Group and Brian Crone (both sides), Sperber (small businesses). CA legal aid not expanded: Legal Aid at Work is statewide and UI-specific."
  },
  {
   "state": "CO",
@@ -342,9 +467,34 @@
     "practiceNote": "Represents 'employees ONLY—never employers.' Unemployment not listed as a practice area.",
     "unemploymentSpecific": false,
     "source": "https://www.hkm.com/denver/"
+   },
+   {
+    "name": null,
+    "firm": "Livelihood Law LLC",
+    "city": "Denver",
+    "phone": "(720) 465-6972",
+    "email": "info@livelihoodlaw.com",
+    "website": "https://livelihoodlaw.com/",
+    "practiceNote": "Homepage lists Unemployment as a practice area: \"Many qualified employees miss out on unemployment benefits due to misinformation and missed deadlines\"; lists \"wrongfully withheld unemployment benefits\" among services and says it represents employees before the Colorado Department of Labor & Employment. Employee-only wording (\"helps those workers fight back\"). Address 12015 E. 46th Ave, Suite 240. Appeals not mentioned by name; /unemployment/ subpage would not load.",
+    "unemploymentSpecific": true,
+    "source": "https://livelihoodlaw.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Rathod | Mohamedbhai LLC",
+    "city": "Denver",
+    "phone": "(303) 578-4400",
+    "email": null,
+    "website": "https://rmlawyers.com/",
+    "practiceNote": "Homepage: \"Our firm advocates for employees in the workplace, the rights of students in school, and for the civil rights of all individuals.\" No employer work mentioned; no unemployment mention. City not printed on homepage (map is Denver).",
+    "unemploymentSpecific": false,
+    "source": "https://rmlawyers.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No Colorado legal aid confirmed to handle unemployment insurance (Towards Justice, (720) 441-2236, is a workers' nonprofit but UI not confirmed). CBA Find-A-Lawyer is a directory, not confirmed as a formal LRS; no fee published. Only 2 attorneys; search budget ran out."
+  "gaps": "No Colorado legal aid confirmed to handle unemployment insurance (Towards Justice, (720) 441-2236, is a workers' nonprofit but UI not confirmed). CBA Find-A-Lawyer is a directory, not confirmed as a formal LRS; no fee published. Only 2 attorneys; search budget ran out.",
+  "researchNotes2026_11": "Only 2 added (both Denver). Excluded: Gretchen Lipman (also counsels companies), Burma Law Offices and Givens (both sides), Sears & Associates and LSTT/Leventhal Lewis (serve businesses too), Benezra & Culver (site says not accepting new clients), E.C. Lewis and Telios (employer). Towards Justice UI coverage still unconfirmed; web-search budget ran out before legal-aid research."
  },
  {
   "state": "CT",
@@ -391,9 +541,34 @@
     "practiceNote": "Represents employees, executives, and professionals throughout Connecticut in employment law matters. No unemployment mention.",
     "unemploymentSpecific": false,
     "source": "https://www.garrisonlaw.com/"
+   },
+   {
+    "name": null,
+    "firm": "Madsen, Prestley & Parenteau, LLC",
+    "city": "Hartford",
+    "phone": "(860) 246-2466",
+    "email": null,
+    "website": "https://www.mppjustice.com/",
+    "practiceNote": "Homepage: represents only workers, executives and other individuals, 'not corporations or employers'. Practice: discrimination, retaliation, wrongful termination, wage and hour, severance. New London office (860) 442-2466. No unemployment mention. Contact form only, no public email.",
+    "unemploymentSpecific": false,
+    "source": "https://www.mppjustice.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Mark Carey",
+    "firm": "Carey & Associates, P.C.",
+    "city": "Southport",
+    "phone": "(203) 255-4150",
+    "email": "info@capclaw.com",
+    "website": "https://capclaw.com/",
+    "practiceNote": "Homepage: lawyers 'represent employees and executives in the full range of cases' (wrongful termination). Office 71 Old Post Road, Suite One, Southport (Fairfield County). Site does not say employees-only and practice-areas page failed to load; no employer-side wording seen. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://capclaw.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Connecticut Bar Association statewide LRS page returned 404; used Hartford County Bar LRS (CBA also lists New Haven County (203) 562-5750 and New London County (860) 889-9384). Hours M-Th 9-3, F 10-2. Only 2 attorneys verified."
+  "gaps": "Connecticut Bar Association statewide LRS page returned 404; used Hartford County Bar LRS (CBA also lists New Haven County (203) 562-5750 and New London County (860) 889-9384). Hours M-Th 9-3, F 10-2. Only 2 attorneys verified.",
+  "researchNotes2026_11": "Consider adding CT DOL Office of the Unemployed Workers' Advocate (state office, not legal aid): helps claimants understand CTDOL documents, prepare for hearings and navigate appeals; staff are not lawyers and cannot represent at hearings. (833) 573-6700 or (860) 263-6700, M-F 8-4; online case form. Source https://portal.ct.gov/DOL/Home/Office-of-the-UWA . Sabatini & Associates (Newington) checked but site did not say which side it represents - skipped. Carey & Associates: verify employee-only if you want stricter standard."
  },
  {
   "state": "DE",
@@ -452,7 +627,8 @@
     "source": "https://www.schmittrod.com/"
    }
   ],
-  "gaps": "No Delaware legal aid confirmed for UI representation. DSBA referral is online-only ('PLEASE DO NOT CALL THE DSBA OFFICE'), so phone is null. No unemployment-specific private attorney found; Allen & Associates excluded (serves employers)."
+  "gaps": "No Delaware legal aid confirmed for UI representation. DSBA referral is online-only ('PLEASE DO NOT CALL THE DSBA OFFICE'), so phone is null. No unemployment-specific private attorney found; Allen & Associates excluded (serves employers).",
+  "researchNotes2026_11": "No new DE attorney verified. Jacobs & Crumplar, P.A. (New Castle/Dover/Millsboro, (302) 656-5445) lists 'employment law' but site does not say which side it represents - skipped. hudsoncastle.com now hosts unrelated spam - dead. Re-checked legal aid: LSCD homepage still only lists a 'Work and Unemployment' topic; CLASI lists housing, DV, immigration, public benefits, family, disability, elder law (no UI); DVLS homepage no UI mention. WebSearch budget was exhausted before DE searching began, so this state got little coverage."
  },
  {
   "state": "DC",
@@ -520,9 +696,34 @@
     "practiceNote": "Represents whistleblowers and employees nationwide. No unemployment mention.",
     "unemploymentSpecific": false,
     "source": "https://www.katzbanks.com/"
+   },
+   {
+    "name": "Alan Lescht",
+    "firm": "Alan Lescht and Associates, P.C.",
+    "city": "Washington",
+    "phone": "(202) 463-6036",
+    "email": "info@dcemploymentattorney.com",
+    "website": "https://www.dcemploymentattorney.com/",
+    "practiceNote": "Homepage: advocates for 'government employees, private-sector workers, executives, and other employees'; no employer clients mentioned. Office 1825 K St NW #750. No unemployment mention. (leschtlaw.com redirects here.)",
+    "unemploymentSpecific": false,
+    "source": "https://www.dcemploymentattorney.com/contact-us/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "The Employment Law Group",
+    "city": "Washington",
+    "phone": "(888) 826-5260",
+    "email": null,
+    "website": "https://www.employmentlawgroup.com/",
+    "practiceNote": "Homepage: 'our law firm represents only employees and whistleblowers.' Office 1717 K St. NW, Ste 1110. Phone is toll-free as printed (1-888-826-5260). Email obfuscated; contact form at /contact-us/. No unemployment mention; whistleblower-heavy practice.",
+    "unemploymentSpecific": false,
+    "source": "https://www.employmentlawgroup.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "BADC LRS is 'being revitalized' (referrals still available; asks to email first); phone is BADC general line; no fee published. No DC private attorney found whose site explicitly lists unemployment benefits."
+  "gaps": "BADC LRS is 'being revitalized' (referrals still available; asks to email first); phone is BADC general line; no fee published. No DC private attorney found whose site explicitly lists unemployment benefits.",
+  "researchNotes2026_11": "Legal Aid DC homepage lists Public Benefits Law but no unemployment mention; its public-benefits subpage failed to load, so UI coverage still unconfirmed. Excluded: Kalijarvi Chuzi Newman & Fitch (represents employers and employees), Zipin Amster & Greenberg (Silver Spring MD; also represents businesses). WebSearch budget ran out partway through this group, so candidates came from prior knowledge, verified on firm sites."
  },
  {
   "state": "FL",
@@ -590,9 +791,22 @@
     "practiceNote": "Contests denied unemployment claims and represents claimants at Appeals Referee hearings, but ONLY for licensed healthcare professionals; does not handle other employment law matters.",
     "unemploymentSpecific": true,
     "source": "https://www.chapmanlawgroup.com/practice_areas/unemployment-appeals/"
+   },
+   {
+    "name": null,
+    "firm": "Spielberger Law Group",
+    "city": "Tampa",
+    "phone": "(800) 965-1570",
+    "email": "info@spielbergerlawgroup.com",
+    "website": "https://www.spielbergerlawgroup.com/",
+    "practiceNote": "Homepage: 'Our firm only represents employees and fights for justice. Every single day.' Site states all legal work is done at 4030 W. Boy Scout Blvd., Suite 650, Tampa, FL 33607 (also lists a Mt Pleasant, SC address and 843-654-0120). Phone is toll-free as printed. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://www.spielbergerlawgroup.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No verified unemployment-specific private attorney found in Tampa, Orlando or Jacksonville (Wenzel Fenton Cabassa is employee-side statewide but its site disclaims handling unemployment cases, so excluded). CLS county list not on source page."
+  "gaps": "No verified unemployment-specific private attorney found in Tampa, Orlando or Jacksonville (Wenzel Fenton Cabassa is employee-side statewide but its site disclaims handling unemployment cases, so excluded). CLS county list not on source page.",
+  "researchNotes2026_11": "Only 1 new attorney. Excluded: FairLaw Firm (Coral Gables; also represents employers). Skipped USA Employment Lawyers / Jordan Richards PLLC (employee wage claims, (954) 871-0050) because its site shows no Florida street address. Pantas Law, Celler Legal, Kwall Barack, Legal Services of Greater Miami blocked by robots. Legal aid checked but UI not confirmed on homepages: Bay Area Legal Services (Hillsborough, Pasco, Pinellas, Manatee, Sarasota; (800) 625-2257), Florida Rural Legal Services (13 SW/central counties; (888) 582-3410), Legal Aid Society of Palm Beach County ((561) 655-8944; lists 'Employment Rights'), Three Rivers Legal Services ((866) 256-8091) - all list Public Benefits but not unemployment, so not added. WebSearch budget was exhausted mid-group."
  },
  {
   "state": "GA",
@@ -660,9 +874,22 @@
     "practiceNote": "Handles Georgia unemployment appeals at hearing, Board of Review and Superior Court levels; represents both employees and employers.",
     "unemploymentSpecific": true,
     "source": "https://sheltonlawpractice.com/georgia-unemployment-appeals/"
+   },
+   {
+    "name": null,
+    "firm": "Barrett & Farahany",
+    "city": "Atlanta",
+    "phone": "(334) 237-7773",
+    "email": null,
+    "website": "https://www.justiceatwork.com/georgia",
+    "practiceNote": "Georgia page: 'Note that we only represent employees and not employers.' Office 2921 Piedmont Road, Atlanta, GA 30305. Phone printed on the Georgia page is 334-237-7773 (Alabama area code) - confirm before publishing. No unemployment mention. Contact form only.",
+    "unemploymentSpecific": false,
+    "source": "https://www.justiceatwork.com/georgia",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Atlanta Legal Aid's unemployment case acceptance not confirmed on its site. Fidlon and Shelton also represent employers (not management-only). No attorneys verified outside metro Atlanta."
+  "gaps": "Atlanta Legal Aid's unemployment case acceptance not confirmed on its site. Fidlon and Shelton also represent employers (not management-only). No attorneys verified outside metro Atlanta.",
+  "researchNotes2026_11": "Only 1 new attorney. Excluded: Beal, Sutherland, Berlin & Brown (bbwmlaw.com redirects to beal.law; serves 'Employees and Entrepreneurs' incl. business litigation); Wiggins Law Group (also helps businesses). Mays & Kerr blocked by robots; Kirby G. Smith site failed to load. Atlanta Legal Aid homepage still does not mention unemployment. WebSearch budget exhausted."
  },
  {
   "state": "HI",
@@ -711,7 +938,8 @@
     "source": "https://frlawhi.com/joseph-rosenbaum/"
    }
   ],
-  "gaps": "No Hawaii private attorney found whose site mentions unemployment benefits; only 2 employee-side firms verified (both Honolulu). LASH UI help explicitly stated only for disaster-impacted clients. No LRIS fee published."
+  "gaps": "No Hawaii private attorney found whose site mentions unemployment benefits; only 2 employee-side firms verified (both Honolulu). LASH UI help explicitly stated only for disaster-impacted clients. No LRIS fee published.",
+  "researchNotes2026_11": "No new HI attorney verified. Davis Levin Livingston (Honolulu) lists whistleblower protection but its site does not say it represents employees in employment matters - skipped. Legal Aid Society of Hawai'i homepage (checked Nov 2026) mentions Disaster Unemployment Assistance after the May 2026 earthquake and COFA restoration of unemployment benefits, but does not confirm general UI appeal representation. WebSearch budget exhausted before HI searching."
  },
  {
   "state": "ID",
@@ -758,9 +986,46 @@
     "practiceNote": "'Dedicated lawyers for employees facing serious workplace injustice.' Site does not mention unemployment.",
     "unemploymentSpecific": false,
     "source": "https://www.lawmgg.com"
+   },
+   {
+    "name": "John Kluksdal",
+    "firm": "Kluksdal Law",
+    "city": "Boise",
+    "phone": "(208) 996-8180",
+    "email": "john@kluksdallaw.com",
+    "website": "https://kluksdallaw.com/",
+    "practiceNote": "Wrongful termination page: \"protecting the rights of wrongfully terminated employees throughout Boise, ID.\" Employee-focused. Office 350 N. 9th St., Suite 500, Boise, ID 83702. No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://kluksdallaw.com/employment-law-attorney-boise-idaho/wrongful-termination-claims/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Larry Beck",
+    "firm": "Beck Law Offices",
+    "city": "Hayden (Coeur d'Alene area)",
+    "phone": "(208) 772-4400",
+    "email": null,
+    "website": "https://becklawidaho.com/",
+    "practiceNote": "Employment law page: \"our attorneys represent employees in unlawful discrimination and wrongful termination cases.\" Office 8884 N. Government Way, Ste. D, Hayden, ID 83835. No unemployment mention. Firm is primarily personal injury.",
+    "unemploymentSpecific": false,
+    "source": "https://becklawidaho.com/practice-areas/employment-law/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "HKM Employment Attorneys - Boise",
+    "city": "Boise",
+    "phone": "(208) 500-2442",
+    "email": null,
+    "website": "https://hkm.com/boise/",
+    "practiceNote": "National employee-side firm. Boise page: \"Representing Boise, ID employees in all forms of employment law.\" Lists 999 W Main Street, Suite 100, Boise, ID 83702 (could not confirm it is a staffed office). No unemployment mention. May be related to existing Indiana listing Hassler, Kondras, Miller LLP (hkmlawfirm.com) - not verified; check for dedupe.",
+    "unemploymentSpecific": false,
+    "source": "https://hkm.com/boise/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Only 2 attorneys verified, both Boise area; none found in Coeur d'Alene/Idaho Falls/Pocatello (search budget exhausted). ILAS apply page blocked to fetch; intake phone from contact page."
+  "gaps": "Only 2 attorneys verified, both Boise area; none found in Coeur d'Alene/Idaho Falls/Pocatello (search budget exhausted). ILAS apply page blocked to fetch; intake phone from contact page.",
+  "researchNotes2026_11": "Still nothing unemployment-specific outside Boise. Excluded: McConnell Wagner Sykes + Stacey ('represent employees and defend employers'); Dry Creek Legal Group ('represent both employees and businesses'); Holden Kidwell (Idaho Falls, clients are 'businesses and municipalities'); Curtis Porter & Adams (workers' comp). No Idaho Falls/Pocatello employee-side firm verified. ILAS statewide already confirmed for UI."
  },
  {
   "state": "IL",
@@ -784,7 +1049,22 @@
     "email": null,
     "coverage": "counties/regions",
     "notes": "Chicago and suburban Cook County; phone intake weekdays from 8 a.m. Lists Workers' Rights as a focus area, but site does not explicitly confirm unemployment insurance cases - ask at intake.",
-    "source": "https://www.legalaidchicago.org/"
+    "source": "https://www.legalaidchicago.org/",
+    "unemploymentConfirmation": {
+     "evidence": "'How can we help' page lists 'Unemployment Insurance benefits' as a case type under 'Work & Employment Rights.'",
+     "source": "https://legalaidchicago.org/get-help/how-can-we-help/"
+    }
+   },
+   {
+    "name": "IDES Legal Services Program (free representation for claimants)",
+    "phone": "(844) 562-7448",
+    "website": "https://ides.illinois.gov/resources/legal-services-program/legal-services.html",
+    "intakeUrl": null,
+    "email": null,
+    "coverage": "statewide",
+    "notes": "Free consultation and/or representation at IDES appeal hearings, provided through private law firms. Call as soon as you get a decision against you or a notice of appeal; lines open Mon-Fri 8:30 am-5:00 pm. Not automatic - depends on your case.",
+    "source": "https://ides.illinois.gov/unemployment/resources/benefits-rights.html",
+    "addedBy": "research-2026-11-03"
    }
   ],
   "barReferral": {
@@ -817,9 +1097,46 @@
     "practiceNote": "'We only represent employees and unions.' Site does not mention unemployment.",
     "unemploymentSpecific": false,
     "source": "https://www.karmellawfirm.com"
+   },
+   {
+    "name": "Quinton Osborne",
+    "firm": "Osborne Employment Law",
+    "city": "Wheaton (DuPage County)",
+    "phone": "(630) 869-0923",
+    "email": "Quinton@OsborneEmploymentLaw.com",
+    "website": "https://osborneemploymentlaw.com/",
+    "practiceNote": "Unemployment appeals page: firm has \"represented hundreds of individuals across Illinois in unemployment appeals hearings.\" Homepage: \"The firm is dedicated to vigorously representing Illinois employees.\" No employer-side work found. Office 330 S. Naperville Road, Suite 408, Wheaton, IL 60187.",
+    "unemploymentSpecific": true,
+    "source": "https://osborneemploymentlaw.com/practice-areas/unemployment-appeals/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "David Porter",
+    "firm": "The Law Office of David Porter",
+    "city": "Chicago",
+    "phone": "(312) 236-1207",
+    "email": "dporterlaw@ameritech.net",
+    "website": "https://www.chicago-employmentlawyer.com/",
+    "practiceNote": "Unemployment Hearings page: \"I have represented employees in over 750 unemployment hearings before Administrative Law Judges/ Referees.\" Homepage: \"My law firm is dedicated to providing employees with innovative strategies\" (mentions past experience representing 'both individuals and businesses', but current focus is employees). Office 33 N LaSalle St #2000, Chicago, IL 60602.",
+    "unemploymentSpecific": true,
+    "source": "https://www.chicago-employmentlawyer.com/practice-areas/unemployment-hearings/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Barrett & Farahany",
+    "city": "Chicago",
+    "phone": "(773) 337-7999",
+    "email": null,
+    "website": "https://www.justiceatwork.com/",
+    "practiceNote": "Illinois page: \"We only work with employees, not employers.\" Chicago office 77 W. Wacker Dr., Suite 4500, Chicago, IL 60601 (multi-state employee-side firm). No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://www.justiceatwork.com/illinois-employment-attorney/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Could not confirm on any Illinois legal aid site that it takes unemployment insurance cases (Legal Aid Chicago, Land of Lincoln, Prairie State pages don't name it). No unemployment-specific private attorney verified; none outside Chicago. Chicago Bar Association LRS alternative: (312) 554-2001, $30 consult fee (https://www.chicagobar.org/lawyerreferral). Search budget exhausted mid-batch."
+  "gaps": "Could not confirm on any Illinois legal aid site that it takes unemployment insurance cases (Legal Aid Chicago, Land of Lincoln, Prairie State pages don't name it). No unemployment-specific private attorney verified; none outside Chicago. Chicago Bar Association LRS alternative: (312) 554-2001, $30 consult fee (https://www.chicagobar.org/lawyerreferral). Search budget exhausted mid-batch.",
+  "researchNotes2026_11": "IDES Legal Services Program is a state-run (not nonprofit) program; ILAO's 'finding a lawyer for unemployment' page also points to it. Note the same program also serves small employers via a separate line - list only the claimant number. Excluded: Pietrucha Law Firm (Naperville) - does unemployment appeals but serves 'both employees and employers' incl. contesting claims; Workplace Law Partners (fishlawfirm.com) - 'both employees and employers'. No downstate (Springfield/Peoria/Rockford) employee-side firm verified."
  },
  {
   "state": "IN",
@@ -879,7 +1196,8 @@
     "source": "https://www.hkmlawfirm.com"
    }
   ],
-  "gaps": "No Indiana private attorney found whose site mentions unemployment. Indy Bar phone is main line (no LRS-specific number published). Fort Wayne/Evansville/South Bend not covered."
+  "gaps": "No Indiana private attorney found whose site mentions unemployment. Indy Bar phone is main line (no LRS-specific number published). Fort Wayne/Evansville/South Bend not covered.",
+  "researchNotes2026_11": "Not researched: the shared WebSearch budget (200 calls per turn across all agents) ran out before this state was started. Needs a follow-up pass."
  },
  {
   "state": "IA",
@@ -939,7 +1257,8 @@
     "source": "https://www.roxanneconlinlaw.com"
    }
   ],
-  "gaps": "All attorneys in Des Moines metro; none verified in Cedar Rapids/Davenport/Iowa City. ISBA phone/email are general association contacts."
+  "gaps": "All attorneys in Des Moines metro; none verified in Cedar Rapids/Davenport/Iowa City. ISBA phone/email are general association contacts.",
+  "researchNotes2026_11": "Not researched: the shared WebSearch budget (200 calls per turn across all agents) ran out before this state was started. Needs a follow-up pass."
  },
  {
   "state": "KS",
@@ -988,7 +1307,8 @@
     "source": "https://snyderlawfirmllc.com"
    }
   ],
-  "gaps": "No Kansas legal aid page explicitly names unemployment. No unemployment-specific attorney found; none verified in Wichita or Topeka (KC metro only). KBA phone is general association line."
+  "gaps": "No Kansas legal aid page explicitly names unemployment. No unemployment-specific attorney found; none verified in Wichita or Topeka (KC metro only). KBA phone is general association line.",
+  "researchNotes2026_11": "Not researched: the shared WebSearch budget (200 calls per turn across all agents) ran out before this state was started. Needs a follow-up pass."
  },
  {
   "state": "KY",
@@ -1047,7 +1367,8 @@
     "source": "https://www.markhall-law.com"
    }
   ],
-  "gaps": "No unemployment-specific private attorney found; none verified in Lexington (Roark & Korus handles unemployment hearings for businesses - excluded). Other regional legal aid: AppalReD (866) 277-5733, Kentucky Legal Aid (270) 782-1924 per kyjustice.org/help-near-you (unemployment not verified)."
+  "gaps": "No unemployment-specific private attorney found; none verified in Lexington (Roark & Korus handles unemployment hearings for businesses - excluded). Other regional legal aid: AppalReD (866) 277-5733, Kentucky Legal Aid (270) 782-1924 per kyjustice.org/help-near-you (unemployment not verified).",
+  "researchNotes2026_11": "Not researched: the shared WebSearch budget (200 calls per turn across all agents) ran out before this state was started. Needs a follow-up pass."
  },
  {
   "state": "LA",
@@ -1115,9 +1436,22 @@
     "practiceNote": "Employee-side employment law (\"solutions for employees\"); unemployment benefits not mentioned. New Orleans phone (504) 345-1220.",
     "unemploymentSpecific": false,
     "source": "https://www.landryfirm.com/"
+   },
+   {
+    "name": "Kerry Murphy",
+    "firm": "Kerry Murphy Law LLC",
+    "city": "New Orleans",
+    "phone": "(504) 603-1500",
+    "email": "INFO@KERRYMURPHYLAW.COM",
+    "website": "https://kerrymurphylaw.com/",
+    "practiceNote": "Homepage: \"a boutique employment law firm dedicated to representing employees in Wisconsin and Louisiana.\" New Orleans office at 201 St. Charles Ave, Suite 2500. No mention of representing employers. Unemployment benefits not mentioned. Email printed in caps on site.",
+    "unemploymentSpecific": false,
+    "source": "https://kerrymurphylaw.com/contact/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No statewide Louisiana State Bar lawyer referral line found; Baton Rouge Bar LRS page says it is PERMANENTLY CLOSED and New Orleans Bar public page showed no LRS phone, so the Lafayette Bar LRS (regional) is used. Acadiana Legal Service unemployment handling and online intake URL not verified. No unemployment-specific attorney found in New Orleans."
+  "gaps": "No statewide Louisiana State Bar lawyer referral line found; Baton Rouge Bar LRS page says it is PERMANENTLY CLOSED and New Orleans Bar public page showed no LRS phone, so the Lafayette Bar LRS (regional) is used. Acadiana Legal Service unemployment handling and online intake URL not verified. No unemployment-specific attorney found in New Orleans.",
+  "researchNotes2026_11": "Only one new LA attorney verified. Rejected: Casey Denson Law (site says it also represents employers), Minias Law Firm (also small-business clients), Clement Donelon (site does not clearly say employee-side). Candidates found but could not verify because the fetch was blocked: Law Office of David Rutledge, Lafayette (davidrutledge.com; Justia lists wrongful termination/unpaid wages, contingent fees), Kenneth D. St. Pe APLC, Lafayette (stpelaw.com), Williams Litigation LLC, New Orleans (Christopher L. Williams; Justia says he focuses on 'protecting the rights of workers and employees'; site URL not found). ALSC's own site says 'public benefits' only, so unemployment still unconfirmed; it does have an online application portal (exact URL not captured)."
  },
  {
   "state": "ME",
@@ -1175,9 +1509,22 @@
     "practiceNote": "\"Committed to advocating for the rights of employees in Portland, Maine\"; unemployment not mentioned.",
     "unemploymentSpecific": false,
     "source": "https://hornwright.com/portland-maine/employment-law"
+   },
+   {
+    "name": "David G. Webbert",
+    "firm": "Johnson, Webbert & Beard, LLP",
+    "city": "Portland / Topsham",
+    "phone": "(207) 618-6682",
+    "email": null,
+    "website": "https://www.johnsonwebbert.com/",
+    "practiceNote": "Practice areas page: firm 'advocate[s] for employees who have been treated unjustly'; handles discrimination & harassment, workers' rights, unpaid wages & overtime, wrongful termination, and 'contract and severance negotiations for workers'; also represents labor unions. No statement of representing employers in employment matters. Offices: 103 Exchange St., Portland and 1 Bowdoin Mill Island, Ste. 300, Topsham. No public email (contact form). Note: Justia still shows an older Augusta address (160 Capitol St) under the name Johnson Webbert & Young; the firm's own site lists only Portland and Topsham. Lead attorney name from Justia (Webbert), firm site practice page did not name attorneys.",
+    "unemploymentSpecific": false,
+    "source": "https://www.johnsonwebbert.com/practice-areas/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Maine Bar LRS says it does not accept phone calls (a Maine courts chart lists (800) 860-1460 but this conflicts; omitted). Only one legal aid org confirmed; Cumberland Legal Aid Clinic (207) 780-4370 / (877) 780-2522 handles civil matters but unemployment not confirmed. Only one unemployment-specific private attorney found."
+  "gaps": "Maine Bar LRS says it does not accept phone calls (a Maine courts chart lists (800) 860-1460 but this conflicts; omitted). Only one legal aid org confirmed; Cumberland Legal Aid Clinic (207) 780-4370 / (877) 780-2522 handles civil matters but unemployment not confirmed. Only one unemployment-specific private attorney found.",
+  "researchNotes2026_11": "Only one new ME attorney verified before the shared web-search budget ran out. Rejected: Shaheen & Gordon (Portland page also offers 'Defense for claims against businesses'). McTeague Higbee (me-law.com, Topsham, (207) 725-5581) appears plaintiff-side (workers' comp/unions) but its employment page failed to load, so not added. Maine DOL appeals FAQ lists no free legal help."
  },
  {
   "state": "MD",
@@ -1191,7 +1538,11 @@
     "email": null,
     "coverage": "statewide (12 offices; centralized intake)",
     "notes": "Welcome brochure lists \"Obtaining unemployment benefits\" among case types. Intake Mon-Fri 9:00 a.m.-2:30 p.m.; online intake mentioned but URL not shown. Free, income/asset eligibility.",
-    "source": "https://www.mdlab.org/wp-content/uploads/Welcome_2025.7_web_V1.pdf ; https://www.mdlab.org/help/housing/"
+    "source": "https://www.mdlab.org/wp-content/uploads/Welcome_2025.7_web_V1.pdf ; https://www.mdlab.org/help/housing/",
+    "unemploymentConfirmation": {
+     "evidence": "Already confirmed by the welcome brochure in existing data. New detail from mdlab.org homepage: Main Intake Number 888-465-2468 (also (410) 951-7750); online intake at http://intake.mdlab.org. Homepage itself does not mention unemployment.",
+     "source": "https://www.mdlab.org/"
+    }
    }
   ],
   "barReferral": {
@@ -1235,9 +1586,34 @@
     "practiceNote": "Article on appealing Maryland unemployment denials; says attorneys have experience representing \"the little guy\" including in unemployment matters. (Page also shows info@ferrantedill.com.)",
     "unemploymentSpecific": true,
     "source": "https://fdhlegal.com/my-maryland-unemployment-was-denied-can-i-appeal/"
+   },
+   {
+    "name": null,
+    "firm": "Lebau & Neuworth, LLC",
+    "city": "Towson",
+    "phone": "(410) 296-3030",
+    "email": null,
+    "website": "https://www.lebauneuworth.com/",
+    "practiceNote": "Homepage: serves 'employees throughout Maryland and DC'; tagline 'Focused on Justice for Employees & Individuals.' No mention of representing employers. Unemployment benefits not mentioned (lists disability, Social Security and employee benefits). Address 502 Washington Ave, Suite 720, Towson, MD 21204. Contact form, no public email.",
+    "unemploymentSpecific": false,
+    "source": "https://www.lebauneuworth.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Gary M. Gilbert",
+    "firm": "Gilbert Employment Law, P.C.",
+    "city": "Silver Spring (Montgomery County)",
+    "phone": "(888) 676-8096",
+    "email": null,
+    "website": "https://www.gelawyer.com/",
+    "practiceNote": "Homepage: firm has 'represented employees' since 2005; focus on federal employees but also private-sector employment issues. Does not represent employers. Unemployment not mentioned. Office 8403 Colesville Road, Suite 1000, Silver Spring, MD 20910. Main phone is toll-free (only 301 number shown is fax). Fills the Montgomery County gap.",
+    "unemploymentSpecific": false,
+    "source": "https://www.gelawyer.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Maryland Legal Aid online intake URL not captured. No second legal aid org verified (a washlaw.org manual notes a Legal Aid Bureau Metro office (301) 560-2100 accepts unemployment cases, but it is likely outdated). Statewide MSBA referral not checked; no attorney verified in Montgomery/Prince George's."
+  "gaps": "Maryland Legal Aid online intake URL not captured. No second legal aid org verified (a washlaw.org manual notes a Legal Aid Bureau Metro office (301) 560-2100 accepts unemployment cases, but it is likely outdated). Statewide MSBA referral not checked; no attorney verified in Montgomery/Prince George's.",
+  "researchNotes2026_11": "Rejected: Zipin, Amster & Greenberg (site says it represents 'plaintiffs and businesses'). Joseph, Greenwald & Laake and Brown, Goldstein & Levy not added because their pages did not state which side they represent in employment cases. No unemployment-specific firm added; shared web-search budget ran out mid-task."
  },
  {
   "state": "MA",
@@ -1316,9 +1692,34 @@
     "practiceNote": "Unemployment lawyer page: prepares claims and advocates for claimants in disputes including appeals of denied claims; free initial evaluation.",
     "unemploymentSpecific": true,
     "source": "https://shapirolegal.com/unemployment-lawyer-boston-ma/"
+   },
+   {
+    "name": null,
+    "firm": "Fair Work, P.C.",
+    "city": "Boston",
+    "phone": "(617) 607-3260",
+    "email": null,
+    "website": "https://www.fairworklaw.com/",
+    "practiceNote": "Homepage: dedicated to protecting workers' rights; client testimonial on the site says the firm focuses only on representing employees. No mention of employer clients. Unemployment not mentioned. Address 192 South Street, Boston, MA 02111. No public email.",
+    "unemploymentSpecific": false,
+    "source": "https://www.fairworklaw.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Lichten & Liss-Riordan, P.C.",
+    "city": "Boston",
+    "phone": "(617) 994-5800",
+    "email": "info@llrlaw.com",
+    "website": "https://www.llrlaw.com/",
+    "practiceNote": "Homepage: 'dedicated to vindicating the rights of workers'; cases on unpaid wages, tips, overtime, misclassification, discrimination and retaliation. Represents workers, not employers. Much of its work is class/collective actions, so individual unemployment help is unlikely. Address 729 Boylston Street, Suite 2000, Boston, MA 02116.",
+    "unemploymentSpecific": false,
+    "source": "https://www.llrlaw.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "MBA LRS phone (866) 627-7577 comes from WomensLaw listing; the massbar.org page itself only showed (617) 338-0556 labeled for attorney applications. GBLS online intake URL not found."
+  "gaps": "MBA LRS phone (866) 627-7577 comes from WomensLaw listing; the massbar.org page itself only showed (617) 338-0556 labeled for attorney applications. GBLS online intake URL not found.",
+  "researchNotes2026_11": "Checked Northeast Legal Aid (Essex & Northern Middlesex counties, 978-458-1465): has a Public Benefits Unit but its site does not mention unemployment, so not added. Fogelman Law (Newton/Plymouth) does employee-type employment work plus personal injury, but the homepage does not say employee-side explicitly; not added. Rodgers, Powers & Schwartz site blocks fetching. No new unemployment-specific firm found (the state already has four). Shared web-search budget ran out mid-task, so only known-domain fetches were possible."
  },
  {
   "state": "MI",
@@ -1343,6 +1744,17 @@
     "coverage": "regional (counties not listed on homepage)",
     "notes": "Homepage 'Call us today' number; online intake goes through Michigan Legal Help's Guide to Legal Help. Homepage does not say whether unemployment cases are handled. Michigan Legal Help's Guide to Legal Help routes anyone statewide to their local legal aid office.",
     "source": "https://lakeshorelegalaid.org"
+   },
+   {
+    "name": "Sugar Law Center for Economic & Social Justice",
+    "phone": "(313) 993-4505",
+    "website": "https://www.sugarlaw.org/",
+    "intakeUrl": null,
+    "email": "mail@sugarlaw.org",
+    "coverage": "Detroit-based; serves Michigan workers (service area not stated on site)",
+    "notes": "Nonprofit that works to make sure workers receive the unemployment insurance benefits they earned, with a Michigan plain-language UI guide on its site. Call Mon-Fri 9am-5pm to set up an appointment.",
+    "source": "https://www.sugarlaw.org/contact",
+    "addedBy": "research-2026-11-03"
    }
   ],
   "barReferral": {
@@ -1375,9 +1787,34 @@
     "practiceNote": "Employee-side ('helps employees fight discrimination'); lists a Michigan UIA fraud class action among past cases but does not offer individual unemployment appeals.",
     "unemploymentSpecific": false,
     "source": "https://www.pittlawpc.com"
+   },
+   {
+    "name": null,
+    "firm": "Batey Law Firm, PLLC",
+    "city": "Bingham Farms (Detroit metro)",
+    "phone": "(248) 540-6800",
+    "email": null,
+    "website": "https://www.bateylaw.com/",
+    "practiceNote": "Homepage: 'representing workers in wrongful termination, discrimination, harassment, and retaliation cases.' No mention of representing employers. Unemployment not mentioned. Address 30200 Telegraph Road, Suite 400, Bingham Farms, MI 48025. Contact form at bateylaw.com/contact; no public email.",
+    "unemploymentSpecific": false,
+    "source": "https://www.bateylaw.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Pinsky Smith, PC",
+    "city": "Grand Rapids",
+    "phone": "(616) 451-8496",
+    "email": null,
+    "website": "https://www.pinskysmith.com/",
+    "practiceNote": "Homepage tagline 'PROTECTING WORKING PEOPLE & THEIR FAMILIES'; 'representing people who have been unfairly treated in the workplace'; also supports unions and does some civil/criminal defense and mediation. No statement of representing employers in employment cases. Unemployment not mentioned. Address McKay Tower, 146 Monroe Center NW, Suite 418, Grand Rapids, MI 49503. Email hidden by encoding; use 'Submit an Inquiry' page.",
+    "unemploymentSpecific": false,
+    "source": "https://www.pinskysmith.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No private attorney with an unemployment-specific page found (WebFetch only, no search). Legal Aid of Western Michigan site blocked fetching. Lakeshore service area and unemployment handling not verified; Legal Services of Eastern Michigan (800) 322-4512 serves 14 mid-Michigan counties but unemployment not mentioned."
+  "gaps": "No private attorney with an unemployment-specific page found (WebFetch only, no search). Legal Aid of Western Michigan site blocked fetching. Lakeshore service area and unemployment handling not verified; Legal Services of Eastern Michigan (800) 322-4512 serves 14 mid-Michigan counties but unemployment not mentioned.",
+  "researchNotes2026_11": "Sugar Law homepage says it works to ensure workers 'receive unemployment insurance benefits they earned'; eligibility rules not posted. Rejected: Sterling Employment Law (site says it 'represents both employers and employees'), Nacht & Roumel (also offers business law services), Salvatore Prescott Porter & Porter (site does not say which side; also business litigation), Gold Star Law (site now refers clients to Braun Legal PC). Legal Services of South Central Michigan (13 counties) site does not mention unemployment. Hurwitz Law fetch was declined. Shared web-search budget ran out mid-task."
  },
  {
   "state": "MN",
@@ -1461,8 +1898,22 @@
    "fee": null,
    "source": "https://msbar.org/for-the-public/ ; https://msbar.org/for-the-public/pro-bono-resources/"
   },
-  "attorneys": [],
-  "gaps": "No formal bar lawyer referral service found; entry is the Bar's online directory and its general office line (not a referral line). No private attorney verified: without web search, the only candidates found were directory names with no firm websites, and the Watson & Norris domain now hosts unrelated spam. Neither legal aid org confirms unemployment cases; MCLSC phone conflicts between sources."
+  "attorneys": [
+   {
+    "name": "Joel Dillard",
+    "firm": null,
+    "city": null,
+    "phone": "(601) 509-1372",
+    "email": null,
+    "website": "https://joeldillard.com/",
+    "practiceNote": "Homepage: \"We represent exclusively workers, worker cooperatives and unions.\" Practices in Mississippi, Indiana, Maryland and federal proceedings. No unemployment mention. Contact page failed to load, so no street address verified.",
+    "unemploymentSpecific": false,
+    "source": "https://joeldillard.com/",
+    "addedBy": "research-2026-11-03"
+   }
+  ],
+  "gaps": "No formal bar lawyer referral service found; entry is the Bar's online directory and its general office line (not a referral line). No private attorney verified: without web search, the only candidates found were directory names with no firm websites, and the Watson & Norris domain now hosts unrelated spam. Neither legal aid org confirms unemployment cases; MCLSC phone conflicts between sources.",
+  "researchNotes2026_11": "Only 1 attorney verified. Jackson directory candidates were almost all employer-side (Daniel Coker, FormanWatkins, Wilkins Patterson, Brunini) or both sides (Panter Law). Gulfport directory page failed to load and web-search budget ran out, so no Coast/North MS firm. MS legal aid UI coverage still unconfirmed."
  },
  {
   "state": "MO",
@@ -1486,7 +1937,11 @@
     "email": null,
     "coverage": "40 counties in western Missouri",
     "notes": "Phone is Kansas City central office (not labeled as intake). Lists Public Benefits among case types; unemployment not specifically mentioned.",
-    "source": "https://www.lawmo.org"
+    "source": "https://www.lawmo.org",
+    "unemploymentConfirmation": {
+     "evidence": "Get Legal Help page, Public Benefits: \"Hearings/appeals regarding denial or loss of TANF, food stamps, childcare assistance, and unemployment benefits\". Central Office (816) 474-6750; online application offered.",
+     "source": "https://lawmo.org/get-legal-help/"
+    }
    }
   ],
   "barReferral": {
@@ -1519,9 +1974,58 @@
     "practiceNote": "'Fierce advocates for employee rights'; represents employees. Unemployment not mentioned.",
     "unemploymentSpecific": false,
     "source": "https://www.kdh-law.com/missouri-employment-law-lawyer/"
+   },
+   {
+    "name": null,
+    "firm": "Kennedy Hunt, P.C.",
+    "city": "St. Louis",
+    "phone": "(314) 872-9041",
+    "email": "info@kennedyhuntlaw.com",
+    "website": "https://www.kennedyhuntlaw.com/",
+    "practiceNote": "Home page: \"We represent employees in claims for employment discrimination\"; no employer-side work mentioned. Unemployment not mentioned. Contact page: 4500 West Pine Blvd., St. Louis, MO 63108.",
+    "unemploymentSpecific": false,
+    "source": "https://www.kennedyhuntlaw.com/contact-us/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Russ Riggan",
+    "firm": "Riggan Law Firm, LLC",
+    "city": "Kirkwood (St. Louis area)",
+    "phone": "(314) 528-9661",
+    "email": null,
+    "website": "https://www.rigganlawfirm.com/",
+    "practiceNote": "Employment law page: \"Helping Employees Defend Themselves Against Unlawful Actions\"; discrimination, retaliation, wage/overtime, severance. Office 130 West Monroe Ave., Kirkwood, MO 63122. No employer-side work stated; unemployment not mentioned.",
+    "unemploymentSpecific": false,
+    "source": "https://www.rigganlawfirm.com/employment-law/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Edelman, Liesen & Myers L.L.P.",
+    "city": "Kansas City",
+    "phone": "(816) 533-4976",
+    "email": null,
+    "website": "https://elmlawkc.com/",
+    "practiceNote": "Home page: employment and civil rights attorneys; \"We represent individuals in Kansas and Missouri in both federal and state court.\" No employer representation mentioned. Unemployment not mentioned.",
+    "unemploymentSpecific": false,
+    "source": "https://elmlawkc.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Brad K. Thoenen",
+    "firm": "HKM Employment Attorneys LLP",
+    "city": "Kansas City",
+    "phone": "(816) 607-4691",
+    "email": null,
+    "website": "https://hkm.com/kansascity/",
+    "practiceNote": "Kansas City page: \"represent employees ONLY—never employers.\" Office 1600 Genessee St., Suite 754, Kansas City, MO 64102. National employee-side firm with real KC office (also has St. Louis office). Unemployment appeals not mentioned on KC page.",
+    "unemploymentSpecific": false,
+    "source": "https://hkm.com/kansascity/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Missouri Bar has no referral service (only free LawyerSearch at https://mobar.org/public/LawyerSearch.aspx, (573) 635-4128 general), so BAMSL used; BAMSL phone is its general/contact line and fee not stated. Neither legal aid org explicitly lists unemployment. Only one unemployment-specific attorney. LawHelpMO blocked fetching; Mid-Missouri Legal Services not checked."
+  "gaps": "Missouri Bar has no referral service (only free LawyerSearch at https://mobar.org/public/LawyerSearch.aspx, (573) 635-4128 general), so BAMSL used; BAMSL phone is its general/contact line and fee not stated. Neither legal aid org explicitly lists unemployment. Only one unemployment-specific attorney. LawHelpMO blocked fetching; Mid-Missouri Legal Services not checked.",
+  "researchNotes2026_11": "Ott Law Firm (ott.law) has many 'unemployment compensation' pages but also says it represents employer clients - excluded. Several candidates (McClelland Law Firm, Davis George Mook, Hollingshead & Dudley) could not be fetched (permission/robots) - skipped. No new unemployment-specific firm found. Missouri Legal Services (lsmo.org) only links to the state's unemployment page. Springfield/Columbia not covered (search results polluted by directories)."
  },
  {
   "state": "MT",
@@ -1559,7 +2063,8 @@
     "source": "https://www.mswdlaw.com/helena-employment-lawyers"
    }
   ],
-  "gaps": "Only 1 verified employee-side attorney; no Montana firm found whose own site mentions unemployment benefits (search budget exhausted). MLSA unemployment coverage not explicitly confirmed. LRS phone from City of Billings page, not State Bar site."
+  "gaps": "Only 1 verified employee-side attorney; no Montana firm found whose own site mentions unemployment benefits (search budget exhausted). MLSA unemployment coverage not explicitly confirmed. LRS phone from City of Billings page, not State Bar site.",
+  "researchNotes2026_11": "Excluded: Browning Kaleczyc Berry & Hoven (advises 'employers and employees alike'), Ritchie Manning Kautz (business/employer-oriented), Kaleva Law (school district defense), Patten Peterman (both sides), D'Alton Law (both sides). Search results for MT are dominated by spam/directories; Paoli Law, Bechtold, Thiel, MacKay firm sites never surfaced. No MT firm found mentioning unemployment appeals."
  },
  {
   "state": "NE",
@@ -1573,7 +2078,11 @@
     "email": null,
     "coverage": "statewide",
     "notes": "Statewide AccessLine Mon/Wed 8:30-11:30am, Tue/Thu 1-3pm CT. Elder AccessLine (60+) (800) 527-7249. Online application temporarily unavailable per site. Nebraska 211 listing names 'Unemployment' among issues handled.",
-    "source": "https://www.legalaidofnebraska.org/how-we-help/apply-for-help/ ; https://search.ne211.org/search/1fc4a608-4cc4-548a-89a2-d9034e01bf3d"
+    "source": "https://www.legalaidofnebraska.org/how-we-help/apply-for-help/ ; https://search.ne211.org/search/1fc4a608-4cc4-548a-89a2-d9034e01bf3d",
+    "unemploymentConfirmation": {
+     "evidence": "Income and Earned Benefits page, 'Common legal issues we help with': \"Unemployment insurance benefit denial, termination, or overpayment\"",
+     "source": "https://legalaidofnebraska.org/what-we-do/income-and-benefits.html"
+    }
    }
   ],
   "barReferral": {
@@ -1595,9 +2104,22 @@
     "practiceNote": "'Advocating for Employees Across Nebraska'; employment attorneys handle 'Unemployment Insurance'. Meets by appointment in Omaha and statewide. Toll-free (800) 736-5503.",
     "unemploymentSpecific": true,
     "source": "https://www.rehmlaw.com/employment-law"
+   },
+   {
+    "name": "Vincent M. Powers",
+    "firm": "Vince Powers Law (Powers Law)",
+    "city": "Lincoln",
+    "phone": "(402) 474-8000",
+    "email": "vince@vpowerslaw.com",
+    "website": "https://vincepowerslaw.com/",
+    "practiceNote": "Home page, Employment Discrimination: \"We have the skill, resources, and legal knowledge you need to pursue a legal workplace discrimination claim in NE.\" No employer representation mentioned; no unemployment mention. Address 411 South 13th Street, Lincoln, NE 68508. Email is the attorney's own address shown on site (no general firm email).",
+    "unemploymentSpecific": false,
+    "source": "https://vincepowerslaw.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Only 1 verified attorney. Turco Meyer Law, LLC (Omaha, (402) 321-6396) appears under unemployment benefits on LawInfo but has no own website to verify; excluded. NSBA Find-A-Lawyer is a directory, phone sourced from WomensLaw."
+  "gaps": "Only 1 verified attorney. Turco Meyer Law, LLC (Omaha, (402) 321-6396) appears under unemployment benefits on LawInfo but has no own website to verify; excluded. NSBA Find-A-Lawyer is a directory, phone sourced from WomensLaw.",
+  "researchNotes2026_11": "Fiedler Law Firm, P.L.C. (Omaha office; employee-side discrimination/wrongful termination per directory, site employmentlawnebraska.com) - own site failed to load, so not added; worth a retry. Other unverified leads: Dyer Law PC, LLO (Omaha), Olson Zalewski Wynner (Lincoln), Knudsen Law. Lincoln/Omaha unemployment directories are dominated by management firms (Husch Blackwell, Kutak Rock, Koley Jessen, Baylor Evnen etc.) - excluded. Shared web-search budget ran out mid-state."
  },
  {
   "state": "NV",
@@ -1655,9 +2177,46 @@
     "practiceNote": "Employee-side ('We Provide The Help Employees Need'); article on suing an employer while collecting Nevada unemployment. Does not clearly state it represents UI appeals.",
     "unemploymentSpecific": false,
     "source": "https://bestemploymentattorney.com/can-i-sue-my-employer-and-still-collect-unemployment-in-nevada/"
+   },
+   {
+    "name": "Kristina S. Holman",
+    "firm": "Holman Law Office",
+    "city": "Las Vegas",
+    "phone": "(702) 734-3500",
+    "email": null,
+    "website": "https://kristinaholman.com/",
+    "practiceNote": "Home page practice areas include \"Unemployment Compensation Benefits\" and states \"For unemployment matters, we prepare you for hearings.\" Worker-side wording: \"We help workers facing wrongful termination\"; \"protects Nevada workers and holds employers accountable.\" No employer representation mentioned. Office 8275 S Eastern Ave, Suite 215. Contact form only, no public email.",
+    "unemploymentSpecific": true,
+    "source": "https://kristinaholman.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "HKM Employment Attorneys LLP",
+    "city": "Las Vegas",
+    "phone": "(702) 625-3893",
+    "email": null,
+    "website": "https://hkm.com/lasvegas/",
+    "practiceNote": "Las Vegas page: \"represent employees ONLY—never employers.\" Office 8565 South Eastern Avenue, Suite 162, Las Vegas, NV 89123. Unemployment not mentioned.",
+    "unemploymentSpecific": false,
+    "source": "https://hkm.com/lasvegas/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Leah Lin Jones",
+    "firm": "Thierman Buck Law Firm",
+    "city": "Reno",
+    "phone": "(775) 284-1500",
+    "email": "info@thiermanbuck.com",
+    "website": "https://thiermanbuck.com/",
+    "practiceNote": "Home page: \"We are lawyers for employees.\" Office 325 W Liberty St., Reno. No employer representation mentioned. Unemployment (PUA/UI, DETR) appears only in client reviews, not as a practice area - so not flagged as unemployment-specific.",
+    "unemploymentSpecific": false,
+    "source": "https://thiermanbuck.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Brian R. Morris (lawforthepeople.com, Reno) lists Unemployment as a practice area but no phone was visible; excluded. NLS phones from UNLV law library guide rather than NLS site (NLS contact page not fetchable)."
+  "gaps": "Brian R. Morris (lawforthepeople.com, Reno) lists Unemployment as a practice area but no phone was visible; excluded. NLS phones from UNLV law library guide rather than NLS site (NLS contact page not fetchable).",
+  "researchNotes2026_11": "Excluded: ACE Law Group (site now personal-injury focused, no employee-only statement), Lemons Grundy & Eisenberg (civil defense). Existing NLS entry already UI-specific; no new legal aid added. Shared web-search budget was exhausted, so NV candidates came from directory pages fetched directly."
  },
  {
   "state": "NH",
@@ -1706,7 +2265,8 @@
     "source": "https://www.nhlawoffice.com/"
    }
   ],
-  "gaps": "Only 2 attorneys; no Manchester firm verified."
+  "gaps": "Only 2 attorneys; no Manchester firm verified.",
+  "researchNotes2026_11": "Nothing new verified. Shared web-search budget ran out before NH; only directory pages could be fetched. Checked and not added: Backus, Meyer & Branch (Manchester, (603) 244-3282) - site lists 'an employment issue' but never says it represents employees; Stephen Law Group (personal injury, not employment); McLane Middleton (employer-side compliance). Existing NH legal aid already confirms unemployment."
  },
  {
   "state": "NJ",
@@ -1764,9 +2324,22 @@
     "practiceNote": "Represents employees in NY and NJ. Unemployment not mentioned. By appointment.",
     "unemploymentSpecific": false,
     "source": "https://lemorrisonlaw.com/"
+   },
+   {
+    "name": "Zijian Guan",
+    "firm": "Brown, LLC",
+    "city": "Jersey City",
+    "phone": "(877) 561-0000",
+    "email": null,
+    "website": "https://ifightforyourrights.com/",
+    "practiceNote": "Home page: wage and hour team advocates for workers under the FLSA; files class actions to \"hold employers accountable for wage theft\"; whistleblower representation. No employer representation mentioned. Office 111 Town Square Pl., Suite 400, Jersey City, NJ 07310. Unemployment not mentioned. Note: phone is a toll-free national line.",
+    "unemploymentSpecific": false,
+    "source": "https://ifightforyourrights.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No statewide bar LRS; users must use their county bar (NJSBA county list). Essex chosen as example; other county LRS numbers on source page."
+  "gaps": "No statewide bar LRS; users must use their county bar (NJSBA county list). Essex chosen as example; other county LRS numbers on source page.",
+  "researchNotes2026_11": "Excluded: Castronovo & McKinney (Morristown) - site says it also provides 'comprehensive legal services to employers'; Genova Burns (management side). Not added for lack of clarity: Matsikoudis & Fanciullo (mf-legal.com, (201) 915-0407, info@mf-legal.com) - employee harassment/discrimination litigation, but also represents businesses in commercial litigation; McOmber McOmber & Luber (Red Bank/Marlton) - site blocked by robots, phone not verified. Shared web-search budget ran out, so no NJ unemployment-specific firm search was possible."
  },
  {
   "state": "NM",
@@ -1815,7 +2388,8 @@
     "source": "https://rogerdavie.com/"
    }
   ],
-  "gaps": "State Bar of NM does not offer a traditional lawyer referral service; Modest Means Helpline (also (505) 797-6013) is the closest equivalent. Only 2 attorneys, none unemployment-specific."
+  "gaps": "State Bar of NM does not offer a traditional lawyer referral service; Modest Means Helpline (also (505) 797-6013) is the closest equivalent. Only 2 attorneys, none unemployment-specific.",
+  "researchNotes2026_11": "Thin result. Search results for NM were almost all directory/spam pages, and the shared web-search budget ran out before more NM firms could be found. Morgan & Morgan is a large national firm; drop it if you prefer local firms only."
  },
  {
   "state": "NY",
@@ -1830,6 +2404,28 @@
     "coverage": "statewide",
     "notes": "Student volunteer advocates represent unemployment insurance claimants at NY DOL hearings. Leave voicemail with name, address, issue, and hearing date/time.",
     "source": "https://nyuac.org/ ; https://www.lawhelpny.org/organization/unemployment-action-center-inc"
+   },
+   {
+    "name": "Erie County Bar Association Volunteer Lawyers Project - Unemployment Insurance Benefits program",
+    "phone": "(716) 847-0662",
+    "website": "https://ecbavlp.com/",
+    "intakeUrl": null,
+    "email": null,
+    "coverage": "Western New York (Erie, Genesee, Wyoming counties per Empire Justice referral list)",
+    "notes": "Free help for low-income people trying to get or keep unemployment benefits, mainly representation at unemployment hearings. Call (716) 847-0662 ext. 324 and leave your name, number and a short message; staff screen by phone.",
+    "source": "https://ecbavlp.com/unemployment/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Legal Assistance of Western New York (LawNY)",
+    "phone": "(866) 781-5235",
+    "website": "https://www.lawny.org/",
+    "intakeUrl": "https://lawnyoi.legalserver.org/modules/matter/extern_intake.php?pid=131&h=6637a1",
+    "email": null,
+    "coverage": "14 counties: Allegany, Cattaraugus, Chautauqua, Chemung, Livingston, Monroe (Rochester), Ontario, Schuyler, Seneca, Steuben, Tioga, Tompkins, Wayne, Yates",
+    "notes": "Free civil legal help for eligible low-income residents; its 2026 brochure says it can help if 'You have been denied Unemployment Insurance benefits.' Apply online or call; Rochester office (585) 325-2520.",
+    "source": "https://www.lawny.org/sites/lawny.org/files/LawNY%20Regional%20Brochure%202026%20-%20English_0.pdf",
+    "addedBy": "research-2026-11-03"
    }
   ],
   "barReferral": {
@@ -1875,7 +2471,8 @@
     "source": "https://lemorrisonlaw.com/"
    }
   ],
-  "gaps": "All attorneys are NYC-based; no upstate (Buffalo/Rochester/Albany) firms verified. NYC residents may be better served by the NYC Bar's referral service (not verified)."
+  "gaps": "All attorneys are NYC-based; no upstate (Buffalo/Rochester/Albany) firms verified. NYC residents may be better served by the NYC Bar's referral service (not verified).",
+  "researchNotes2026_11": "No upstate private attorney verified. Candidates from the NY UI Appeal Board's list of claimant representatives could not be checked: gavendalaw.com (Aaron Gavenda, Rochester) and lawofficemjb.com (Mark Byrne, Buffalo) block fetching (robots); Thomas & Solomon, Bansbach Law and Cimino Law fetches were blocked pending approval. Excluded: Urba Employment Law (Tarrytown; serves 'both employees and small business owners'), Bousquet Holstein (Syracuse; represents employers, incl. UI claims), DeTraglia Law (Utica; represents employers and employees), Lipsitz Green (Buffalo; employer-side litigation page). Also: Legal Aid Society of Northeastern NY (Albany + 15 counties, helpline 833-628-0087) states 'We have an attorney who provides advice, brief service and representation in unemployment insurance benefits matters' (https://www.lasnny.org/wp-content/uploads/2023/02/1.-Overview-LASNNY-Legal-Expertise.pdf, 2023) - a good third legal-aid add if you want Albany covered. CONCERN: existing 'Unemployment Action Center' is marked statewide, but Empire Justice's referral list shows UAC serving only NYC, Nassau and Suffolk counties."
  },
  {
   "state": "NC",
@@ -1933,9 +2530,34 @@
     "practiceNote": "'Represents employees in complex workplace disputes.' Intake form lists Division of Employment Security as an agency option, but no unemployment services described.",
     "unemploymentSpecific": false,
     "source": "https://www.thenoblelaw.com/"
+   },
+   {
+    "name": null,
+    "firm": "Appeal the Decision (a division of Atwater Law PLLC)",
+    "city": "Cary (Raleigh-Durham area)",
+    "phone": "(919) 530-1090",
+    "email": "appeal@AppealtheDecision.com",
+    "website": "https://www.appealthedecision.com/",
+    "practiceNote": "Our Practice page: focuses on \"representing claimants at North Carolina Unemployment Appeal Hearings\"; all unemployment lawyers NC-licensed; no employer representation mentioned. Toll-free (833) 289-8937. 1140 Kildaire Farm Road, Suite 200-8, Cary, NC 27511.",
+    "unemploymentSpecific": true,
+    "source": "https://www.appealthedecision.com/our-practice/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "EMP Law Firm",
+    "city": "Winston-Salem (also Charlotte)",
+    "phone": "(336) 724-2828",
+    "email": "info@emplawfirm.com",
+    "website": "https://emplawfirm.com/",
+    "practiceNote": "Employment law page: \"EMP Law has been fighting for employees since 1988\"; no employer representation mentioned. Mentions right to file for unemployment but only as general info. Winston-Salem: 328 N Spring Street; Charlotte (704) 707-3705.",
+    "unemploymentSpecific": false,
+    "source": "https://emplawfirm.com/practice-areas/employment-law/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No NC private firm verified as unemployment-specific (Bowman Law's Justia profile mentioned unemployment hearings but its own site does not; excluded)."
+  "gaps": "No NC private firm verified as unemployment-specific (Bowman Law's Justia profile mentioned unemployment hearings but its own site does not; excluded).",
+  "researchNotes2026_11": "Excluded Law Offices of Robert Crawford (Raleigh): unemployment page discusses employer concerns and metadata says it serves 'employers or employees'. Search budget ran out before more NC firms or legal aid could be checked."
  },
  {
   "state": "ND",
@@ -1982,9 +2604,22 @@
     "practiceNote": "Employment law covering wrongful termination and employee rights. NOTE: the firm represents both employees and employers. Its site does not mention unemployment benefits. The Fargo office is by appointment only.",
     "unemploymentSpecific": false,
     "source": "https://rivervalleylaw.com/fargo-nd-employment-lawyer/"
+   },
+   {
+    "name": "Dan Phillips",
+    "firm": "Solberg Stewart Miller",
+    "city": "Fargo",
+    "phone": "(701) 237-3166",
+    "email": null,
+    "website": "https://www.solberglaw.com/",
+    "practiceNote": "Employment Law page describes the practice as \"representation of employees arising from disputes in the workplace.\" No unemployment mention. Toll free (877) 237-3166. 1123 Fifth Avenue South, Fargo, ND 58103.",
+    "unemploymentSpecific": false,
+    "source": "https://www.solberglaw.com/employment-law/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Could not find a ND legal aid page that names unemployment benefits as a case type. Could not find a ND private firm whose own site names unemployment benefits; the ND firms that list unemployment compensation (Vogel Law, Pearce Durick) are employer-side and were excluded. Only 2 attorneys, and one represents both employees and employers. Ringstrom DeKrey's email was left null because the email shown on its site and the address behind the link differ."
+  "gaps": "Could not find a ND legal aid page that names unemployment benefits as a case type. Could not find a ND private firm whose own site names unemployment benefits; the ND firms that list unemployment compensation (Vogel Law, Pearce Durick) are employer-side and were excluded. Only 2 attorneys, and one represents both employees and employers. Ringstrom DeKrey's email was left null because the email shown on its site and the address behind the link differ.",
+  "researchNotes2026_11": "Only 1 added. Web-search budget ran out before Bismarck/Grand Forks firms or a ND legal aid page naming unemployment could be found."
  },
  {
   "state": "OH",
@@ -2052,9 +2687,46 @@
     "practiceNote": "'Dedicated to championing the rights of employees across Ohio', covering wage and hour, discrimination and wrongful termination cases. Cleveland office: (216) 480-9910. Its site does not mention unemployment benefits.",
     "unemploymentSpecific": false,
     "source": "https://www.ohioemploymentlawyers.com/"
+   },
+   {
+    "name": "Brian J. Smith",
+    "firm": "The Law Offices of Brian J. Smith, Ltd.",
+    "city": "Rocky River (Cleveland area; also Huron, Port Clinton, Wickliffe)",
+    "phone": "(800) 641-1970",
+    "email": "contact@SmithTrialLawyers.com",
+    "website": "https://www.briansmithlaw.com/",
+    "practiceNote": "Unemployment Appeals page: \"represents Ohio workers in unemployment compensation appeals\"; \"We represent workers, never employers.\" \"Free consultations, available statewide.\" Office 20545 Center Ridge Road, Ste. 215, Rocky River, OH 44116.",
+    "unemploymentSpecific": true,
+    "source": "https://www.briansmithlaw.com/unemployment-appeals",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Jason P. Matthews",
+    "firm": "Jason P. Matthews, LLC",
+    "city": "Dayton",
+    "phone": "(937) 608-4368",
+    "email": null,
+    "website": "https://daytonemploymentlawyers.com/",
+    "practiceNote": "Homepage: \"Our practice is dedicated to counseling and representing employees in labor and employment related matters\"; lists \"Unemployment Hearings\" as a service and cites UCRC experience. Email shown on page as 'jason@@daytonemploymentlawyers.com' (typo), normalized to single @. 130 West Second Street, Suite 924, Dayton, OH 45402.",
+    "unemploymentSpecific": true,
+    "source": "https://daytonemploymentlawyers.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Tod J. Thompson",
+    "firm": null,
+    "city": "Cincinnati",
+    "phone": "(513) 322-4348",
+    "email": null,
+    "website": "https://www.tthompsonlaw.com/",
+    "practiceNote": "Homepage: \"I represent individuals, exclusively, in claims against companies and governments\"; handles \"matters including wrongful termination, discrimination, retaliation, harassment and unemployment benefits.\" Has an 'Ohio Unemployment Compensation Lawyer' page. Does not explicitly say 'hearings/appeals' - set true on the basis of representing individuals in unemployment benefits matters; downgrade if you want a stricter bar. Email obscured on site. 810 Sycamore Street, Fifth Floor, Cincinnati, OH 45202.",
+    "unemploymentSpecific": true,
+    "source": "https://www.tthompsonlaw.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "The Ohio State Bar Association does not run a referral service (it offers a directory only), so the Cleveland Metropolitan Bar LRS is listed instead; the Columbus Bar runs columbuslawyers.com at (614) 221-4112. No consult fee was shown. None of the Ohio attorneys found mention unemployment specifically; all are employee-side."
+  "gaps": "The Ohio State Bar Association does not run a referral service (it offers a directory only), so the Cleveland Metropolitan Bar LRS is listed instead; the Columbus Bar runs columbuslawyers.com at (614) 221-4112. No consult fee was shown. None of the Ohio attorneys found mention unemployment specifically; all are employee-side.",
+  "researchNotes2026_11": "Excluded Duwel Law (Dayton; 'representing employers and employees') and Mansell Law (Columbus; has a 'For Businesses' page). Legal aid for southwest/northwest Ohio not yet added. Search budget ran out before Toledo/Akron firms or southwest/northwest Ohio legal aid could be checked."
  },
  {
   "state": "OK",
@@ -2101,9 +2773,34 @@
     "practiceNote": "Lists 'Unemployment Claims' under both Administrative Law and Employment Law, and says it helps clients 'defend your unemployment claim'. It also handles discrimination, retaliation and wage cases.",
     "unemploymentSpecific": true,
     "source": "https://bussettlegal.com/practice-areas/"
+   },
+   {
+    "name": null,
+    "firm": "Kania Law Office",
+    "city": "Tulsa",
+    "phone": "(918) 743-2233",
+    "email": null,
+    "website": "https://www.kanialaw.com/",
+    "practiceNote": "Tulsa unemployment page: \"Our Tulsa Unemployment Lawyers help Oklahoman's get the unemployment benefits they deserve\"; meta: \"Denied unemployment call our Oklahoma unemployment appeals attorneys.\" Page treats employers as the opposing side; no employer representation mentioned. Office 5319 S. Lewis Ave, Suite 120, Tulsa. No attorney named on the page.",
+    "unemploymentSpecific": true,
+    "source": "https://www.kanialaw.com/tulsa-attorneys/tulsa-unemployment-lawyers",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Ray Lahann",
+    "firm": null,
+    "city": "Tulsa",
+    "phone": "(918) 392-7077",
+    "email": null,
+    "website": "https://www.wcattorneytulsa.com/",
+    "practiceNote": "Unemployment Law page: has handled \"hundreds of these contested phone hearings\" to \"guarantee our clients their weekly unemployment wage\"; page is aimed at laid-off/terminated workers. No street address or email on the page (contact form only).",
+    "unemploymentSpecific": true,
+    "source": "https://www.wcattorneytulsa.com/unemployment-law/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "The Oklahoma Bar Association has no public referral service (directory only), so the Tulsa County Bar LRIS is listed; it serves Tulsa County. No OKC-area bar referral was verified. Legal Aid Services of Oklahoma does not list unemployment explicitly. Both attorneys are in Oklahoma City; no Tulsa firm was verified."
+  "gaps": "The Oklahoma Bar Association has no public referral service (directory only), so the Tulsa County Bar LRIS is listed; it serves Tulsa County. No OKC-area bar referral was verified. Legal Aid Services of Oklahoma does not list unemployment explicitly. Both attorneys are in Oklahoma City; no Tulsa firm was verified.",
+  "researchNotes2026_11": "Adds two Tulsa options (existing ones are OKC). Excluded Wirth Law Office (Tulsa): search snippet titled 'Tulsa Unemployment Lawyer' but the page itself lists no unemployment practice. Ray Lahann's site shows no street address. Search budget ran out; did not to reconfirm Legal Aid Services of Oklahoma UI coverage."
  },
  {
   "state": "OR",
@@ -2161,9 +2858,58 @@
     "practiceNote": "Portland employment lawyer protecting employees from discrimination by employers since 2007. Its site does not mention unemployment benefits. The email is shown on the site in obfuscated form ('matthew (at) employmentlawpdx (dot) com').",
     "unemploymentSpecific": false,
     "source": "https://www.employmentlawpdx.com/"
+   },
+   {
+    "name": "Robert Meyer",
+    "firm": "Meyer Employment Law",
+    "city": "Portland",
+    "phone": "(503) 459-4010",
+    "email": null,
+    "website": "https://oregonworkplacelaw.com/",
+    "practiceNote": "Page 'Unemployment Representation in Oregon: Denial to Hearing': \"Meyer Employment Law is a Portland based firm focused on representing Oregon employees in workplace matters,\" \"including unemployment appeals.\" Employee-only framing; no employer work mentioned. Phone from contact page; no street address or email printed. Also runs robertmeyerlaw.com (Eugene/Salem service pages), same attorney.",
+    "unemploymentSpecific": true,
+    "source": "https://oregonworkplacelaw.com/unemployment-representation-denial-to-hearing/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Brian A. Buchanan",
+    "firm": "Oregon Center for Employee Rights",
+    "city": "Salem",
+    "phone": "(503) 763-8642",
+    "email": "brian@wageclaims.org",
+    "website": "https://wageclaims.org/",
+    "practiceNote": "Homepage: \"Serving Employees Throughout Oregon\" and \"No Charge to our Employee Clients - Our Fees are Billed to your Employer.\" Wage-claim focused; no unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://wageclaims.org/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Johnson Johnson Lucas & Middleton",
+    "city": "Eugene",
+    "phone": "(541) 484-2434",
+    "email": null,
+    "website": "https://www.justicelawyers.com/",
+    "practiceNote": "Employment law page (titled 'Employment Attorney Eugene'): \"We help employees that have been treated in an illegal manner within the workplace\"; says the firm is in Eugene, Oregon. No employer work mentioned; no unemployment mention. Previously skipped because the homepage gave no city; the employment page states Eugene.",
+    "unemploymentSpecific": false,
+    "source": "https://www.justicelawyers.com/employment-law/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Solomon, Saltsman & Jamieson",
+    "city": "Portland",
+    "phone": "(503) 236-8050",
+    "email": null,
+    "website": "https://ssjlaw.com/",
+    "practiceNote": "Oregon Employee Rights page advises Oregon employees to contact \"a qualified attorney experienced in representing employees\"; no employer work mentioned. Portland office 121 SW Salmon St., Suite 1010, Portland, OR 97204; toll-free (800) 405-4222. Multi-state plaintiff firm; email is obfuscated (contact form at /get-in-touch/).",
+    "unemploymentSpecific": false,
+    "source": "https://ssjlaw.com/oregon-employee-rights",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No online intake URL was found for the Public Benefits Hotline. An older OSB page lists the Portland-area referral number as (503) 684-3763. All attorneys are in Portland; Johnson Johnson Lucas & Middleton, (541) 484-2434, represents workers, but its homepage did not state a city and was left out."
+  "gaps": "No online intake URL was found for the Public Benefits Hotline. An older OSB page lists the Portland-area referral number as (503) 684-3763. All attorneys are in Portland; Johnson Johnson Lucas & Middleton, (541) 484-2434, represents workers, but its homepage did not state a city and was left out.",
+  "researchNotes2026_11": "Skipped: Bryant Lovlien & Jarvis (Bend), which serves employers; Crosner Legal, which has an Oregon unemployment info page but does not say it represents claimants; oremploymentlawyer.com and oregonunemploymentlawyer.com, which could not be fetched (robots/redirect). Legal aid already statewide with UI confirmed."
  },
  {
   "state": "PA",
@@ -2220,9 +2966,70 @@
     "practiceNote": "Says its lawyers 'have exclusively represented employees in all areas of employment law', including mass layoffs. Its site does not mention unemployment benefits.",
     "unemploymentSpecific": false,
     "source": "https://www.consolelaw.com/"
+   },
+   {
+    "name": null,
+    "firm": "Scaringi Law",
+    "city": "Harrisburg",
+    "phone": "(717) 775-7195",
+    "email": null,
+    "website": "https://www.scaringilaw.com/",
+    "practiceNote": "Unemployment compensation page: \"we represent individuals in employment law, unemployment compensation claims, and appeals throughout Pennsylvania.\" No employer-side work mentioned on that page. General-practice firm (attorneys incl. Marc A. Scaringi); also a Newport office. No email printed.",
+    "unemploymentSpecific": true,
+    "source": "https://www.scaringilaw.com/employment-law/unemployment-compensation/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Zachary Zawarski",
+    "firm": "The Law Office of Zachary Zawarski",
+    "city": "Bethlehem",
+    "phone": "(610) 417-6345",
+    "email": null,
+    "website": "https://www.zawarskilaw.com/",
+    "practiceNote": "UC Board of Review appeal page: Zawarski \"has represented employees during their initial referee hearing\" and represents clients appealing to the UC Board of Review and Commonwealth Court. No employer work mentioned. Two numbers printed: footer 610-417-6345 and body (484) 362-9286.",
+    "unemploymentSpecific": true,
+    "source": "https://www.zawarskilaw.com/pa-unemployment-compensation-attorney/pa-uc-board-of-review-appeal-attorney/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Spitale, Vargo, Madsen & Blair (SVMB Law)",
+    "city": "Easton",
+    "phone": "(610) 258-3757",
+    "email": "info@svmblaw.com",
+    "website": "https://svmblaw.com/",
+    "practiceNote": "Page 'Unemployment Lawyers for Referee Hearings in Easton, Allentown and Bethlehem' is written for claimants seeking UC benefits at referee hearings (\"you need the best possible representation\"); employment page: \"Our employment attorneys can help you get the compensation you deserve\" and does not mention employers. Address 680 Wolf Avenue, Easton, PA 18042. General-practice firm.",
+    "unemploymentSpecific": true,
+    "source": "https://svmblaw.com/unemployment-lawyers-for-referee-hearings-in-easton-allentown-and-bethlehem/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Weinstein Law Firm, LLC",
+    "city": "Fort Washington",
+    "phone": "(267) 513-1942",
+    "email": "marc@meweinsteinlaw.com",
+    "website": "https://www.meweinsteinlaw.com/",
+    "practiceNote": "Unemployment compensation page: the firm \"fights for employees when an employer challenges the person's right to receive unemployment compensation benefits.\" Employee-only framing. Cell (215) 353-3614 also printed. Attorney first name taken from the email address (page gives no full name).",
+    "unemploymentSpecific": true,
+    "source": "https://www.meweinsteinlaw.com/unemployment-compensation/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Andrew S. Abramson",
+    "firm": "Abramson Employment Law LLC",
+    "city": "Blue Bell",
+    "phone": "(267) 470-4742",
+    "email": "asa@aemploylaw.com",
+    "website": "https://www.job-discrimination.com/",
+    "practiceNote": "Unemployment compensation page: he is \"frequently retained to represent claimants at Referee's hearings.\" Site focuses on employees; no employer representation mentioned. Address 790 Penllyn Blue Bell Pike #205, Blue Bell, PA.",
+    "unemploymentSpecific": true,
+    "source": "https://www.job-discrimination.com/pennsylvania-employment-laws/unemployment-compensation/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "The PBA referral service covers 47 of 67 counties; Philadelphia and Allegheny residents may need their county bar's service. The PBA fee comes from the PBA panelist-terms page (https://www.pabar.org/PBA/PBA/Legal-Professionals/Lawyer-Referral-Service/Lawyer-Referral-Service.aspx). Only 2 attorneys were verified (none in Harrisburg or the Lehigh Valley)."
+  "gaps": "The PBA referral service covers 47 of 67 counties; Philadelphia and Allegheny residents may need their county bar's service. The PBA fee comes from the PBA panelist-terms page (https://www.pabar.org/PBA/PBA/Legal-Professionals/Lawyer-Referral-Service/Lawyer-Referral-Service.aspx). Only 2 attorneys were verified (none in Harrisburg or the Lehigh Valley).",
+  "researchNotes2026_11": "Krevsky Bowser (Harrisburg) skipped: its homepage says it also supports small and mid-sized companies on the employer side. Philadelphia Unemployment Project (philaup.org) has an appeal-filing page but was not verified as offering representation. Zawarski site prints two phone numbers. Weinstein and Abramson are both in the Philadelphia suburbs; Scaringi covers Harrisburg and SVMB/Zawarski cover the Lehigh Valley."
  },
  {
   "state": "RI",
@@ -2258,9 +3065,70 @@
     "practiceNote": "'Champions the rights of employees' in discrimination, wrongful termination and wage cases, and handles 'unemployment appeals'. Employment attorney Chip Muller is with this firm.",
     "unemploymentSpecific": true,
     "source": "https://www.sinapilaw.com/"
+   },
+   {
+    "name": "Robert E. Savage",
+    "firm": "Savage & Savage, Attorneys at Law",
+    "city": "Warwick",
+    "phone": "(401) 732-9500",
+    "email": null,
+    "website": "https://www.savageandsavage.com/",
+    "practiceNote": "Homepage: \"We represent people who have been denied unemployment benefits\" and workers whose former employer challenged an award. Practice-areas page: \"We represent employees who have been denied benefits for unemployment.\" No employer-side work described. Office described as near Hoxsie Four Corners on Airport Road (Warwick); site does not print a full street address. Practice-areas page also shows a second number, 401-287-4713 (possibly a tracking line); homepage number used.",
+    "unemploymentSpecific": true,
+    "source": "https://www.savageandsavage.com/practice-areas/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Thomas J. Enright",
+    "firm": "Enright Law LLC",
+    "city": "Cranston",
+    "phone": "(401) 526-2620",
+    "email": null,
+    "website": "https://enrightlawoffice.com/",
+    "practiceNote": "Unemployment appeals page: \"I represent individuals who are either appealing a benefit denial or whose employer is appealing the approval of benefits.\" Site is framed around employee rights; mentions past big-firm experience representing companies, now uses it to make employers 'play by the rules'. Address 696 Reservoir Avenue, Cranston, RI 02910.",
+    "unemploymentSpecific": true,
+    "source": "https://enrightlawoffice.com/employee-rights/unemployment-appeals/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Beagan and Beagan",
+    "city": "Providence",
+    "phone": "(401) 453-0090",
+    "email": null,
+    "website": "https://beaganlawri.com/",
+    "practiceNote": "Homepage (titled 'Unemployment & Workers Compensation Attorney In Providence, RI'): \"We offer representation for Rhode Island unemployment and TDI claims\" and \"Let Beagan and Beagan represent you for your Unemployment Benefits.\" Addressed to claimants; no employer work mentioned. Address 260 W Exchange Street, Suite 101, Providence, RI 02903. No attorney named on homepage.",
+    "unemploymentSpecific": true,
+    "source": "https://beaganlawri.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Comerford & Saccoccio",
+    "city": "Johnston",
+    "phone": "(401) 944-1600",
+    "email": null,
+    "website": "https://comerfordsaccoccio.com/",
+    "practiceNote": "Unemployment law / appeals process page: \"we help individuals secure unemployment benefits throughout Rhode Island and Massachusetts.\" Page does not mention representing employers. General-practice firm (also criminal etc.). Address 928 Atwood Ave, Johnston, RI 02919.",
+    "unemploymentSpecific": true,
+    "source": "https://comerfordsaccoccio.com/practice-areas/unemployment-law/appeals-process-2/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Stephen T. Fanning",
+    "firm": "The Law Office of Stephen T. Fanning",
+    "city": "Providence",
+    "phone": "(401) 272-8250",
+    "email": "stephenfanning@msn.com",
+    "website": "https://www.stephenfanningesq.com/",
+    "practiceNote": "Discrimination/Unemployment Appeals page: \"We will consult with you, prepare appeal documents and represent you at any and all stages of the appeal process.\" Page addresses employees/claimants only; no employer work mentioned. Address 305 S Main St., Providence, RI 02903.",
+    "unemploymentSpecific": true,
+    "source": "https://www.stephenfanningesq.com/discriminationunemployment-appeals",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Only 1 attorney was verified (below the minimum of 2). Other RI firms checked were not employment practices or their sites were unreachable. The RI Bar referral page did not show a consult fee; (401) 521-5040 is listed for reduced-fee or elderly referrals."
+  "gaps": "Only 1 attorney was verified (below the minimum of 2). Other RI firms checked were not employment practices or their sites were unreachable. The RI Bar referral page did not show a consult fee; (401) 521-5040 is listed for reduced-fee or elderly referrals.",
+  "researchNotes2026_11": "Blish & Cavanagh skipped (represents employers and employees). Muller Law's domain now redirects to Sinapi (already listed). Formisano & Company and Gursky Wiens could not be fetched (site not reachable via tool). RILS unemployment coverage still not confirmed. Savage & Savage site shows two phone numbers; (401) 732-9500 is on the homepage and in directories."
  },
  {
   "state": "SC",
@@ -2309,7 +3177,8 @@
     "source": "https://burnetteshutt.law/teams/employment-law/"
    }
   ],
-  "gaps": "No SC firm site that names unemployment benefits could be verified; Wukela Law Firm did not mention it. The SC Bar's online referral is 24/7 from the find-a-lawyer page."
+  "gaps": "No SC firm site that names unemployment benefits could be verified; Wukela Law Firm did not mention it. The SC Bar's online referral is 24/7 from the find-a-lawyer page.",
+  "researchNotes2026_11": "Not researched: the shared WebSearch budget for this turn (200 calls across all agents) ran out before this state was started. Nothing was verified; needs a follow-up pass."
  },
  {
   "state": "SD",
@@ -2333,7 +3202,11 @@
     "email": null,
     "coverage": "33 western South Dakota counties and reservations",
     "notes": "The listed phone is the Rapid City office; other offices have their own numbers (see source). Serves low-income and elderly clients. Unemployment benefits were not confirmed as a case type.",
-    "source": "https://sdlawhelp.org/node/9/our-offices"
+    "source": "https://sdlawhelp.org/node/9/our-offices",
+    "unemploymentConfirmation": {
+     "evidence": "Services page: 'Dakota Plains Legal Services is able to offer legal help for the following types of civil legal issues ... in both state and tribal courts' - Employment heading lists 'Unemployment Insurance' and 'Grievance Hearings for Tribal Employment.'",
+     "source": "https://www.dpls.org/services"
+    }
    }
   ],
   "barReferral": {
@@ -2345,7 +3218,8 @@
    "source": "https://www.findalawyerinsd.com"
   },
   "attorneys": [],
-  "gaps": "No SD private attorney could be verified. The directory candidates were mostly employer-side or large firms, and employee-side candidates had no reachable site naming employment or unemployment work. Neither SD legal aid organization was confirmed to handle unemployment. No referral fee was shown."
+  "gaps": "No SD private attorney could be verified. The directory candidates were mostly employer-side or large firms, and employee-side candidates had no reachable site naming employment or unemployment work. Neither SD legal aid organization was confirmed to handle unemployment. No referral fee was shown.",
+  "researchNotes2026_11": "Still no SD attorney verified. Stephanie E. Pochop (Gregory; Johnson Pochop & Bartling) 'exclusively represent[s] employees' in discrimination per Avvo, but no firm website found. Southern Hills Law PLLC (Custer, J. Scott James, listed as employee rights on FindLaw) and Morgan & Morgan Sioux Falls office pages were blocked by permission prompts - worth a manual check. Excluded: Boyce Law Firm (also represents employers), Halbach Szwarc (employers and employees), Davenport Evans, Woods Fuller, Cutler, Cadwell Sanford (employer-side)."
  },
  {
   "state": "TN",
@@ -2394,7 +3268,8 @@
     "source": "https://www.barrettjohnston.com/"
    }
   ],
-  "gaps": "The Nashville Bar's referral service is temporarily closed (staff transition), so the Memphis Bar's service is listed. Knoxville Bar is (865) 522-7501 and Chattanooga CLIPS is (423) 756-3222, per the TBPR page. Only one legal aid organization was verified, and it covers Middle Tennessee only. No Knoxville or Chattanooga attorney was verified; ETN Employment Law (Knoxville) is not taking new clients."
+  "gaps": "The Nashville Bar's referral service is temporarily closed (staff transition), so the Memphis Bar's service is listed. Knoxville Bar is (865) 522-7501 and Chattanooga CLIPS is (423) 756-3222, per the TBPR page. Only one legal aid organization was verified, and it covers Middle Tennessee only. No Knoxville or Chattanooga attorney was verified; ETN Employment Law (Knoxville) is not taking new clients.",
+  "researchNotes2026_11": "Not researched: the shared WebSearch budget for this turn (200 calls across all agents) ran out before this state was started. Nothing was verified; needs a follow-up pass."
  },
  {
   "state": "TX",
@@ -2464,7 +3339,8 @@
     "source": "https://clgtrial.com/employment-law/unemployment/"
    }
   ],
-  "gaps": "No verified unemployment-specific private attorney found in San Antonio or Austin as separate firms (Rob Wiley/Wiley Wheeler also list Austin office at (512) 271-5527). TRLA has no online intake URL on source page. Lone Star Legal Aid county coverage not verified."
+  "gaps": "No verified unemployment-specific private attorney found in San Antonio or Austin as separate firms (Rob Wiley/Wiley Wheeler also list Austin office at (512) 271-5527). TRLA has no online intake URL on source page. Lone Star Legal Aid county coverage not verified.",
+  "researchNotes2026_11": "Not researched: the shared WebSearch budget for this turn (200 calls across all agents) ran out before this state was started. Nothing was verified; needs a follow-up pass."
  },
  {
   "state": "UT",
@@ -2511,9 +3387,34 @@
     "practiceNote": "Employee-side employment law: 'dedicates his legal practice to representing individuals in a broad range of employment law cases.' Does not mention unemployment benefits.",
     "unemploymentSpecific": false,
     "source": "https://tannerlawoffice.com"
+   },
+   {
+    "name": "Philip C. Patterson",
+    "firm": null,
+    "city": "Ogden",
+    "phone": "(801) 394-7704",
+    "email": null,
+    "website": "https://philipcpatterson.com/",
+    "practiceNote": "Home page heading 'Advocacy for Utah Employees'; 'Protecting the Rights of Government Employees Since 1973.' No employer representation indicated. No unemployment mention. No public email (contact form only).",
+    "unemploymentSpecific": false,
+    "source": "https://philipcpatterson.com/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "McConkie | Collinwood | Adams",
+    "city": "Bountiful",
+    "phone": "(801) 294-2800",
+    "email": null,
+    "website": "https://mcconkielawoffices.com/",
+    "practiceNote": "Employment law page says the firm 'Protects the Rights of Workers' (wrongful termination, benefits disputes); written from the worker's side ('powerless compared to the company you work for'). General-practice firm; no unemployment insurance mention; no email listed. Address 505 South Main Street, Bountiful.",
+    "unemploymentSpecific": false,
+    "source": "https://mcconkielawoffices.com/employment-law",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Only 2 attorneys. Stavros Law P.C. ((801) 758-7604, utahtriallawyers.net/utah-unemployment.html) handles unemployment appeals but represents 'both employees and employers' so excluded; Scholnick Thorne Holland (Salt Lake City, (801) 359-4169) serves both employees and employers, no unemployment mention - excluded. Licensed Lawyer 211 listing says 'Please do not call; visit website'. No fee published."
+  "gaps": "Only 2 attorneys. Stavros Law P.C. ((801) 758-7604, utahtriallawyers.net/utah-unemployment.html) handles unemployment appeals but represents 'both employees and employers' so excluded; Scholnick Thorne Holland (Salt Lake City, (801) 359-4169) serves both employees and employers, no unemployment mention - excluded. Licensed Lawyer 211 listing says 'Please do not call; visit website'. No fee published.",
+  "researchNotes2026_11": "Utah search results were dominated by spam/directory pages; several candidate sites could not be fetched (permission/provenance block): Hollingsworth Law Office (April Hollingsworth, SLC, aprilhollingsworthlaw.com - employee-side per directories, worth adding if verified), Utah Employment Lawyers Association directory (utahemploymentlawyers.org/directory). Excluded: Shimoda & Rodriguez (Holladay office, but contact page says 'temporarily unable to accept new Utah employment cases'); Brian K. Jackson LLC (Bountiful, 'help employees and employers'); Crook Legal Group (employer-side); Greg Smith & Associates (no employment-for-employees focus/unemployment). Could not confirm UI appeal coverage for Utah Legal Services."
  },
  {
   "state": "VT",
@@ -2538,8 +3439,22 @@
    "fee": "Referral free; first consultation up to 30 minutes capped at $25",
    "source": "https://www.vtbar.org/find-a-lawyer/"
   },
-  "attorneys": [],
-  "gaps": "No private Vermont attorney verified on own site as unemployment-focused or explicitly employee-side (web search quota exhausted mid-research). Checked: Rich Cassidy Law (South Burlington, (802) 864-8144) mentions employment discrimination recoveries but not explicitly employee-side; Langrock Sperry & Wool appears to advise employers; McVeigh Skiff is workers' comp/PI only. Needs follow-up research."
+  "attorneys": [
+   {
+    "name": "Barbara Lelli",
+    "firm": "Vermont Employee Rights Group",
+    "city": "Burlington",
+    "phone": "(833) 365-2929",
+    "email": null,
+    "website": "https://www.vermontemployeerights.com/",
+    "practiceNote": "Homepage: \"We Represent Workers in Discrimination and Retaliation Cases\" and \"If you are an employee and you feel you are being mistreated at work, call us.\" Practice areas: wrongful termination, harassment, retaliation, leave violations, disability accommodation, whistleblower retaliation. Office: 1 Lawson Ln, Burlington, VT 05401. No unemployment mention. Justia lists Barbara Lelli (VT Supreme Court ID 2428) with a Burlington practice. Contact page fetch was blocked; phone is toll-free 833 number from homepage.",
+    "unemploymentSpecific": false,
+    "source": "https://www.vermontemployeerights.com/",
+    "addedBy": "research-2026-11-03"
+   }
+  ],
+  "gaps": "No private Vermont attorney verified on own site as unemployment-focused or explicitly employee-side (web search quota exhausted mid-research). Checked: Rich Cassidy Law (South Burlington, (802) 864-8144) mentions employment discrimination recoveries but not explicitly employee-side; Langrock Sperry & Wool appears to advise employers; McVeigh Skiff is workers' comp/PI only. Needs follow-up research.",
+  "researchNotes2026_11": "Vermont remains thin. Checked and excluded: Kohn Rath (Hinesburg) - represents employers and employees and is 'temporarily not taking new employment law clients'; Cleary Shahi & Aicher (Rutland) - employer-focused page and joined Gfeller Laurie LLP Jan 2026; Sluka Law (Woodstock) - workers' comp only; Rich Cassidy Law - still no explicit employee-side wording (mediator focus). Watts Law Firm (Quechee, civil rights/employment) found on Justia but no own website located. Vermont Legal Aid already covers UI appeals statewide."
  },
  {
   "state": "VA",
@@ -2575,9 +3490,46 @@
     "practiceNote": "Employee-side only: 'We only represent employees.' Also lists Richmond, VA office. No unemployment benefits mention on homepage.",
     "unemploymentSpecific": false,
     "source": "https://www.spigglelaw.com/"
+   },
+   {
+    "name": "D. Scott Gordon",
+    "firm": "D. Scott Gordon, Attorney at Law",
+    "city": "Richmond",
+    "phone": "(804) 440-6557",
+    "email": null,
+    "website": "https://dsgordonlaw.com/",
+    "practiceNote": "Unemployment Benefits page (meta description): 'Attorney D. Scott Gordon represents employees in unemployment hearings before the Virginia Employment Commission (VEC).' Also employment and disability practice; lists 'Small Business Counseling' as a practice area (no employer-side employment work described). Office 406 West Franklin Street, Richmond. No public email.",
+    "unemploymentSpecific": true,
+    "source": "https://dsgordonlaw.com/unemployment-benefits/unemployment-benefits.html",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Virginia Employment Law (Strelka Law)",
+    "city": "Roanoke",
+    "phone": "(540) 283-0802",
+    "email": null,
+    "website": "https://www.vaemployment.law/",
+    "practiceNote": "Employment law page has an Unemployment Benefits section: 'If you would like guidance through the VEC process or need help from an employment attorney in securing your benefits, contact Virginia Employment Law for a consultation.' Worker-focused framing (helps workers 'seek compensation for violations of Virginia and federal laws'); page does not state employee-only but no employer services listed. No public email (contact form).",
+    "unemploymentSpecific": true,
+    "source": "https://www.vaemployment.law/practice-areas/employment-law/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Parson Law PLLC",
+    "city": "North Chesterfield (Richmond area)",
+    "phone": "(804) 215-8151",
+    "email": null,
+    "website": "https://www.parson-law.com/",
+    "practiceNote": "Home page: firm 'advocates for Virginia Workers', 'Your Employment Advocate'; lists 'claims of unemployment' among practice areas with a link to an Unemployment page (that page not verified, so flagged false). Office line also shown: (804) 560-7529. No employer representation mentioned. Attorney name from directory listing, firm site title is 'Parson Law'.",
+    "unemploymentSpecific": false,
+    "source": "https://www.parson-law.com/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Below minimum: only 1 attorney verified (web search quota exhausted). Excluded LawrenceQueen (Richmond) because it states it serves employers too; Thomas H. Roberts & Associates (Richmond) not explicitly employee-side employment. Legal Aid Justice Center not verified for intake details. Richmond metro VLRS line: (804) 775-0808."
+  "gaps": "Below minimum: only 1 attorney verified (web search quota exhausted). Excluded LawrenceQueen (Richmond) because it states it serves employers too; Thomas H. Roberts & Associates (Richmond) not explicitly employee-side employment. Legal Aid Justice Center not verified for intake details. Richmond metro VLRS line: (804) 775-0808.",
+  "researchNotes2026_11": "Could not verify Legal Aid Justice Center intake for UI (its pages describe the VEC class action, not individual claimant services). VPLC's UI page lists only a staff contact (Flannery O'Rourke, (804) 750-3151) and points to 866-LEGLAID; not added as an intake service. No Hampton Roads firm verified in time. Parson Law: Cherie A. Parson name came from directory search results, not firm page - set name to null if you prefer strict sourcing."
  },
  {
   "state": "WA",
@@ -2635,9 +3587,22 @@
     "practiceNote": "Represents Washington workers in employment disputes (wrongful termination, wage, discrimination) and L&I claims; offices statewide incl. Spokane, Tacoma, Vancouver. No unemployment benefits mention.",
     "unemploymentSpecific": false,
     "source": "https://www.emeryreddy.com/"
+   },
+   {
+    "name": "Rodney R. Moody",
+    "firm": "Law Offices of Rodney R. Moody",
+    "city": "Lynnwood",
+    "phone": "(425) 740-2940",
+    "email": "assistant@rodneymoodylaw.com",
+    "website": "https://www.rodneymoodylaw.com/",
+    "practiceNote": "Snohomish County Unemployment Benefits page: 'I help employees get the unemployment benefits they need and deserve'; assists 'individuals who have been denied unemployment benefits'; will 'represent you throughout the process' at the administrative hearing. Employer referred to only as opposing party. Office 20102 Cedar Valley Rd., Suite 201, Lynnwood.",
+    "unemploymentSpecific": true,
+    "source": "https://www.rodneymoodylaw.com/snohomish-county-unemployment-benefits-attorney",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "All attorneys are Seattle-based (Emery Reddy lists other WA locations). NJP CLEAR hotline (https://nwjustice.org/clear-hotline) not verified for phone. WSBA Moderate Means Program (855) 741-6930 covers unemployment law per WomensLaw listing - not verified on WSBA site."
+  "gaps": "All attorneys are Seattle-based (Emery Reddy lists other WA locations). NJP CLEAR hotline (https://nwjustice.org/clear-hotline) not verified for phone. WSBA Moderate Means Program (855) 741-6930 covers unemployment law per WomensLaw listing - not verified on WSBA site.",
+  "researchNotes2026_11": "Excluded: Lockerby Law (Seattle; unemployment hearing representation, but site says 'adviser and advocate to both employee and employer clients'); AKW Law (serves 'individuals and businesses'). weba.law (Seattle unemployment-benefits attorneys, phone (206) 257-7498, flat-fee hearing representation) looks promising but its site does not show firm name, attorney names or address - not added. Washington LawHelp also points to the Washington Employment Lawyers Association directory as backup to ULP. No Spokane/Tacoma/Vancouver employee-side firm verified on its own site in time (candidates from directories: India Lin Bodien (Tacoma), Premier Law Group (Vancouver), Peggy Underbrink (Bellingham), Roberts Freebourn (Spokane) - not verified). NJP CLEAR hotline phone still not verified on nwjustice.org."
  },
  {
   "state": "WV",
@@ -2673,9 +3638,58 @@
     "practiceNote": "Employee-side employment law (discrimination, retaliatory discharge): 'committed to putting the law on the side of consumers and workers'. No unemployment mention.",
     "unemploymentSpecific": false,
     "source": "https://www.grubblawgroup.com/"
+   },
+   {
+    "name": null,
+    "firm": "Addair Entsminger PLLC",
+    "city": "Charleston",
+    "phone": "(304) 902-8518",
+    "email": null,
+    "website": "https://www.employmentlawyerswv.com/",
+    "practiceNote": "Employment law page: 'We focus our practice entirely on employee-side disputes' and 'We Help Employees, Not Employers' (notes attorneys formerly defended employers). Office 1018 Kanawha Blvd East, Suite 409, Charleston. No unemployment mention; contact form only.",
+    "unemploymentSpecific": false,
+    "source": "https://www.employmentlawyerswv.com/employment-law/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Jared T. Moore",
+    "firm": "The Moore Law Firm, PLLC",
+    "city": "Morgantown",
+    "phone": "(304) 521-2451",
+    "email": null,
+    "website": "https://www.moorelawfirmwv.com/",
+    "practiceNote": "Employment law page: 'Dedicated Advocates for West Virginia Employees'; no employer representation mentioned. Attorneys Jared T. Moore and Jerry D. Moore. Office 980 Parkway Drive, Morgantown. No unemployment mention; intake form only.",
+    "unemploymentSpecific": false,
+    "source": "https://www.moorelawfirmwv.com/employment-law/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": null,
+    "firm": "Bouchillon, Crossan & Colburn, L.C.",
+    "city": "Huntington",
+    "phone": "(304) 521-4636",
+    "email": null,
+    "website": "https://www.bcc-wv.com/",
+    "practiceNote": "Wrongful termination page under site section 'Standing Up For Employees'; written for employees ('the employee has rights'), no employer representation mentioned. No unemployment mention; no email listed.",
+    "unemploymentSpecific": false,
+    "source": "https://www.bcc-wv.com/standing-up-for-employees/wrongful-termination/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Rod Smith",
+    "firm": "Rod Smith Law PLLC",
+    "city": "Charleston",
+    "phone": "(304) 406-7076",
+    "email": null,
+    "website": "https://www.lawwv.com/",
+    "practiceNote": "Wrongful termination page written for fired workers ('you may have grounds for legal action against your employer'); refers to employers only as the opposing side. Primarily a personal-injury/plaintiff firm; also Morgantown office (235 High St., Suite 706, by appointment). No unemployment mention.",
+    "unemploymentSpecific": false,
+    "source": "https://www.lawwv.com/employment-law/wrongful-termination/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "Below minimum: only 1 attorney verified (web search quota exhausted). Bar phone is the State Bar general line shown on wvlawyerreferral.org; free volunteer-lawyer hotline (800) 642-3617 Tuesdays 6-8pm. Mountain State Justice ((800) 319-7132) handles workers' rights but no unemployment mention."
+  "gaps": "Below minimum: only 1 attorney verified (web search quota exhausted). Bar phone is the State Bar general line shown on wvlawyerreferral.org; free volunteer-lawyer hotline (800) 642-3617 Tuesdays 6-8pm. Mountain State Justice ((800) 319-7132) handles workers' rights but no unemployment mention.",
+  "researchNotes2026_11": "No WV private firm found whose own site explicitly handles unemployment appeals. Legal Aid of WV already statewide with UI confirmed, so no legal aid added. Unchecked candidates from search: Farmer, Cline & Campbell (fopwv.com, Huntington employment page), Adams Legal Group (adams-legal.com), wvpersonalinjury.com wrongful termination page."
  },
  {
   "state": "WI",
@@ -2689,7 +3703,11 @@
     "email": null,
     "coverage": "counties/regions (offices in Green Bay, La Crosse, Madison, Milwaukee, Oshkosh, Racine)",
     "notes": "Listed by WI DWD as legal help for UI claimants; client story describes successful unemployment appeal representation.",
-    "source": "https://www.dwd.wisconsin.gov/dwd/publications/ui/legalhelp.htm"
+    "source": "https://www.dwd.wisconsin.gov/dwd/publications/ui/legalhelp.htm",
+    "unemploymentConfirmation": {
+     "evidence": "WI DWD 'Legal Help for Appeal' lists Legal Action of Wisconsin intake line 855-947-2529 (M-F 8:00-4:30), legalaction.org; volunteer attorneys if available. (Confirmed via DWD page, not LAW's own site.)",
+     "source": "https://dwd.wisconsin.gov/dwd/publications/ui/legalhelp.htm"
+    }
    },
    {
     "name": "Judicare Legal Aid",
@@ -2699,7 +3717,22 @@
     "email": null,
     "coverage": "33 northern Wisconsin counties",
     "notes": "Listed by WI DWD for UI claimants; online applications available per DWD. Local (715) 842-1681. Also statewide Unemployment Compensation Appeals Clinic (law students) - schedule via 211 or (608) 246-4357.",
-    "source": "https://www.dwd.wisconsin.gov/dwd/publications/ui/legalhelp.htm"
+    "source": "https://www.dwd.wisconsin.gov/dwd/publications/ui/legalhelp.htm",
+    "unemploymentConfirmation": {
+     "evidence": "WI DWD 'Legal Help for Appeal' (UCL-8289-P) lists Judicare Legal Aid for UI appeals: 715-842-1681 or 800-472-1638 toll free, M-F 8:30-4:30, 33 northern counties, 'you can also apply online' at judicare.org. (Confirmed via DWD page, not Judicare's own site.)",
+     "source": "https://dwd.wisconsin.gov/dwd/publications/ui/legalhelp.htm"
+    }
+   },
+   {
+    "name": "Unemployment Compensation Appeals Clinic",
+    "phone": "211",
+    "website": "http://wisconsinuac.blogspot.com/",
+    "intakeUrl": null,
+    "email": null,
+    "coverage": "statewide (phone/remote appointments; in person at Madison Labor Temple, 1602 S. Park St.)",
+    "notes": "Free law-student clinic for unemployment appeals. Call 211 to schedule a Monday-evening (7-9pm) appointment; may represent you at your appeal hearing or help you prepare to represent yourself. Fall 2026 intakes run through Dec 1, 2026.",
+    "source": "https://wisconsinuac.blogspot.com/2026/09/unemployment-compensation-appeals.html",
+    "addedBy": "research-2026-11-03"
    }
   ],
   "barReferral": {
@@ -2732,9 +3765,34 @@
     "practiceNote": "Employment law for workers: 'We stand up for workers facing discrimination, harassment, or unfair treatment in the workplace.' Offices Madison, Milwaukee, Eau Claire. No unemployment mention.",
     "unemploymentSpecific": false,
     "source": "https://www.gtwlawyers.com/"
+   },
+   {
+    "name": "Douglas J. Carroll, Jr.",
+    "firm": "Carroll Law Firm SC",
+    "city": "Brookfield",
+    "phone": "(262) 955-2700",
+    "email": "info@CarrollLawFirmSC.com",
+    "website": "https://carrolllawfirmsc.com/",
+    "practiceNote": "Unemployment page: 'competent, agressive legal representation for all types of Unemployment cases', including 'If you have been denied benefits and need to file an appeal.' Represents 'Employees, Executives and Professionals'; employers framed as opposing party. Office 333 Bishops Way Suite 118, Brookfield.",
+    "unemploymentSpecific": true,
+    "source": "https://carrolllawfirmsc.com/unemployment/",
+    "addedBy": "research-2026-11-03"
+   },
+   {
+    "name": "Alan C. Olson",
+    "firm": "Alan C. Olson & Associates, S.C.",
+    "city": "New Berlin (Milwaukee area)",
+    "phone": "(262) 785-9606",
+    "email": null,
+    "website": "https://employee-advocates.com/",
+    "practiceNote": "'Filing a Wisconsin UI Claim' page: 'contact us right away at 262-785-9606 to discuss how we can help you secure your benefits'; free initial consultation 'available to Wisconsin workers to discuss unemployment compensation challenges'; separate Milwaukee UI hearing page. 'Our practice focuses on protecting employee rights.' Office 2880 S Moorland Rd, New Berlin; also toll-free (888) 843-1261.",
+    "unemploymentSpecific": true,
+    "source": "https://employee-advocates.com/filing-wisconsin-ui-claim/",
+    "addedBy": "research-2026-11-03"
    }
   ],
-  "gaps": "No unemployment-specific private attorney verified. Walcheske & Luzi (Wauwatosa) excluded because it also offers employer-side services. Judicare online application URL not captured."
+  "gaps": "No unemployment-specific private attorney verified. Walcheske & Luzi (Wauwatosa) excluded because it also offers employer-side services. Judicare online application URL not captured.",
+  "researchNotes2026_11": "Appeals clinic phone on DWD page is 211 or (608) 246-4357; clinic's own blog says 'call 211'. Victor Forberger (Madison, unemployment-focused attorney) site redirect loop - not verified, strong candidate for a later check. Hawks Quindel (existing) has an unemployment benefits page (hq-law.com/employment/unemployment-benefits/) - could flip it to unemploymentSpecific after review. Confirmations above are from the state DWD page, not the orgs' own sites."
  },
  {
   "state": "WY",
