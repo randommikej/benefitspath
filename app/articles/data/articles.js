@@ -4,6 +4,113 @@
 
 export const articles = [
   {
+    slug: 'medicaid-after-job-loss-health-coverage-work-requirement-2026',
+    title: 'Can You Get Medicaid After Losing Your Job? What to Know in 2026',
+    description: 'Lost your job and your health insurance? See how Medicaid, Marketplace plans and COBRA work, how unemployment counts as income, and the 2027 work rule.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-04',
+    updatedAt: '2026-11-04',
+    category: 'Health Insurance',
+    tags: ['medicaid after job loss', 'health insurance unemployed', 'COBRA', 'marketplace special enrollment', 'medicaid work requirement', 'unemployment income'],
+    readTime: '7 min read',
+    content: `
+## Can You Get Medicaid After Losing Your Job?
+
+**Possibly, yes. Medicaid eligibility depends on your state, your household size and your income, and you can apply any time of year.** According to HealthCare.gov (2026), eligible income levels "may be different from state to state," and some states cover adults based on income alone. The site also says to apply even if you do not expect to qualify.
+
+Losing a paycheck is often the moment a household starts to fit the rules. This guide answers the questions people ask most. It is general information, not legal or medical advice.
+
+## What Are My Health Coverage Options After a Layoff?
+
+HealthCare.gov (2026) lists three main paths:
+
+- **Marketplace, Medicaid or CHIP.** Savings and eligibility are based on your household size and estimated income. The site advises you to "apply first to find out if you qualify" if you are unsure you can afford coverage.
+- **COBRA.** This federal law lets you keep your job-based plan for a time. You pay the full premium, including the part your employer used to cover, plus a small administrative fee.
+- **Other low-cost care.** If you do not qualify for savings, you may be able to get a catastrophic plan, and community health centers offer low-cost care.
+
+One application can start the process. HealthCare.gov says that if someone in your household appears to qualify for Medicaid, your information is sent to your state agency. You can also apply directly with your state Medicaid agency.
+
+## Does Unemployment Money Count as Income?
+
+For the Marketplace, yes. HealthCare.gov (2026) tells applicants to "include all unemployment compensation that you get from your state." It also says the same type of income measure (called MAGI) is used for Medicaid and CHIP.
+
+The site lists what to count, such as wages, self-employment income, Social Security and unemployment compensation. It says not to count child support, gifts, loan proceeds, SSI, veterans' disability payments or workers' compensation.
+
+Two details matter if your income just changed:
+
+- For the Marketplace, you are asked for your current monthly income and your expected yearly income. Savings are based on what you expect to earn during the year you need coverage.
+- HealthCare.gov does not say whether Medicaid uses monthly or yearly income. Ask your state Medicaid agency which one it uses. Your answer may differ from a neighbor's.
+
+Our [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) can help you estimate your weekly benefit, so you can enter a realistic income figure.
+
+## Can I Still Sign Up for a Marketplace Plan If Open Enrollment Is Over?
+
+Often, yes. HealthCare.gov (2026) says you generally have 60 days to enroll through a Special Enrollment Period after losing job-based coverage. You can qualify if you lost coverage in the past 60 days or expect to lose it in the next 60 days. When COBRA ends, you also get 60 days.
+
+Some limits apply:
+
+- You may need to submit documents that confirm your loss of coverage. Without acceptable documents, you will not qualify.
+- Voluntarily dropping COBRA does not open a Special Enrollment Period.
+
+Keep your termination letter or the notice from your insurer. Do not throw them away. If your employer gives you a COBRA election notice, read the deadlines on it closely, because they differ from the Marketplace deadline. A gap in coverage can be costly if someone in your family needs care, so it helps to line up a plan before your current one ends.
+
+## What Is the New Medicaid Work Requirement?
+
+This is news worth knowing about. According to the Centers for Medicare & Medicaid Services (CMS, 2026), states must generally apply a new community engagement requirement to certain Medicaid adults no later than January 1, 2027, or sooner if the state chooses. HealthCare.gov notes that in states covering adults based on income alone, you "may need to meet a new monthly work requirement" to qualify or keep coverage.
+
+Here is what CMS says about it:
+
+- **Who it covers.** Non-pregnant adults ages 19 to 64 who are not entitled to or enrolled in Medicare and are in the Medicaid adult group.
+- **What counts.** 80 hours per month of work, community service, a work program, or half-time school. These can be combined. Earning at least the federal minimum wage times 80 hours also meets it, which CMS lists as $580 per month in 2026.
+- **Exemptions.** The list includes former foster care youth, American Indians and Alaska Natives, parents or caregivers of a child 13 or younger, veterans with a total disability rating, medically frail people, people in substance use treatment, and pregnant or postpartum people.
+- **Look-back.** New applicants must meet the requirement for at least one month before the month they apply.
+
+CMS's fact sheet does not list receiving unemployment benefits as an exemption or as a qualifying activity. Whether your job search or work-search activity counts is a question for your state Medicaid agency. Ask before you assume either way.
+
+If you lose Medicaid for not meeting the requirement, HealthCare.gov says you may get Marketplace coverage, but without savings on plan costs.
+
+## What Should I Do This Week?
+
+A short checklist:
+
+1. **Find your coverage end date.** Ask HR or your insurer, and get it in writing.
+2. **Write down your household income.** Include unemployment benefits once they start.
+3. **Apply at HealthCare.gov or your state Medicaid agency.** One application can check you for several programs.
+4. **Compare COBRA to your other options.** The full COBRA premium can be high.
+5. **Save your documents.** Keep proof of your job loss and coverage end.
+6. **Report changes.** HealthCare.gov says to report a new job or income change right away.
+
+If your unemployment claim was denied, that affects your income and your options. Our [appeal guide](https://www.benefitspath.org/how-to-appeal-unemployment-denial) explains the next steps, and you can find an employment attorney through [BenefitsPath](https://www.benefitspath.org/) if you want help with a denial.
+
+## Frequently Asked Questions
+
+### Do I have to wait for my unemployment benefits to start before I apply?
+No. HealthCare.gov says you can apply for Medicaid at any time of year. Apply when you need coverage and update your income when things change.
+
+### What if my income is too high for Medicaid today?
+HealthCare.gov says to apply anyway. If you do not qualify for Medicaid, you may qualify for savings on a Marketplace plan, which are based on your estimated income.
+
+### Does Medicaid look at my savings?
+This guide does not cover that. The sources above only discuss income, household size, family status, disability and age. Ask your state Medicaid agency about other rules.
+
+### Does the work requirement apply in every state?
+CMS says states must generally apply it by January 1, 2027. Details, such as extra exemptions, can vary by state. Check your state agency's website for current rules.
+
+### Is COBRA my only way to keep my doctor?
+No. COBRA, a Marketplace plan and Medicaid are all options. Which doctors are covered depends on the plan, so check provider lists before you choose.
+
+## Sources
+
+- HealthCare.gov, Medicaid and CHIP eligibility (2026): https://www.healthcare.gov/medicaid-chip/eligibility/
+- HealthCare.gov, Health coverage if you are unemployed (2026): https://www.healthcare.gov/unemployed/
+- HealthCare.gov, Income and household information (2026): https://www.healthcare.gov/income-and-household-information/income/
+- HealthCare.gov, Special Enrollment Period (2026): https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/
+- CMS, Medicaid Community Engagement Requirement interim final rule fact sheet (June 1, 2026): https://cms.gov/newsroom/fact-sheets/medicaid-community-engagement-requirement-certain-individuals-interim-final-rule-comment-period-cms
+
+Rules change often. Confirm details with your state Medicaid agency and HealthCare.gov before you act.
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-virginia-2026-guide',
     title: 'How to File for Unemployment in Virginia: 2026 Step-by-Step Guide',
     description: 'Lost your job in Virginia? Learn how to file with the VEC, what the new $478 weekly maximum means, weekly claim rules and how to appeal a denial.',

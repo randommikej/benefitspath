@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'medicaid-after-job-loss-health-coverage-work-requirement-2026',
   'how-to-file-unemployment-virginia-2026-guide',
   'missed-unemployment-appeal-deadline-late-appeal-good-cause-2026',
   'unemployment-benefits-and-pension-how-retirement-income-affects-your-claim-2026',
