@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'does-pto-vacation-payout-affect-unemployment-benefits-2026',
   'medicaid-after-job-loss-health-coverage-work-requirement-2026',
   'how-to-file-unemployment-virginia-2026-guide',
   'missed-unemployment-appeal-deadline-late-appeal-good-cause-2026',

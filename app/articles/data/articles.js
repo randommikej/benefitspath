@@ -4,6 +4,111 @@
 
 export const articles = [
   {
+    slug: 'does-pto-vacation-payout-affect-unemployment-benefits-2026',
+    title: 'Does a PTO or Vacation Payout Affect Your Unemployment Benefits?',
+    description: 'Got paid for unused vacation or PTO when you left your job? See how states treat the payout, when it can delay or reduce benefits, and what to report.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-05',
+    updatedAt: '2026-11-05',
+    category: 'Unemployment Eligibility',
+    tags: ['PTO payout unemployment', 'vacation pay unemployment', 'deductible income', 'report income unemployment', 'severance and unemployment', 'weekly benefit reduction'],
+    readTime: '6 min read',
+    content: `
+## Does a PTO or Vacation Payout Affect Unemployment Benefits?
+
+**It can, but it depends on your state and on how the payout is handled.** According to the U.S. Department of Labor's Comparison of State Unemployment Insurance Laws (2019 edition), many states treat vacation pay as income that reduces or delays benefits. Others treat a payout made at the end of a job differently. The safest move is to report the payout when your state asks and let the agency decide how it applies.
+
+This guide explains the common rules in plain words. It is general information, not legal advice, and your state's rules may differ.
+
+## Why Would Vacation Pay Matter for Unemployment?
+
+Unemployment benefits are meant for people who are out of work and not earning. If you receive money for a week, some states count that as a sign you were not fully unemployed that week.
+
+The Department of Labor (2019) explains the idea this way: in practically all states, vacation pay is treated as wages. So a person who gets vacation pay equal to their weekly benefit amount would, by definition, not be unemployed that week. The Department adds that some states see it as a question of availability, since a person on paid vacation is not looking for work.
+
+## Is a Payout When You Leave Different From Vacation You Take?
+
+Often, yes. The Department of Labor (2019) says vacation payments made at the time a job ends, rather than during a regular vacation shutdown, are handled differently from state to state:
+
+- In some states, a payout counts as disqualifying income only if it is required by a contract and is tied to specific weeks.
+- In other states, a payout is not counted as disqualifying income, whether it was voluntary or required by a contract.
+
+So two people with the same payout can get different results in different states. That is why the next question matters most.
+
+## How Do Some States Handle It?
+
+Here are a few examples from official state agencies.
+
+### Vermont
+The Vermont Department of Labor tells claimants that unemployment insurance requires them to report any vacation pay they receive from a former employer when it is paid out. It says you should keep filing your claims. It also says you will not receive a payment for as long as your vacation pay offsets your benefit amount.
+
+### California
+The California Employment Development Department (EDD) lists vacation pay among the earnings that count as wages in its Reporting Work and Wages FAQ. The same page says to report work if you earn wages and expect to receive pay for the work. If your pay weeks do not line up with the claim weeks, EDD suggests keeping a daily record of work and wages to report correctly.
+
+### Connecticut
+The Connecticut Department of Labor lists income that can reduce or deny weekly benefits, including dismissal payments, workers' compensation, employer-sponsored pensions and back pay. It says wages are reported when earned, not paid. Its page does not mention vacation pay, so a Connecticut claimant with that question should ask the agency directly.
+
+These examples show the pattern. Agencies agree you should report, but they differ on how a payout is counted.
+
+## Does a Payout Cancel My Benefits for Good?
+
+Not necessarily. In many states the payout affects only certain weeks. The Department of Labor (2019) says that in many states, if a payment is less than the weekly benefit amount, the person receives the difference. In other states, no benefits are payable for a week with such a payment, no matter the amount.
+
+In practice, a payout often means a pause or a smaller check for a while, not a permanent loss. Once the weeks the payout covers have passed, regular benefits can resume if you are still eligible.
+
+## What Is the Difference Between PTO Payout and Severance?
+
+They are different payments, and some states treat them differently. The Department of Labor (2019) notes that a considerable number of states count wages in lieu of notice and dismissal payments as deductible income. Our guide on [severance pay and unemployment](/articles/severance-pay-and-unemployment-benefits-can-you-collect-both) covers that side. Ask your former employer how your final check is labeled, because the label can matter to your state.
+
+## What Should I Do If I Got a Payout?
+
+A short checklist:
+
+1. **Get the details in writing.** Ask HR what the payment covers, which dates it is for, and when it was paid.
+2. **File your claim anyway.** Vermont's guidance says to keep filing. Waiting can cost you weeks you may be owed.
+3. **Answer the claim questions honestly.** If the form asks about vacation pay, severance or other income, report it.
+4. **Report it for the right week.** Some states care about the week the pay was earned, others about when it was paid. Follow your state's instructions.
+5. **Keep copies.** Save your final pay stub, the payout notice and any policy that explains it.
+6. **Ask your state agency.** Use your state's phone line or online message center if the form is unclear.
+
+Not reporting income can lead to an overpayment. California's EDD warns that unreported or inaccurately reported income can result in an overpayment that you must repay. Our guide on [what to do about an overpayment notice](/articles/unemployment-overpayment-notice-what-to-do) can help if you get one.
+
+## What If My Benefits Were Reduced or Denied Because of a Payout?
+
+You can ask for a review. Read the determination letter and look for the deadline to appeal, which is usually short. If the agency counted the payout for the wrong weeks, or you think the amount is wrong, an appeal is how you ask for a second look. Our [appeal guide](/how-to-appeal-unemployment-denial) walks through the steps. If your claim was denied, you can also find an employment attorney through [BenefitsPath](/) for help with your appeal.
+
+To see roughly what your weekly benefit might be before any reduction, try the [BenefitsPath benefits calculator](/unemployment-benefits-calculator).
+
+## Frequently Asked Questions
+
+### Do I have to report unused PTO that my employer paid out?
+In most states, yes. Vermont and California both list vacation pay as something to report. Check your state's claim form, since it tells you what to include.
+
+### Will a PTO payout make me ineligible forever?
+Not usually. It generally affects the weeks tied to the payment under your state's rules. If you are otherwise eligible, benefits can resume afterward.
+
+### Does it matter whether my employer paid it in one lump sum?
+It can. The Department of Labor (2019) says some states look at whether the payout is required by contract and tied to specific weeks. Ask your state agency how a lump sum is assigned.
+
+### Should I delay filing until the payout period is over?
+Generally no. Vermont tells claimants to keep filing. Filing on time protects your claim, and the agency decides how the payout applies.
+
+### Where can I find my own state's rule?
+Start with your state unemployment agency's website, then call or message them. The Department of Labor comparison is a good overview but is dated, and laws change.
+
+## Please Confirm With Your State
+
+Rules change and vary by state. Confirm details with your state unemployment agency before you decide anything about your claim.
+
+## Sources
+
+- U.S. Department of Labor, Comparison of State Unemployment Insurance Laws 2019, Nonmonetary Eligibility chapter: https://oui.doleta.gov/unemploy/pdf/uilawcompar/2019/complete.pdf
+- Vermont Department of Labor, vacation pay and unemployment insurance: https://labor.vermont.gov/node/3758
+- California Employment Development Department, Reporting Work and Wages FAQ: https://edd.ca.gov/en/unemployment/FAQ_-_Reporting_Work_and_Wages
+- Connecticut Department of Labor, Income can reduce your unemployment benefits: https://portal.ct.gov/dol/knowledge-base/articles/ui-claims-and-eligibility/why-were-my-weekly-benefits-denied-or-reduced
+`,
+  },
+  {
     slug: 'medicaid-after-job-loss-health-coverage-work-requirement-2026',
     title: 'Can You Get Medicaid After Losing Your Job? What to Know in 2026',
     description: 'Lost your job and your health insurance? See how Medicaid, Marketplace plans and COBRA work, how unemployment counts as income, and the 2027 work rule.',
