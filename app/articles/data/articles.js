@@ -4,6 +4,143 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-indiana-2026-guide',
+    title: 'How to File for Unemployment in Indiana: 2026 Step-by-Step Guide',
+    description: 'Lost your job in Indiana? Learn how to file through Uplink, the $390 weekly maximum, weekly voucher deadlines, work search rules and how to appeal a denial.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-06',
+    updatedAt: '2026-11-06',
+    category: 'State Guides',
+    tags: ['indiana unemployment', 'Uplink', 'file for unemployment', 'unemployment benefits indiana', 'state guides', 'weekly voucher', 'DWD'],
+    readTime: '8 min read',
+    content: `
+## How Do You File for Unemployment in Indiana?
+
+**File online through Uplink, the Indiana Department of Workforce Development (DWD) claim system, as soon as you lose your job or your hours are cut.** According to the DWD Unemployment Insurance Handbook (July 2025 version), you can only be paid for weeks you file, and a claim cannot be backdated. After that first claim, you file a weekly voucher every week to get paid.
+
+This guide covers who qualifies, what to have ready, what happens each week, and what to do if you are denied. It is general information, not legal advice.
+
+## What Is the Quick Timeline?
+
+Here is the whole process at a glance:
+
+- **Day 1:** Create an Uplink account and file your initial claim before 8:59 p.m. Eastern on the Saturday of the week you became unemployed.
+- **Within 10 days:** Register for work on IndianaCAREERconnect.com.
+- **Next week and every week:** File your weekly voucher. The first week is an unpaid waiting week, but you still must file for it.
+- **After your 4th week of benefits:** Visit your local WorkOne for a review of your work search records.
+- **Any denial:** The DWD says to appeal within 15 days of the date the decision was sent.
+
+## Who Qualifies for Unemployment in Indiana?
+
+The DWD says you only qualify if you are unemployed through no fault of your own. A layoff is the clearest example. Being fired or quitting can still be reviewed, so give complete and honest answers about why you left.
+
+You also need enough past wages. According to the DWD handbook, your total base period wages must be at least $4,200, with at least $2,500 of that earned in the last six months of the base period. Your total must also be at least 1.5 times your wages in your highest-earning quarter. The base period is the first four of the last five completed calendar quarters before you file.
+
+You must be able and available to work, and you must look for work each week. If your situation is unusual, such as being fired or quitting, see our guides on [fired for misconduct](https://www.benefitspath.org/articles/fired-for-misconduct-can-you-collect-unemployment-2026) and [quitting your job](https://www.benefitspath.org/articles/can-you-collect-unemployment-if-you-quit-your-job).
+
+## What Do You Need Before You Start?
+
+The DWD handbook lists what to have on hand:
+
+- A valid email address and a password for Uplink
+- Your full name, date of birth and address
+- Your Social Security number (your claim will not be processed without it)
+- A driver's license or state ID
+- Name, address and phone number of every employer in the last 2 years
+- Start and end dates for each of those jobs
+- The reason you are no longer employed at each one
+
+You must also verify your identity in Uplink. The handbook says a link appears on your Uplink homepage. The DWD also suggests watching its online filing tutorial first, since mistakes can delay a claim. If you have no internet access, you can use a computer at your local WorkOne. You can call the DWD Contact Center at 1-800-891-6499 for help.
+
+## How Do You File the Claim, Step by Step?
+
+1. **Go to the DWD Indiana Unemployment website and open Uplink.** Create your account.
+2. **Turn off your pop-up blocker.** The handbook warns that important information may appear in pop-ups.
+3. **Finish every screen in one sitting.** If you do not finish before 8:59 p.m. ET Saturday, you have to start over on another day, and the claim will not be backdated.
+4. **Choose how to get paid.** You can pick direct deposit to a U.S. bank account or a prepaid debit card. According to the DWD, if you do not choose, a debit card is issued automatically after 14 days.
+5. **Register for work.** You must register on IndianaCAREERconnect.com within 10 days of filing. The DWD says you will not be eligible until you do. A few people get a work search waiver, such as those in DWD-approved training or with a firm recall date within 60 days.
+
+## What Happens After You File?
+
+You will receive a monetary determination in your Uplink account. It shows your possible weekly benefit and the maximum total you can receive. Check the wages and employers listed. If something is wrong, the DWD says to follow the appeal instructions on that document.
+
+If you were let go for a reason other than lack of work, a DWD claims investigator reviews the reason. You may be asked to upload documents. Watch your Uplink account and email, and respond by the date given.
+
+## How Much Will You Get, and for How Long?
+
+The DWD handbook gives this formula: divide your total base period wages by 52, then multiply by 0.47, and round down to the next whole dollar. For example, $30,000 in base period wages works out to a $271 weekly benefit.
+
+The maximum weekly benefit is $390, which the handbook says is set by Indiana law. You can receive regular benefits for up to 26 weeks, or until you reach your maximum benefit amount. Try our [unemployment benefits calculator](https://www.benefitspath.org/unemployment-benefits-calculator) for a rough estimate, and see the [Indiana unemployment benefits page](https://www.benefitspath.org/unemployment-benefits-indiana) for a quick overview.
+
+## How Do Weekly Vouchers Work?
+
+The weekly voucher is how you ask for payment. According to the DWD:
+
+- Weeks run Sunday through Saturday.
+- A voucher covers the previous week and can be filed starting Sunday.
+- It must be done by 8:59 p.m. ET on Saturday. Late vouchers are not accepted, and you get no benefits for that week.
+- You must keep filing on time even if there is an issue holding up your benefits.
+
+Each voucher is a legal statement. By submitting it, you certify that you registered for work and did your work search. Read each question carefully.
+
+### Is There a Waiting Week?
+
+Yes. The DWD says there is a one-week waiting period after your initial claim with no benefits. You must file a voucher to serve it, and any wages earned that week must be reported.
+
+### What Counts as a Work Search?
+
+The DWD handbook says your weekly search must include at least two work search activities every week you file. Qualifying activities include applying for jobs online, by phone or in person, and certain WorkOne and online activities. Keep a log. The handbook says you must save it for six months, and benefits can be withheld or must be repaid if your searches cannot be verified.
+
+## What If You Work Part-Time or Get Severance?
+
+Report all wages on the voucher for the week you worked, even if you are paid later. The DWD says you may get partial benefits if your hours were cut or you take a part-time job that pays less than your weekly benefit amount. Severance pay is deducted from benefits, according to the handbook, and so are most pension distributions, dollar for dollar. Not reporting income can create an overpayment you must repay. See our guide on [unemployment overpayment notices](https://www.benefitspath.org/articles/unemployment-overpayment-notice-what-to-do).
+
+## What If Your Claim Is Denied in Indiana?
+
+You can appeal. The DWD says to appeal within 15 days of the date the determination was sent, and the deadline appears on your decision. You can appeal online through the "File Appeal" link in the Issue History section of Uplink, by fax to (317) 233-6888, by mail to the UI Appeals Division at 10 North Senate Ave, Indianapolis, IN 46204, or in person at that address.
+
+Key points from the DWD:
+
+- Keep filing weekly vouchers while the appeal is pending, and keep tracking your work search.
+- Hearings usually happen within 45 days of filing. Most are by phone, and if you miss the judge's call, the case may be dismissed.
+- You get a Notice of Hearing at least 10 days ahead.
+- There is no charge to file an appeal to an administrative law judge or the Review Board.
+- Keep proof of when you sent your appeal.
+
+Our [appeal guide](https://www.benefitspath.org/articles/how-to-appeal-unemployment-denial-2026-guide) and [appeal letter example](https://www.benefitspath.org/unemployment-appeal-letter-example) can help you organize your reasons. If your claim was denied, you can also find an employment attorney through BenefitsPath, and many offer a free first consultation. Missed the deadline? See our guide on [late appeals and good cause](https://www.benefitspath.org/articles/missed-unemployment-appeal-deadline-late-appeal-good-cause-2026).
+
+## Are Indiana Unemployment Benefits Taxable?
+
+Yes. According to the IRS (2026), you must include unemployment compensation in income. You can choose to have federal income tax withheld by filing Form W-4V. Your state should send a Form 1099-G showing the total paid in Box 1 and any withholding in Box 4. Our [tax guide](https://www.benefitspath.org/articles/are-unemployment-benefits-taxable-federal-state-tax-guide-2026) has more detail.
+
+## Frequently Asked Questions
+
+### Is my unemployment money taken out of my paycheck?
+No. The DWD says benefits are paid by employer premiums, and no money is deducted from your paycheck or taxes to pay them.
+
+### What if I miss a weekly voucher?
+The DWD says a late voucher is not accepted and you receive no benefits for that week. Mark Saturday evening on your calendar and file early in the week when you can.
+
+### Can I file if I live outside Indiana but worked here?
+Possibly. The handbook says claimants living outside Indiana must register for work in the job matching service in the state where they live, within 10 days of filing. Contact the DWD to confirm which state you should file in.
+
+### Can child support be taken from my benefits?
+Yes. The DWD handbook says that in certain child support cases, up to 50% of your benefits may be withheld.
+
+### Do I have to go to a WorkOne office?
+After your 4th week of benefits, the DWD says you must visit your local WorkOne for a review of your work search records and an orientation.
+
+## Sources
+
+- Indiana Department of Workforce Development, Unemployment Insurance Handbook, version July 2025: https://www.in.gov/dwd/files/Claimant_Handbook.pdf
+- Indiana Department of Workforce Development, Indiana Unemployment for Individuals (2026): https://www.in.gov/dwd/indiana-unemployment/individuals/
+- Indiana Department of Workforce Development, File an Appeal (2026): https://www.in.gov/dwd/indiana-unemployment/individuals/file-an-appeal/
+- Internal Revenue Service, Topic No. 418, Unemployment compensation: https://www.irs.gov/taxtopics/tc418
+
+Rules and amounts can change. Always confirm details with the Indiana Department of Workforce Development before you act.
+`,
+  },
+  {
     slug: 'does-pto-vacation-payout-affect-unemployment-benefits-2026',
     title: 'Does a PTO or Vacation Payout Affect Your Unemployment Benefits?',
     description: 'Got paid for unused vacation or PTO when you left your job? See how states treat the payout, when it can delay or reduce benefits, and what to report.',
