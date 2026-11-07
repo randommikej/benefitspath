@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'unemployment-appeal-hearing-what-to-expect-how-to-prepare-2026',
   'how-to-file-unemployment-indiana-2026-guide',
   'does-pto-vacation-payout-affect-unemployment-benefits-2026',
   'medicaid-after-job-loss-health-coverage-work-requirement-2026',

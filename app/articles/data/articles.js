@@ -4,6 +4,104 @@
 
 export const articles = [
   {
+    slug: 'unemployment-appeal-hearing-what-to-expect-how-to-prepare-2026',
+    title: 'Unemployment Appeal Hearing: What to Expect and How to Prepare',
+    description: 'Got a date for your unemployment appeal hearing? Here is how it runs, what to send ahead, how witnesses and subpoenas work, and how to prepare calmly.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-07',
+    updatedAt: '2026-11-07',
+    category: 'Unemployment Appeals',
+    tags: ['unemployment appeal hearing', 'appeal hearing prep', 'unemployment denial', 'hearing witnesses', 'subpoena', 'administrative law judge'],
+    readTime: '7 min read',
+    content: `
+## What Happens at an Unemployment Appeal Hearing?
+
+**An unemployment appeal hearing is a short, recorded conversation, usually by phone, where a hearing officer asks questions and you explain your side under oath.** Nobody is on trial. The officer wants to know the facts about why your job ended or why you were denied. You prepare by gathering your documents, lining up any witnesses, and being ready to describe what happened in your own words.
+
+This guide uses published guidance from three state agencies. Details differ by state, so your hearing notice is always the final word. This is general information, not legal advice.
+
+## Who Runs the Hearing and How Long Does It Take?
+
+Many states use an administrative law judge, hearing officer or appeals officer. According to the Utah Department of Workforce Services (2026), the judge runs the hearing as a "fact-finding conference call," and most separation hearings last 30 to 60 minutes. The judge records the call, explains the process, questions the parties and witnesses, and accepts documents.
+
+The Idaho Department of Labor (2026) describes a similar flow. The hearing officer confirms who is on the line, explains the procedure, identifies the issues and exhibits, and swears everyone in. Each side can then testify and call witnesses. The officer asks each witness questions first, and then the parties may ask theirs. At the end, each side can respond and make a final statement.
+
+## What Should You Do as Soon as You Get the Hearing Notice?
+
+Read it carefully and start preparing right away. The Alaska Department of Labor and Workforce Development (2026) says to begin as soon as you file your appeal, and warns that "you probably will not get another chance to present evidence after the hearing."
+
+Here is a simple checklist:
+
+- **Read the appeal file.** In Alaska, a copy of the agency's file is mailed with the hearing notice. In Utah, the documents listed as exhibits are sent with the Notice of Hearing. Check what the agency already has.
+- **Note the date, time and call-in instructions.** Idaho says the hearing is held by phone using a PIN from your notice, and the notice packet is mailed at least seven days before the hearing.
+- **Write down your timeline.** Dates, names and what was said. Short notes help you remember. Alaska notes you may use notes to refresh your memory, but you cannot read your testimony at the hearing.
+- **Ask for an interpreter if you need one.** Alaska says to call its office and one will be provided. Check whether your state offers the same.
+- **Pick a quiet spot with good phone reception** and keep your phone charged.
+
+## What Documents Should You Bring or Send?
+
+Send only what is relevant. Alaska lists examples such as time cards, payroll records, warning notices, company rules and medical reports. Others that often help include termination letters, emails or texts about why you left, and your doctor's note if health was the reason.
+
+Timing matters. Utah requires documents that were not already listed as exhibits to be sent to the Appeals Unit and to every other party at least three calendar days before the hearing, and the Appeals Unit will not forward them for you. Idaho says that if you need a document not in the packet, send it to the Appeals Bureau and make sure the other parties get a copy too. Alaska says to send copies to the Appeal Tribunal before the hearing and to include your docket number on every page of correspondence.
+
+Utah also says written evidence has to be explained: who prepared it, why it matters, and how it supports your case. Be ready to say that out loud.
+
+## How Do Witnesses Work?
+
+A witness is someone who saw or heard what happened firsthand, such as a coworker who heard what a manager said. Idaho says you are responsible for preparing your witnesses and making sure they are available at the hearing time, and you should give the agency their phone numbers. The hearing officer decides whether a witness is actually needed.
+
+Alaska adds that one credible witness is enough to cover the same facts, and repetitive or irrelevant testimony is not allowed. Utah says witnesses may wait off the call until they are called to testify, so tell yours to expect that.
+
+### What if a witness will not cooperate?
+
+You can ask for a subpoena, which is an official order to appear or to produce records. Alaska says the appeals officer will issue one at your request for a necessary witness, and you must provide the witness's name, current address, and a short explanation of why they are necessary. For a document you cannot get voluntarily, you must identify the document, who holds it, and why it matters.
+
+Idaho says to ask in writing and as soon as possible, and notes that the hearing officer decides whether to issue it. Utah says to ask the judge at least three days before the hearing. If a witness refuses, contact the appeals office right away rather than waiting.
+
+## How Should You Answer Questions at the Hearing?
+
+- **Answer the question that was asked.** Keep it short and factual.
+- **Stick to what you personally saw, said or did.** Utah warns that hearsay, which is secondhand information, is not convincing when it is disputed, and a decision cannot rest solely on unsupported hearsay.
+- **Stay calm and polite**, even if the employer's account sounds unfair. You can respond when it is your turn.
+- **Say so if you do not remember.** A guess can hurt your credibility.
+- **Do not contact the hearing officer outside the hearing.** Idaho says you may not have contact with the officer outside the recorded hearing, and Alaska notes the appeals officer cannot discuss the case issues with you beforehand.
+- **Do not hang up if the call drops.** Idaho says the hearing will not end if you lose your connection, so call back using your instructions right away.
+
+## Do You Need a Lawyer?
+
+Not always. Utah says most parties represent themselves, and that you may be represented by anyone at your own expense, not only a lawyer. If your case involves a misconduct finding, a large overpayment, or complicated facts, a consultation may help. If your claim was denied, you can find an employment attorney through BenefitsPath. For the basics of the process, see our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial), and if you need to draft a statement, see this [unemployment appeal letter example](/unemployment-appeal-letter-example).
+
+## What Happens After the Hearing?
+
+The officer issues a written decision. Utah says it usually arrives within 10 days of the completed hearing and will affirm, modify or reverse the decision under appeal. Timing varies by state. Utah also gives you 30 calendar days from the date of the decision to appeal to its Workforce Appeals Board, and the appeal must be in writing. Check your own decision letter for your state's deadline and keep it in a safe place, because missing a deadline can end your options.
+
+## FAQ
+
+### Is an unemployment hearing formal like a court trial?
+It is more relaxed than court, but you still testify under oath. In Utah, witnesses are subject to the state's perjury laws, so tell the truth.
+
+### Can I get a postponement if I am not ready?
+Rules differ by state, and some do not grant delays because evidence was late. Contact the appeals office as early as you can and ask what is allowed.
+
+### Will I get paid while my appeal is pending?
+It depends on your state and the issue. Keep filing your weekly claims unless your agency tells you otherwise, and ask how benefits are handled during an appeal.
+
+### What if I miss the hearing?
+Call the appeals office immediately. Many states allow you to explain why you missed it, but you may have only a short window. See our article on [missed appeal deadlines and good cause](/articles/missed-unemployment-appeal-deadline-late-appeal-good-cause-2026).
+
+### Does BenefitsPath file the appeal for me?
+No. BenefitsPath is a free information tool. You file with your state agency, and you can connect with an employment attorney through our site if you want legal help.
+
+## Sources
+
+- Utah Department of Workforce Services, Guide to the Unemployment Insurance Appeals Process: https://jobs.utah.gov/appeals/appealspamphlet.html
+- Idaho Department of Labor, Appeals Hearing: https://www.labor.idaho.gov/unemployment-benefits/appeals-hearing/
+- Alaska Department of Labor and Workforce Development, Preparing for the Hearing: https://dol.alaska.gov/appeals/aprepar.htm
+
+Rules, deadlines and procedures vary by state and can change. Always confirm details with your state unemployment agency and the instructions on your hearing notice.
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-indiana-2026-guide',
     title: 'How to File for Unemployment in Indiana: 2026 Step-by-Step Guide',
     description: 'Lost your job in Indiana? Learn how to file through Uplink, the $390 weekly maximum, weekly voucher deadlines, work search rules and how to appeal a denial.',
