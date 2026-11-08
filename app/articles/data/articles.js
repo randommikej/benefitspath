@@ -4,6 +4,117 @@
 
 export const articles = [
   {
+    slug: 'quit-job-for-health-or-family-illness-unemployment-benefits-2026',
+    title: 'Can You Get Unemployment If You Quit Because of Your Health or a Family Member\'s Illness?',
+    description: 'Quit your job for medical reasons or to care for a sick relative? See how states treat these quits, what proof helps, and what to do before you resign.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-08',
+    updatedAt: '2026-11-08',
+    category: 'Unemployment Eligibility',
+    tags: ['quit for medical reasons', 'good cause quit', 'family illness', 'unemployment eligibility', 'FMLA', 'doctor statement'],
+    readTime: '7 min read',
+    content: `
+## Can You Collect Unemployment If You Quit for Health Reasons?
+
+**Sometimes, yes. Quitting because of your own illness or a sick family member can count as "good cause" in many states, but it is not automatic, and the rules vary a lot.** Many states want proof, such as a doctor's note, and some want you to ask your employer for changes or leave first. You must also be able and available to work for the weeks you claim.
+
+This guide is a question-and-answer walk through how it works. It is general information, not legal advice.
+
+## Is Quitting Ever Covered by Unemployment?
+
+The U.S. Department of Labor says that voluntarily leaving work without good cause "is a reason for disqualification from benefits under all states' laws, though the definition of 'good cause' varies by state" (Comparison of State Unemployment Insurance Laws, 2022 edition).
+
+So the question is never "did I quit?" It is "did I have a reason my state accepts?" Health and family illness are on the list in many states, and not in others.
+
+## How Do States Treat Your Own Illness?
+
+The Department of Labor's 2022 comparison table sorts states by whether the rule for an individual's illness comes from a law, a regulation, or agency policy. Some states have no such rule at all. A footnote explains that some states attach conditions. They may require that:
+
+- the illness be related to work, or
+- a physician recommend or certify that you leave, or
+- the employer failed to provide accommodations, or
+- you told your employer or tried reasonable alternatives before leaving.
+
+Vermont is one example of a different approach. The same Department of Labor report says Vermont disqualifies a person for 1 to 6 weeks if they left work for health reasons, rather than for the whole period of unemployment.
+
+## What Does an Actual State Agency Say?
+
+Take Texas. The Texas Workforce Commission (2026) says that "most people who quit their jobs do not receive unemployment benefits." It then lists limited reasons that are not work-related but can still qualify, including that a personal medical illness or injury prevented you from working, or that you are caring for a minor child with a medical illness or a terminally ill spouse.
+
+Notice how narrow that is. Texas does not say "any family illness." It names specific situations. Your state will have its own list, so look for the wording on your state agency's site.
+
+## What About Quitting to Care for a Sick Family Member?
+
+The Department of Labor (2022) has a separate table for people who leave work for marital, domestic or family obligations. Many states appear on it, and a good number of them specifically include the illness or disability of a family member. Others cover family duties but not illness.
+
+Notes in that table show the strings attached in several states:
+
+- You may have to discuss the quit with your employer and try to keep the job.
+- In some states, all reasonable alternatives to quitting must have been pursued.
+
+If you are the caregiver, ask your state agency which family members count (child, spouse, parent) and how serious the illness must be.
+
+## Do I Have to Be Able to Work?
+
+Yes. This trips up many people. The Department of Labor explains that someone who left work because of illness may have a qualifying separation, "however, the individual may not be able to work or available to work." That kind of ineligibility lasts only until you are again able and available.
+
+In plain terms: if your doctor says you cannot work at all, you may not qualify for regular unemployment during that time, even if your quit was justified. You may need a different program, such as short-term disability, workers' compensation or state temporary disability insurance, where it exists.
+
+The Department of Labor also notes that nine states (Alaska, Delaware, Hawaii, Idaho, Massachusetts, Nevada, North Dakota, Tennessee and Vermont) let you stay eligible during an illness that begins after your claim starts, if you have not turned down suitable work. Several limit it to a few weeks.
+
+## What Proof Helps?
+
+States decide these cases on evidence. Useful items include:
+
+- A note from your doctor or other health professional that says working was harming your health or that you could not do the job. A note written at the time you quit usually carries more weight than one written months later.
+- Medical records or restrictions the employer received.
+- Emails or texts where you asked for schedule changes, lighter duties or time off, and the reply.
+- For family care, a provider's statement about the relative's condition and the care needed.
+- A short timeline: dates, who you spoke with, what they said.
+
+Keep copies. If your claim is denied, these are the papers you will use at an appeal hearing. Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) explains the next steps.
+
+## Should I Ask for Leave or Accommodation First?
+
+If you can, usually yes. Many states look at whether you tried to keep the job. Two federal options are worth asking about before you resign.
+
+The Family and Medical Leave Act (FMLA) can give eligible employees up to 12 workweeks of leave in a 12-month period for certain health and family reasons, according to the U.S. Department of Labor, Wage and Hour Division (Fact Sheet #28). To be eligible, you generally must have worked for a covered employer for at least 12 months, have at least 1,250 hours of service in the 12 months before leave starts, and work at a location where the employer has at least 50 employees within 75 miles. The employer may ask for information from your health care provider and must allow 15 calendar days to provide it.
+
+FMLA leave is job-protected but usually unpaid, and not everyone qualifies. Some states also have their own paid family or medical leave programs. A request for leave or accommodation, even one that gets denied, can also show your state agency that quitting was a last resort.
+
+## What If My Claim Is Denied?
+
+A denial is not the end. You can appeal, and the deadline is often short, so check your notice right away. Bring your medical papers and your timeline, and be ready to explain in plain words why you could not keep working. Our [unemployment appeal letter example](/unemployment-appeal-letter-example) can help you organize your points. If you want legal help, you can connect with an employment attorney through BenefitsPath.
+
+To get a rough idea of what your weekly benefit could be, try the [unemployment benefits calculator](/unemployment-benefits-calculator). If you are in Texas, see our [Texas unemployment page](/unemployment-benefits-texas) for state-specific details.
+
+## FAQ
+
+### Do I need a doctor's note to qualify?
+Not always, but it is the most common form of proof. Some states require a physician's recommendation or certification, and others weigh all the evidence. Get one if you can, and ask your doctor to say plainly that working was harming your health.
+
+### Can I qualify if I quit and then find out I could have taken leave?
+It depends on your state. Agencies often ask whether you tried reasonable alternatives. If you did not, explain why that was not possible, such as not being eligible for FMLA.
+
+### What if my employer fired me because of my illness instead?
+That is a different situation. A firing is judged on whether it was for misconduct, not on the reason you left. See our article on [being fired for misconduct](/articles/fired-for-misconduct-can-you-collect-unemployment-2026). Firing someone because of a disability or medical condition may also raise separate legal questions.
+
+### Does a short disqualification mean I get nothing?
+Not necessarily. Some states apply a limited disqualification period, and Texas, for example, says certain claimants may be disqualified for a set number of weeks and see a reduced maximum benefit amount, depending on the situation.
+
+### Can I get benefits while I recover from surgery?
+Regular unemployment requires you to be able and available to work. Ask your state agency about disability or paid medical leave programs for the recovery period.
+
+## Sources
+
+- U.S. Department of Labor, Comparison of State Unemployment Insurance Laws, Chapter 5, Nonmonetary Eligibility (2022): https://oui.doleta.gov/unemploy/pdf/uilawcompar/2022/nonmonetary.pdf
+- U.S. Department of Labor, Wage and Hour Division, Fact Sheet #28: The Family and Medical Leave Act: https://www.dol.gov/agencies/whd/fact-sheets/28-fmla
+- Texas Workforce Commission, Eligibility and Benefit Amounts: https://www.twc.texas.gov/programs/unemployment-benefits/eligibility-benefit-amounts
+
+Rules, deadlines and procedures vary by state and can change. Always confirm details with your state unemployment agency before you decide to leave a job or file an appeal.
+`,
+  },
+  {
     slug: 'unemployment-appeal-hearing-what-to-expect-how-to-prepare-2026',
     title: 'Unemployment Appeal Hearing: What to Expect and How to Prepare',
     description: 'Got a date for your unemployment appeal hearing? Here is how it runs, what to send ahead, how witnesses and subpoenas work, and how to prepare calmly.',
