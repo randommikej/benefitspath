@@ -1,5 +1,6 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import { captureRepFromUrl, getStoredRep } from '../../components/RepCapture'
 import Link from 'next/link'
 
 const S = {
@@ -21,6 +22,9 @@ export default function LawyerSignupPage() {
   })
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
+  const [rep, setRep] = useState('')
+
+  useEffect(() => { setRep(captureRepFromUrl() || getStoredRep()) }, [])
 
   const set = (k) => (e) => setForm((f) => ({ ...f, [k]: e.target.value }))
 
@@ -45,6 +49,7 @@ export default function LawyerSignupPage() {
           states: form.states ? form.states.split(',').map((s) => s.trim().toUpperCase()).filter(Boolean) : ['ALL'],
           tags: form.tags ? form.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
           bio: form.bio,
+          rep,
         }),
       })
       const data = await res.json()
@@ -77,14 +82,14 @@ export default function LawyerSignupPage() {
           {/* Header */}
           <div style={{ textAlign: 'center', marginBottom: 32 }}>
             <h1 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 34, marginBottom: 8 }}>Create your listing</h1>
-            <p style={{ color: '#5a524a', fontSize: 16 }}>$25/month · Cancel anytime · No contracts</p>
+            <p style={{ color: '#5a524a', fontSize: 16 }}>$250/month · Cancel anytime · No contracts</p>
           </div>
 
           {/* Price callout */}
           <div style={{ background: '#d8f3dc', border: '1px solid #b7e4c7', borderRadius: 14, padding: '16px 20px', marginBottom: 28, display: 'flex', alignItems: 'center', gap: 14 }}>
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2d6a4f" strokeWidth="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
             <div>
-              <div style={{ fontWeight: 600, color: '#1a1714', fontSize: 15 }}>Attorney Listing — $25/mo</div>
+              <div style={{ fontWeight: 600, color: '#1a1714', fontSize: 15 }}>Attorney Listing — $250/mo</div>
               <div style={{ fontSize: 13, color: '#2d6a4f' }}>Reach thousands of unemployed Americans seeking legal help</div>
             </div>
           </div>
@@ -135,7 +140,7 @@ export default function LawyerSignupPage() {
                   Redirecting to payment…
                 </>
               ) : (
-                <>Continue to Payment — $25/mo →</>
+                <>Continue to Payment — $250/mo →</>
               )}
             </button>
             <style>{`@keyframes spin { from { transform: rotate(0deg) } to { transform: rotate(360deg) } }`}</style>

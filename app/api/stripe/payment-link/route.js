@@ -1,4 +1,5 @@
 import Stripe from 'stripe'
+import { getListingPriceId } from '../../../../lib/listingPrice'
 
 // POST /api/stripe/payment-link — admin generates a reusable payment link
 export async function POST(request) {
@@ -8,13 +9,8 @@ export async function POST(request) {
   }
 
   const stripe = new Stripe(process.env.STRIPE_SECRET_KEY)
-  const priceId = process.env.STRIPE_PRICE_LISTING
-
-  if (!priceId) {
-    return Response.json({ error: 'Stripe price not configured' }, { status: 500 })
-  }
-
   try {
+    const priceId = await getListingPriceId(stripe)
     const paymentLink = await stripe.paymentLinks.create({
       line_items: [{ price: priceId, quantity: 1 }],
       after_completion: {

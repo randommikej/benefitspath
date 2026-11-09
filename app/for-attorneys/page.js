@@ -1,8 +1,9 @@
 import Link from 'next/link'
+import RepCapture from '../../components/RepCapture'
 
 export const metadata = {
-  title: 'Get Listed on BenefitsPath | Reach Unemployed Clients — $25/mo',
-  description: 'Advertise your employment law practice to thousands of unemployed Americans actively seeking legal help. $25/month, no contracts, cancel anytime.',
+  title: 'Get Listed on BenefitsPath | Reach Unemployed Clients — $250/mo',
+  description: 'Advertise your employment law practice to thousands of unemployed Americans actively seeking legal help. $250/month, no contracts, cancel anytime.',
 }
 
 export default function ForAttorneysPage() {
@@ -12,6 +13,7 @@ export default function ForAttorneysPage() {
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet" />
       <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: '#f7f5f0', minHeight: '100vh', color: '#1a1714' }}>
+        <RepCapture />
 
         {/* Nav */}
         <nav className="topnav">
@@ -37,7 +39,7 @@ export default function ForAttorneysPage() {
               BenefitsPath helps thousands of unemployed Americans every month understand their rights and find legal help. Your listing puts your firm directly in front of them.
             </p>
             <Link href="/lawyer-signup" style={{ display: 'inline-block', background: '#fff', color: '#2d6a4f', padding: '16px 36px', borderRadius: 14, fontWeight: 700, fontSize: 17, textDecoration: 'none' }}>
-              Start Your Listing — $25/mo →
+              Start Your Listing — $250/mo →
             </Link>
             <p style={{ marginTop: 14, fontSize: 13, opacity: 0.7 }}>No contracts. Cancel anytime.</p>
           </div>
@@ -50,7 +52,7 @@ export default function ForAttorneysPage() {
               ['10,000+', 'Monthly users'],
               ['50 states', 'Coverage'],
               ['High intent', 'Users need help now'],
-              ['$25/mo', 'Flat rate'],
+              ['$250/mo', 'Flat rate'],
             ].map(([num, label]) => (
               <div key={label} style={{ textAlign: 'center' }}>
                 <div style={{ fontFamily: "'Instrument Serif', serif", fontSize: 26, color: '#2d6a4f' }}>{num}</div>
@@ -67,7 +69,7 @@ export default function ForAttorneysPage() {
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: 24 }}>
             {[
               { step: '1', title: 'Create your listing', desc: 'Fill out a short form with your firm name, practice areas, states covered, and a brief bio.' },
-              { step: '2', title: 'Complete payment', desc: 'Secure $25/month subscription via Stripe. Cancel anytime — no lock-in, no contracts.' },
+              { step: '2', title: 'Complete payment', desc: 'Secure $250/month subscription via Stripe. Cancel anytime — no lock-in, no contracts.' },
               { step: '3', title: 'Go live instantly', desc: 'Your listing appears to users in your covered states who complete our eligibility flow.' },
             ].map(({ step, title, desc }) => (
               <div key={step} style={{ background: '#fff', borderRadius: 16, padding: 28, border: '1px solid #e5e0d8' }}>
@@ -109,7 +111,7 @@ export default function ForAttorneysPage() {
           <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 34, marginBottom: 8 }}>Simple pricing</h2>
           <p style={{ color: '#5a524a', marginBottom: 36 }}>One plan. One price. No surprises.</p>
           <div style={{ background: '#fff', border: '2px solid #2d6a4f', borderRadius: 20, padding: 40 }}>
-            <div style={{ fontFamily: "'Instrument Serif', serif", fontSize: 56, color: '#2d6a4f', lineHeight: 1 }}>$25</div>
+            <div style={{ fontFamily: "'Instrument Serif', serif", fontSize: 56, color: '#2d6a4f', lineHeight: 1 }}>$250</div>
             <div style={{ fontSize: 16, color: '#5a524a', marginBottom: 28 }}>per month</div>
             <Link href="/lawyer-signup" style={{ display: 'block', background: '#2d6a4f', color: '#fff', padding: '16px 24px', borderRadius: 12, fontWeight: 700, fontSize: 16, textDecoration: 'none', marginBottom: 16 }}>
               Get Listed Now →
@@ -142,7 +144,7 @@ export default function ForAttorneysPage() {
           <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 34, color: '#fff', marginBottom: 12 }}>Ready to get discovered?</h2>
           <p style={{ color: 'rgba(255,255,255,0.8)', marginBottom: 28, fontSize: 16 }}>Join employment attorneys helping Americans navigate their benefits.</p>
           <Link href="/lawyer-signup" style={{ display: 'inline-block', background: '#fff', color: '#2d6a4f', padding: '16px 36px', borderRadius: 14, fontWeight: 700, fontSize: 17, textDecoration: 'none' }}>
-            Create Your Listing — $25/mo →
+            Create Your Listing — $250/mo →
           </Link>
         </div>
 
