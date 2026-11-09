@@ -18,7 +18,6 @@ const topicPages = [
   'how-long-unemployment-benefits-take',
   'how-to-apply-for-unemployment',
   'unemployment-benefits-calculator',
-  'careers',
 ]
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
