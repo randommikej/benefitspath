@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'how-to-file-unemployment-arkansas-2026-guide',
   'quit-job-for-health-or-family-illness-unemployment-benefits-2026',
   'unemployment-appeal-hearing-what-to-expect-how-to-prepare-2026',
   'how-to-file-unemployment-indiana-2026-guide',

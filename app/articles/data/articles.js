@@ -4,6 +4,138 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-arkansas-2026-guide',
+    title: 'How to File for Unemployment in Arkansas: 2026 Guide to Your First Month',
+    description: 'Lost your job in Arkansas? Learn how to file at EZARC, the $451 weekly maximum, 12-week limit, 5 weekly work searches and how to appeal within 20 days.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-09',
+    updatedAt: '2026-11-09',
+    category: 'State Guides',
+    tags: ['arkansas unemployment', 'EZARC', 'file for unemployment', 'unemployment benefits arkansas', 'state guides', 'LAUNCH', 'weekly certification'],
+    readTime: '8 min read',
+    content: `
+## How Do You File for Unemployment in Arkansas?
+
+**File your initial claim online at EZARC, the Arkansas Division of Reemployment claim site, then verify your identity and certify every week through your Arkansas LAUNCH account.** According to the Arkansas Division of Reemployment (2026), the claim takes about 30 minutes, and you do not get paid for the first eligible week, called the waiting week. The most you can receive is $451 a week for up to 12 weeks per claim.
+
+This guide walks through the first month in order, so you know what to expect. It is general information, not legal advice.
+
+## What Does Your First Month Look Like?
+
+Here is the path from day one to your first payment, based on the Division of Reemployment's instructions:
+
+- **Day 1:** File your claim at EZARC (ezarc.adws.arkansas.gov).
+- **Within about 3 business days:** The Division says processing takes an average of 3 business days. Watch your mail for a monetary determination.
+- **Right away:** Prove your identity. The Division says you must do this before you can begin weekly certifications.
+- **After the determination arrives:** Create a LAUNCH account and link your claim using your Social Security number and date of birth.
+- **Every week:** Certify your week and enter your work search.
+- **Second week claimed:** Your first payment, if you are eligible.
+
+## Who Qualifies for Unemployment in Arkansas?
+
+You may receive benefits if you were laid off or had your hours cut, if you left a job for good cause related to the job (such as unsafe working conditions), or if you are unemployed because you or your child were victims of domestic violence, stalking or sexual assault. That is the Division's own list (2026).
+
+You may not receive benefits if you left for personal reasons not related to work, were fired for misconduct, are receiving workers' compensation, refused suitable work or a recall, or did not complete your required work search. You also must be able, available and legally allowed to work.
+
+Not sure? The Division says you can still file, and it will tell you whether you qualify. If you were fired or quit, read our guides on [being fired for misconduct](/articles/fired-for-misconduct-can-you-collect-unemployment-2026) and [quitting your job](/articles/can-you-collect-unemployment-if-you-quit-your-job).
+
+### How Does Arkansas Decide If You Have Enough Wages?
+
+The Division says your base period is the first 4 of the last 5 completed calendar quarters. Your employers report your wages for that time, and that decides whether you have enough to set up a claim and how much you could get. Wages from the last few months before you file may not count, so check the wages listed on your monetary determination.
+
+## What Do You Need Before You Start?
+
+According to the Division of Reemployment (2026), have these ready:
+
+- Your Social Security number (your name must match your Social Security card). Non-citizens use their Alien registration number.
+- Your mailing and physical addresses and your phone number
+- Your last employer's name and address
+- Union name and number, if you find work through a union
+- Bank routing and account numbers, if you want direct deposit
+
+You can apply online Monday to Friday, 6 a.m. to 6 p.m., and Sunday, 7 a.m. to 6 p.m. The site is in English only. For help, call the Unemployment Insurance hotline at 1-844-908-2178 or visit an Arkansas Workforce Center.
+
+## How Much Will You Get, and for How Long?
+
+The UI Handbook (2026) says the highest weekly benefit in Arkansas is $451, and you may qualify for up to 12 weeks per claim. Your own amount and number of weeks are on your monetary determination. Many older websites, and some older state pages, still say 16 weeks. The 2026 handbook says 12, so check your own determination.
+
+Try our [unemployment benefits calculator](/unemployment-benefits-calculator) for a rough idea, and see our [Arkansas unemployment benefits page](/unemployment-benefits-arkansas) for a quick overview.
+
+### What Is the Waiting Week?
+
+The handbook says the first eligible week on your claim is your waiting week. You still have to meet the rules and certify for that week, but you are not paid for it. According to the Arkansas Division of Workforce Services FAQ, it does not reduce your maximum benefit amount. Payment starts with the second week claimed.
+
+### How Are You Paid?
+
+You can choose direct deposit in LAUNCH. If you do not, the handbook says a U.S. Bank ReliaCard debit card is issued to you.
+
+## How Do Weekly Certifications Work?
+
+Every week you say you are still unemployed and meet the rules. According to the Division:
+
+- Weeks run Sunday through Saturday, and you can start filing for the previous week each Sunday.
+- File in LAUNCH (launch.arkansas.gov) or by phone through Arkline at 501-907-2590.
+- Report your hours worked and gross earnings, even if you were paid later.
+- Enter your work search activities. They must be submitted with the certification.
+- The Division says certifications are due by Saturday at 11:59 p.m. Central Time and no later than 14 days after the end of the week. Late filing may delay benefits.
+
+Missing weeks can close your account. The Division's pages are not fully consistent on how many missed weeks it takes, so if you miss any, call right away and reopen through EZARC if needed. Our guide on [reopening a claim](/articles/how-to-reopen-or-reactivate-unemployment-claim-2026-guide) can help.
+
+## How Many Work Search Activities Do You Need?
+
+The handbook says at least 5 qualifying work search activities each week. Qualifying activities include applying for a job that fits your skills, interviewing, attending a job fair (only one counts per week), and attending certain training. The handbook warns that these are subject to audit, and inaccurate or incomplete entries can lead to a decision and repayment of benefits. Keep your own records. See our [work search requirements guide](/articles/unemployment-work-search-requirements-2026).
+
+## What If You Work Part-Time?
+
+The Division says you may earn up to 40% of your weekly benefit amount with no effect on your benefit. Gross earnings at or above 140% of your weekly benefit amount are considered excessive. Full-time work, defined as 40 hours a week, disqualifies you. Report PTO and sick leave for the week taken, and severance or pension income is reviewed to decide which weeks it affects. Learn more in our guide on [working part-time while on unemployment](/articles/working-part-time-while-on-unemployment-2026).
+
+## What If Your Claim Is Denied in Arkansas?
+
+You can appeal. The UI Handbook says you have 20 days from the mailing date of the decision letter, called the Notice of Agency Determination, to appeal to the Appeal Tribunal. Count from the mailing date, not the day you opened it.
+
+You can send your appeal:
+
+- **By mail:** Arkansas Appeal Tribunal, P.O. Box 8013, Little Rock, AR 72203
+- **By email:** ADWS.UI.Hotline@arkansas.gov
+- **In person:** At any Arkansas Workforce Center
+
+The next levels are the Board of Review (another 20 days from the mailing date of the Tribunal decision) and the Arkansas Court of Appeals (30 days). The Division says a lawyer is optional at the first two levels and required at the Court of Appeals.
+
+Important: the Division says that if you are still unemployed during an appeal, you should keep certifying your weekly claims. If you miss the deadline, you must explain the delay, and appeals officers decide whether there was good cause. See our guide on [late appeals](/articles/missed-unemployment-appeal-deadline-late-appeal-good-cause-2026).
+
+Our [appeal guide](/how-to-appeal-unemployment-denial) and [appeal letter example](/unemployment-appeal-letter-example) can help you organize your reasons. If your claim was denied, you can find an employment attorney through BenefitsPath.
+
+## Are Arkansas Unemployment Benefits Taxable?
+
+Yes. The Division of Workforce Services says benefits are subject to federal income tax, and you may choose to have 10% of your weekly benefit withheld. Benefits must also be reported on your Arkansas state income tax return. See our [tax guide](/articles/are-unemployment-benefits-taxable-federal-state-tax-guide-2026).
+
+## Frequently Asked Questions
+
+### Is money taken out of my paycheck for unemployment?
+No. The Division says no unemployment tax is deducted from your pay. Employers pay a quarterly payroll tax that funds benefits.
+
+### Can I file by phone?
+The initial claim is filed online at EZARC. Weekly certifications can be filed by phone through Arkline at 501-907-2590 if you have no computer or mobile device.
+
+### What if I owe an overpayment?
+The Division says unpaid overpayments can be deducted from future benefits, and past-due legally enforceable overpayments of $25 or more may be offset through the Treasury Offset Program. See our guide on [overpayment notices](/articles/unemployment-overpayment-notice-what-to-do).
+
+### Who do I call about my claim?
+The Unemployment Insurance Service Center is 1-844-908-2178. Hours listed on the state's FAQ are Monday to Friday, 8 a.m. to 3:30 p.m. Hours can change, so check the state site.
+
+## Sources
+
+- Arkansas Division of Reemployment, Unemployment Insurance Handbook (2026): https://reemployment.arkansas.gov/wp-content/uploads/2026/07/UI-Handbook-2026-Final.pdf
+- Arkansas Division of Reemployment, Apply for Unemployment Insurance (2026): https://reemployment.arkansas.gov/unemployment-for-individuals/how-to/apply-for-unemployment-insurance/
+- Arkansas Division of Reemployment, File Weekly Certifications (2026): https://reemployment.arkansas.gov/unemployment-for-individuals/how-to/file-weekly-certifications/
+- Arkansas Division of Reemployment, Eligibility Requirements (2026): https://reemployment.arkansas.gov/unemployment-for-individuals/info/eligibility-requirements/
+- Arkansas Division of Reemployment, Appeals for Workers (2026): https://reemployment.arkansas.gov/unemployment-for-individuals/info/appeals-for-workers/
+- Arkansas Division of Workforce Services, Unemployment FAQ: https://dws.arkansas.gov/workforce-services/unemployment/faq/
+
+Rules and amounts can change. Always confirm details with the Arkansas Division of Reemployment before you act.
+`,
+  },
+  {
     slug: 'quit-job-for-health-or-family-illness-unemployment-benefits-2026',
     title: 'Can You Get Unemployment If You Quit Because of Your Health or a Family Member\'s Illness?',
     description: 'Quit your job for medical reasons or to care for a sick relative? See how states treat these quits, what proof helps, and what to do before you resign.',
