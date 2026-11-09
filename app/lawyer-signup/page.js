@@ -146,6 +146,7 @@ export default function LawyerSignupPage() {
             <style>{`@keyframes spin { from { transform: rotate(0deg) } to { transform: rotate(360deg) } }`}</style>
             <p style={{ textAlign: 'center', fontSize: 13, color: '#8a8078', marginTop: 14 }}>
               You'll be redirected to Stripe to complete payment securely. Cancel anytime.
+              <br />Questions? <a href="mailto:support@benefitspath.org" style={{ color: '#2d6a4f' }}>support@benefitspath.org</a>
             </p>
           </form>
 

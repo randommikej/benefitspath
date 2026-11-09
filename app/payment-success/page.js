@@ -23,7 +23,7 @@ export default function PaymentSuccessPage() {
           </p>
           <div style={{ background: '#f7f5f0', borderRadius: 12, padding: '16px 20px', marginBottom: 28, textAlign: 'left' }}>
             <p style={{ fontSize: 14, color: '#5a524a', margin: 0 }}>
-              You'll receive a confirmation email shortly. To update your listing or manage your subscription, email <strong>hello@benefitspath.org</strong>.
+              You'll receive a confirmation email shortly. To update your listing or manage your subscription, email <a href="mailto:support@benefitspath.org" style={{ color: '#2d6a4f' }}><strong>support@benefitspath.org</strong></a>.
             </p>
           </div>
           <Link href="/" style={{ display: 'inline-block', background: '#2d6a4f', color: '#fff', padding: '14px 32px', borderRadius: 12, fontWeight: 600, fontSize: 15, textDecoration: 'none' }}>

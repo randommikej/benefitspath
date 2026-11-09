@@ -95,7 +95,7 @@ export default function ForAttorneysPage() {
                 'Short bio visible to users',
                 'Listed to users in your covered states',
                 'Appears after eligibility quiz results',
-                'Cancel anytime from your dashboard',
+                'Cancel anytime by email',
               ].map((feature) => (
                 <div key={feature} style={{ display: 'flex', alignItems: 'flex-start', gap: 12, padding: '12px 0', borderBottom: '1px solid #f0ede6' }}>
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#2d6a4f" strokeWidth="2.5" style={{ marginTop: 2, flexShrink: 0 }}><polyline points="20 6 9 17 4 12"/></svg>
@@ -126,7 +126,7 @@ export default function ForAttorneysPage() {
             <h2 style={{ fontFamily: "'Instrument Serif', serif", fontSize: 34, marginBottom: 36, textAlign: 'center' }}>Common questions</h2>
             {[
               { q: 'Who sees my listing?', a: 'Users who complete our unemployment eligibility quiz and are located in your covered states. These are people actively seeking help — high-intent leads.' },
-              { q: 'How do I cancel?', a: 'You can cancel anytime by emailing us. Your listing stays active until the end of your billing period.' },
+              { q: 'How do I cancel?', a: 'You can cancel anytime by emailing support@benefitspath.org. No contract and no cancellation fee. Your listing stays active until the end of your billing period.' },
               { q: 'What states can I cover?', a: 'Any state or all 50. You choose when you sign up. You can email us to update your coverage.' },
               { q: 'How quickly does my listing go live?', a: 'Immediately after payment is confirmed — typically within a minute or two.' },
               { q: 'Is this a lead generation service?', a: 'We display your contact information to users who are looking for help. Users contact you directly — we do not charge per lead.' },

@@ -612,7 +612,7 @@ export default function BenefitsApp() {
           ))}
           <div className="psec"><h3>What we do not do</h3><ul><li>We do not sell your personal information to third parties</li><li>We do not share your data with advertisers</li><li>We do not use your information for targeted advertising</li><li>We do not store your SSN digits beyond your session</li></ul></div>
           <div className="psec"><h3>Data storage</h3><p>Responses may be stored in a secure database accessible only to the BenefitsPath team, used solely for service improvement and quality review.</p></div>
-          <div className="psec"><h3>Contact</h3><p>Questions? Email <strong>privacy@benefitspath.org</strong></p></div>
+          <div className="psec"><h3>Contact</h3><p>Questions? Email <a href="mailto:support@benefitspath.org"><strong>support@benefitspath.org</strong></a></p></div>
           <div className="bnav"><button className="btn bs" onClick={() => go(prevScreen || 'home')}>← Back</button></div>
         </div>
       )}
