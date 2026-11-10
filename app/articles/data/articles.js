@@ -4,6 +4,175 @@
 
 export const articles = [
   {
+    slug: 'waiting-for-first-unemployment-payment-how-to-cover-rent-utilities-bills-2026',
+    title: 'Waiting for Your First Unemployment Payment? How to Cover Rent, Utilities and Bills',
+    description: 'Waiting on your first unemployment check? A checklist for rent, mortgage, utilities and phone bills, plus LIHEAP, Lifeline, SNAP and 211 help while you wait.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-10',
+    updatedAt: '2026-11-10',
+    category: 'Job Loss Finance',
+    tags: ['unemployment waiting period', 'help paying bills', 'LIHEAP', 'Lifeline', 'rent help after job loss', '211', 'first unemployment payment'],
+    readTime: '9 min read',
+    content: `
+## What Should You Do If You Can't Pay Bills While Waiting for Unemployment?
+
+**Start by calling the people you owe before a bill goes unpaid, then apply for help that is built for this gap: energy assistance (LIHEAP), the Lifeline phone and internet discount, SNAP, and local help through 211.** Your first unemployment payment can take two to three weeks or longer, so the goal is to buy time and lower your costs until it arrives. This checklist walks through what to do, in order of urgency.
+
+This is general information, not legal or financial advice. Programs and rules change, so confirm details with your state agency and the program itself.
+
+## How Long Will You Wait for Your First Payment?
+
+Federal rules set the timeliness standard states are measured against. According to the U.S. Department of Labor's regulation at 20 CFR 640.5 (eCFR, 2026), states are expected to issue 87% of first payments within 14 days after the end of the first payable week in states with a waiting week, or within 21 days in states without one. They are expected to issue 93% within 35 days.
+
+In plain terms: most people are paid within a few weeks, but a meaningful share wait longer. Waits are often longer if your employer contests the claim, if there is an identity check, or if the state needs to review why you left your job.
+
+You can see typical timelines on our page about [how long unemployment benefits take](/how-long-unemployment-benefits-take). It also helps to know your likely weekly amount so you can plan. Our free [unemployment benefits calculator](/unemployment-benefits-calculator) gives you an estimate.
+
+## Checklist: The First 48 Hours
+
+If you have not done these yet, do them first. Each one either speeds up your payment or protects you from a missed one.
+
+- **File your unemployment claim right away.** Do not wait for a final paycheck or severance to clear. In most states, your claim starts the week you file, not the week you lost your job.
+- **Certify every week, even while you wait.** If your claim is pending, keep filing your weekly certifications. In most states, weeks you do not claim are not paid later.
+- **Answer every request fast.** Identity checks and fact-finding questionnaires are a common reason first payments stall.
+- **List your bills by due date.** Write down each bill, the amount, the due date, and what happens if it is late. That shows you which calls to make first.
+
+## Which Bills Should You Protect First?
+
+When money is short, most consumer advocates suggest putting essentials ahead of everything else. A simple order to think about:
+
+1. **Housing:** rent or mortgage.
+2. **Utilities:** electricity, heat, water.
+3. **Food and medicine.**
+4. **Transportation you need for work or job interviews.**
+5. **Phone and internet,** since you need them to certify and to job search.
+6. **Unsecured debt,** such as credit cards and medical bills.
+
+This is not a rule. It is a way to make sure the bills that keep a roof over your head and the lights on get your attention first.
+
+## What If You Can't Pay Your Rent?
+
+Talk to your landlord before the rent is late, not after. Many landlords would rather set up a short payment plan than start an eviction.
+
+When you call or write, keep it short and specific:
+
+- Tell them you lost your job and filed for unemployment, and give the date you filed.
+- Offer a specific plan, such as paying part now and the rest when your first payment arrives.
+- Ask them to confirm any agreement in writing, even by text or email.
+
+If your landlord will not work with you, call 211 (see below) to ask about local emergency rental help. Funding for rental help varies a lot by city and county, and some programs run out of money during the year. If you receive an eviction notice, contact a local legal aid office right away. Eviction rules and deadlines are set by state and local law.
+
+## What If You Can't Pay Your Mortgage?
+
+Call your mortgage servicer, the company you send payments to. Ask what options they have for borrowers who lost a job, such as forbearance (a temporary pause or reduction in payments) or a repayment plan.
+
+You do not have to do this alone. According to the Consumer Financial Protection Bureau (2026), "Housing counselors can develop a tailored plan of action and help you work with your mortgage company, at no cost to you." You can find a HUD-approved housing counselor through the CFPB's online search tool, listed in the Sources section below.
+
+Before you agree to forbearance, ask how the paused payments will be repaid. Some plans require a lump sum at the end, which can be hard if you are still out of work.
+
+## Can You Get Help With Electric and Heating Bills?
+
+Yes, possibly. The Low Income Home Energy Assistance Program (LIHEAP) is a federal program run by each state. According to USA.gov (2026), LIHEAP can "help you pay your heating or cooling bills or get emergency services during an energy crisis."
+
+### Who qualifies for LIHEAP?
+
+Eligibility is based on income, and USA.gov (2026) notes that "every state and territory has its own requirements." Under the federal LIHEAP law (42 U.S.C. 8624), a state's income limit generally cannot be higher than the greater of 150% of the poverty level or 60% of the state median income.
+
+Here is why this matters after a layoff: many programs look at your current or recent monthly income, not what you earned last year. If your income just dropped, you may qualify now even if you would not have before. Ask your local LIHEAP office how they count income and whether unemployment benefits are included.
+
+### How do you apply for LIHEAP?
+
+You apply through your state or territory, not the federal government. USA.gov (2026) says that in some cases you may be able to apply online, while other offices ask you to apply in person. Search for your state's LIHEAP office on USA.gov.
+
+### Two more utility tips
+
+- **Call your utility company.** Ask about payment plans, budget billing, or hardship programs. Many utilities have them, but they may not advertise them.
+- **Know your state's shutoff rules.** According to USA.gov (2026), each state sets its own rules about when a utility can disconnect electricity or gas for nonpayment. These may depend on the weather, your age, disability status, and the utility provider.
+
+## Can You Get a Discount on Your Phone or Internet?
+
+You need a working phone and internet to certify for benefits and to apply for jobs, so this bill matters more than it seems.
+
+Lifeline is a federal program that lowers the monthly cost of phone or internet service. According to the Lifeline program site run by the Universal Service Administrative Company (2026), eligible households can get a discount of up to **$9.25 a month** on phone, internet, or bundled service, or up to **$34.25 a month** on qualifying Tribal lands.
+
+### Who qualifies for Lifeline?
+
+According to Lifeline (2026), you can qualify in two ways:
+
+- **By income:** if your household income is at or below 135% of the 2026 Federal Poverty Guidelines. For a one-person household in the 48 contiguous states and D.C., that is **$21,546** a year, plus $7,668 for each additional person.
+- **By program:** if you or someone in your household gets Medicaid, SNAP, SSI, Federal Public Housing Assistance, or the Veterans Pension and Survivors Benefit.
+
+That second path is worth noticing. If you sign up for SNAP or Medicaid after losing your job, that alone may make you eligible for Lifeline. After you are approved, you contact a participating phone or internet company to apply the discount.
+
+## Can You Get Help With Food?
+
+Yes. SNAP (food stamps) is often the fastest way to stretch your budget, because it frees up cash for rent and utilities. Read our full guide to [SNAP after job loss](/articles/snap-food-stamps-after-job-loss-2026-guide) to see who qualifies and how to apply. Food banks are another option and usually do not require much paperwork.
+
+## What Is 211 and How Can It Help?
+
+211 is a phone line that connects you to local help. According to 211.org (2026), 211 is "available 24/7," and you can "simply call 211 to speak to someone now." It lists help with paying bills, housing expenses, utilities, and food programs.
+
+211 is especially useful when you do not know what exists in your area. Local charities, churches, and community action agencies often have small emergency funds for rent or utility shutoffs, and 211 can point you to them.
+
+## Should You Pull Money From a Retirement Account?
+
+Think carefully first. Withdrawing from a retirement account before age 59 and a half usually means paying income tax, and often an extra penalty.
+
+According to the IRS (2026), early distributions from traditional and Roth IRAs are generally subject to a 10% additional tax. The IRS lists several exceptions, including one for certain health insurance premiums paid after you have received unemployment compensation. Rules for 401(k) plans can differ from IRAs.
+
+Before you take money out, read our guide on [what to do with your 401(k) after job loss](/articles/401k-after-job-loss-rollover-cash-out-leave-it-2026-guide), and consider talking to a tax professional. Using a retirement account to cover a short gap of a few weeks is often an expensive fix.
+
+## What Should You Avoid While You Wait?
+
+- **High-cost short-term loans.** Payday loans and title loans can cost far more than the bill you are trying to pay.
+- **Ignoring bills.** Silence is usually what turns a late bill into a shutoff, eviction filing, or collection account.
+- **Skipping weekly certifications.** Missing a week can delay or reduce what you receive.
+- **Guessing on your claim.** Answer every question on your unemployment claim honestly. A wrong answer can lead to an overpayment you have to pay back later.
+
+## What If Your Claim Is Denied While You're Waiting?
+
+A denial does not have to be the end. You usually have a short window to appeal, often 10 to 30 days depending on your state, and the deadline is printed on your notice. Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) explains the steps, and you can use our [appeal letter example](/unemployment-appeal-letter-example) as a starting point.
+
+If your claim was denied and you want help from a lawyer, you can find an employment attorney through BenefitsPath.
+
+## Frequently Asked Questions
+
+### Can I get back pay for the weeks I waited?
+
+Usually, yes, if you are found eligible and you certified for each week. Your state typically pays the weeks you claimed once the issue is resolved. If you did not certify for a week, it may not be paid. Check with your state agency.
+
+### Does unemployment count as income for LIHEAP, SNAP, or Lifeline?
+
+It often does. Each program has its own rules for counting income. Report your unemployment benefits when you apply, and ask the program how it counts them.
+
+### Can I apply for help before my first unemployment payment arrives?
+
+Yes. You do not need to wait for an unemployment decision to apply for LIHEAP, SNAP, Lifeline, or local aid. Your lower income right now may be what makes you eligible.
+
+### Will asking my landlord or lender for a payment plan hurt my credit?
+
+Asking does not, by itself, affect your credit. What gets reported depends on the agreement and on whether payments are late. Ask your lender how any plan will be reported before you agree.
+
+### Is there one number I can call for local help?
+
+Yes. Dial 211 to reach someone who can point you to local programs for rent, utilities, and food.
+
+*Rules, income limits, and program funding change. Confirm current details with your state unemployment agency and each program before you rely on them.*
+
+## Sources
+
+- U.S. Department of Labor regulation, 20 CFR 640.5, Criteria for compliance (eCFR): https://www.ecfr.gov/current/title-20/chapter-V/part-640/section-640.5
+- USA.gov, Help with energy bills: https://www.usa.gov/help-with-energy-bills
+- Federal LIHEAP statute, 42 U.S.C. 8624 (Cornell Legal Information Institute): https://www.law.cornell.edu/uscode/text/42/8624
+- Lifeline (Universal Service Administrative Company), How to qualify: https://www.lifelinesupport.org/how-to-qualify/
+- Lifeline, program home page and discount amounts: https://www.lifelinesupport.org/
+- 211.org, Your local 211: https://www.211.org/about-us/your-local-211
+- Consumer Financial Protection Bureau, Help for homeowners: https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/
+- CFPB, Find a housing counselor: https://www.consumerfinance.gov/find-a-housing-counselor/
+- IRS, Topic no. 557, Additional tax on early distributions from traditional and Roth IRAs: https://www.irs.gov/taxtopics/tc557
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-arkansas-2026-guide',
     title: 'How to File for Unemployment in Arkansas: 2026 Guide to Your First Month',
     description: 'Lost your job in Arkansas? Learn how to file at EZARC, the $451 weekly maximum, 12-week limit, 5 weekly work searches and how to appeal within 20 days.',
