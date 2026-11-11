@@ -4,6 +4,185 @@
 
 export const articles = [
   {
+    slug: 'new-york-unemployment-system-upgrade-outage-what-to-do-2026',
+    title: "New York Unemployment System Down? What to Do During the November 2026 Upgrade",
+    description: "New York's unemployment system is offline for an upgrade. What it means for your payments, work search and new claims, and what to do when it comes back.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-11',
+    updatedAt: '2026-11-11',
+    category: 'State Guides',
+    tags: ['New York unemployment', 'NYSDOL system upgrade', 'unemployment payment delay', 'weekly certification', 'work search requirements', 'Unemployment Services NY'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: What Should You Do While New York's Unemployment System Is Down?
+
+**Keep doing your work search and writing it down, watch for the New York State Department of Labor's notice that the new system is live, and then file or certify there as soon as you can.** The Department says payments are delayed during the upgrade, but that you will receive all the benefits you are entitled to once you file or certify in the new system. You cannot file a new claim or certify by phone or online until the upgrade is finished.
+
+This is general information, not legal advice. Details can change day to day during a system launch, so check the Department's website for the latest updates.
+
+## What Is Happening With New York's Unemployment System?
+
+New York is replacing the system it uses to run unemployment insurance. The new system is called "Unemployment Services."
+
+According to the New York State Department of Labor (2026), the upgrade began on **Monday, November 2, 2026, at 5 p.m.** The Department said it expects the upgrade to take **9 to 12 days** to come fully online.
+
+During that time, the Department says **all online and phone-based unemployment insurance services are unavailable**. That means you cannot:
+
+- File a new unemployment claim
+- Certify for your weekly benefits
+- Look at or update your account information
+
+The Department posted an update on November 10, 2026, saying the upgrade "is proceeding as planned" and that all online and phone services for unemployment insurance were still unavailable. If the 9-to-12-day estimate holds, the new system would come online around November 11 to 14. That is an estimate, not a promise, so watch for the official notice.
+
+## Will You Still Get Paid for the Weeks the System Was Down?
+
+According to the New York State Department of Labor (2026), payments will be delayed during the upgrade. But the Department says that once the upgrade is complete and you file or certify in the new system, you "will receive all benefit payments to which [you] are entitled."
+
+In plain terms: the money is delayed, not cancelled, as long as you still qualify for those weeks. WAMC, a public radio station in Albany, reported in October 2026 that checks could be delayed by up to 12 days.
+
+The key step is on your side. **The delayed payments come after you file or certify in the new system.** If you wait weeks to log in, your payment will wait too.
+
+## Do You Still Have to Look for Work During the Outage?
+
+Yes. This is the step people are most likely to miss.
+
+The Department of Labor (2026) says you must keep completing and recording your work search activities during the upgrade. To stay eligible, you generally need to complete **at least three work search activities each week**, unless you are exempt.
+
+The Department's work search page says you must keep records of your activities, and that it regularly checks that people are meeting the requirement. It also says that working part-time counts as one work search activity.
+
+### What counts as a work search activity in New York?
+
+The Department of Labor lists examples such as:
+
+- Applying for jobs or sending your resume to employers
+- Interviewing with an employer
+- Going to job fairs, job search workshops or networking events
+- Meeting with a Career Center advisor or attending a Career Center workshop
+- Registering with staffing agencies, unions or school placement offices
+- Taking a job-related test, including a civil service exam
+- Using job websites, social media or the phone to find openings and leads
+
+### How should you keep your records?
+
+Write down each activity the day you do it. For each one, note:
+
+- The date
+- The employer or organization
+- The job or position
+- How you made contact (online, in person, phone, email)
+- The result (applied, interview set, no response yet)
+
+The Department offers a free **Work Search Record sheet (form WS5)** you can download and fill out. A notes app or a simple spreadsheet also works, as long as you keep it up to date. Save confirmation emails and screenshots of online applications too.
+
+When the new system opens, the Department says you will add your work search activities to your weekly certification. Having your records ready makes that step quick.
+
+For more on staying eligible, see our guide to [unemployment work search requirements](/articles/unemployment-work-search-requirements-2026).
+
+## What If You Lost Your Job During the Outage?
+
+You cannot file a new claim until the new system is live. That is frustrating, but there are things you can do now so you are ready on day one:
+
+- **Write down your last day of work** and the reason you were separated (laid off, hours cut, fired, quit).
+- **Gather your employer details:** each employer's name, address and phone number, and your dates of work for the last 18 months or so.
+- **Find your pay records:** recent pay stubs, your W-2 and any 1099 forms.
+- **Have your bank details ready** if you want direct deposit.
+- **Make sure you can log in to your NY.gov account.** The Department says most people will use their existing NY.gov login in the new system.
+- **Start your work search now** and record it, so you are not starting from zero.
+
+The Department has not published specific details about how it will handle claim start dates for people who lost their jobs during the outage. When you file, give your actual last day of work. If the start date on your claim looks wrong, ask the Department about it in writing through your account and keep a copy.
+
+To get a rough idea of what you might receive, you can try our free [unemployment benefits calculator](/unemployment-benefits-calculator). It is an estimate only; the Department makes the final decision.
+
+## How Will You Know When the New System Is Live?
+
+The Department of Labor says it will notify customers when the upgraded system is available. You can also:
+
+- **Sign up for text or email updates** on the Department's Unemployment Services page at dol.ny.gov/unemployment.
+- **Check that page directly.** The Department has been posting dated status updates there.
+
+Be careful with messages that claim to be from the Department. Scammers often take advantage of system changes. Go to the Department's website by typing the address yourself instead of clicking links in unexpected texts, and never share your password or one-time codes with anyone.
+
+## What Will Be Different in the New System?
+
+According to the Department of Labor (2026), the new Unemployment Services system is built so that:
+
+- You can **file and certify from any device, including a smartphone**
+- You can **check your claim status, send and receive messages, and upload documents** online
+- The system **prompts you for all required information before you file**, which the Department says should cut down on delays caused by missing details
+
+WAMC (2026) also reported that the new system adds support for screen readers and other assistive technology.
+
+New systems often have a learning curve. The Department has posted how-to videos for individuals on filing a claim, certifying weekly, changing payment details and asking for a hearing or appeal. Watching the filing and certifying videos before you log in can save time.
+
+## Can You Get Help From a Career Center Right Now?
+
+Yes, with limits. The Department of Labor (2026) says Career Centers are open virtually from **November 3 to November 27, 2026**, and you can book a virtual appointment online.
+
+These appointments can help with your job search, and meeting with a Career Center advisor is one of the activities the Department lists as a work search activity. However, the Department says staff **cannot answer unemployment insurance questions** during these appointments.
+
+## What If You Have a Hearing, Appeal or Deadline During the Outage?
+
+If you were waiting on a decision, a hearing or an appeal, keep every letter and notice you have received. Your determination notice tells you your deadline to request a hearing.
+
+If you think the outage made you miss a deadline, write down the dates and keep proof (for example, screenshots of the outage notice or the date you tried to file). Explain the situation to the Department as soon as the system is back. Our guide on [missed appeal deadlines and "good cause"](/articles/missed-unemployment-appeal-deadline-late-appeal-good-cause-2026) explains how late requests generally work.
+
+If your claim ends up denied, you have the right to appeal. Our step-by-step guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks you through it, and BenefitsPath can also help you find an employment attorney if you want legal help with your case.
+
+## How Can You Cover Bills While Payments Are Delayed?
+
+A late payment can make a tight month tighter. A few steps can help:
+
+- **Call your landlord, lender and utility companies before a bill is late.** Explain that your unemployment payment is delayed by a state system upgrade. Many will set up a short payment plan.
+- **Apply for SNAP** if your income has dropped. See our guide on [getting SNAP after job loss](/articles/snap-food-stamps-after-job-loss-2026-guide).
+- **Call or text 211** to find local help with rent, food and utilities.
+
+For a full plan, see our checklist on [covering rent, utilities and bills while you wait for unemployment](/articles/waiting-for-first-unemployment-payment-how-to-cover-rent-utilities-bills-2026). You can also review the basics on our [New York unemployment benefits page](/unemployment-benefits-new-york).
+
+## Your Outage Checklist
+
+- Keep doing at least three work search activities each week, and write them down
+- Download the WS5 Work Search Record sheet or keep your own log
+- Sign up for the Department's text or email updates
+- Confirm you can log in to your NY.gov account
+- Gather pay stubs, employer details and bank information
+- When the system is live, file or certify as soon as you can
+- Keep copies of every notice and any proof of missed deadlines
+
+## Frequently Asked Questions
+
+### Will I lose benefits because I could not certify during the outage?
+
+The Department of Labor says you will receive all benefits you are entitled to after you file or certify in the upgraded system. Keep meeting the work search requirement during the outage, because you still need to qualify for those weeks.
+
+### Can I call the Department of Labor while the system is down?
+
+The Department says all phone-based unemployment insurance services are unavailable during the upgrade. Virtual Career Center staff can help with job searching, but cannot answer unemployment insurance questions.
+
+### Do I need a new account for the new system?
+
+The Department says most people will be able to use their existing NY.gov login. Make sure you remember your username and password before the system opens.
+
+### How long will the outage last?
+
+The Department estimated 9 to 12 days starting November 2, 2026. As of its November 10 update, the upgrade was proceeding as planned. Check dol.ny.gov/unemployment for the latest status.
+
+### Does this affect employers?
+
+The Department says employers can keep filing Forms NYS-1 and NYS-45 through the NYS Department of Taxation and Finance during the upgrade.
+
+*Rules and timelines can change, especially during a system launch. Always confirm details with the New York State Department of Labor.*
+
+## Sources
+
+- New York State Department of Labor, "The New York State Department of Labor Announces Upgraded Unemployment Insurance System" (September 28, 2026): https://dol.ny.gov/news/unemployment/announcement
+- New York State Department of Labor, "Critical Unemployment Insurance System Upgrade Begins in 7 Days" (October 26, 2026): https://dol.ny.gov/news/critical-unemployment-insurance-system-upgrade-begins-7-days
+- New York State Department of Labor, Unemployment Services Upgrade status page (updated November 10, 2026): https://dol.ny.gov/unemployment
+- New York State Department of Labor, Unemployment Insurance Work Search Requirements and Recordkeeping: https://dol.ny.gov/services/ui/wsr
+- New York State Department of Labor, Unemployment Insurance How-to Videos for Individuals: https://dol.ny.gov/services/ui/videos
+- WAMC, "New Yorkers could see delays in November unemployment checks" (October 28, 2026): https://www.wamc.org/2026-10-28/ny-november-unemployment-checks-late
+`,
+  },
+  {
     slug: 'waiting-for-first-unemployment-payment-how-to-cover-rent-utilities-bills-2026',
     title: 'Waiting for Your First Unemployment Payment? How to Cover Rent, Utilities and Bills',
     description: 'Waiting on your first unemployment check? A checklist for rent, mortgage, utilities and phone bills, plus LIHEAP, Lifeline, SNAP and 211 help while you wait.',
