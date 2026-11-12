@@ -4,6 +4,184 @@
 
 export const articles = [
   {
+    slug: 'unemployment-denied-not-able-and-available-for-work-what-to-do-2026',
+    title: "Denied Unemployment for Not Being \"Able and Available\" for Work? What It Means and How to Respond",
+    description: "Got an able and available denial? Learn what the rule means, why claims get flagged for illness, child care, travel or hours, and how to answer or appeal.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-12',
+    updatedAt: '2026-11-12',
+    category: 'Unemployment Appeals',
+    tags: ['able and available', 'unemployment denial', 'weekly certification', 'unemployment appeal', 'availability for work', 'child care and unemployment', 'part-time availability'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: What Does an "Able and Available" Denial Mean?
+
+**It means your state decided you could not work, or were not free to take a job, during one or more weeks you claimed.** It is usually a week-by-week decision, not a judgment about why you lost your job, so it often affects only certain weeks. If the facts were wrong or misunderstood, you can explain them and appeal by the deadline printed on your notice.
+
+This is general information, not legal advice. Each state writes its own rules, so check your notice and your state agency's website for the details that apply to you.
+
+## What Does "Able and Available" Actually Mean?
+
+Every state requires it. Federal rules from the U.S. Department of Labor say a state "may pay UC only to an individual who is able to work and available for work for the week for which UC is claimed" (20 CFR 604.3, U.S. Department of Labor regulations, as published by Cornell Law School's Legal Information Institute, 2026).
+
+In plain words, there are two parts:
+
+- **Able** means you are physically and mentally able to do some kind of work.
+- **Available** means you are ready to take a suitable job right away, without limits that cut you off from most of the jobs in your field.
+
+Washington's Employment Security Department (2026) puts it this way: claimants need to be "ready, able and willing to immediately accept any suitable work offered," unless the department tells them otherwise.
+
+### Is it checked every week?
+
+Yes. That is why this denial often shows up after you are already getting paid. Each time you certify (file your weekly or biweekly claim), you answer questions about the week you are claiming. The federal rules look at "the week of unemployment claimed" (20 CFR 604.5, 2026).
+
+So if you were sick for one week in October, that week might be denied while the weeks before and after are paid.
+
+## Why Do People Get Denied for Not Being Able and Available?
+
+Most of these denials come from one of a few situations.
+
+### You answered "no" on a weekly certification
+
+This is the most common trigger. Virginia's Employment Commission (2026) says that if you were not able to work or not available during the week you claimed, you must answer "NO" on your weekly request, explain why, and a deputy will review your answer to decide if you are eligible that week.
+
+Answering honestly is always the right choice. A "no" answer is not automatically a denial. It starts a review.
+
+### You misread the question
+
+The U.S. Department of Labor (2026) says claimants "often misunderstand the intent of able and available questions," and that this can lead to people being wrongly disqualified. The Department lists two common mix-ups:
+
+- Some people think the question asks if they are free 24 hours a day, 7 days a week. It does not.
+- Some people answer about **today** instead of the **specific week** they are certifying for.
+
+If you answered "no" by mistake, say so right away. This is one of the easiest denials to fix.
+
+### You limited the hours, shifts or pay you would accept
+
+California's Employment Development Department explains in its Benefit Determination Guide (2026) that a claimant can be found ineligible for being unwilling or unable to work "the hours or shifts that are usual and customary" for their occupation. The same guide lists other limits that can lead to a denial, such as accepting only full-time work, only part-time work, or refusing work below a certain wage when there are few jobs at that pay.
+
+The same guide also shows the other side. California can find someone eligible even with some limits, for example when a part-time restriction meets the state's criteria. Small limits do not always mean a denial. The question is whether your limits cut you off from the real job market in your field.
+
+### You were sick, injured or in the hospital
+
+Illness can affect the "able" part. But federal rules give states room here. If you had already shown you were able and available after losing your job, a state may still treat you as able to work during an illness or injury, "unless the individual has refused an offer of suitable work due to such illness or injury" (20 CFR 604.4, 2026). The word is "may," so each state decides how it handles this.
+
+### You were caring for a child or family member
+
+Child care is a common reason for availability questions. If you could not have taken a job that week because no one else could watch your children or care for a family member, the state may find you unavailable. If you had care lined up, or could have arranged it quickly for a job, say so and explain how.
+
+### You traveled or went on vacation
+
+Being out of town can make you unavailable if you could not have come back to start a job that week. Rules on travel differ a lot by state, so check your state's guidance before you leave, and report the trip honestly on your weekly claim.
+
+### You were in school or job training
+
+School can raise availability questions. But federal rules say a state cannot deny benefits for not being available during a week when you are "in training with the approval of the State agency" (20 CFR 604.5, 2026). If your training was approved, point that out.
+
+## What About Jury Duty?
+
+Jury duty usually does not count against you. Federal rules say "attendance at jury duty may be taken as evidence of continued availability for work" for someone who had already shown they were available after losing their job (20 CFR 604.5, 2026). Keep your summons and proof you attended.
+
+## Is "Able and Available" the Same as the Work Search Rule?
+
+No, and mixing them up causes confusion. Federal rules say availability "does not require an active work search" (20 CFR 604.5, 2026), but most states add a separate work search requirement on top of it.
+
+Washington's Employment Security Department (2026) also notes that a waiver of the job search requirement is not a waiver of the able and available requirement. You can be excused from job searching and still need to be able and available. Our guide to [unemployment work search requirements](/articles/unemployment-work-search-requirements-2026) explains the other rule.
+
+## What Should I Do First After Getting This Denial?
+
+Use this short list to get organized.
+
+1. **Find the dates.** Look at which week or weeks the notice covers. It may be one week, or it may be "until further notice."
+2. **Find the appeal deadline.** It is printed on the notice. Deadlines are short in many states, so do not wait.
+3. **Find the reason.** The notice should say what the state thinks kept you from being able or available.
+4. **Gather proof.** Depending on your reason, this could be a doctor's note saying you can work, a child care schedule or enrollment letter, a training approval letter, a jury summons, travel dates, or a list of jobs you applied for.
+5. **Keep certifying.** In most states you should keep filing your weekly claims while you appeal. If you win, you can usually only be paid for weeks you claimed.
+
+## How Do I Show I Am Able and Available Now?
+
+If the problem has ended, make that clear. Because availability is judged week by week, showing that your situation has changed can matter for the weeks going forward.
+
+Things that can help:
+
+- A note from your doctor saying you are cleared to work, with or without limits.
+- Proof that child care is in place, such as a daycare enrollment letter or a written plan with a family member.
+- Your job search log showing you applied for full-time or customary-shift jobs in your field.
+- A short written statement saying the date your situation changed.
+
+## How Do I Appeal an Able and Available Denial?
+
+Each state has its own appeal steps, but the general approach is the same.
+
+### What should my appeal say?
+
+Keep it short and factual. Say which weeks you are appealing, why you believe you were able and available, and what proof you have. If you answered a question wrong by mistake, explain the mix-up in one or two sentences.
+
+Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks through the process, and our [unemployment appeal letter example](/unemployment-appeal-letter-example) shows how to lay out your points.
+
+### What might the hearing officer ask?
+
+Expect questions like these:
+
+- What days and hours could you work that week?
+- What kind of jobs are you looking for, and what hours do those jobs usually require?
+- Who watches your children while you work, and is that set up now?
+- What did your doctor say about your ability to work?
+- Were you out of town, and could you have come back for a job?
+
+Answer in your own words and stick to the facts. If you are not sure of a date, say so instead of guessing.
+
+### Should I get a lawyer?
+
+Many people handle these appeals on their own. If your case involves a large amount of money, an overpayment, or a medical or disability issue, talking to someone can help. If your claim was denied, you can find an employment attorney through BenefitsPath.
+
+## Can I Avoid This Problem in Future Weeks?
+
+A few habits make a big difference:
+
+- **Read each question slowly.** Answer for the week you are certifying, not for today.
+- **Answer honestly.** A false "yes" can lead to an overpayment and penalties later. An honest "no" with a clear explanation is better.
+- **Keep your limits realistic.** If you can only work certain hours, think about whether jobs in your field are open during those hours.
+- **Keep records.** Save doctor's notes, child care papers and your job search log in one place.
+- **Tell the agency when things change,** such as when you recover from an illness or get child care set up.
+
+*Rules change and differ by state. Always confirm the details with your state unemployment agency.*
+
+## Frequently Asked Questions
+
+### Does an able and available denial mean I have to repay benefits?
+
+It can if you were already paid for the weeks in question. If you get an overpayment notice, read our guide on [what to do about an unemployment overpayment notice](/articles/unemployment-overpayment-notice-what-to-do). You may be able to appeal or ask for a waiver, depending on your state.
+
+### Can I get unemployment if I can only work part time?
+
+Sometimes. California's guidance (2026) lists part-time-only availability as a possible reason for denial, but also shows that a claimant can meet the state's criteria for restricting to part-time work. The answer depends on your state and your situation.
+
+### If I was sick for one week, do I lose my whole claim?
+
+Usually not. Able and available is decided week by week. A sick week may be denied or reviewed, while other weeks can still be paid. Some states may treat you as able to work during a short illness, as allowed by federal rules.
+
+### I answered "no" by mistake. What should I do?
+
+Contact your state agency as soon as you can and explain the error. If you already got a denial, appeal by the deadline and explain what you meant. The U.S. Department of Labor (2026) has noted that misreading these questions is common.
+
+### Is a job search waiver the same as being excused from availability?
+
+No. Washington's Employment Security Department (2026) says a job search waiver does not waive the able and available requirement.
+
+## Sources
+
+- Cornell Law School Legal Information Institute, 20 CFR 604.3, General rule (U.S. Department of Labor regulation): https://www.law.cornell.edu/cfr/text/20/604.3
+- Cornell Law School Legal Information Institute, 20 CFR 604.4, Application: ability to work: https://www.law.cornell.edu/cfr/text/20/604.4
+- Cornell Law School Legal Information Institute, 20 CFR 604.5, Application: availability for work: https://www.law.cornell.edu/cfr/text/20/604.5
+- U.S. Department of Labor, UI Modernization, "Weekly certification": https://www.dol.gov/agencies/eta/ui-modernization/initial-application/weekly-certification
+- Virginia Employment Commission, "What happens if I am not able to or available for work?": https://www.vec.virginia.gov/FAQs/unemployment/what-happens-if-i-am-not-able-or-available-work
+- California Employment Development Department, Benefit Determination Guide, Able and Available AA 500, Reason for Decision: https://edd.ca.gov/en/UIBDG/Able_and_Available_AA_500_-_Reason_for_Decision
+- Washington Employment Security Department, glossary entry "Able and available": https://esd.wa.gov/node/569
+- Washington Employment Security Department, Job search requirements: https://esd.wa.gov/job-search
+`,
+  },
+  {
     slug: 'new-york-unemployment-system-upgrade-outage-what-to-do-2026',
     title: "New York Unemployment System Down? What to Do During the November 2026 Upgrade",
     description: "New York's unemployment system is offline for an upgrade. What it means for your payments, work search and new claims, and what to do when it comes back.",
