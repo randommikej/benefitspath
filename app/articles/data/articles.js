@@ -4,6 +4,143 @@
 
 export const articles = [
   {
+    slug: 'fired-for-attendance-absences-or-being-late-can-you-get-unemployment-2026',
+    title: "Fired for Attendance or Being Late? Can You Still Get Unemployment?",
+    description: "Fired for absences, tardiness or attendance points? Learn when it counts as misconduct, what helps your claim, and how to respond or appeal a denial.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-13',
+    updatedAt: '2026-11-13',
+    category: 'Unemployment Eligibility',
+    tags: ['fired for attendance', 'absenteeism and unemployment', 'tardiness', 'misconduct', 'attendance points', 'no call no show', 'unemployment denial'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: Can You Get Unemployment If You Were Fired for Attendance?
+
+**Often, yes.** Being fired for missing work or being late does not automatically disqualify you. Most states only deny benefits when the attendance problem counts as "misconduct," which usually means you missed work or came in late without a good reason, often after being warned. Absences caused by illness, a sick family member or a real emergency, reported the way your employer requires, usually do not count as misconduct.
+
+This is general information, not legal advice. Each state writes its own rules, so confirm the details with your state unemployment agency.
+
+## Why Does It Matter Whether You Were "Fired for Misconduct"?
+
+Unemployment is meant for people who lost work through no fault of their own. When an employer fires someone, the state asks one main question: was the firing for misconduct connected with the work?
+
+An employer can fire you for attendance. That is a separate question from whether you can collect benefits. Pennsylvania's unemployment office says it plainly: "Absenteeism alone may justify a discharge, but without a showing of wanton and willful disregard of the employer's interests, benefits cannot be denied" (Pennsylvania Department of Labor and Industry, UCP-41).
+
+In other words, your boss may have had the right to let you go, and you may still qualify.
+
+For a broader look at how misconduct works, see our guide on [being fired for misconduct](/articles/fired-for-misconduct-can-you-collect-unemployment-2026).
+
+## What Do States Look At in an Attendance Firing?
+
+The details vary by state, but the same questions come up again and again. Pennsylvania lists several factors it considers, including "the employer's rule for calling off, the method which the individual used in calling off, the reason for the last incident, the nature of the work, past attendance record, and previous warnings for absenteeism or tardiness" (Pennsylvania Department of Labor and Industry, UCP-41).
+
+California's EDD guide for its claim examiners asks similar questions: whether you had permission, whether you had a compelling reason, whether it was an isolated instance, and whether you had prior warnings (California EDD Benefit Determination Guide, Misconduct MC 15, 2026).
+
+Here is what each of those means for you.
+
+### Did you have a good reason?
+
+This is usually the biggest factor. California's guide says "Illness is generally a compelling reason for absence." It also lists caring for a sick family member, losing your private transportation with no reasonable alternative, and being subpoenaed to court as common examples of compelling reasons (California EDD, MC 15, 2026).
+
+Pennsylvania says that if you "have good cause for missing work, such as being ill or having an ill child, and reports off according to the employer's policy," your conduct generally does not rise to the level of willful misconduct (Pennsylvania Department of Labor and Industry, UCP-41).
+
+### Did you call in the right way?
+
+This trips up a lot of people. A good reason for missing work does not always excuse failing to tell your employer. California's guide says illness "is not automatically a compelling reason for failure to notify the employer" if you reasonably could have called (California EDD, MC 15, 2026).
+
+So if you were sick but did not call in when you could have, that may hurt your claim. If you were in the hospital and truly could not call, that is different.
+
+### Were you warned?
+
+Warnings matter a lot. Pennsylvania says that before you are discharged for absenteeism or tardiness, "the claimant must have been warned about such conduct" (Pennsylvania Department of Labor and Industry, UCP-41). It also notes that in some cases a single absence was enough to show willful misconduct, so a warning is not the only factor.
+
+In California, if your employer let earlier absences go without any reprimand, those absences are treated as accepted, and the final absence alone may not be misconduct (California EDD, MC 15, 2026).
+
+### Was it a one-time slip or a pattern?
+
+A single late arrival or missed shift usually counts less than a long pattern after warnings. California's guide says occasional or first-time lapses are generally not misconduct without warnings, but a single incident can still count if it caused serious, foreseeable harm (California EDD, MC 15, 2026).
+
+## Does Florida Treat Attendance Differently?
+
+Some states write attendance right into the law. Florida's definition of misconduct includes "Chronic absenteeism or tardiness in deliberate violation of a known policy of the employer or one or more unapproved absences following a written reprimand or warning relating to more than one unapproved absence" (Florida Statutes, section 443.036, 2025).
+
+That wording matters. In Florida, a key question is whether there was a known attendance policy, whether you broke it on purpose, and whether you got a written warning first. If you never received a written warning about multiple unapproved absences, say so when you talk to the state.
+
+If you live in Florida, our [Florida unemployment benefits page](/unemployment-benefits-florida) explains the basics of filing.
+
+## What About Being Late (Tardiness)?
+
+Being late is treated much like absences, but the reasons that count are narrower. California's guide says "Mere personal inconvenience, failure to allow ample traveling time to work, oversleeping, or missing the bus" are not reasonable excuses for repeated tardiness (California EDD, MC 15, 2026).
+
+On the other hand, an unexpected child care emergency or a car accident that was not your fault can be a compelling reason for being late, according to the same guide.
+
+## What If You Were Fired Under a Points System?
+
+Many employers use attendance points. You get points for each absence or late arrival, and you are fired when you hit a limit.
+
+Hitting the limit does not end the question for unemployment. Pennsylvania says that when someone is fired for building up attendance points, "all absences/tardiness will be reviewed to determine if any of the absences were justified." It adds: "Willful misconduct is not established if the claimant had good cause for any of the absences" (Pennsylvania Department of Labor and Industry, UCP-41).
+
+So if some of your points came from days you were sick and called in properly, point that out. Other states may weigh points differently, but it is always worth explaining the reason behind each absence.
+
+## What If Your Absences Were for Medical Leave?
+
+Some absences may have been legally protected. The federal Family and Medical Leave Act (FMLA) lets eligible employees take "12 workweeks of leave in a 12-month period" for reasons such as their own serious health condition or the birth of a child (U.S. Department of Labor, 2026).
+
+You are generally eligible for FMLA if you worked for a covered employer for at least 12 months, had at least 1,250 hours of service in the 12 months before leave, and work at a site with at least 50 employees within 75 miles (U.S. Department of Labor, 2026). Covered private employers generally have 50 or more employees.
+
+If you were fired for absences that should have been protected leave, mention it in your claim. You may also have a separate legal claim against your employer, which is a good time to talk with an employment attorney.
+
+## What Should You Do Right Now?
+
+Use this checklist whether you have just filed or just got a denial.
+
+1. **File your claim anyway.** Do not assume you are disqualified. The state, not your employer, decides.
+2. **Write a timeline.** List each absence or late arrival you remember, the date, the reason, and how you notified your employer.
+3. **Gather proof.** Doctor's notes, hospital records, texts or call logs showing you called in, car repair receipts, or court papers.
+4. **Find your attendance policy.** A handbook page or a copy of the point policy helps show what the rules actually were.
+5. **Collect any warnings.** Note whether you were warned, when, and whether it was in writing.
+6. **Answer the state's questions honestly and calmly.** Stick to facts. Focus on the reason for the last absence or late arrival, since states pay close attention to it.
+7. **Keep filing weekly claims** while you wait for a decision, if your state requires it.
+
+## What If Your Claim Is Denied?
+
+You have the right to appeal, and the deadline is usually short, so check your denial notice right away. At a hearing, a judge or hearing officer hears both sides. In Pennsylvania, the employer must first show the conduct was willful misconduct (Pennsylvania Department of Labor and Industry, UCP-41).
+
+Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks you through the process, and our [appeal letter example](/unemployment-appeal-letter-example) can help you put your reasons in writing. If your claim was denied, you can also find an employment attorney through BenefitsPath.
+
+## Frequently Asked Questions
+
+### I was a no-call, no-show once. Am I automatically denied?
+
+Not automatically. A single no-call, no-show can be treated as misconduct, especially after past warnings, but the state will look at why it happened and whether you could have called. If an emergency truly kept you from calling, explain it and bring proof.
+
+### My employer says I had too many points. Does that mean I lose benefits?
+
+No. A points limit is your employer's rule. The state looks at the reasons for your absences. In Pennsylvania, for example, every absence in a points firing is reviewed to see if any were justified.
+
+### Does a doctor's note guarantee I will get benefits?
+
+No document guarantees an outcome, but medical proof is often strong evidence that an absence had a good reason. Proof that you called in according to the policy also helps.
+
+### What if I was never warned about my attendance?
+
+That can help your case. Pennsylvania requires a warning before an attendance firing, and Florida's law refers to a written warning for repeated unapproved absences. Tell the state if you were never warned.
+
+### Should I quit before I am fired for attendance?
+
+Usually, quitting makes collecting benefits harder, because you then have to show good cause for leaving. Talk to your state agency or an attorney before making that choice.
+
+*Rules change and differ by state. Always confirm current details with your state unemployment agency.*
+
+## Sources
+
+- Pennsylvania Department of Labor and Industry, UCP-41, Unemployment Compensation Eligibility Issues: https://pa.gov/content/dam/copapwp-pagov/en/dli/documents/uc/ucp-forms/ucp-41.pdf
+- California Employment Development Department, Benefit Determination Guide, Misconduct MC 15 (Attendance): https://edd.ca.gov/en/UIBDG/Misconduct_MC_15
+- Florida Statutes, section 443.036, Definitions (misconduct): https://www.flsenate.gov/Laws/Statutes/2025/443.036
+- U.S. Department of Labor, Wage and Hour Division, Family and Medical Leave Act: https://www.dol.gov/agencies/whd/fmla
+`,
+  },
+  {
     slug: 'unemployment-denied-not-able-and-available-for-work-what-to-do-2026',
     title: "Denied Unemployment for Not Being \"Able and Available\" for Work? What It Means and How to Respond",
     description: "Got an able and available denial? Learn what the rule means, why claims get flagged for illness, child care, travel or hours, and how to answer or appeal.",
