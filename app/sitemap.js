@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'lost-job-cant-pay-federal-student-loans-unemployment-deferment-2026',
   'fired-for-attendance-absences-or-being-late-can-you-get-unemployment-2026',
   'unemployment-denied-not-able-and-available-for-work-what-to-do-2026',
   'new-york-unemployment-system-upgrade-outage-what-to-do-2026',

@@ -4,6 +4,169 @@
 
 export const articles = [
   {
+    slug: 'lost-job-cant-pay-federal-student-loans-unemployment-deferment-2026',
+    title: "Lost Your Job and Can't Pay Your Student Loans? 6 Steps to Pause or Lower Payments",
+    description: "Out of work with federal student loans due? Learn how unemployment deferment, income-driven repayment and recalculated payments can pause or lower your bill.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-14',
+    updatedAt: '2026-11-14',
+    category: 'Job Loss Finance',
+    tags: ['student loans after job loss', 'unemployment deferment', 'income-driven repayment', 'Repayment Assistance Plan', 'IBR', 'forbearance', 'money while unemployed'],
+    readTime: '8 min read',
+    content: `
+## Quick Answer: What Can You Do About Student Loans After a Job Loss?
+
+**If you have federal student loans, you can usually pause or lower your payments while you are out of work.** The two main tools are an **unemployment deferment**, which can pause payments for up to three years in total, and an **income-driven repayment plan**, which bases your bill on your current income and can drop it to a very small amount. Approval for unemployment benefits can be used as proof for the deferment.
+
+The worst move is to simply stop paying without telling anyone. The steps below walk you through what to do instead, in order.
+
+This is general information, not financial or legal advice. Federal student loan rules changed in 2025 and 2026, so confirm the details with your loan servicer or StudentAid.gov.
+
+## Before You Start: What Kind of Loans Do You Have?
+
+Everything in this guide depends on one thing: whether your loans are **federal** or **private**.
+
+- **Federal loans** come from the U.S. Department of Education. They include Direct Subsidized, Direct Unsubsidized, PLUS and Direct Consolidation Loans. These have the built-in protections described below.
+- **Private loans** come from a bank, credit union or online lender. Each lender sets its own hardship rules, and none of the federal options apply.
+
+You can see your federal loans by logging in to your account on StudentAid.gov. If a loan does not appear there, it is most likely private.
+
+## Step 1: Do Not Just Stop Paying
+
+When money is tight, skipping a student loan payment can feel like the easiest choice. But a missed payment without an approved pause can make your loan delinquent, and that can hurt your credit and lead to collection steps down the road.
+
+The fix is simple: contact your servicer **before** your next due date, tell them you lost your job, and ask what you qualify for. Your servicer's name and phone number are listed in your StudentAid.gov account and on your billing statements. Write down the date, the name of the person you spoke with, and what they told you.
+
+## Step 2: File for Unemployment If You Have Not Already
+
+This step matters for your loans, too. Under federal rules, one way to qualify for an unemployment deferment is by "providing evidence of eligibility for unemployment benefits" (34 CFR 685.204, U.S. Code of Federal Regulations, via Cornell Law School's Legal Information Institute, 2026).
+
+In plain words: the approval letter or payment record from your state unemployment agency can serve as your proof. If you have not filed yet, start today. Use the [BenefitsPath unemployment benefits calculator](/unemployment-benefits-calculator) to estimate your weekly benefit so you can plan your budget.
+
+If your unemployment claim was denied, you can still ask for a deferment using another kind of proof (see Step 3). You may also want to appeal the denial. Readers whose claim was denied can find an employment attorney through BenefitsPath.
+
+## Step 3: Ask for an Unemployment Deferment
+
+A deferment is an approved pause on your monthly payments. Here is what the federal regulation says about the unemployment deferment for Direct Loans (34 CFR 685.204, 2026):
+
+- **Who qualifies:** A borrower who is "seeking and unable to find full-time employment."
+- **How long it lasts:** Deferment periods that, added together, "do not exceed three years."
+- **The first request:** Your first deferment can cover unemployment that started up to six months before you asked, and it can run up to six months after the date of your request.
+- **Proof:** Either evidence that you are eligible for unemployment benefits, or a written statement that you have registered with an employment agency. For later requests, you also need to show at least six attempts to find full-time work in the past six months.
+
+### Does interest keep growing during a deferment?
+
+On some loans, yes. The same regulation says that on Direct Unsubsidized, Consolidation and PLUS Loans, interest "does accrue" during deferment and is either paid by you or added to your balance (34 CFR 685.204, 2026). Subsidized loans are treated differently. Ask your servicer how interest will work on each of your loans before you choose.
+
+If you can afford even a small amount, paying the interest during a deferment keeps your balance from growing.
+
+### How do you apply?
+
+You can request a deferment through StudentAid.gov or directly from your servicer. Keep paying, if you can, until you get written confirmation that the deferment is approved.
+
+## Step 4: Compare an Income-Driven Repayment Plan
+
+A deferment pauses your bill. An **income-driven repayment (IDR) plan** instead sets your bill based on what you earn now. For someone who has just lost a paycheck, that can be a very low amount, and in some cases zero. Unlike a deferment, months on an IDR plan generally count toward long-term loan forgiveness.
+
+The plan choices changed in 2026. Here is the current picture from official sources:
+
+### The Repayment Assistance Plan (RAP)
+
+The Repayment Assistance Plan is a new IDR plan created by the 2025 budget law. According to the Congressional Research Service (2025):
+
+- Payments range from 1% to 10% of your adjusted gross income (AGI) for incomes above $10,000.
+- If your AGI is $10,000 or less, the payment is **$10 a month**.
+- Your monthly payment drops by **$50 for each dependent**, but it cannot go below $10.
+- Unpaid monthly interest left over after your payment is not charged to you.
+- Any remaining balance is forgiven after 360 monthly payments (30 years).
+
+The New York City Department of Consumer and Worker Protection (2026) notes that RAP became available by July 1, 2026, and that for loans borrowed on or after July 1, 2026, RAP is the only income-driven plan available.
+
+### Income-Based Repayment (IBR)
+
+If you borrowed before July 1, 2026, you may still be able to use Income-Based Repayment. The federal regulation (34 CFR 685.209, 2026) bases IBR payments on income above 150% of the federal poverty guideline. If your income is at or below that level, your calculated payment can be **$0**.
+
+The NYC Department of Consumer and Worker Protection (2026) says that after July 1, 2028, IBR will be the only "old" income-driven plan still available.
+
+### What happened to the SAVE plan?
+
+According to the NYC Department of Consumer and Worker Protection (2026), the SAVE plan is no longer available. Borrowers who were enrolled in SAVE were to receive notices starting July 1, 2026, giving them 90 days to choose a new plan. If you were in SAVE and have not picked a new plan, contact your servicer now, especially before your income situation changes again.
+
+## Step 5: Already on an IDR Plan? Ask for a Recalculation
+
+Many people do not know this. If you are already on an income-driven plan, your payment was probably based on what you earned **before** you lost your job.
+
+You do not have to wait for your yearly renewal. The federal regulation says that if your payment does not reflect your current income, you "may request that the Secretary recalculate the payment amount," and it names "a loss of income or employment" as an example (34 CFR 685.209, 2026). You will need to show proof of your lower income.
+
+Unemployment benefits are taxable income, so tell your servicer about them when you report your new income. If you need a refresher, see our guide on [whether unemployment benefits are taxable](/articles/are-unemployment-benefits-taxable-federal-state-tax-guide-2026).
+
+## Step 6: Use Forbearance Only as a Short-Term Bridge
+
+Forbearance is another way to pause payments. It can be easier to get, but it can cost more over time if interest keeps building, so ask your servicer how interest works before you agree. Think of it as a short bridge, for example while your deferment or IDR paperwork is being processed, not as a long-term plan.
+
+## Do These Options Change in 2027?
+
+Yes, for newer loans. The federal regulation says that for loans first disbursed on or after **July 1, 2027**, a borrower "may not receive an unemployment deferment," and the economic hardship deferment also ends for those loans (34 CFR 685.204, 2026).
+
+If your loans were made before that date, these deferments remain available on those loans under the current rules. Before you consolidate or take out new federal loans, ask your servicer how it could affect which options you keep.
+
+## What If You Have Private Student Loans?
+
+Private lenders are not required to offer the federal options above. Many do offer short hardship programs, such as temporary forbearance or reduced payments. Call your lender, explain that you lost your job, and ask:
+
+- What hardship or unemployment programs do you offer?
+- How long does it last, and does interest keep building?
+- Will it be reported to the credit bureaus?
+- What do you need from me as proof?
+
+Get any agreement in writing.
+
+## Your Quick Checklist
+
+- Log in to StudentAid.gov and list every federal loan and your servicer.
+- File for unemployment and save your approval letter.
+- Call your servicer before your next due date.
+- Ask about an unemployment deferment and about the IDR plans you qualify for.
+- If you are already on an IDR plan, ask for a recalculation based on your current income.
+- Keep notes and copies of everything.
+- Call any private lenders separately.
+
+For help covering other bills while you wait for benefits, read our guide to [covering rent, utilities and bills while waiting for your first unemployment payment](/articles/waiting-for-first-unemployment-payment-how-to-cover-rent-utilities-bills-2026).
+
+## Frequently Asked Questions
+
+### Do I need to be getting unemployment benefits to get an unemployment deferment?
+
+No. Proof that you are eligible for unemployment benefits is one way to qualify. The other is a written statement that you have registered with an employment agency, plus proof of job search attempts for later requests (34 CFR 685.204, 2026).
+
+### How long can I pause my federal student loans after losing my job?
+
+Under the federal regulation, unemployment deferment periods can add up to a total of three years. Each request covers a limited period, so you may need to reapply.
+
+### Is a deferment or an income-driven plan better?
+
+It depends on your loans and your income. A deferment fully pauses payments, but interest may still build on some loans. An IDR plan may cost very little while your income is low, and those months generally count toward forgiveness. Ask your servicer to compare both for your loans.
+
+### Will a deferment hurt my credit?
+
+An approved deferment is an agreed pause, not a missed payment. What usually hurts credit is falling behind without an approved pause, which is why contacting your servicer early matters.
+
+### I found a job that pays less. Can my payment go down?
+
+If you are on an income-driven plan, you can ask your servicer to recalculate your payment based on your new, lower income (34 CFR 685.209, 2026).
+
+## Sources
+
+- U.S. Code of Federal Regulations, 34 CFR 685.204 (Deferment), via Cornell Law School Legal Information Institute: https://www.law.cornell.edu/cfr/text/34/685.204
+- U.S. Code of Federal Regulations, 34 CFR 685.209 (Income-driven repayment plans), via Cornell Law School Legal Information Institute: https://www.law.cornell.edu/cfr/text/34/685.209
+- Congressional Research Service, "The Repayment Assistance Plan (RAP) in P.L. 119-21, the FY2025 Reconciliation Law" (IF13075, July 2025): https://www.everycrsreport.com/reports/IF13075.html
+- NYC Department of Consumer and Worker Protection, "Key Changes in Federal Student Loan Repayment": https://www.nyc.gov/site/dca/talk-money/Student-Loans-Key-Changes.page
+- Federal Student Aid, Deferment: https://studentaid.gov/manage-loans/lower-payments/get-temporary-relief/deferment
+
+*Rules change. Always confirm the latest details with your loan servicer, StudentAid.gov and your state unemployment agency.*
+`,
+  },
+  {
     slug: 'fired-for-attendance-absences-or-being-late-can-you-get-unemployment-2026',
     title: "Fired for Attendance or Being Late? Can You Still Get Unemployment?",
     description: "Fired for absences, tardiness or attendance points? Learn when it counts as misconduct, what helps your claim, and how to respond or appeal a denial.",
