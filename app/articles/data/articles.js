@@ -4,6 +4,215 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-oklahoma-2026-guide',
+    title: 'Filing for Unemployment in Oklahoma? 2026 Answers on Pay, Job Searches and Appeals',
+    description: 'Lost your job in Oklahoma? Answers on filing with OESC, the $649 weekly max, 16-week limit, the new 3-search rule from Nov. 1, 2026 and 10-day appeals.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-15',
+    updatedAt: '2026-11-15',
+    category: 'State Guides',
+    tags: ['oklahoma unemployment', 'OESC', 'file for unemployment', 'unemployment benefits oklahoma', 'state guides', 'work search requirements', 'EmployOklahoma'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: How Do You File for Unemployment in Oklahoma?
+
+**You file online through the Oklahoma Employment Security Commission (OESC) claimant portal at claimantportal.oesc.ok.gov, after verifying your identity and creating an EmployOklahoma account with a published resume.** For 2026, weekly benefits are capped at **$649** and usually last up to **16 weeks**. After you file, you must certify every week and keep a record of your job search.
+
+One big change: a new state law that took effect **November 1, 2026** raises the weekly work search requirement. Details are below.
+
+This is general information, not legal advice. Rules change, so confirm the details with OESC or on your own notices.
+
+## Who Qualifies for Unemployment in Oklahoma?
+
+According to the OESC Claimant Handbook (2026), you generally need to meet five conditions:
+
+- **Enough past wages.** You must have earned at least **$1,500** during your base period, and your total base period wages must be at least **one and one-half times** your highest quarter.
+- **Job loss through no fault of your own.** Examples include a layoff or a cut in hours or pay that was not related to your performance.
+- **Able, available and looking for work.** You must be ready to take a job and do the required number of work searches each week.
+- **Registered for work.** You need a job seeker account on EmployOklahoma (employoklahoma.gov) with a resume that is uploaded **and published**.
+- **Verified identity.** You must verify your identity before you file, and again **every 90 days** while you file or receive benefits.
+
+### What is the "base period"?
+
+The OESC handbook (2026) defines the base period as the first four of the last five completed calendar quarters before your claim starts. If you file in November 2026, for example, your base period is usually July 2025 through June 2026.
+
+Once OESC sets up a claim that pays, the base period cannot be changed.
+
+### What if I quit or was fired?
+
+Quitting or being fired does not automatically rule you out, but OESC will look into why the job ended. That often means contacting your former employer. If there is a question about your claim, OESC investigates and mails you a written determination. You can appeal that decision if you disagree.
+
+## What Do I Need Before I Start My Claim?
+
+Gather these items first. OESC's unemployment page (2026) lists them:
+
+- Your Social Security number
+- Your mailing address, phone number and email
+- Your Oklahoma driver's license or state ID number
+- Your alien registration number and expiration date, if you are not a U.S. citizen
+- The name and address of each employer, as shown on a pay stub or W-2
+- Your start and end dates for each job
+- How much you earned and how often you were paid
+- Form SF-8 or SF-50 if you worked for the federal government in the last 18 months
+- Form DD-214 if you served in the military in the last 18 months
+
+**Tip:** Identity verification is timed. OESC says you have **15 minutes per session**, and your progress may be lost if you don't finish. Have your ID in hand before you begin. OESC accepts a driver's license, a state-issued ID or a resident (green) card online.
+
+## How Do I File the Claim, Step by Step?
+
+According to OESC (2026), the process works like this:
+
+1. **Create an account** on the claimant portal at claimantportal.oesc.ok.gov.
+2. **Verify your identity** in the portal.
+3. **File your initial claim** with your work history.
+4. **Set up EmployOklahoma.** Create a job seeker account and publish your resume. The OESC handbook warns that failing to publish a resume will stop your benefits from being paid.
+5. **Watch your mail and portal** for your Monetary Determination and any other notices.
+
+If you can't file online, you can call OESC at **405-525-1500** (Monday to Friday, 8:00 a.m. to 4:15 p.m.) or visit a local office. Office locations are listed at oklahoma.gov/oesc/locations.
+
+## How Much Will I Get Each Week?
+
+The OESC handbook (2026) explains the formula:
+
+**Your weekly benefit amount is 1/23 of your highest quarter of taxable wages in the base period, up to a maximum of $649 for 2026.**
+
+Here is how that works in practice:
+
+- Highest quarter of $6,900: weekly benefit of $300
+- Highest quarter of $11,500: weekly benefit of $500
+- Highest quarter of $14,000: weekly benefit of $608.70
+- Highest quarter of $16,000: $695.65 by the formula, so you get the $649 cap
+
+**How long does it last?** OESC says most people can receive benefits for up to **16 weeks**, though this can vary. At the $649 maximum, that is up to $10,384 in total.
+
+Your Monetary Determination letter will show your exact weekly amount, your maximum total and the employers counted. Check it carefully. If wages are missing, contact OESC right away.
+
+Want a rough estimate first? Try the [BenefitsPath unemployment benefits calculator](/unemployment-benefits-calculator).
+
+## Is There a Waiting Week in Oklahoma?
+
+Yes. OESC (2026) says your first week of eligible unemployment is the **waiting period, and no payment is issued for it**. The good news is that the waiting week does not reduce your total benefit amount.
+
+You still need to file a weekly certification for that first week so it counts.
+
+## How Do I Get Paid?
+
+OESC uses an outside company, Conduent, to issue payments. According to the OESC handbook (2026):
+
+- Eligible claimants are **mailed a debit card** after the waiting week is served.
+- After you receive and activate the card, you can choose to have money **transferred automatically** to your own bank account.
+- The card is valid for three years, but automatic transfers turn off after **six months of inactivity**.
+- For payment questions, contact Conduent at **(866) 320-8699** or goprogram.com.
+
+Never share your card PIN with anyone.
+
+## What Are the Weekly Certification Rules?
+
+You must certify every week to get paid. Here are the key rules from the OESC handbook (2026):
+
+- Each certification covers the **previous week**. The earliest you can file is the Sunday after a week of unemployment.
+- You must submit each certification **within 14 days** of the week-ending date.
+- Have your Social Security number or email, and your PIN or password, ready.
+- Report **all** work and earnings, including part-time, temporary and cash jobs like babysitting or mowing lawns.
+- Report other pay too, such as severance, vacation pay, holiday pay, bonuses and retirement income. OESC deducts earnings from your benefits for the week you report them.
+
+**If you disagree with a deduction,** the handbook says you must ask OESC for a determination first. Only then can you appeal.
+
+When you go back to full-time work, simply stop filing weekly certifications.
+
+## How Many Job Searches Do I Need Each Week?
+
+This is the rule that just changed.
+
+**The new law.** Senate Bill 1277 was approved by the Governor on May 11, 2026, according to the Oklahoma Legislature's bill record. It amends state law (40 O.S. Section 2-417) so that claimants must **conduct three weekly search actions, or more if OESC requires it** based on economic or geographic factors. The enrolled bill says the law **became effective November 1, 2026**.
+
+**What OESC's materials say.** The OESC Claimant Handbook (revised June 2026) and OESC's unemployment page still list a minimum of **two** work search efforts per week. Those were written before the new law took effect.
+
+**What this means for you:** Follow the number OESC gives you in the claimant portal or on your notices. If you are unsure, doing **at least three** documented searches every week is the safer choice. Call OESC at 405-525-1500 to confirm.
+
+### What counts as a work search action?
+
+Under the new law, acceptable actions include:
+
+- Sending a resume to an employer
+- Completing and submitting a job application
+- Attending and completing a job interview
+- Going to a work-related networking event sponsored by OESC, such as a job fair or job club
+- Taking part in reemployment services from OESC or another state employment service
+- Joining a volunteer training opportunity likely to lead to paid work
+- Taking a civil service exam for a government job
+- Building or uploading a complete resume in the state's job system
+- Other activities OESC approves
+
+### Other work search rules to know
+
+The OESC handbook (2026) adds a few more points:
+
+- Search for jobs you are willing and qualified to do, at pay you would accept, in an area where you would work.
+- You can repeat a search with the **same employer for the same job only every four weeks**. Applying for different jobs at the same company is fine.
+- Log every search on EmployOklahoma or OESC's Work Search Form, and **keep records for two years**. Searches can be audited.
+- Missing the required number can lead to a denial for that week and a possible overpayment.
+- People on a temporary layoff with a set return-to-work date may be exempt. Union members with a hiring hall must contact the hall each week.
+- If you are called for jury duty, the work search rules are waived while you serve under the original summons.
+
+## What If My Claim Is Denied?
+
+If OESC finds a problem, it will mail you a determination explaining why. **Act fast.** According to the OESC handbook (2026):
+
+- You have **10 calendar days from the mailing date** of the determination to appeal.
+- If the tenth day falls on a weekend or state holiday, the deadline moves to the next business day.
+- If the determination includes an **overpayment**, you have **20 days** from the mailing date. If the overpayment came from another decision, appeal both.
+- You can appeal **online, by mail, fax, phone or email**. The contact details are listed on your Notice of Determination.
+
+When you appeal, have your full legal name, Social Security number, phone number, the date of the determination, the section of law listed on it, and a clear explanation of why you disagree.
+
+**Keep certifying every week during your appeal.** OESC says that if you win, it pays all eligible weeks you certified. Weeks you skipped won't be paid.
+
+### How do I get ready for the hearing?
+
+OESC's appeals page (2026) lists two deadlines that are easy to miss:
+
+- **Register** for your hearing by **2:00 p.m. the business day before** it. For a Monday hearing, that means the Friday before. Registration is online at ok.c2tinc.com/register or by calling the Appeal Tribunal.
+- **Send your documents** to the Appeal Tribunal **at least five days before** the hearing. There is a 50-page limit.
+
+Not taking part in the hearing may result in a denial of benefits.
+
+For help writing your appeal, see our [unemployment appeal letter example](/unemployment-appeal-letter-example). For a full walk-through, read [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial). If your claim was denied and you want legal help, you can also find an employment attorney through BenefitsPath.
+
+## Do I Have to Pay Taxes on Oklahoma Unemployment?
+
+Unemployment benefits count as income. The OESC handbook (2026) says everyone who received benefits will get a **Form 1099-G** by January 31 of the following year. You will need it when you file your taxes.
+
+## Frequently Asked Questions
+
+### What is the maximum unemployment benefit in Oklahoma in 2026?
+
+According to the OESC Claimant Handbook (2026), the maximum weekly benefit is $649. Benefits typically last up to 16 weeks.
+
+### How long do I have to appeal an Oklahoma unemployment denial?
+
+You have 10 calendar days from the mailing date on the determination. For overpayment determinations, you have 20 days. Check the date on your own notice.
+
+### How many job contacts does Oklahoma require now?
+
+A state law effective November 1, 2026 requires three weekly work search actions, or more if OESC requires it. Older OESC materials still say two, so confirm with OESC and keep a record of every search.
+
+### Why did my Oklahoma benefits stop?
+
+Common reasons include a missed weekly certification (each is due within 14 days), an unpublished resume on EmployOklahoma, a lapsed 90-day identity check, a missed required appointment or a pending eligibility issue. Check your claimant portal and mail, then call OESC at 405-525-1500.
+
+For a broader overview of the state's program, visit our [Oklahoma unemployment benefits page](/unemployment-benefits-oklahoma).
+
+## Sources
+
+- Oklahoma Employment Security Commission, Claimant Handbook: A Guide to Unemployment Benefits (OES-339, Rev. 06-3-2026): https://www.oklahoma.gov/content/dam/ok/en/oesc/documents/forms/OES-339.pdf
+- Oklahoma Employment Security Commission, Unemployment for Individuals: https://oklahoma.gov/oesc/individuals/unemployment.html
+- Oklahoma Employment Security Commission, Appeals: https://oklahoma.gov/oesc/appeals.html
+- Oklahoma Legislature, Enrolled Senate Bill 1277 (2026): https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1277%20ENR.PDF
+- Oklahoma Legislature, SB 1277 bill history (2026): http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1277&Session=2600
+`,
+  },
+  {
     slug: 'lost-job-cant-pay-federal-student-loans-unemployment-deferment-2026',
     title: "Lost Your Job and Can't Pay Your Student Loans? 6 Steps to Pause or Lower Payments",
     description: "Out of work with federal student loans due? Learn how unemployment deferment, income-driven repayment and recalculated payments can pause or lower your bill.",
