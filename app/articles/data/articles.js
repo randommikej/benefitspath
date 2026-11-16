@@ -4,6 +4,165 @@
 
 export const articles = [
   {
+    slug: 'monetarily-ineligible-for-unemployment-missing-wages-what-to-do-2026',
+    title: 'Told You Are "Monetarily Ineligible" for Unemployment? What It Means and What to Do Next',
+    description: 'A "monetarily ineligible" notice usually means missing or low wages on file. How to check it, add wages, ask for an alternate base period and beat the deadline.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-16',
+    updatedAt: '2026-11-16',
+    category: 'Unemployment Appeals',
+    tags: ['monetarily ineligible', 'monetary determination', 'base period', 'alternate base period', 'missing wages', 'unemployment denial', 'request for reconsideration'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: What Does "Monetarily Ineligible" Mean?
+
+**"Monetarily ineligible" means the state did not find enough wages on record, in the right time window, to set up your claim.** It is about the numbers, not about why you lost your job. Very often it can be fixed: wages may be missing, your state may be able to use a more recent "alternate" time window, or you may be able to send proof of pay. The key is to act before the short deadline printed on your notice.
+
+This is general information, not legal advice. Every state has its own rules and deadlines, so always check your own notice and confirm details with your state unemployment agency.
+
+## What Is a Monetary Determination?
+
+Soon after you file, your state sends a notice that is often called a **monetary determination** (California calls its version the Notice of Unemployment Insurance Award). It lists the employers and wages the state has on file for you and says whether you qualify for a weekly benefit, and how much.
+
+According to the New York State Department of Labor (2026), the notice shows your maximum weekly benefit "if you are eligible," your benefit year, and the work history on file. If you do not get a benefit rate, the notice is supposed to explain why. New York says the letter usually arrives one to two weeks after you file.
+
+There are really two separate questions in any claim:
+
+- **Monetary eligibility:** Did you earn enough, in the right time period, to qualify? That is what this article covers.
+- **Non-monetary eligibility:** Why did you lose your job, and are you able and available to work? That is a different decision with its own notice.
+
+You can pass one test and fail the other. A "monetarily ineligible" notice does not mean the state has judged you did anything wrong.
+
+## Why Would You Be Found Monetarily Ineligible?
+
+The U.S. Department of Labor (2026) explains that each state decides eligibility under its own law, and that you must meet the state's requirements "for wages earned or time worked during an established period of time." That period is called the **base period**. In most states it is the first four of the last five completed calendar quarters before you filed.
+
+Common reasons people come up short include:
+
+- **Wages are missing.** An employer reported your pay late, reported it under the wrong Social Security number, or did not report it at all.
+- **Your most recent work does not count yet.** Because the standard base period skips the latest quarter, a new job you started a few months ago may not show up.
+- **You worked in more than one state.** Wages from another state will not appear on your home state's record unless you file a combined wage claim.
+- **You were paid as a contractor or "off the books."** Pay that was not reported as wages may not be on file at all.
+- **You simply did not earn enough.** Each state sets a minimum. For example, the California Employment Development Department (EDD, 2024) says you need at least $1,300 in one quarter of your base period, or at least $900 in your highest quarter plus total base period earnings of at least 1.25 times that amount.
+
+## What Should You Do If You Get This Notice? A Step-by-Step Plan
+
+### Step 1: Find the deadline on your notice right away
+
+These deadlines are short and they are strict. Some examples from official sources:
+
+- **Florida:** Under Florida law (Fla. Stat. 443.151, 2025), you may ask FloridaCommerce to reconsider a monetary determination within **20 days** after it is mailed. If you do not, the determination becomes final for you.
+- **New York:** The New York State Department of Labor (2026) gives **30 days** to request reconsideration to correct or add wages, **30 days** to request a hearing, and only **10 days** to request an alternate base period.
+
+Write the deadline on your calendar. If you are unsure, file your request early rather than late.
+
+### Step 2: Compare the wages listed to your own records
+
+Go line by line. Check each employer, each quarter, and each dollar amount. Look for:
+
+- An employer that is missing completely
+- A quarter that shows $0 when you know you worked
+- Amounts that look much lower than your pay stubs or W-2
+
+Also check that your name, Social Security number and date of birth are correct. California's EDD (2024) notes that eligibility can be affected if wages in your base period belong to another person or your Social Security number does not match federal records.
+
+### Step 3: Gather proof of your earnings
+
+You will usually need documents that show what you were paid and when. Useful records include:
+
+- Pay stubs
+- W-2 forms or 1099 forms
+- Your federal tax return
+- Bank statements showing direct deposits
+- A letter from the employer confirming dates and pay
+
+The New York State Department of Labor (2026) asks for pay stubs that add up to the earnings you list. If you have no pay stubs, it accepts other proof of earnings. If you have no documents at all, it asks for a written explanation, such as being paid in cash or as an independent contractor.
+
+### Step 4: File a request to correct or add wages
+
+Most states have a form or online option to fix wages on a monetary determination. The name varies: request for reconsideration, wage protest, or request for redetermination.
+
+In New York, the Department of Labor (2026) says you can file online in the Unemployment Services portal by opening the menu, choosing "Reconsider Benefit Rate," and then "Correct Wages or Employer Information." You can also fax or mail the form. The department may contact your employers to check the wages before it sends a revised determination.
+
+In Florida, the request goes to FloridaCommerce within the 20-day window. If you disagree with the new decision (called a redetermination), Florida law (2025) gives you another **20 days** from its mailing to file an appeal.
+
+### Step 5: Ask about the alternate base period
+
+If your recent wages are what you need, the **alternate base period** may help. It usually uses the four most recently completed quarters instead of skipping the latest one.
+
+States handle this differently:
+
+- **California:** The EDD (2024) says it will automatically file an alternate base period claim for you if you do not qualify under the standard base period. It may send you an Affidavit of Wages (DE 23A) asking for more wage details. Gather the documents it asks for and return them.
+- **New York:** You must ask for it yourself, and the Department of Labor (2026) gives you just **10 days**.
+
+Not every state offers an alternate base period, so check your state agency's website or ask when you call.
+
+### Step 6: Keep certifying every week
+
+This is the step people most often skip. While your request is under review, keep filing your weekly certification and doing your required job search. The New York State Department of Labor (2026) says you must continue certifying while your claim is under review.
+
+### Step 7: Appeal if the state still says no
+
+If your wages are corrected and you are still found ineligible, or your request is denied, you can usually appeal to a hearing officer. Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks through the process, including what to bring and what to expect.
+
+## What If You Worked in More Than One State?
+
+If some of your wages are in another state, those wages will not show up on your current state's monetary determination by default. Many states let you file a combined wage claim that pulls wages from more than one state together. Ask your state agency about this when you call, and have the names and dates of your out-of-state employers ready.
+
+## What If Your Employer Never Reported Your Wages?
+
+This happens with some small businesses and with workers who were labeled independent contractors. You can still send whatever proof you have. New York, for example, accepts a written explanation when you were paid in cash, off the books, or as a contractor (New York State Department of Labor, 2026). The state may then look into whether you should have been treated as an employee.
+
+If you believe you were misclassified as a contractor, or your employer is refusing to provide records, it may help to talk with an employment attorney. Readers whose claim was denied can find an employment attorney through BenefitsPath.
+
+## How Do You Estimate Whether You Should Qualify?
+
+Before you file a request, it helps to know roughly what your benefit should look like. Our [unemployment benefits calculator](/unemployment-benefits-calculator) gives a quick estimate based on your recent earnings. If the estimate shows you should qualify but your notice shows $0, that gap is a strong sign that wages are missing.
+
+## A Simple Checklist
+
+- Find the deadline on your notice and mark it on your calendar
+- Compare every employer and quarter to your own records
+- Collect pay stubs, W-2s, tax returns or bank statements
+- File a request to correct or add wages before the deadline
+- Ask whether an alternate base period applies, and how fast you must request it
+- Keep certifying every week and doing your job search
+- Appeal if the corrected decision is still a denial
+
+## Frequently Asked Questions
+
+### Is "monetarily ineligible" the same as being denied for how I lost my job?
+
+No. A monetary determination looks only at your wages and the time you worked. A separate decision looks at why you lost your job. You can be found monetarily eligible and still be denied for another reason, or the other way around.
+
+### Can I just file a new claim later instead?
+
+Sometimes. As new quarters finish, different wages may fall inside your base period. But waiting can cost you weeks of benefits, so it is usually better to first ask the state to correct missing wages or use an alternate base period if your state offers one.
+
+### What if I miss the deadline on my notice?
+
+In Florida, the monetary determination becomes final if you do not request reconsideration in time (Fla. Stat. 443.151, 2025). Some states accept late requests for "good cause." If you are past the deadline, contact your state agency right away and explain what happened.
+
+### Will fixing my wages change my weekly amount?
+
+It may. Adding missing wages can raise your weekly benefit or move you from $0 to a qualifying amount. The state will send a new determination with the updated figures.
+
+### Do I need a lawyer for this?
+
+Many people fix wage problems on their own with good records. Legal help can be useful if your employer disputes your work history, if you were misclassified as a contractor, or if your appeal is denied.
+
+## Sources
+
+- U.S. Department of Labor, Employment and Training Administration, Unemployment Insurance Fact Sheet: https://oui.doleta.gov/unemploy/uifactsheet.asp
+- New York State Department of Labor, Your Monetary Determination: https://dol.ny.gov/node/67571
+- New York State Department of Labor, What Is a Request for Reconsideration?: https://dol.ny.gov/request-reconsideration
+- Florida Statutes, Section 443.151 (2025): https://www.flsenate.gov/Laws/Statutes/2025/443.151
+- California Employment Development Department, For Your Benefit: California's Programs for the Unemployed (DE 2320, Rev. 67, 1-24): https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de2320.pdf
+
+*Rules and deadlines change. Confirm the details that apply to you with your state unemployment agency and the notices it sends you.*
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-oklahoma-2026-guide',
     title: 'Filing for Unemployment in Oklahoma? 2026 Answers on Pay, Job Searches and Appeals',
     description: 'Lost your job in Oklahoma? Answers on filing with OESC, the $649 weekly max, 16-week limit, the new 3-search rule from Nov. 1, 2026 and 10-day appeals.',

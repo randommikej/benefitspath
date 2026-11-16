@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'monetarily-ineligible-for-unemployment-missing-wages-what-to-do-2026',
   'how-to-file-unemployment-oklahoma-2026-guide',
   'lost-job-cant-pay-federal-student-loans-unemployment-deferment-2026',
   'fired-for-attendance-absences-or-being-late-can-you-get-unemployment-2026',
