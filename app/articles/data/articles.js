@@ -4,6 +4,137 @@
 
 export const articles = [
   {
+    slug: 'temp-staffing-agency-assignment-ended-can-you-get-unemployment-2026',
+    title: 'Your Temp Assignment Ended. Can You Get Unemployment From a Staffing Agency Job?',
+    description: 'Temp and staffing agency workers can often get unemployment when an assignment ends, but you may need to ask the agency for new work first. Learn how it works.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-17',
+    updatedAt: '2026-11-17',
+    category: 'Unemployment Eligibility',
+    tags: ['temp agency', 'staffing agency', 'temporary worker', 'assignment ended', 'unemployment eligibility', 'voluntary quit', 'reassignment'],
+    readTime: '8 min read',
+    content: `
+## Quick Answer: Can Temp Workers Get Unemployment?
+
+**Often, yes.** If you worked through a temp or staffing agency and your assignment ended through no fault of your own, you can usually file for unemployment like any other laid-off worker. But many states add one important step: **you may need to contact the staffing agency and ask for a new assignment before you file.** If your agency told you about that rule and you skip it, the state may treat you as if you quit.
+
+This is general information, not legal advice. Rules differ by state, so confirm the details with your state unemployment agency.
+
+## Who Is My Employer: the Agency or the Company Where I Worked?
+
+For unemployment purposes, your employer is usually the **staffing agency**, not the business where you showed up each day (often called the "client").
+
+- According to the Ohio Department of Job and Family Services (2025), "an individual hired by a temporary agency to perform services for a client is an employee of the temporary agency, not the client."
+- Texas law says the same thing. The Texas Workforce Commission (TWC) quotes Texas Labor Code Section 201.029: "a temporary help firm is the employer of an individual employed by the firm as a temporary employee."
+
+This matters for two reasons. First, when you file, you should list the **staffing agency** as your employer, using the agency's name and address from your pay stubs or W-2. Second, when the client company says "we don't need you anymore," that ends the **assignment**, but it does not always end your job with the agency.
+
+## Why Does It Matter Whether I Call the Agency?
+
+Because in many states, the end of an assignment is not automatically a layoff. The state wants to know whether the agency had other work for you.
+
+### What Ohio says
+
+The Ohio Department of Job and Family Services (2025) says that when the client no longer has work, "the individual must contact the temporary agency for additional work assignments. If they do not, they will be considered to have quit without just cause."
+
+Ohio's policy says you are **not** eligible if **all** of these are true:
+
+- You are given temporary assignments as a condition of your job
+- Your work agreement requires you to ask the agency for work at the end of each assignment
+- The agency has suitable work available
+- You do not contact the agency to ask about assignments
+
+Notice the word "all." If the agency had no suitable work, or your agreement did not require you to check in, this rule should not block your claim.
+
+### What Texas says
+
+The TWC (2026) quotes Texas Labor Code Section 207.045(h): a temporary employee is "considered to have left the employee's last work voluntarily" if the employee "does not contact the temporary help firm for reassignment on completion of an assignment."
+
+But there is a protection built in. That rule does not apply **unless the worker was told** two things: that they must contact the firm when an assignment ends, and that unemployment benefits may be denied if they do not.
+
+### What Florida says
+
+Florida's law is similar. Under Florida Statutes Section 443.101(10) (2025), a temporary or leased employee who, "without good cause," fails to contact the firm for reassignment at the end of an assignment is treated as having quit. That only applies if the employer told the worker **at the time of hire** that they must report for reassignment after each assignment, and that benefits may be denied if they do not. For leased employees, the law also requires notice at the time of separation.
+
+Florida adds a special rule for **day laborers** who work through labor pools. The labor pool must give written notice at the end of the assignment (for example, printed on the paycheck or in the pay envelope) that work is available the next business day and that the worker must report the next business day.
+
+### What about other states?
+
+Many states have some version of this rule, and the details vary. For example, Massachusetts Legal Services' UI Practice Manual explains that in Massachusetts, the worker must have been told **in writing** to contact the agency, and that if the agency itself tells you the assignment is over, that call or message can count as your contact. Check your own state agency's website or call them if you are not sure.
+
+## What Should I Do the Day My Assignment Ends?
+
+These steps protect you in almost every state, even if you are not sure what your state's rule is:
+
+1. **Contact the staffing agency right away.** Call, email or use the agency's app or portal, and ask plainly: "Do you have another assignment for me?" Do this before or at the same time you file.
+2. **Get it in writing if you can.** An email or text is easier to prove later than a phone call. If you call, write down the date, time, the name of the person you spoke to and what they said.
+3. **Look at your hiring paperwork.** Find any document that says you must check in after each assignment, and how. Follow the method it describes.
+4. **File your unemployment claim** if the agency has no work for you, or only offers work that is not suitable. List the agency as your employer.
+5. **Keep asking for work** while you are on unemployment, and keep doing your state's weekly job search. Contacts with the agency may count, but check your state's rules. Our guide to [unemployment work search requirements](/articles/unemployment-work-search-requirements-2026) explains how this usually works.
+6. **Report any temp work** you pick up during a week you claim. Partial weeks of work can reduce your benefit for that week, but often do not stop it completely.
+
+## What If the Agency Offers Me a New Assignment?
+
+This is where things get tricky. If the agency offers you **suitable** work and you turn it down without a good reason, your state may deny benefits for refusing work.
+
+Whether a job is "suitable" usually depends on things like pay compared to your past jobs, your skills, the distance to the job, and safety. A job that pays far less, is very far away, or is unsafe may not be suitable. Our article on [refusing a job offer while on unemployment](/articles/refusing-job-offer-while-on-unemployment-suitable-work-2026) explains how states look at this.
+
+If you do turn down an assignment, write down why. Be honest and specific when the state asks.
+
+## What If the Agency Says I Quit?
+
+Sometimes an agency reports that you "abandoned" the job or "failed to request reassignment" when you believe you did contact them. If your claim is denied for this reason:
+
+- **Read the denial notice carefully** and find the appeal deadline. Deadlines are short in many states.
+- **Gather proof** that you contacted the agency: emails, texts, call logs, app screenshots.
+- **Ask whether you were ever told about the rule.** In Texas and Florida, the law says the worker must have been advised of the duty to check in. If you never received that notice, say so in your appeal.
+- **Explain any good cause.** Florida's law includes a "without good cause" exception. If you could not contact the agency because of a medical emergency or another serious reason, explain it and include proof.
+
+Our step-by-step guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks you through the process. If your claim was denied and you want legal help, you can also find an employment attorney through BenefitsPath.
+
+## What If I Left the Assignment Myself?
+
+That is treated differently. If **you** chose to leave an assignment before it was finished, most states look at it as a voluntary quit, and you would generally need a good reason (sometimes called "good cause") connected to the job to qualify. Examples can include unsafe conditions or not being paid. See our guide on [whether you can collect unemployment if you quit your job](/articles/can-you-collect-unemployment-if-you-quit-your-job).
+
+If the client company **let you go early** (for example, they cut back or ended the project), that is usually not your quit. You should still contact the agency for a new assignment.
+
+## What If the Client Company Hired Me Directly?
+
+If the client hired you directly and later laid you off, the client is now your most recent employer, and you file based on that job. Your earlier wages through the agency may still count toward your benefit amount, because states usually look at all your covered wages in the base period. To see how wages are added up, try our [unemployment benefits calculator](/unemployment-benefits-calculator).
+
+## Frequently Asked Questions
+
+### Do I have to call the staffing agency before I file for unemployment?
+
+In many states, contacting the agency for a new assignment is expected, and skipping it can be treated as quitting, especially if the agency told you about this rule when you were hired. Contacting the agency right away and keeping proof is the safest move in any state.
+
+### How fast do I need to contact the agency?
+
+It depends on your state and your agency's paperwork. Some rules and agreements set a short window, such as the next business day. Check your hiring documents and follow the timeline they give. If none is listed, contact the agency as soon as possible.
+
+### What if the agency never told me I had to check in?
+
+In Texas and Florida, the law says the "failed to contact" rule applies only if you were told about it. Massachusetts requires written notice. If you were never told, say so clearly when the state asks, and in any appeal.
+
+### Will the agency's other assignments count against me if they are short?
+
+Short assignments are still work. Taking them may reduce your weekly benefit for those weeks, but it usually keeps you in good standing. You must report the work and the pay when you certify.
+
+### Can I get unemployment if I worked through more than one agency?
+
+Usually your wages from all covered employers in your base period count. Your most recent employer is the agency you last worked for, and that is the one the state will contact about why you are out of work.
+
+## Sources
+
+- Ohio Department of Job and Family Services, Unemployment Quit Policy (effective 9/30/2025): https://dam.assets.ohio.gov/image/upload/jfs.ohio.gov/EBS/Programs%20Rules%20and%20Resources/OUIO/Quit_Policy_Final.pdf
+- Texas Workforce Commission, UI Law Coverage Issues (Texas Labor Code Sections 201.029 and 207.045): https://efte.twc.texas.gov/ui_law_coverage_issues.html
+- Florida Statutes, Section 443.101 (2025): https://www.flsenate.gov/Laws/Statutes/2025/443.101
+- Massachusetts Legal Services, UI Practice Manual, Question 38: Employees of Temporary Help Agencies: https://www.masslegalservices.org/content/38-employees-temporary-help-agencies
+
+*Rules and deadlines change. Confirm the details that apply to you with your state unemployment agency and the notices it sends you.*
+`,
+  },
+  {
     slug: 'monetarily-ineligible-for-unemployment-missing-wages-what-to-do-2026',
     title: 'Told You Are "Monetarily Ineligible" for Unemployment? What It Means and What to Do Next',
     description: 'A "monetarily ineligible" notice usually means missing or low wages on file. How to check it, add wages, ask for an alternate base period and beat the deadline.',
