@@ -4,6 +4,196 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-arizona-2026-guide',
+    title: 'How to File for Unemployment in Arizona: 2026 Step-by-Step Guide',
+    description: 'Lost your job in Arizona? Step-by-step help filing with DES in CACTUS, the $320 weekly max, the 4-day job search rule, earnings limits and 15-day appeals.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-18',
+    updatedAt: '2026-11-18',
+    category: 'State Guides',
+    tags: ['arizona unemployment', 'Arizona DES', 'CACTUS', 'file for unemployment', 'unemployment benefits arizona', 'work search requirements', 'state guides'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: How Do You File for Unemployment in Arizona?
+
+**You file online with the Arizona Department of Economic Security (DES) through its unemployment system, called CACTUS.** Under Arizona law, the most you can get is **$320 a week**, usually for up to **24 weeks**. After you apply, you have to file a weekly claim and make **at least one job contact on four different days** each week to stay eligible.
+
+This guide walks through each step in order. It is general information, not legal advice. Rules change, so confirm the details with Arizona DES before you rely on them.
+
+## Step 1: Check Whether You Are Likely to Qualify
+
+Arizona looks at two things: **how much you earned** and **why you lost your job.**
+
+### Did you earn enough?
+
+Arizona Revised Statutes Section 23-771 (2026) says you must have earned enough wages during your "base period." That is a set window of past work, and DES lists it on the wage notice it sends you after you apply (often called a monetary determination). If wages are missing from that notice, you can ask DES to correct them. Our guide on what to do if you are told you are [monetarily ineligible](/articles/monetarily-ineligible-for-unemployment-missing-wages-what-to-do-2026) explains how.
+
+### Why did you lose your job?
+
+If you were laid off, your hours were cut, or your job ended through no fault of your own, you are usually in the best position.
+
+Two situations can lead to a denial. Under Arizona Revised Statutes Section 23-775 (2026), you can be disqualified if you:
+
+- **Quit "without good cause in connection with the employment,"** or
+- **Were fired for "wilful or negligent misconduct"** connected with the job.
+
+In both cases the disqualification lasts until you go back to work and earn **five times your weekly benefit amount**. Being fired is not the same as misconduct. Many people who are let go for poor fit or not meeting goals can still qualify.
+
+Arizona law also protects some people who leave a job. Section 23-771 says leaving work because of **documented domestic violence** does not disqualify you.
+
+## Step 2: Gather What You Need Before You Start
+
+Applying goes faster if you have this ready:
+
+- Your Social Security number and a photo ID
+- The name, address and phone number of each employer you worked for in the past two years
+- Your first and last day of work and the reason your job ended
+- Pay stubs, a W-2 or a 1099 if you have them
+- Your bank routing and account number if you want direct deposit
+- Any letter from your employer about the layoff or firing
+
+Write down your last day of work and what your employer told you. Notes made now are much more useful later than memory if there is a dispute.
+
+## Step 3: File Your Claim Online in CACTUS
+
+In September 2025, Arizona DES moved unemployment claims to a new system called the **Comprehensive Arizona Claims Tracking Unemployment Insurance System (CACTUS)**. According to ABC15 (2025), CACTUS launched on September 7, 2025. It is where you file your claim, submit weekly claims, answer eligibility questions, log your job search, track payments, and upload documents.
+
+To start, go to the DES unemployment page at des.az.gov/services/employment/unemployment-individual and follow the link to CACTUS.
+
+**File in the first week you are out of work.** Unemployment claims generally begin when you apply, not when your job ended, so waiting can cost you weeks of benefits.
+
+### What if the new system gives me trouble?
+
+You are not alone. FOX 10 Phoenix (2025) reported that some claimants faced long waits and stopped payments after the switch. DES told the station it was "making every effort to get Arizonans their UI benefits as quickly as possible" and said some claims need a case-by-case review. If your claim seems stuck, keep filing your weekly claims, check your CACTUS inbox and mail often, and save screenshots of every step.
+
+## Step 4: Understand How Much You Will Get
+
+### How is the weekly amount figured?
+
+Arizona Revised Statutes Section 23-779 (2026) sets your weekly benefit at **1/25 of your wages in the highest-paid quarter of your base period.** That is the same as 4%. The amount is rounded to the nearest dollar.
+
+The law caps the weekly benefit at **$320** for claims since mid-2022.
+
+Two quick examples:
+
+- If you earned **$6,000** in your best quarter, 1/25 of that is **$240 a week.**
+- If you earned **$10,000** in your best quarter, 1/25 is $400, but the cap brings it down to **$320 a week.**
+
+Your actual amount will be on your DES wage notice. You can also get a rough estimate with our [unemployment benefits calculator](/unemployment-benefits-calculator).
+
+### How many weeks can I get?
+
+Arizona Revised Statutes Section 23-780 (2026) ties the length of benefits to the state's unemployment rate in the prior quarter:
+
+- **24 times your weekly amount** if the rate was **under 5%**
+- **26 times your weekly amount** if the rate was **5% or higher**
+
+There is a second limit. You cannot get more than **one-third of your total base period earnings** in a benefit year. That means people with short or uneven work histories may get fewer weeks than the maximum.
+
+### Is there a waiting week?
+
+Yes. Section 23-771 says you must be unemployed for a **waiting period of one week** before benefits are paid. You still file a weekly claim for that week, but it is not paid.
+
+## Step 5: File a Weekly Claim Every Week
+
+Applying only starts the process. To get paid, you must file a **weekly claim** in CACTUS for each week you want benefits. In it, you will answer questions about whether you worked, whether you were able and available for work, and what you did to look for a job.
+
+**Do not skip weeks,** even if your claim is pending or you have appealed a denial. If DES later approves you, it can generally only pay the weeks you claimed.
+
+### What if I work part-time while on unemployment?
+
+You can still get a partial payment. Under Section 23-779 (2026), DES subtracts the part of your weekly earnings that is **over $160** from your benefit.
+
+Example: your weekly benefit is $300 and you earn $260 in a week. That is $100 over $160, so you would get about **$200** that week. Always report your gross earnings for the week you did the work, not the week you were paid. Not reporting work is one of the most common causes of an overpayment.
+
+## Step 6: Meet Arizona's Work Search Rule
+
+Arizona law spells out the job search rule. Section 23-771 (2026) says you must make a "systematic and sustained effort to obtain work" during **at least four days of the week**, and make **at least one job contact per day on four different days** of the week.
+
+Good habits:
+
+- Make your contacts on four separate days, not all on one day.
+- Apply for jobs you are qualified for and would really take.
+- Log each contact in CACTUS when it asks: the date, employer, job title, and how you applied.
+- Keep your own copy, such as screenshots or a simple notebook, in case DES reviews your search later.
+
+### Didn't Arizona change this to five work searches?
+
+Not as of this writing. In 2026, the Legislature passed Senate Bill 1036, which would have required at least **five work search actions** each week plus a weekly report. According to the Arizona Legislature's bill summary (2026), the governor **vetoed** it. So the four-day, four-contact rule in current law still applies. If that changes, DES should tell claimants, so watch your CACTUS messages.
+
+## Step 7: Know Your Appeal Deadline If You Are Denied
+
+If DES denies your claim, it will send you a written decision, called a determination. **The deadline is short.**
+
+According to Arizona Revised Statutes Section 23-773 (2026), a determination becomes final unless you appeal within:
+
+- **15 calendar days** after it was **mailed** to your last known address, or
+- **7 calendar days** after it was **delivered** to you another way.
+
+You can also ask DES to reconsider instead of appealing right away, but you must ask before the appeal deadline runs out. You only get one reconsideration request per case. If DES denies the reconsideration, the law treats it as an appeal.
+
+### What happens after I appeal?
+
+Your case goes to a hearing in front of an Appeal Tribunal. Section 23-671 (2026) says all parties get "reasonable opportunity for a fair hearing." If you lose at the hearing, you can ask the Appeals Board to review the decision within **30 days** after the decision is mailed or sent electronically.
+
+To prepare, gather your notes, any termination letter, texts or emails, and the names of anyone who saw what happened. Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks through the process, and our [appeal letter example](/unemployment-appeal-letter-example) shows how to explain your side clearly. If your claim was denied and you want help, you can also find an employment attorney through BenefitsPath.
+
+## Step 8: Plan for Taxes on Your Benefits
+
+The IRS (2026) says "you must include in income all unemployment compensation you receive." DES should send you a **Form 1099-G** showing what it paid you. You can ask to have federal tax withheld by filing **Form W-4V**.
+
+For state taxes, the Arizona Department of Revenue (2026) says residents are taxed "on the same income they report for federal income tax purposes." Setting a little aside each week can prevent a surprise bill next spring.
+
+## Quick Checklist
+
+- Apply online in CACTUS the first week you are out of work
+- Check your wage notice and fix missing wages fast
+- File a weekly claim every single week
+- Make job contacts on four different days each week and log them
+- Report all part-time earnings for the week you worked
+- Watch your mail and CACTUS inbox for deadlines
+- Appeal within 15 days of the mailing date if you are denied
+
+## Frequently Asked Questions
+
+### What is the maximum unemployment benefit in Arizona in 2026?
+
+Arizona law caps the weekly benefit at $320. Your amount is 1/25 of your wages in your highest-paid base period quarter, up to that cap.
+
+### How long do unemployment benefits last in Arizona?
+
+Usually up to 24 weeks. If the state's unemployment rate in the prior quarter was 5% or higher, the limit rises to 26 weeks. You also cannot receive more than one-third of your base period earnings.
+
+### How many job contacts does Arizona require each week?
+
+At least one job contact a day on four different days of the week, under Section 23-771. A 2026 bill to change this to five work search actions was vetoed.
+
+### How long do I have to appeal an Arizona unemployment denial?
+
+Generally 15 calendar days from the date the determination was mailed, or 7 days if it was delivered to you another way. Check the date and instructions on your own notice.
+
+### Can I get unemployment in Arizona if I quit?
+
+Possibly, if you had good cause connected with the job, or if you left because of documented domestic violence. Quitting for personal reasons is usually harder. Explain the reasons clearly and with proof.
+
+For a broader look at the state's program, visit our [Arizona unemployment benefits page](/unemployment-benefits-arizona).
+
+## Sources
+
+- Arizona Revised Statutes Section 23-771, Eligibility for benefits: https://www.azleg.gov/ars/23/00771.htm
+- Arizona Revised Statutes Section 23-775, Disqualification from benefits: https://www.azleg.gov/ars/23/00775.htm
+- Arizona Revised Statutes Section 23-779, Weekly benefit amount: https://www.azleg.gov/ars/23/00779.htm
+- Arizona Revised Statutes Section 23-780, Maximum total benefits: https://www.azleg.gov/ars/23/00780.htm
+- Arizona Revised Statutes Section 23-773, Determinations, appeals and reconsideration: https://www.azleg.gov/ars/23/00773.htm
+- Arizona Revised Statutes Section 23-671, Appeal tribunals and Appeals Board review: https://www.azleg.gov/ars/23/00671.htm
+- Arizona Legislature, SB 1036 summary as vetoed (2026): https://www.azleg.gov/legtext/57leg/2R/summary/H.SB1036_022426_VETOED.DOCX.htm
+- ABC15, Arizona launches new CACTUS portal to streamline unemployment benefits (2025): https://www.abc15.com/news/state/arizona-launches-new-cactus-portal-to-streamline-unemployment-benefits
+- FOX 10 Phoenix, Arizona residents claim system switch halts unemployment benefits (October 15, 2025): https://www.fox10phoenix.com/news/arizona-residents-claim-system-switch-halts-unemployment-benefits
+- IRS, Topic No. 418, Unemployment compensation: https://www.irs.gov/taxtopics/tc418
+- Arizona Department of Revenue, Individual Income Tax Information: https://azdor.gov/individual-income-tax-information
+`,
+  },
+  {
     slug: 'temp-staffing-agency-assignment-ended-can-you-get-unemployment-2026',
     title: 'Your Temp Assignment Ended. Can You Get Unemployment From a Staffing Agency Job?',
     description: 'Temp and staffing agency workers can often get unemployment when an assignment ends, but you may need to ask the agency for new work first. Learn how it works.',
