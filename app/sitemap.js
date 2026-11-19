@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'michigan-unemployment-changes-miui-weekly-payments-614-maximum-2027',
   'how-to-file-unemployment-arizona-2026-guide',
   'temp-staffing-agency-assignment-ended-can-you-get-unemployment-2026',
   'monetarily-ineligible-for-unemployment-missing-wages-what-to-do-2026',

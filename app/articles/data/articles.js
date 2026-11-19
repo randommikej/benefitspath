@@ -4,6 +4,184 @@
 
 export const articles = [
   {
+    slug: 'michigan-unemployment-changes-miui-weekly-payments-614-maximum-2027',
+    title: 'Michigan Unemployment Is Changing: New MiUI System, Weekly Payments and a $614 Maximum in 2027',
+    description: 'Michigan replaced MiWAM with MiUI, moved to weekly certifications and payments, and raises the top benefit to $614 for claims filed on or after Jan. 1, 2027.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-19',
+    updatedAt: '2026-11-19',
+    category: 'State Guides',
+    tags: ['michigan unemployment', 'Michigan UIA', 'MiUI', 'weekly benefit rate', 'unemployment changes 2027', 'weekly certification', 'state guides'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: What Changed for Michigan Unemployment?
+
+**On November 9, 2026, Michigan's Unemployment Insurance Agency (UIA) switched from MiWAM to a new online system called MiUI, and you now certify and get paid every week instead of every two weeks.** Next, on January 1, 2027, the maximum weekly benefit rises from $530 to $614, but only for claims filed on or after that date. If you already have a claim, you do not need to file a new one in MiUI.
+
+Below are plain answers to the questions Michigan workers are asking right now. This is general information, not legal advice. Rules change, so confirm details with the Michigan UIA before you rely on them.
+
+## What Is MiUI, and What Happened to MiWAM?
+
+MiUI is Michigan's new online unemployment system. According to the UIA's November 9, 2026 announcement, it fully replaces the 14-year-old Michigan Web Account Manager (MiWAM), which is now permanently offline.
+
+The UIA says MiUI is built to work on a phone, uses plain-language forms and letters, and includes stronger fraud protections. You use it to file a claim, certify for benefits, answer questions from the agency and appeal a decision.
+
+### How do I log in to MiUI?
+
+The UIA (2026) gives these steps:
+
+1. Go to Michigan.gov/UIA and click the "Login to MiUI" link.
+2. Sign in with your State of Michigan MiLogin username and password. If you don't have a MiLogin account, create one.
+3. Once you are signed in to MiLogin, open MiUI from the Pure Michigan Talent Connect site.
+
+You still need a MiLogin account to use MiUI. The UIA also says you still have to register in person with Michigan Works!
+
+### Do I have to file a new claim because of the switch?
+
+No. The UIA (2026) says current and past account information moved over from MiWAM to MiUI. If you already have an open claim, you do not need to file a new one. Your payment method also stays the same. Money keeps going to your bank account or your U.S. Bank debit card.
+
+## Why Am I Certifying Every Week Now?
+
+MiUI uses a weekly schedule. According to the UIA's October 29, 2026 notice, workers now certify each week and receive benefit payments each week. Before, both certifications and payments happened every two weeks.
+
+The agency says the change means you get access to your money sooner. The tradeoff is that you need to remember to certify every single week.
+
+### Did the work search rule change too?
+
+The number of searches did not change with MiUI, but it did go up earlier this year. According to the UIA's law changes page (2026), since July 19, 2026, you must complete **at least 3 unique work searches each week** to keep getting benefits. Before that date, one work search activity a week was enough.
+
+If you don't submit your work search activities for a certification week, the UIA says benefits for that week will not be paid. Keep a simple log with the date, the employer, the job and how you applied. Save confirmation emails.
+
+## I Got a Notice Saying My Certification Was Late. What Should I Do?
+
+Don't panic. The UIA expected this. During the switch, the agency closed its online systems, phone lines and local offices from 4:30 p.m. on Monday, November 2, to 8 a.m. on Monday, November 9, 2026.
+
+According to the UIA's November 9 announcement, some workers may get a notice about a late certification. That can happen because of the downtime week, or because the schedule changed from every two weeks to every week. The agency says it will review each case on its own, and in most cases will find that the certification was not late or that the downtime was good cause for the delay.
+
+What the UIA asks you to do:
+
+- **Certify for every week that is available** in MiUI, including the downtime week.
+- **Answer any fact-finding questionnaire quickly.** Fact-finding is when the agency asks you questions before it decides an issue on your claim.
+- **Keep copies** of what you submit and any notices you receive.
+
+If a decision still goes against you, you can protest or appeal it. Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) explains the general process.
+
+## Can I Still Use MARVIN or File by Phone?
+
+No. The UIA says MARVIN, the automated phone line people used to certify, is now permanently offline. You also can no longer call the UIA to file a new claim by phone.
+
+You can still get help from a person. According to the UIA (2026):
+
+- Workers can call **Customer Service at 1-866-500-0017.**
+- You can walk into any of the UIA's 12 local offices, Monday through Friday, 8 a.m. to 4:30 p.m.
+- You can schedule an in-person, phone or online appointment at Michigan.gov/UIA.
+- Michigan Works! staff have been trained to help workers with MiUI.
+
+The UIA is also running free online "Claimant Coaching Sessions" on filing a claim and certifying each week. The agency says those webinars run through December 8, 2026. Its MiUI University website has step-by-step instructions.
+
+## How Much Will Michigan Pay Me in 2026 and 2027?
+
+### How is my weekly benefit figured?
+
+According to Michigan law (MCL 421.27), your weekly benefit rate is **4.1% of the wages you were paid in your highest-earning quarter** of the base period. The agency adds a set amount for each dependent, up to five dependents. The total can't go over the state maximum, and the result is rounded down to the nearest whole dollar.
+
+Your base period is usually the first four of the last five completed calendar quarters before you file, according to the UIA's filing FAQ.
+
+### What are the limits for each year?
+
+Michigan law (MCL 421.27) sets these amounts:
+
+- **Claims filed on or after January 1, 2026:** maximum of $530 a week, plus $19.33 for each dependent (up to five).
+- **Claims filed on or after January 1, 2027:** maximum of $614 a week, plus $26.00 for each dependent (up to five).
+
+The UIA's law changes page (2026) confirms the increase from $530 to $614 on January 1, 2027. Starting January 1, 2028, the maximum will be adjusted each year based on the Consumer Price Index, and the State Treasurer will set it.
+
+One note: the UIA's law changes page lists the current dependent amount as $19.99, while the statute and another UIA page list $19.33. The amount on your own benefit notice is the one that counts for your claim.
+
+### A simple example
+
+Say your best quarter in the base period paid you $10,000.
+
+- 4.1% of $10,000 is $410 a week.
+- With two dependents on a 2026 claim, you add 2 x $19.33, for about $448 after rounding down.
+- With two dependents on a claim filed in 2027, you add 2 x $26, for $462.
+
+The maximum only matters if your earnings were high. Based on the 4.1% formula, you would need about $12,927 in your best quarter to reach the $530 cap with no dependents, and about $14,976 to reach the $614 cap. You can run your own numbers with our [unemployment benefits calculator](/unemployment-benefits-calculator).
+
+### How many weeks can I get?
+
+Michigan pays up to **26 weeks** in a 52-week benefit year, according to the UIA. The law changes page says the jump from 20 to 26 weeks took effect in April 2025. The UIA's FAQ says the minimum is 14 weeks. Your number of weeks depends on your total base period wages compared to your weekly rate.
+
+## If I Already Have a Claim, Will My Payment Go Up in January?
+
+Probably not. Michigan law (MCL 421.27) ties the new $614 maximum and $26 dependent amount to **claims filed on or after January 1, 2027.** A claim you filed in 2026 is calculated under the 2026 limits.
+
+If you are unsure which rules apply to you, check your Monetary Determination notice in MiUI or ask the UIA directly.
+
+## I Just Lost My Job in November or December. Should I Wait Until January to File?
+
+Talk to the UIA before you decide to wait. Waiting is not a simple win, for a few reasons:
+
+- **The higher cap only helps high earners.** If 4.1% of your best quarter is below $530, the new maximum may not change your weekly amount much. Only the per-dependent amount would change.
+- **Your base period shifts.** Filing in January 2027 instead of December 2026 moves your base period forward by one quarter. That could help or hurt, depending on when you earned your money.
+- **A higher weekly rate does not always mean more money overall.** The UIA's FAQ says your number of weeks is figured from your total base period wages divided by your weekly rate. A higher weekly rate can mean fewer weeks.
+- **You may go weeks without income.** Waiting to file means waiting longer for your first payment, while rent and bills keep coming.
+
+Every claim is different, so ask the UIA how timing would affect yours before you hold off.
+
+## Are There Other New Rules I Should Know About?
+
+Yes. Michigan's law changes page (2026) lists several updates that took effect in July 2026:
+
+- **Domestic violence protection.** Since July 17, 2026, if you had to leave your job because of domestic violence, you may qualify for benefits if you meet the other rules.
+- **Combined appeal hearings.** Since July 17, 2026, you can ask to have related issues on your claim heard together in one hearing before an administrative law judge. You can choose this when you file an appeal or use form UIA 6631.
+- **More chances for hardship waivers.** If you were overpaid and can't afford to pay it back, you can now apply for up to four financial hardship waivers a year, instead of one every six months. The UIA says collection will not start until all protest and appeal rights are used up.
+- **Work Share flexibility.** Employers in the Work Share program can now cut hours between 10% and 60% so workers can get partial benefits.
+
+### Are Michigan unemployment benefits taxed?
+
+Yes. The UIA's FAQ says you will receive a Form 1099-G. You can choose to have taxes taken out: 10% for federal income tax and 4.25% for Michigan income tax.
+
+## What If My Claim Is Denied?
+
+Read the notice carefully, note the deadline and appeal in MiUI before it passes. Explain your side in simple, factual language and attach proof. Our [appeal letter example](/unemployment-appeal-letter-example) shows how to lay it out. If your claim was denied and you want help, you can also find an employment attorney through BenefitsPath.
+
+For the basics of filing a new claim, see our [Michigan unemployment benefits page](/unemployment-benefits-michigan).
+
+## FAQ
+
+### Do I need a new account for MiUI?
+
+You need a MiLogin account. If you already have one, use the same username and password. If you had a claim in MiWAM, your information was moved to MiUI, so you don't have to file a new claim.
+
+### Will I get paid every week now?
+
+Yes. The UIA says MiUI uses weekly certifications and weekly payments, replacing the old two-week schedule. Certify every week to avoid gaps.
+
+### How many job searches do I need each week in Michigan?
+
+At least three unique work searches each week, a rule in place since July 19, 2026, according to the UIA.
+
+### When does the $614 maximum start?
+
+For claims filed on or after January 1, 2027. Claims filed in 2026 use the $530 maximum.
+
+### Who do I call if MiUI isn't working for me?
+
+The UIA lists Customer Service at 1-866-500-0017. You can also visit a UIA local office or book an appointment at Michigan.gov/UIA.
+
+## Sources
+
+- Michigan Department of Labor and Economic Opportunity, UIA enters new era with MiUI, a modern unemployment system for workers and employers (November 9, 2026): https://www.michigan.gov/leo/news/2026/11/09/uia-enters-new-era-with-miui-a-modern-unemployment-system-for-workers-and-employers
+- Michigan Department of Labor and Economic Opportunity, Get Ready for MiUI: Five things to know about the new unemployment system (October 29, 2026): https://www.michigan.gov/leo/news/2026/10/29/miui-five-things-to-know-about-the-new-unemployment-system
+- Michigan UIA, Unemployment Law Changes: https://www.michigan.gov/leo/bureaus-agencies/uia/law-changes
+- Michigan Legislature, MCL Section 421.27, Payment of benefits: https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-421-27
+- Michigan UIA, About UIA and Unemployment Insurance in Michigan: https://www.michigan.gov/leo/bureaus-agencies/uia/uia-resources-for-claimants/about-uia-and-unemployment-insurance-in-michigan
+- Michigan UIA, General Questions Before Filing: https://www.michigan.gov/leo/bureaus-agencies/uia/frequently-asked-questions/for-employees/general-questions-before-filing
+- FOX 2 Detroit, Michigan unemployment law changes in effect: what you need to know (July 21, 2026): https://www.fox2detroit.com/news/michigan-unemployment-law-changes-effect-what-you-need-know
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-arizona-2026-guide',
     title: 'How to File for Unemployment in Arizona: 2026 Step-by-Step Guide',
     description: 'Lost your job in Arizona? Step-by-step help filing with DES in CACTUS, the $320 weekly max, the 4-day job search rule, earnings limits and 15-day appeals.',
