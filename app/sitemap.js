@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'lost-unemployment-appeal-hearing-second-level-board-review-what-next-2026',
   'michigan-unemployment-changes-miui-weekly-payments-614-maximum-2027',
   'how-to-file-unemployment-arizona-2026-guide',
   'temp-staffing-agency-assignment-ended-can-you-get-unemployment-2026',

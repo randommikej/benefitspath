@@ -4,6 +4,173 @@
 
 export const articles = [
   {
+    slug: 'lost-unemployment-appeal-hearing-second-level-board-review-what-next-2026',
+    title: 'Lost Your Unemployment Appeal Hearing? 7 Steps to Take It to the Next Level',
+    description: "Lost your unemployment hearing? Most states let you appeal to a review board, often within 14 to 30 days. Learn how to find your deadline and file next.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-20',
+    updatedAt: '2026-11-20',
+    category: 'Unemployment Appeals',
+    tags: ['unemployment appeal', 'board of review', 'second level appeal', 'lost unemployment hearing', 'appeal deadline', 'unemployment denial', 'appeals board'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: What Can You Do After Losing Your Unemployment Appeal Hearing?
+
+**In most states, a hearing loss is not the final word. You can usually ask a higher board or commission inside your state's unemployment agency to review the hearing judge's decision, and after that you can often go to court.** The window is short, often 14 to 30 days from the date on the decision, so the most important step is to find your deadline today.
+
+This guide walks you through what to do, step by step. It is general information, not legal advice. Rules and deadlines differ by state and can change, so always check the deadline printed on your own decision and confirm details with your state agency.
+
+## What Is a Second-Level Unemployment Appeal?
+
+Most states have three main steps after a claim is denied:
+
+1. **First-level appeal.** You ask for a hearing, usually by phone, in front of a hearing officer, referee or administrative law judge (ALJ).
+2. **Second-level appeal.** If you lose that hearing, you can ask a board or commission to review the judge's decision. Depending on your state, it may be called the Board of Review, the Appeals Board, the Appeal Board or the Commission.
+3. **Court review.** If the board also rules against you, you can usually ask a state court to review the case.
+
+The U.S. Department of Labor (2026) explains that unemployment insurance is a joint state and federal program and that "each state administers a separate unemployment insurance program." That is why the name of the board, the deadline and the filing method change from state to state.
+
+If you have not had your first hearing yet, start with our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) instead.
+
+## Step 1: How Long Do You Have to File the Next Appeal?
+
+Look at the first page of your hearing decision. Most states print the last day to appeal right on it. Here are the deadlines in five large states, taken from their official pages:
+
+- **California:** California Unemployment Insurance Appeals Board (CUIAB). 30 calendar days from the issue date of the ALJ decision.
+- **Texas:** The Commission at the Texas Workforce Commission. 14 calendar days from the date TWC mailed the Appeal Tribunal decision.
+- **Pennsylvania:** UC Board of Review. 21 calendar days after the determination date on the referee's decision.
+- **Florida:** Reemployment Assistance Appeals Commission. 20 days after the referee's decision is mailed.
+- **New York:** Unemployment Insurance Appeal Board. 20 days from the decision.
+
+Sources for each state are listed at the end of this article.
+
+A few details matter here:
+
+- **Texas has one of the shortest windows.** The Texas Workforce Commission (2026) says the appeal must be in writing within 14 calendar days and that the deadline is printed on the coversheet of your decision.
+- **Pennsylvania moves the date forward if the office is closed.** The Pennsylvania Department of Labor and Industry (2026) says that if the last day falls on a day the UC service center is closed, the deadline moves to the next working day.
+- **Late appeals are hard to win.** California's Board appeal form (2025) says that if you file late, you must show "good cause" for the delay or the appeal will be dismissed.
+
+If you already missed the deadline, read our guide on [late appeals and good cause](/articles/missed-unemployment-appeal-deadline-late-appeal-good-cause-2026) and file anyway with a clear explanation.
+
+## Step 2: Read the Decision and Find the Real Reason You Lost
+
+Before you write anything, read the judge's decision slowly. Most decisions have three parts:
+
+- **Findings of fact.** What the judge decided actually happened.
+- **Reasoning.** Why those facts lead to a denial under state law.
+- **Decision.** Whether the earlier denial was affirmed, reversed or changed.
+
+Ask yourself these questions:
+
+- Did the judge get a fact wrong? For example, the decision says you were warned twice, but you were never warned.
+- Did the judge believe your employer over you without explaining why?
+- Was important evidence left out because you did not know to bring it?
+- Was the hearing unfair? For example, you could not get through on the phone, or you were not allowed to speak or ask questions.
+
+Your appeal is strongest when it points to specific mistakes. "I disagree" alone usually is not enough.
+
+## Step 3: Get a Copy of the Hearing Record
+
+Most second-level boards decide your case using the record from the first hearing. That record is the recording or transcript plus the documents that were submitted. Knowing exactly what was said helps you point to errors.
+
+- **Texas:** TWC (2026) says you can request a copy of the hearing recording. The first copy is free, and it usually takes one to two weeks to arrive.
+- **New York:** LawHelpNY (2026) says that after you appeal, you can ask for a transcript of the hearing within 7 days of getting the Appeal Board's confirmation.
+
+Do not wait for the recording before you file. File your appeal on time first, then request the record.
+
+## Step 4: Write a Short, Clear Appeal
+
+Your appeal does not need legal language. A clear, calm letter is enough in most states. Include:
+
+1. Your full name, mailing address and phone number.
+2. Your claim number and the case or appeal number from the decision.
+3. A sentence saying you are appealing the hearing decision to the board or commission.
+4. Each mistake you see in the decision, one at a time, with the facts that show it was wrong.
+5. Your signature and the date.
+
+Here is a simple example of how one point might read:
+
+"The decision says I was fired for missing three shifts without calling. I called my supervisor before each shift. My phone records for those dates are in the hearing file as Exhibit 4, but the decision does not mention them."
+
+California makes this easier with a one-page Board Appeal form. It has a space for "I disagree with the Administrative Law Judge's decision because," a box to check if you are filing late, and a box to check if you are adding new evidence, according to the CUIAB form (2025).
+
+Our [unemployment appeal letter example](/unemployment-appeal-letter-example) shows a format you can adapt for this stage too.
+
+## Step 5: Can You Add New Evidence at This Stage?
+
+Sometimes, but it is limited. Boards usually do not hold a brand-new hearing.
+
+- **Pennsylvania:** The Board usually decides from the existing hearing record without new testimony. It can order a second hearing, called a remand hearing, but you have to ask in writing and explain why the record is incomplete. Remands are granted only for proper cause (Pennsylvania Department of Labor and Industry, 2026).
+- **New York:** LawHelpNY (2026) says new evidence is considered only if all parties agree or if it is part of another hearing.
+- **California:** The Board appeal form asks you to attach new documents and explain why they were not presented at the hearing (CUIAB, 2025).
+- **Florida:** State law allows the Commission to decide on the existing record or on additional evidence taken at its direction (Florida Statutes, Section 443.151).
+
+If you have something important that was left out, attach it and explain clearly why you could not present it at the hearing.
+
+## Step 6: File It the Right Way and Keep Proof
+
+Use only the filing methods your state allows, and keep proof that you filed on time.
+
+- **Texas:** You can appeal online, in person at a Workforce Solutions office, or by mail or fax to Commission Appeals. TWC (2026) says you cannot file by email or by phone. If you fax, keep the confirmation page.
+- **Pennsylvania:** The state's appeals FAQ (2026) lists mail, fax, email and in-person filing at a PA CareerLink office or the Board's office for appeals to the UC Board of Review.
+
+Whatever the method, save a copy of everything you send, plus the confirmation number, fax receipt or tracking slip.
+
+## Step 7: Keep Filing Your Weekly Claims While You Wait
+
+This step is easy to forget and can cost you money. If you stop requesting payments while your appeal is pending, you may not be paid for those weeks even if you win.
+
+California's Board appeal form (2025) says plainly: "You must continue to file claim forms during the time we are reviewing your appeal if you wish to claim benefits for this period." The same form warns that if you are found ineligible, you may be required to repay benefits you received.
+
+Pennsylvania's appeals FAQ (2026) gives the same advice, saying it is important to keep filing weekly claims both before and after the referee's decision if you are still out of work. Rules differ by state, so check your agency's instructions. In general, keep certifying on schedule and keep meeting work search requirements unless your state tells you otherwise.
+
+## What Happens If the Board Rules Against You Too?
+
+You may still have options, but the deadlines are short and the process is more formal.
+
+- **Texas:** You can file a Motion for Rehearing within 14 days of the date TWC mailed the Commission decision. TWC (2026) says it grants these only if you show important new information, a compelling reason you did not present it earlier, and why it could change the outcome. You can also appeal to a county court at law or state district court between 15 and 28 days after TWC mailed the Commission decision.
+- **Pennsylvania:** The state's appeals FAQ says a Board decision gives you 30 days from the Board's decision date to appeal to Commonwealth Court, and that court appeals are generally treated as filed when the court receives them.
+- **New York:** LawHelpNY (2026) says you can appeal the Appeal Board's decision to the State Supreme Court, Appellate Division, Third Department, within 30 days.
+- **Florida:** Commission orders can be reviewed only by a notice of appeal to the appropriate district court of appeal (Florida Statutes, Section 443.151).
+
+Court appeals usually focus on legal errors, not on retelling your story. This is the point where many people talk to a lawyer, especially if the employer had a lawyer at the hearing or the case turns on misconduct or quitting for good cause. If your claim was denied, you can find an employment attorney through BenefitsPath. Many areas also have free legal aid offices that handle unemployment cases.
+
+## Frequently Asked Questions
+
+### Can I appeal if I missed my first hearing?
+
+Usually you need to ask for the hearing to be reopened or rescheduled, or appeal the dismissal, and explain why you missed it. Each state handles this differently, so follow the instructions on your dismissal notice and act quickly.
+
+### Will the board hold a new hearing?
+
+Usually not. Most boards review the existing record. Some, like Pennsylvania's Board of Review, can order a remand hearing if there is proper cause.
+
+### How long does a board decision take?
+
+It varies by state and caseload. Check your appeal status through your state's online portal or appeals office, and keep filing your weekly or biweekly claims while you wait.
+
+### Can my employer appeal if I won the hearing?
+
+Yes. In most states either side can appeal the hearing decision. If your employer appeals, you will usually get a copy and can send your own written response.
+
+### What if I lose and I was already paid benefits?
+
+If a final decision says you were not eligible, your state may say you were overpaid and ask you to pay it back. Read our guide on [what to do about an unemployment overpayment notice](/articles/unemployment-overpayment-notice-what-to-do), including how to ask about a waiver.
+
+## Sources
+
+- U.S. Department of Labor, Unemployment Insurance (2026): https://www.dol.gov/general/topic/unemployment-insurance
+- California Unemployment Insurance Appeals Board, Board Appeal form (2025): https://cuiab.ca.gov/wp-content/uploads/sites/13/2025/06/CUIAB-Board-Appeal-Form.pdf
+- Texas Workforce Commission, File an Unemployment Appeal (2026): https://www.twc.texas.gov/services/file-unemployment-appeal
+- Pennsylvania Department of Labor and Industry, Appealing a Referee Decision to the UC Board of Review (2026): https://www.pa.gov/agencies/dli/programs-services/unemployment/appeals/appealing-a-referee-decision-to-the-uc-board-of-review
+- Pennsylvania Department of Labor and Industry, Benefit Appeal FAQs (2026): https://www.pa.gov/agencies/dli/resources/for-claimants-workers/benefits-information/using-the-uc-system/claimant-faqs/appeal-information-faqs
+- Florida Statutes, Section 443.151, Procedure concerning claims (2025): https://www.flsenate.gov/Laws/Statutes/2025/443.151
+- LawHelpNY, If You Lose Your Unemployment Benefits Hearing (2026): https://www.lawhelpny.org/resource/if-you-lose-your-unemployment-benefits-hearing
+
+*Deadlines and procedures change. Always follow the deadline printed on your own decision and confirm details with your state unemployment agency.*
+`,
+  },
+  {
     slug: 'michigan-unemployment-changes-miui-weekly-payments-614-maximum-2027',
     title: 'Michigan Unemployment Is Changing: New MiUI System, Weekly Payments and a $614 Maximum in 2027',
     description: 'Michigan replaced MiWAM with MiUI, moved to weekly certifications and payments, and raises the top benefit to $614 for claims filed on or after Jan. 1, 2027.',
