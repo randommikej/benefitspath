@@ -4,6 +4,147 @@
 
 export const articles = [
   {
+    slug: 'quit-job-to-move-with-spouse-military-pcs-can-you-get-unemployment-2026',
+    title: 'Quitting Your Job to Move With Your Spouse? When You Can Still Get Unemployment',
+    description: "Quit your job to follow a spouse's move or military PCS? Many states pay benefits if commuting is impractical. See the rules, examples and what to prove.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-21',
+    updatedAt: '2026-11-21',
+    category: 'Unemployment Eligibility',
+    tags: ['quit to follow spouse', 'military spouse unemployment', 'PCS orders', 'trailing spouse', 'voluntary quit', 'good cause', 'relocation'],
+    readTime: '8 min read',
+    content: `
+## Quick Answer: Can You Get Unemployment If You Quit to Move With Your Spouse?
+
+**Often, yes, but it depends on your state and on why your spouse is moving.** Many states treat quitting to follow a spouse as "good cause" when the new home is too far to commute, and many have special rules for military spouses who move because of permanent change of station (PCS) orders. Some states only cover military moves, and some reduce or delay benefits for other spouse relocations.
+
+This guide answers the most common questions in plain language. It is general information, not legal advice. Rules differ by state and can change, so confirm the details with your state unemployment agency before you quit if you can.
+
+## Why Is Quitting Treated Differently From Being Laid Off?
+
+Unemployment insurance is mainly for people who lose work through no fault of their own. According to the U.S. Department of Labor's Comparison of State Unemployment Insurance Laws (2023), individuals generally "must have separated from work through no fault of their own."
+
+When you quit, the state asks whether you had **good cause**. Each state defines that term. Some states only accept reasons connected to the job itself, like unsafe conditions or a big pay cut. Others also accept certain personal or family reasons. A spouse's move is a family reason, so it only works in states whose law makes room for it.
+
+If you want the bigger picture on quitting, our guide on [whether you can collect unemployment if you quit your job](/articles/can-you-collect-unemployment-if-you-quit-your-job) covers the other common good cause reasons.
+
+## Which States Allow Benefits for Following a Spouse?
+
+There is no single national rule. The Department of Labor (2023) explains it this way: "Many states have provisions of law that allow benefits to individuals who quit work to accompany a spouse due to a change in the spouse's employment location." In those states, it is considered good cause to quit "if the new employment location is impractical to commute."
+
+The same report adds that "several states have provisions related to military spouses relocating, but state laws vary regarding the circumstances when the spouse of a service member is eligible for benefits."
+
+In practice, states tend to fall into three groups:
+
+- **States that accept both military and civilian spouse moves**, usually when commuting is not practical and you tried to keep your job.
+- **States that only protect military spouse moves** and treat other spouse relocations as a personal choice.
+- **States that accept non-military moves with a penalty**, such as a waiting period or reduced benefits.
+
+Here is how three large states handle it, based on their own official sources.
+
+### Texas
+
+The Texas Workforce Commission (2026) lists "You moved with your military spouse" among the limited non-work reasons for quitting that can still qualify.
+
+For other spouse moves, TWC says that if you "quit to move with your spouse when the move is not part of a qualifying military permanent change of station (PCS)," you "may be eligible for benefits but you will be disqualified for 6 to 25 weeks, depending on the situation." TWC adds that your maximum benefit amount "is also reduced by the number of disqualified weeks."
+
+TWC's employer claim notice guidance (2026) describes a qualifying military move as one where the spouse "was a member of the U.S. armed forces whose permanent change of station lasted longer than 120 days, or whose tour of duty lasted longer than one year."
+
+### Florida
+
+Florida's law is strict about quitting. Under Florida Statutes section 443.101 (2025), good cause generally "includes only that cause attributable to the employing unit" or to your own illness or disability.
+
+But the same law says a person is not disqualified for "voluntarily leaving work to relocate as a result of his or her military-connected spouse's permanent change of station orders, activation orders, or unit deployment orders." A civilian spouse's job transfer is not on that list, so in Florida a non-military move is much harder to claim.
+
+### California
+
+California's Employment Development Department (EDD) is broader. Its eligibility FAQ (2026) gives "quitting a job to follow a spouse to a new town or city" as an example of a reason that may qualify. You must show "that you had good cause for leaving" and "that you made all reasonable attempts to keep your job," which includes "requesting a leave of absence or transfer."
+
+EDD's Benefit Determination Guide (Voluntary Quit VQ 155) says good cause applies when it is "impossible or impractical for the claimant to commute" from the new location. A registered domestic partner "is considered equal to a spouse," but both partners must have been registered with the California Secretary of State at the time of the quit.
+
+For any other state, check your state's page. You can start with our state guides, such as [Texas unemployment benefits](/unemployment-benefits-texas).
+
+## What Will the State Look At When It Reviews My Claim?
+
+Even in friendly states, a spouse move is not automatic approval. Based on the official guidance above, examiners commonly ask about:
+
+- **Distance and commute.** Could you reasonably have commuted from the new home? California's guidance says that if commuting would have been practical, the quit is not with good cause, however strong the reason for the move.
+- **Whether you tried to keep the job.** Did you ask about a transfer, remote work or a leave of absence?
+- **Why your spouse moved.** Military orders, a required job transfer and a new job your spouse chose can be treated differently.
+- **Who decided to move.** EDD's guide notes that if the decision to move was yours, good cause depends on your own reasons for moving.
+- **Timing.** Did you quit close to the move date, or months ahead?
+- **Proof.** Orders, transfer letters, a lease or closing papers, and emails with your employer.
+
+You still have to meet the normal rules too: enough past wages, and being able to work, available for work and looking for work each week in your new area.
+
+## Which State Do I File In After I Move?
+
+Usually you file with the state where you earned your wages, even if you now live somewhere else. If you worked in more than one state recently, you may be able to combine wages. Our guide to [filing for unemployment in a different state](/articles/filing-unemployment-different-state-interstate-combined-wage-claims-2026) explains interstate and combined wage claims.
+
+This matters because the rules on spouse moves come from the state paying the claim, not the state you moved to.
+
+## Checklist: What to Do Before and After You Quit
+
+If you can plan ahead, these steps can make a real difference.
+
+**Before you quit:**
+
+- Look up your state's rule on quitting to follow a spouse, using the state agency's website.
+- Ask your employer in writing about a transfer, remote work or a leave of absence. Save the reply.
+- Get a copy of your spouse's PCS orders, activation or deployment orders, or the employer's transfer letter.
+- Write down the distance and the commute time from the new home to your current job.
+- Give notice in writing and say clearly that you are leaving because of your spouse's relocation.
+- Avoid quitting much earlier than the move unless you have a clear reason. Ask your state how timing affects your claim.
+
+**After you quit:**
+
+- File your claim as soon as you can after your last day of work.
+- Answer the separation questions honestly. Say you quit, and explain the relocation.
+- Upload or keep ready your orders, transfer letter and employer emails.
+- Complete your weekly certifications on time and search for work in your new area.
+- Read every notice and note any deadlines.
+
+## What If My Claim Is Denied?
+
+A denial is not always the final answer. Quit cases often turn on details, and the hearing is your chance to explain them with documents. Most states give you a short window to appeal, so act quickly.
+
+Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks through the process, and our [appeal letter example](/unemployment-appeal-letter-example) shows how to explain your side clearly. If your claim was denied and you want help, you can also find an employment attorney through BenefitsPath.
+
+## Frequently Asked Questions
+
+### Does it matter whether my spouse is in the military?
+
+Yes, in many states. Florida's statute, for example, protects quits tied to a military-connected spouse's PCS, activation or deployment orders, but does not list civilian transfers. Texas accepts qualifying military moves but applies a 6 to 25 week disqualification to other spouse moves.
+
+### Do I have to be legally married?
+
+It depends on the state. California treats a registered domestic partner like a spouse if the partnership was registered with the Secretary of State at the time you quit. Other states may only recognize legal spouses, so check your state's rules.
+
+### Will my employer be charged for my benefits?
+
+Sometimes not. Some states protect the employer's account when a worker quits to follow a military spouse. Texas lists this as a separation that qualifies for chargeback protection. This affects the employer, not whether you get paid.
+
+### What if commuting would have been possible?
+
+In states like California, that can sink the claim. If you could reasonably have kept commuting, the state may decide you did not have good cause to quit, even if the move made sense for your family.
+
+### Can I estimate what I would get?
+
+Yes. Our [unemployment benefits calculator](/unemployment-benefits-calculator) gives a rough estimate based on your past earnings. Your state makes the final calculation.
+
+## Sources
+
+- U.S. Department of Labor, Comparison of State Unemployment Insurance Laws, Chapter 5: Nonmonetary Eligibility (2023): https://oui.doleta.gov/unemploy/pdf/uilawcompar/2023/nonmonetary.pdf
+- Texas Workforce Commission, Eligibility and Benefit Amounts (2026): https://www.twc.texas.gov/programs/unemployment-benefits/eligibility-benefit-amounts
+- Texas Workforce Commission, Unemployment Insurance Law: Claim Notices (2026): https://efte.twc.texas.gov/ui_law_claim_notices.html
+- Florida Statutes, Section 443.101, Disqualification for benefits (2025): https://www.flsenate.gov/Laws/Statutes/2025/443.101
+- California Employment Development Department, Eligibility FAQs (2026): https://edd.ca.gov/en/unemployment/FAQ_-_Eligibility/
+- California Employment Development Department, Benefit Determination Guide, Voluntary Quit VQ 155 (2026): https://edd.ca.gov/en/uibdg/Voluntary_Quit_VQ_155/
+
+*Unemployment rules change. Confirm the current rules for your situation with your state unemployment agency before you quit or file.*
+`,
+  },
+  {
     slug: 'lost-unemployment-appeal-hearing-second-level-board-review-what-next-2026',
     title: 'Lost Your Unemployment Appeal Hearing? 7 Steps to Take It to the Next Level',
     description: "Lost your unemployment hearing? Most states let you appeal to a review board, often within 14 to 30 days. Learn how to find your deadline and file next.",
