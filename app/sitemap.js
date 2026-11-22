@@ -22,6 +22,7 @@ const topicPages = [
 
 // Dynamic article slugs — keep in sync with app/articles/data/articles.js
 const articleSlugs = [
+  'laid-off-money-left-in-fsa-or-hsa-what-happens-checklist-2026',
   'quit-job-to-move-with-spouse-military-pcs-can-you-get-unemployment-2026',
   'lost-unemployment-appeal-hearing-second-level-board-review-what-next-2026',
   'michigan-unemployment-changes-miui-weekly-payments-614-maximum-2027',

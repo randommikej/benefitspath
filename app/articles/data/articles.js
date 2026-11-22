@@ -4,6 +4,160 @@
 
 export const articles = [
   {
+    slug: 'laid-off-money-left-in-fsa-or-hsa-what-happens-checklist-2026',
+    title: 'Laid Off With Money Left in Your FSA or HSA? A Checklist to Keep It From Going to Waste',
+    description: "Lost your job with money in an FSA or HSA? Your HSA is yours to keep, but FSA money can vanish. Use this checklist to claim it, use it and avoid tax penalties.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-22',
+    updatedAt: '2026-11-22',
+    category: 'Health Insurance',
+    tags: ['FSA after layoff', 'HSA after job loss', 'flexible spending account', 'health savings account', 'COBRA', 'unemployment and health insurance', 'use it or lose it'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: What Happens to Your FSA and HSA When You're Laid Off?
+
+**Your HSA is yours to keep, but money left in a health FSA is usually lost if you don't use it in time.** A health savings account (HSA) stays with you after you leave a job, and while you're receiving unemployment you can even use it to pay health insurance premiums tax-free. A flexible spending account (FSA) is different: it is tied to your employer's plan, unused money is generally forfeited, and your employer isn't allowed to refund it.
+
+The checklist below walks through what to do, in order, so you don't leave money on the table. This is general information, not tax or legal advice. Plan rules differ by employer, and tax rules can change, so confirm the details with your plan administrator, HR department or a tax professional.
+
+## FSA vs. HSA: Which One Do You Have?
+
+Many people mix these up because the cards look alike. Check your last pay stub or your benefits portal. Here's the short version:
+
+- **Health FSA (flexible spending arrangement):** Your employer's plan owns it. You chose an amount at open enrollment, and it came out of each paycheck. It usually works on a "use it or lose it" basis.
+- **HSA (health savings account):** A personal account in your name, held at a bank or HSA company. It only comes with a high-deductible health plan (HDHP). The money rolls over year after year.
+- **Dependent care FSA:** A separate account for child care or adult day care costs, not medical bills.
+
+Some people have both a limited-purpose FSA (for dental and vision) and an HSA. If that's you, work through both checklists below.
+
+## Checklist Part 1: If You Have a Health FSA
+
+### 1. Find out the exact date your FSA coverage ends
+
+Ask HR or the FSA administrator for two dates: the **last day you can receive care** that the FSA will pay for, and the **last day you can submit claims**. These are often different. Write both down.
+
+Most plans only reimburse care you receive while you're still covered. Plans also set their own deadline, sometimes called a "run-out period," for turning in receipts after you leave. Don't assume you have until the end of the year.
+
+### 2. Check how much of your yearly election you can still claim
+
+This is the step most laid-off workers miss. Under federal rules for health FSAs, **the full amount you elected for the year must be available to you at any time during the coverage period**, not just the amount you've paid in so far. According to IRS Publication 969 (2025), you "must be able to receive the maximum amount of reimbursement" at any time during the coverage period.
+
+Here's what that can mean in practice. Say you elected $2,000 for the year and lost your job after only $800 had come out of your paychecks. If you had $2,000 in eligible care before your coverage ended, the plan generally has to treat the full $2,000 as available. Ask your administrator exactly how your plan applies this rule.
+
+For context, the IRS set the 2026 limit for health FSA salary reductions at **$3,400**, according to IRS Revenue Procedure 2025-32 (2025). Your employer's plan may set a lower limit.
+
+### 3. Book care and buy eligible items before coverage ends
+
+If you have money left and a few days or weeks of coverage, think about what you would have needed soon anyway:
+
+- Refill prescriptions you take regularly, if your pharmacy and insurer allow an early refill
+- Schedule a dental cleaning, eye exam or follow-up visit
+- Order prescription glasses or contact lenses
+- Buy eligible over-the-counter items, such as first aid supplies or medicine you'll use
+
+Only buy things you would actually use. Spending money on things you don't need isn't a good trade just to avoid losing a balance.
+
+### 4. Submit every receipt you have
+
+Gather receipts and Explanation of Benefits statements from earlier in the year that you never turned in. Submit them before the claim deadline. Keep copies.
+
+### 5. Don't count on a refund, carryover or grace period
+
+IRS Publication 969 (2025) says health FSAs are "use-it-or-lose-it" plans and that "your employer isn't permitted to refund any part of the balance to you." Some plans let a small amount carry over into the next year (up to **$680** for plans starting in 2026, according to IRS Revenue Procedure 2025-32), or give a grace period of up to 2 1/2 months after the plan year. A plan can offer one or the other, but not both.
+
+Whether these features still apply after you leave depends on your plan's rules. Ask directly instead of assuming.
+
+### 6. Read your COBRA notice for an FSA option
+
+Some employers must offer COBRA continuation coverage for a health FSA, but only in limited cases. Under the federal COBRA regulations (26 CFR 54.4980B-2), a health FSA that meets certain conditions only has to offer COBRA when the amount you could still get reimbursed for the rest of the year is more than what you'd pay in COBRA premiums for that time. Even then, it only has to last until the end of the current plan year.
+
+In plain terms: if you have a large unspent balance, check your COBRA election notice. Paying after-tax COBRA premiums to keep the FSA open until the end of the year might let you use the rest of your balance. Do the math first, because you'll be paying in the money that used to come out of your paycheck, plus up to a 2% fee. The U.S. Department of Labor's COBRA guide for workers says COBRA premiums can't be more than 102 percent of the plan's cost and that you get at least 60 days to decide whether to enroll.
+
+For more on medical COBRA, read our guide to [COBRA health insurance after job loss](/articles/cobra-health-insurance-after-job-loss-2026-guide).
+
+## Checklist Part 2: If You Have an HSA
+
+### 1. Keep the account open
+
+IRS Publication 969 (2025) says your HSA "stays with you if you change employers or leave the work force." Losing your job doesn't take the money away. If your employer paid the account fees, the HSA company may start charging you a monthly fee, so check for a notice and consider moving the account to a low-fee provider later if needed.
+
+### 2. Use it for health insurance premiums while you collect unemployment
+
+Normally, HSA money can't be used tax-free for insurance premiums. But IRS Publication 969 (2025) lists two exceptions that matter after a layoff:
+
+- **COBRA continuation coverage**
+- **Health coverage while you're receiving unemployment compensation** under federal or state law
+
+That means if you're getting unemployment benefits, you can pay health insurance premiums from your HSA without paying tax on the withdrawal. Keep proof of your unemployment payments and premium bills in case the IRS asks. Not sure how much you'll get each week? Try our [unemployment benefits calculator](/unemployment-benefits-calculator) to get an estimate before you plan your budget.
+
+### 3. Stop contributions if you no longer have an HDHP
+
+You can only put new money into an HSA for months when you're covered by a qualifying high-deductible plan. If you drop coverage, go on Medicaid, or switch to a plan that isn't an HDHP, stop contributing. You can still spend what's already in the account.
+
+The IRS set the 2026 contribution limits at **$4,400** for self-only coverage and **$8,750** for family coverage, according to IRS Publication 969 (2025).
+
+### 4. Know about the 2026 change for Marketplace bronze plans
+
+There's good news if you plan to buy coverage on HealthCare.gov. Under IRS Notice 2026-5, for months starting after December 31, 2025, a **bronze or catastrophic plan available as individual coverage through a Marketplace exchange is treated as a high-deductible health plan** for HSA purposes. This change came from the 2025 federal tax law.
+
+So if you choose a bronze plan after a layoff, you may be able to keep contributing to your HSA. If you're short on cash, that's optional. Paying bills comes first.
+
+### 5. Avoid non-medical withdrawals if you can
+
+If you take HSA money out for something other than qualified medical costs, IRS Publication 969 (2025) says you'll owe income tax on it plus an **additional 20% tax**. The extra 20% doesn't apply in some cases, such as if you're 65 or older or disabled. If you're thinking about using HSA money for rent, look at other options first, like the ones in our guide on [covering bills while you wait for your first unemployment payment](/articles/waiting-for-first-unemployment-payment-how-to-cover-rent-utilities-bills-2026).
+
+## Checklist Part 3: If You Have a Dependent Care FSA
+
+Dependent care FSAs follow different rules. Expenses generally must be "work-related," meaning care that lets you work. IRS Publication 503 (2025) says that for this purpose, "work also includes actively looking for work," but you still need earned income for the year.
+
+Ask your plan administrator whether you can still submit claims for care you received before your last day, and what the deadline is. Submit any receipts you have right away.
+
+## What About Health Coverage Going Forward?
+
+Your FSA or HSA is only part of the picture. You'll also need a plan for health insurance. According to HealthCare.gov (2026), losing job-based coverage can qualify you for a Special Enrollment Period, and you can enroll if you lost coverage in the past 60 days or expect to lose it in the next 60 days.
+
+Your choices usually include COBRA, a Marketplace plan, Medicaid if your income is low enough, or a spouse's employer plan. Compare costs carefully. Marketplace savings are based on your expected income for the year, not on whether you're employed.
+
+## Don't Forget Your Unemployment Claim
+
+Sorting out your FSA and HSA is important, but your unemployment claim is usually the bigger source of money while you look for work. File as soon as you can after your last day. If your claim is denied, you have the right to appeal, usually within a short deadline. Our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) explains the steps, and if you want help, you can find an employment attorney through BenefitsPath.
+
+Rules change and plans differ, so always confirm the details with your plan administrator, the IRS and your state unemployment agency.
+
+## FAQ
+
+### Can I use my whole yearly FSA election if I haven't paid it all in yet?
+
+For care you receive while you're still covered, generally yes. IRS Publication 969 (2025) says the maximum reimbursement must be available at any time during the coverage period. Ask your plan administrator how your plan applies this before your last day.
+
+### Will I lose my HSA if I'm laid off?
+
+No. IRS Publication 969 (2025) says the HSA stays with you when you leave a job. You keep the balance and can keep using it for qualified medical expenses.
+
+### Can I pay COBRA premiums with my HSA?
+
+Yes. IRS Publication 969 (2025) lists COBRA continuation coverage as an exception to the rule against paying premiums with HSA money. You can also pay health coverage premiums while you're receiving unemployment compensation.
+
+### Does a bronze Marketplace plan let me contribute to my HSA in 2026?
+
+Generally, yes. Under IRS Notice 2026-5, bronze and catastrophic plans available through an exchange are treated as high-deductible health plans for months after December 31, 2025.
+
+### Can I get a refund of my leftover FSA balance?
+
+No. IRS Publication 969 (2025) says your employer isn't permitted to refund any part of the balance to you. Your options are to use it for eligible care before the deadlines, or look at COBRA for the FSA if your plan offers it.
+
+## Sources
+
+- IRS Publication 969 (2025), Health Savings Accounts and Other Tax-Favored Health Plans: https://www.irs.gov/publications/p969
+- IRS Revenue Procedure 2025-32 (2026 inflation adjustments, section on cafeteria plans): https://www.irs.gov/pub/irs-drop/rp-25-32.pdf
+- IRS Notice 2026-5, Expanded Availability of Health Savings Accounts: https://www.irs.gov/pub/irs-drop/n-26-05.pdf
+- IRS Publication 503 (2025), Child and Dependent Care Expenses: https://www.irs.gov/publications/p503
+- 26 CFR 54.4980B-2 (COBRA rules for health FSAs, Q&A-8): https://www.law.cornell.edu/cfr/text/26/54.4980B-2
+- U.S. Department of Labor, A Worker's Guide to Health Benefits Under COBRA: https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/workers-guide-health-benefits-cobra
+- HealthCare.gov, Special Enrollment Period: https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/
+`,
+  },
+  {
     slug: 'quit-job-to-move-with-spouse-military-pcs-can-you-get-unemployment-2026',
     title: 'Quitting Your Job to Move With Your Spouse? When You Can Still Get Unemployment',
     description: "Quit your job to follow a spouse's move or military PCS? Many states pay benefits if commuting is impractical. See the rules, examples and what to prove.",
