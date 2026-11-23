@@ -4,6 +4,200 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-tennessee-2026-guide',
+    title: 'Filing for Unemployment in Tennessee: A Week-by-Week Timeline for Your First Month (2026)',
+    description: 'Lost your job in Tennessee? What happens from the day you file on Jobs4TN through your first payment: $325 max, 12 weeks, four work searches and the 15-day appeal clock.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-23',
+    updatedAt: '2026-11-23',
+    category: 'State Guides',
+    tags: ['Tennessee unemployment', 'Jobs4TN', 'how to file unemployment Tennessee', 'Tennessee weekly certification', 'Tennessee unemployment appeal', 'Tennessee work search', 'waiting week'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: How Do I File for Unemployment in Tennessee?
+
+**You file online at Jobs4TN.gov, through an Unemployment Claimant e-Services account, and you can file the first day after your job ends or your hours are cut sharply.** In 2026, Tennessee pays up to $325 a week for up to 12 weeks when the state's average unemployment rate is at or below 5.5%, according to the Tennessee Department of Labor and Workforce Development (2026). Your first payable week is held back as a waiting week, so most people do not see their first full payment until about week four.
+
+The rest of this guide walks you through the first month in order, so you know what should happen and when. Rules can change, so confirm anything important with the Tennessee Department of Labor and Workforce Development before you rely on it.
+
+## Before You File: Do You Likely Qualify?
+
+Tennessee's unemployment program is for people who are out of work **through no fault of their own** and who are **able, available and looking for work**, according to the Tennessee Department of Labor and Workforce Development (2026). You may also qualify if your employer significantly reduced your hours.
+
+### Did I earn enough?
+
+Tennessee looks at your earnings in a "base period." For most people, that is the first four of the last five completed calendar quarters before the quarter you file in. For example, if you file in November 2026, the base period is usually July 2025 through June 2026.
+
+The state's eligibility page (2026) lists three wage tests:
+
+- You must have earned an average of **$780.01 in each of 2 quarters** of the base period.
+- Your wages outside your highest quarter must be at least the lesser of **$900 or 6 times your weekly benefit amount**.
+- Your total base period wages must be **more than 40 times your weekly benefit amount**.
+
+You do not have to do this math yourself. The state does it and sends you the result. If you want a rough idea first, try our [unemployment benefits calculator](/unemployment-benefits-calculator) or read our [Tennessee unemployment benefits overview](/unemployment-benefits-tennessee).
+
+### What usually leads to a denial?
+
+The state lists these as the most common reasons people are denied:
+
+- Quitting without good work-related cause
+- Being fired for work-related misconduct
+- Taking part in a labor dispute (other than a lockout) that is in active progress
+- Not looking for or not accepting suitable work
+
+If one of these sounds like your situation, still consider filing. The state decides based on facts from you and your employer, and you have the right to appeal if you disagree.
+
+## Day 1: File Your Claim on Jobs4TN
+
+Go to **Jobs4TN.gov**, choose "File for Unemployment," and create an online account if you do not have one. Tennessee's Unemployment Claimant e-Services system launched in February 2024, and you need an account there to file.
+
+Have this ready before you start:
+
+- Your Social Security number
+- Names, addresses and work dates for your recent employers (the state checks the past 18 months)
+- The reason each job ended, in your own plain words
+- Your bank routing and account number if you want direct deposit
+
+**Tip:** Write down the date and time you filed and take a screenshot of the confirmation page. Small records like this help a lot if anything goes wrong later.
+
+## Days 1 to 2: Watch for Your Monetary Determination
+
+The state says your **Monetary Determination** arrives in your e-Services account within one business day of finishing your claim (Tennessee Department of Labor and Workforce Development, 2026).
+
+This letter shows how much you **could** receive if you are approved. It is not an approval. Check it carefully:
+
+- Are all your employers from the past 18 months listed?
+- Do the wage amounts look right?
+
+If an employer or wages are missing, you can file a **wage protest** online through Jobs4TN. Fixing missing wages early can raise your weekly amount or make you eligible when you were told you were not.
+
+## Within 7 Days: Answer Every Fact-Finding Questionnaire
+
+Right after you file, the state may send **fact-finding questionnaires** to your e-Services account. Look for them on the Summary screen or in the Action Center.
+
+The state asks you to complete them **within 7 days of filing, or by the due date on each questionnaire**. These questions usually cover why your job ended, whether you got severance or other pay, and whether you can work.
+
+Answer honestly and stick to facts and dates. Short, clear answers are better than long ones. Missing a questionnaire can delay your claim or lead to a denial.
+
+## Your First Sunday: Start Weekly Certifications
+
+This is the step people miss most often. **You must certify every week, even before you are approved.**
+
+According to the state's weekly certification page (2026):
+
+- An unemployment week runs Sunday through Saturday.
+- A new certification for the week before opens each Sunday.
+- You can certify any day of the week, though Sunday is the busiest day.
+- Do not wait for a letter from the state before you start. Skipped weeks may not be paid.
+
+The state also warns that if you go **more than 3 weeks** without certifying, your claim closes and you must file again. Missed certifications can no longer be filed or paid.
+
+### How many work searches do I need?
+
+Tennessee requires **four work search activities each week**, reported on your weekly certification. The state's eligibility page (2026) describes this as a combination of job searches and reemployment activities, such as interviews and job fairs. You can also meet the requirement by using services at an American Job Center.
+
+Keep your own log of every search: the date, the employer, the job, how you applied and any result. The state notes that failing to make and record valid work searches can cause you to lose benefits.
+
+### What if I worked a little that week?
+
+You must report all earnings for the week you **earned** them, even if you have not been paid yet.
+
+Tennessee lets you earn **$50 or 25% of your weekly benefit amount, whichever is greater,** without any cut to that week's benefit. For example, the state explains that someone getting the $325 maximum can earn up to $81.25 and still get the full $325. Someone getting $175 a week can earn up to $50.
+
+If you earn **more than your weekly benefit amount**, benefits for that week stop. And even small earnings must be reported. The state says failing to report them can lead to a disqualification and an overpayment you would have to pay back.
+
+## Week 1: The Waiting Week
+
+Your first certified week is a **waiting week**. It is not paid right away.
+
+Here is the good news: the state pays the waiting week later if you certify for and are eligible for **four weeks in a row**. Your fourth week's payment is then doubled to cover both week one and week four.
+
+So if your first few weeks feel slow, that is how the system is designed. Keep certifying.
+
+## Weeks 1 to 2: Your Payment Card Arrives
+
+Tennessee pays benefits on a **Way2Go Card Debit Mastercard**, which the state says is mailed within 7 to 10 days of your application. You can choose direct deposit instead.
+
+One thing to know: the state says it will not change your payment method based on bank details you send in some other way. Make that choice inside your account. If your card is lost or never arrives, the state lists the Way2Go number as 855-462-5887.
+
+## Weeks 2 to 4: The Approval or Denial Letter
+
+Whether you are approved or denied comes in a **Non-Monetary Determination**. You may get more than one of these, for example one about why your job ended and another about severance pay or whether you are able and available to work.
+
+You can track your status in the Benefit Details panel on the Summary screen of your e-Services account.
+
+## If You Are Denied: You Have 15 Days to Appeal
+
+If your claim is denied and you believe you lost your job through no fault of your own, you can appeal. **You must file within 15 calendar days of the date of the denial decision,** according to the Tennessee Department of Labor and Workforce Development (2026).
+
+To appeal, log in to your e-Services account on Jobs4TN, pick the decision you disagree with and click "File Appeal." Keep certifying every week while your appeal is pending.
+
+Our guides on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) and our [appeal letter example](/unemployment-appeal-letter-example) can help you explain your side clearly.
+
+### What is a Tennessee appeal hearing like?
+
+The Appeals Tribunal mails a Notice of Hearing with the date, time, issues and whether the hearing is by phone or in person. Most hearings are by phone. Some key rules from the state's hearing guide (2026):
+
+- **Documents:** Send a full copy, with numbered pages, to both the Appeals Tribunal and the other party **at least 48 hours** before the hearing. Papers you sent earlier during your claim do not count.
+- **Rescheduling:** Requests must be in writing and, except in an emergency, made at least 48 hours before the hearing.
+- **Being late:** For phone hearings, if you do not call in within 15 minutes of the start time, the call closes and you have to ask for the hearing to be reopened.
+- **Witnesses:** Bring people with firsthand knowledge. Secondhand stories carry little weight.
+- **Time zone:** Your hearing officer may be in a different part of the state, so check whether the time on your notice is Central or Eastern.
+
+You can have a lawyer, though you are not required to. If you cannot afford one, the state notes that free or low-cost help may be available through your local bar association or a legal services organization. You can also find an employment attorney through [BenefitsPath's legal help page](/legal-help).
+
+### What if I lose the hearing?
+
+You can appeal to the **Office of Administrative Review** in writing, by fax or mail, within **15 calendar days** of the mailing date of the hearing decision. Usually that office reviews the existing record without a new hearing, so your evidence at the first hearing matters most. After that, the next step is a petition in Chancery Court.
+
+## A Note on Taxes
+
+Unemployment benefits count as taxable income on your federal tax return, according to the IRS (2026). Setting aside a little from each payment, or asking to have tax withheld, can prevent a surprise bill next spring.
+
+## Your First-Month Checklist
+
+- File on Jobs4TN.gov and save your confirmation
+- Check your Monetary Determination; file a wage protest if anything is missing
+- Finish every fact-finding questionnaire within 7 days
+- Certify every week starting the first Sunday after you file
+- Make and log four work search activities each week
+- Report all earnings for the week you earned them
+- Watch for your Way2Go card or set up direct deposit
+- Read every determination letter the day it arrives
+- If denied, appeal within 15 calendar days
+
+## FAQ
+
+### How much does Tennessee unemployment pay in 2026?
+Up to $325 a week. Your exact amount depends on your base period wages and is shown on your Monetary Determination.
+
+### How long can I get Tennessee unemployment?
+Up to 12 weeks in a benefit year when the state's average unemployment rate is at or below 5.5%, according to the state. More weeks may be available when unemployment is higher, so check your Monetary Determination.
+
+### Can I file if my hours were cut but I still have a job?
+Possibly. The state says you may file after your employer has significantly reduced your hours. Report every dollar you earn each week.
+
+### What if I took a temporary job and it ended?
+If you earn more than your weekly benefit amount, your benefits stop. The state says you must file again when that temporary assignment ends.
+
+### What is the Tennessee unemployment phone number?
+The Tennessee Department of Labor and Workforce Development lists (844) 224-5818.
+
+## Sources
+
+- Tennessee Department of Labor and Workforce Development, Apply for Unemployment Benefits: https://www.tn.gov/workforce/unemployment/apply-for-benefits.html
+- Tennessee Department of Labor and Workforce Development, Do I Qualify?: https://www.tn.gov/workforce/unemployment/apply-for-benefits-redirect-2/do-i-qualify.html
+- Tennessee Department of Labor and Workforce Development, What to Expect After You File: https://www.tn.gov/workforce/unemployment/apply-for-benefits/what-to-expect-after-you-file-2.html
+- Tennessee Department of Labor and Workforce Development, Certify Weekly: https://www.tn.gov/workforce/unemployment/manage-my-benefits-redirect/certify-weekly.html
+- Tennessee Department of Labor and Workforce Development, Appeal an Agency Decision: https://www.tn.gov/workforce/unemployment/appeal-an-agency-decision-redirect.html
+- Tennessee Department of Labor and Workforce Development, Preparing for the Hearing: https://www.tn.gov/workforce/unemployment/appeal-an-agency-decision-redirect/preparing-for-the-hearing.html
+- Tennessee Department of Labor and Workforce Development, If Your Appeal Is Not Successful: https://www.tn.gov/workforce/unemployment/appeal-an-agency-decision-redirect/unsuccessful-appeals.html
+- IRS, Unemployment Compensation: https://www.irs.gov/individuals/employees/unemployment-compensation
+
+Benefit amounts, deadlines and rules can change. Confirm details with the Tennessee Department of Labor and Workforce Development or the instructions on your own notices. This is general information, not legal advice.
+`,
+  },
+  {
     slug: 'unemployment-appeal-hearing-questions-what-the-judge-will-ask-2026',
     title: 'Unemployment Appeal Hearing Questions: What the Judge Will Ask (and What to Bring)',
     description: 'The questions a hearing officer usually asks in a layoff, firing or quit case, who has to prove what, questions you can ask the employer, and a checklist of what to bring.',
