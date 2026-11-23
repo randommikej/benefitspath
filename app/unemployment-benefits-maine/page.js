@@ -1,9 +1,13 @@
 import { SeoLayout, CTABlock, FAQSection } from '../../components/SeoTemplate'
+import CertReminderSignup from '../../components/CertReminderSignup'
 
 export const metadata = {
   title: 'Unemployment Benefits in Maine — 2026 Guide',
   description: 'Complete guide to unemployment benefits in Maine. Eligibility requirements, weekly benefit amounts up to $445/week, how to apply, and how to appeal a denial.',
-  alternates: { canonical: 'https://www.benefitspath.org/unemployment-benefits-maine' },
+  alternates: {
+    canonical: 'https://www.benefitspath.org/unemployment-benefits-maine',
+    languages: { 'en-US': 'https://www.benefitspath.org/unemployment-benefits-maine', 'es-US': 'https://www.benefitspath.org/es/desempleo/maine', 'x-default': 'https://www.benefitspath.org/unemployment-benefits-maine' },
+  },
 }
 
 export default function Page() {
@@ -17,7 +21,7 @@ export default function Page() {
   ]
 
   return (
-    <SeoLayout>
+    <SeoLayout altHref="/es/desempleo/maine">
       <div className="sg-hero">
         <div className="sg-eyebrow">State Guide</div>
         <h1 className="sg-title">
@@ -78,6 +82,8 @@ export default function Page() {
 
       <CTABlock title="Generate Your Maine Appeal Letter" description="Our free tool creates a professional appeal letter tailored to your situation and Maine unemployment law." href="/" btnText="Create My Appeal Letter" variant="green" />
       <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/legal-help/maine" btnText="Find Free Legal Help" variant="blue" />
+
+      <CertReminderSignup defaultState="ME" source="state-maine" />
 
       <FAQSection faqs={faqs} />
     </SeoLayout>

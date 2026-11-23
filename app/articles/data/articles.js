@@ -4,6 +4,157 @@
 
 export const articles = [
   {
+    slug: 'unemployment-appeal-hearing-questions-what-the-judge-will-ask-2026',
+    title: 'Unemployment Appeal Hearing Questions: What the Judge Will Ask (and What to Bring)',
+    description: 'The questions a hearing officer usually asks in a layoff, firing or quit case, who has to prove what, questions you can ask the employer, and a checklist of what to bring.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-22',
+    updatedAt: '2026-11-22',
+    category: 'Unemployment Appeals',
+    tags: ['unemployment appeal hearing questions', 'appeal hearing prep', 'what to bring to unemployment hearing', 'burden of proof', 'misconduct hearing', 'voluntary quit hearing', 'cross-examination'],
+    readTime: '8 min read',
+    content: `
+## Quick Answer: What Will They Ask at My Unemployment Hearing?
+
+**The judge (often called a hearing officer, referee or administrative law judge) will ask how and why your job ended, the dates you worked, and whether you were able, available and looking for work while you filed claims.** The exact questions depend on why you were denied. If you were fired, most questions go to the employer first. If you quit, you go first and you have to explain why.
+
+You do not need to write a speech. The judge leads the hearing and asks the questions. Your job is to know your own timeline cold and have your papers in front of you. If you want the bigger picture of how a hearing runs, start with our guide to [what to expect at an unemployment appeal hearing](/articles/unemployment-appeal-hearing-what-to-expect-how-to-prepare-2026).
+
+## Who Has to Prove What?
+
+This decides who testifies first and which questions matter most.
+
+- **You were fired:** In most states the employer has to show you were let go for misconduct connected with the work. Vermont's appeals office, for example, puts the burden on the employer in discharge cases, and a higher burden for "gross misconduct."
+- **You quit:** You have to show you had good cause to leave. In many states that means good cause connected to the job or the employer, not just a personal reason.
+- **You turned down a job offer:** You usually have to show the work was not suitable for you.
+- **The question is whether you were able and available, searched for work, or reported earnings:** You are the one who has to explain, so bring records.
+
+Iowa's appeals guide sums it up: the party who started the separation carries the burden, so the employer testifies first in a firing case and the claimant testifies first in a quit case.
+
+## Questions Asked in Almost Every Case
+
+Washington's Office of Administrative Hearings publishes a list of questions its judges may ask. Questions like these come up in nearly every state:
+
+- When did you start working there, and what was your last day?
+- What was your job title, and were you full time or part time?
+- How did the job end? Who told you, when, and what exactly was said?
+- When did you start filing weekly claims? Are you still filing?
+- During the weeks you claimed, were you physically able to work and available without limits on your schedule?
+- Were you looking for work each week? How did you search, and do you have records?
+
+**Tip:** Write your start date, last day, the date you were told, and the name of the person who told you on one sheet of paper. Keep it in front of you.
+
+## If You Were Fired: Questions the Judge Will Ask
+
+The judge will usually ask the employer's witness first, then you. Expect questions about the final incident and any rule you broke:
+
+- What was the final incident that led to the firing, and when did it happen?
+- What rule or policy does the employer say you broke? Was it written down, and did you receive it?
+- Had you been warned before? Were the warnings written or verbal, and did you sign anything?
+- Did you know your job was at risk if it happened again?
+- What is your side of the final incident? Was it a mistake, an accident, or something outside your control?
+- Was anyone else involved or treated differently for the same thing?
+- How long passed between the incident and the firing?
+
+**What helps you:** Showing that the final incident was an honest mistake, a one-time error, or not your fault. Misconduct usually means a deliberate or seriously careless disregard of the employer's interests, not poor performance or a single slip. If the employer's witness did not see what happened, say so. Secondhand testimony carries less weight when you dispute it with what you saw yourself.
+
+## If You Quit: Questions the Judge Will Ask
+
+Because you have to show good cause, these questions go to you first:
+
+- Why did you quit? What was the main reason?
+- When did the problem start, and did it get worse?
+- Did you tell a supervisor, HR or the owner before you left? When, how, and what did they say?
+- Did you ask for a fix, a transfer, a schedule change or time off before quitting?
+- Did you have another job lined up?
+- Would a reasonable person in your position have stayed?
+- If you quit for health or family reasons, did a doctor advise it, and did you ask about leave first?
+
+**What helps you:** Proof that you tried to solve the problem before leaving. An email to HR, a text to your manager, or a written complaint matters more than almost anything you say at the hearing.
+
+## If You Were Laid Off or Your Hours Were Cut
+
+These hearings are usually shorter. Expect questions like:
+
+- Were you told it was a layoff, a lack of work, or a temporary furlough?
+- Were you offered other work, a different shift, or a recall date?
+- Did you get severance, vacation payout or other pay after your last day?
+
+## If the Issue Is Earnings or an Overpayment
+
+The judge will ask what you earned each week you claimed and why any amount was reported the way it was. Bring pay stubs. If you are asking the state to waive an overpayment, Washington says to be ready with your household income, monthly expenses, debts and assets.
+
+## Questions You Can Ask the Employer's Witness
+
+You have the right to question the other side's witnesses. This is called cross-examination. The judge will tell you when it is your turn. Keep each question short and about one fact:
+
+- Did you personally see the incident, or did someone tell you about it?
+- Where is the written policy, and did I sign for it?
+- What date was I warned, and who gave the warning?
+- Were other employees disciplined for the same thing?
+- Was I ever told my job was at risk?
+
+Do not argue with the witness. Ask the question, listen, and save your explanation for when the judge asks you.
+
+## What to Bring: Your Hearing Checklist
+
+Most hearings are by phone, so "bring" means "have in front of you, and send copies in advance." Many states only consider documents that were sent to the hearing office and the other party before the hearing. Washington, for example, says to send exhibits to the judge and every other party more than two business days ahead, and that the office will not forward them for you. North Carolina says the referee may not use evidence that was not shared with everyone.
+
+- **Your hearing notice**, with the call-in number, PIN or access code, and the issues listed
+- **The determination you appealed** and the agency's exhibit packet, if one came with your notice
+- **A one-page timeline** with dates, names and what was said
+- **Your termination letter, resignation letter or separation notice**
+- **Warnings, write-ups and performance reviews**
+- **Emails and texts** with your supervisor or HR about the problem, printed or saved where you can find them fast
+- **The employer handbook or policy** you are accused of breaking, if you have it
+- **Pay stubs** for any weeks you worked while claiming
+- **Your work search log**
+- **Doctor's notes** if health was part of why you left or missed work
+- **Witness contact information**, already given to the hearing office if your state requires it
+- **Pen and paper** to note what the employer says so you can respond
+
+Before you send anything, black out your Social Security number, bank account numbers and driver's license number. Washington asks parties to remove these from exhibits.
+
+## Day-of Checklist
+
+- Charge your phone and find a quiet room with good signal.
+- Have your papers spread out and numbered the same way you sent them.
+- If your state requires you to register or confirm your phone number before the hearing, do it. Ohio's review commission, for example, says you must register before the hearing officer calls.
+- If no one calls within about 10 minutes of the start time, call the hearing office yourself. Minnesota tells claimants to do this.
+- If you need an interpreter, ask before the hearing day. Many states provide one at no cost, and Washington notes that friends and family may not interpret.
+- Keep filing your weekly claims while you wait for a decision unless your state tells you otherwise.
+
+## FAQ
+
+### Can I read from notes during the hearing?
+Usually yes, to refresh your memory, but answer in your own words. The judge wants your testimony, not a prepared statement.
+
+### What if the employer does not show up?
+The hearing usually goes ahead. In a firing case, if the employer has the burden and offers no evidence, that can help you. Still be ready to tell your side.
+
+### What if I miss the hearing?
+If you are the one who appealed and you do not take part, your appeal can be dismissed and the original denial stands. Call the hearing office the same day and ask how to request a new hearing.
+
+### Should I get a lawyer?
+You do not need one, and most people represent themselves. If you were fired for alleged misconduct, face a large overpayment, or the employer is bringing a lawyer, a short consultation can help. You can find free legal aid and employment attorneys in your state on our [legal help page](/legal-help).
+
+### How soon will I get a decision?
+It varies by state, but a written decision usually arrives within a few weeks. It will explain how to appeal to the next level if you lose, and that deadline is short. See [what to do if you lose your appeal hearing](/articles/lost-unemployment-appeal-hearing-second-level-board-review-what-next-2026).
+
+## Sources
+
+- Washington Office of Administrative Hearings, How to Prepare for Your Unemployment Hearing: https://oah.wa.gov/sites/default/files/2025-07/ESD%20How%20to%20Prepare%20for%20a%20Hearing.pdf
+- Vermont Department of Labor, Burden of Proof Information: https://labor.vermont.gov/doc/sites/labor/files/doc_library/Burden-of-Proof-Information.pdf
+- Iowa Department of Inspections, Appeals and Licensing, unemployment hearing guide: https://das.iowa.gov/media/4789/download
+- Maine Department of Labor, Appeals Frequently Asked Questions: https://www.maine.gov/unemployment/appealsfaq/
+- North Carolina Division of Employment Security, Prepare for Your Hearing: https://www.des.nc.gov/appeals/prepare-hearing
+- Minnesota Unemployment Insurance, Appeal Hearing Guide: https://mn.gov/uimn/applicants/howappeal/appeal/appeal-hearing-guide.jsp
+- Ohio Unemployment Compensation Review Commission, hearing tips: https://dam.assets.ohio.gov/image/upload/v1772031907/ucrc.ohio.gov/PDF/19TipsUCRCFlyer.pdf
+
+Hearing rules, deadlines and who goes first vary by state and can change. Follow the instructions on your own hearing notice, and confirm details with your state's appeals office. This is general information, not legal advice.
+`,
+  },
+  {
     slug: 'laid-off-money-left-in-fsa-or-hsa-what-happens-checklist-2026',
     title: 'Laid Off With Money Left in Your FSA or HSA? A Checklist to Keep It From Going to Waste',
     description: "Lost your job with money in an FSA or HSA? Your HSA is yours to keep, but FSA money can vanish. Use this checklist to claim it, use it and avoid tax penalties.",

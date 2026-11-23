@@ -1,9 +1,13 @@
 import { SeoLayout, CTABlock, FAQSection } from '../../components/SeoTemplate'
+import CertReminderSignup from '../../components/CertReminderSignup'
 
 export const metadata = {
   title: 'Unemployment Benefits in Washington — 2026 Guide',
   description: 'Complete guide to unemployment benefits in Washington. Eligibility requirements, weekly benefit amounts up to $1079/week, how to apply, and how to appeal a denial.',
-  alternates: { canonical: 'https://www.benefitspath.org/unemployment-benefits-washington' },
+  alternates: {
+    canonical: 'https://www.benefitspath.org/unemployment-benefits-washington',
+    languages: { 'en-US': 'https://www.benefitspath.org/unemployment-benefits-washington', 'es-US': 'https://www.benefitspath.org/es/desempleo/washington', 'x-default': 'https://www.benefitspath.org/unemployment-benefits-washington' },
+  },
 }
 
 export default function Page() {
@@ -17,7 +21,7 @@ export default function Page() {
   ]
 
   return (
-    <SeoLayout>
+    <SeoLayout altHref="/es/desempleo/washington">
       <div className="sg-hero">
         <div className="sg-eyebrow">State Guide</div>
         <h1 className="sg-title">
@@ -78,6 +82,8 @@ export default function Page() {
 
       <CTABlock title="Generate Your Washington Appeal Letter" description="Our free tool creates a professional appeal letter tailored to your situation and Washington unemployment law." href="/" btnText="Create My Appeal Letter" variant="green" />
       <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/legal-help/washington" btnText="Find Free Legal Help" variant="blue" />
+
+      <CertReminderSignup defaultState="WA" source="state-washington" />
 
       <FAQSection faqs={faqs} />
     </SeoLayout>

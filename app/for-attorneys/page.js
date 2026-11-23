@@ -95,6 +95,7 @@ export default function ForAttorneysPage() {
                 'Short bio visible to users',
                 'Listed to users in your covered states',
                 'Appears after eligibility quiz results',
+                'Email alerts when someone in your states asks an attorney to contact them',
                 'Cancel anytime by email',
               ].map((feature) => (
                 <div key={feature} style={{ display: 'flex', alignItems: 'flex-start', gap: 12, padding: '12px 0', borderBottom: '1px solid #f0ede6' }}>
@@ -129,7 +130,7 @@ export default function ForAttorneysPage() {
               { q: 'How do I cancel?', a: 'You can cancel anytime by emailing support@benefitspath.org. No contract and no cancellation fee. Your listing stays active until the end of your billing period.' },
               { q: 'What states can I cover?', a: 'Any state or all 50. You choose when you sign up. You can email us to update your coverage.' },
               { q: 'How quickly does my listing go live?', a: 'Immediately after payment is confirmed — typically within a minute or two.' },
-              { q: 'Is this a lead generation service?', a: 'We display your contact information to users who are looking for help. Users contact you directly — we do not charge per lead.' },
+              { q: 'Do you charge per lead?', a: 'No. The price is a flat $250/month. Your listing shows your contact information to people in your covered states, and you get an email alert when someone in those states asks to be contacted by an employment attorney, with the details they chose to share. You reach out to them directly.' },
             ].map(({ q, a }) => (
               <div key={q} style={{ borderBottom: '1px solid #e5e0d8', padding: '20px 0' }}>
                 <h3 style={{ fontSize: 16, fontWeight: 600, marginBottom: 8 }}>{q}</h3>

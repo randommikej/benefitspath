@@ -1,9 +1,13 @@
 import { SeoLayout, CTABlock, FAQSection } from '../../components/SeoTemplate'
+import CertReminderSignup from '../../components/CertReminderSignup'
 
 export const metadata = {
   title: 'Unemployment Benefits in Missouri — 2026 Guide',
   description: 'Complete guide to unemployment benefits in Missouri. Eligibility requirements, weekly benefit amounts up to $320/week, how to apply, and how to appeal a denial.',
-  alternates: { canonical: 'https://www.benefitspath.org/unemployment-benefits-missouri' },
+  alternates: {
+    canonical: 'https://www.benefitspath.org/unemployment-benefits-missouri',
+    languages: { 'en-US': 'https://www.benefitspath.org/unemployment-benefits-missouri', 'es-US': 'https://www.benefitspath.org/es/desempleo/missouri', 'x-default': 'https://www.benefitspath.org/unemployment-benefits-missouri' },
+  },
 }
 
 export default function Page() {
@@ -17,7 +21,7 @@ export default function Page() {
   ]
 
   return (
-    <SeoLayout>
+    <SeoLayout altHref="/es/desempleo/missouri">
       <div className="sg-hero">
         <div className="sg-eyebrow">State Guide</div>
         <h1 className="sg-title">
@@ -78,6 +82,8 @@ export default function Page() {
 
       <CTABlock title="Generate Your Missouri Appeal Letter" description="Our free tool creates a professional appeal letter tailored to your situation and Missouri unemployment law." href="/" btnText="Create My Appeal Letter" variant="green" />
       <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/legal-help/missouri" btnText="Find Free Legal Help" variant="blue" />
+
+      <CertReminderSignup defaultState="MO" source="state-missouri" />
 
       <FAQSection faqs={faqs} />
     </SeoLayout>

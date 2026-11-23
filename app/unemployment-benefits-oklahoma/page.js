@@ -1,9 +1,13 @@
 import { SeoLayout, CTABlock, FAQSection } from '../../components/SeoTemplate'
+import CertReminderSignup from '../../components/CertReminderSignup'
 
 export const metadata = {
   title: 'Unemployment Benefits in Oklahoma — 2026 Guide',
   description: 'Complete guide to unemployment benefits in Oklahoma. Eligibility requirements, weekly benefit amounts up to $539/week, how to apply, and how to appeal a denial.',
-  alternates: { canonical: 'https://www.benefitspath.org/unemployment-benefits-oklahoma' },
+  alternates: {
+    canonical: 'https://www.benefitspath.org/unemployment-benefits-oklahoma',
+    languages: { 'en-US': 'https://www.benefitspath.org/unemployment-benefits-oklahoma', 'es-US': 'https://www.benefitspath.org/es/desempleo/oklahoma', 'x-default': 'https://www.benefitspath.org/unemployment-benefits-oklahoma' },
+  },
 }
 
 export default function Page() {
@@ -17,7 +21,7 @@ export default function Page() {
   ]
 
   return (
-    <SeoLayout>
+    <SeoLayout altHref="/es/desempleo/oklahoma">
       <div className="sg-hero">
         <div className="sg-eyebrow">State Guide</div>
         <h1 className="sg-title">
@@ -78,6 +82,8 @@ export default function Page() {
 
       <CTABlock title="Generate Your Oklahoma Appeal Letter" description="Our free tool creates a professional appeal letter tailored to your situation and Oklahoma unemployment law." href="/" btnText="Create My Appeal Letter" variant="green" />
       <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/legal-help/oklahoma" btnText="Find Free Legal Help" variant="blue" />
+
+      <CertReminderSignup defaultState="OK" source="state-oklahoma" />
 
       <FAQSection faqs={faqs} />
     </SeoLayout>

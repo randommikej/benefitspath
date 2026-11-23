@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { getArticleBySlug, getAllArticles } from '../data/articles'
 import { notFound } from 'next/navigation'
+import CertReminderSignup from '../../../components/CertReminderSignup'
 
 export async function generateStaticParams() {
   return getAllArticles().map((article) => ({ slug: article.slug }))
@@ -29,8 +30,45 @@ export async function generateMetadata({ params }) {
   }
 }
 
+const P_STYLE = { fontSize: 16, lineHeight: 1.8, color: '#3a352e', marginBottom: 14 }
+const LINK_STYLE = { color: '#2d6a4f', textDecoration: 'underline' }
+
+// Inline markdown: **bold**, *italic*, [text](url) and bare https:// URLs.
+function renderInline(text, keyBase = 'x') {
+  const out = []
+  const re = /(\*\*[^*]+\*\*|\[[^\]]+\]\([^)\s]+\)|https?:\/\/[^\s)]+|\*[^*\s][^*]*\*)/g
+  let last = 0
+  let m
+  let n = 0
+  while ((m = re.exec(text)) !== null) {
+    if (m.index > last) out.push(text.slice(last, m.index))
+    const tok = m[0]
+    const key = `${keyBase}-${n++}`
+    if (tok.startsWith('**')) {
+      out.push(<strong key={key} style={{ color: '#1a1714' }}>{renderInline(tok.slice(2, -2), key)}</strong>)
+    } else if (tok.startsWith('[')) {
+      const close = tok.indexOf('](')
+      const label = tok.slice(1, close)
+      const href = tok.slice(close + 2, -1)
+      if (href.startsWith('/')) out.push(<Link key={key} href={href} style={LINK_STYLE}>{label}</Link>)
+      else out.push(<a key={key} href={href} target="_blank" rel="noopener noreferrer" style={LINK_STYLE}>{label}</a>)
+    } else if (tok.startsWith('http')) {
+      const trail = tok.match(/[.,;:]+$/)
+      const url = trail ? tok.slice(0, -trail[0].length) : tok
+      out.push(<a key={key} href={url} target="_blank" rel="noopener noreferrer" style={{ ...LINK_STYLE, wordBreak: 'break-word' }}>{url}</a>)
+      if (trail) out.push(trail[0])
+    } else {
+      out.push(<em key={key}>{tok.slice(1, -1)}</em>)
+    }
+    last = m.index + tok.length
+  }
+  if (last < text.length) out.push(text.slice(last))
+  return out
+}
+
 function renderMarkdown(content) {
-  // Simple markdown-to-JSX renderer for article content
+  // Small markdown-to-JSX renderer: ## / ### headings, paragraphs, - bullet lists,
+  // 1. numbered lists, and inline bold, italics and links.
   const lines = content.split('\n')
   const elements = []
   let i = 0
@@ -38,67 +76,91 @@ function renderMarkdown(content) {
   while (i < lines.length) {
     const line = lines[i]
 
-    // H2
     if (line.startsWith('## ')) {
       elements.push(
         <h2 key={i} style={{ fontFamily: "'Instrument Serif', serif", fontSize: 28, marginTop: 40, marginBottom: 14, fontWeight: 400, color: '#1a1714' }}>
-          {line.slice(3)}
+          {renderInline(line.slice(3), `h${i}`)}
         </h2>
       )
       i++
       continue
     }
 
-    // H3
     if (line.startsWith('### ')) {
       elements.push(
         <h3 key={i} style={{ fontSize: 18, fontWeight: 600, marginTop: 28, marginBottom: 10, color: '#1a1714' }}>
-          {line.slice(4)}
+          {renderInline(line.slice(4), `h${i}`)}
         </h3>
       )
       i++
       continue
     }
 
-    // Bold paragraph (starts with **)
-    if (line.startsWith('**') && line.includes('**', 2)) {
-      const boldEnd = line.indexOf('**', 2)
-      const boldText = line.slice(2, boldEnd)
-      const rest = line.slice(boldEnd + 2)
+    // Bullet list: consecutive "- " or "* " lines
+    if (/^\s*[-*] /.test(line)) {
+      const start = i
+      const items = []
+      while (i < lines.length && /^\s*[-*] /.test(lines[i])) {
+        items.push(lines[i].replace(/^\s*[-*] /, ''))
+        i++
+      }
       elements.push(
-        <p key={i} style={{ fontSize: 16, lineHeight: 1.8, color: '#3a352e', marginBottom: 14 }}>
-          <strong style={{ color: '#1a1714' }}>{boldText}</strong>{rest}
-        </p>
+        <ul key={start} style={{ paddingLeft: 22, marginBottom: 16 }}>
+          {items.map((it, j) => <li key={j} style={{ fontSize: 16, lineHeight: 1.7, color: '#3a352e', marginBottom: 6 }}>{renderInline(it, `u${start}-${j}`)}</li>)}
+        </ul>
       )
-      i++
       continue
     }
 
-    // Empty line
+    // Numbered list: consecutive "1. " lines
+    if (/^\s*\d+\. /.test(line)) {
+      const start = i
+      const items = []
+      while (i < lines.length && /^\s*\d+\. /.test(lines[i])) {
+        items.push(lines[i].replace(/^\s*\d+\. /, ''))
+        i++
+      }
+      elements.push(
+        <ol key={start} style={{ paddingLeft: 22, marginBottom: 16 }}>
+          {items.map((it, j) => <li key={j} style={{ fontSize: 16, lineHeight: 1.7, color: '#3a352e', marginBottom: 6 }}>{renderInline(it, `o${start}-${j}`)}</li>)}
+        </ol>
+      )
+      continue
+    }
+
     if (line.trim() === '') {
       i++
       continue
     }
 
-    // Regular paragraph
-    // Handle inline bold
-    const parts = line.split(/(\*\*[^*]+\*\*)/)
-    const rendered = parts.map((part, j) => {
-      if (part.startsWith('**') && part.endsWith('**')) {
-        return <strong key={j} style={{ color: '#1a1714' }}>{part.slice(2, -2)}</strong>
-      }
-      return part
-    })
-
-    elements.push(
-      <p key={i} style={{ fontSize: 16, lineHeight: 1.8, color: '#3a352e', marginBottom: 14 }}>
-        {rendered}
-      </p>
-    )
+    elements.push(<p key={i} style={P_STYLE}>{renderInline(line, `p${i}`)}</p>)
     i++
   }
 
   return elements
+}
+
+// Pulls "### Question" + answer paragraphs out of an article's "## FAQ" (or "Frequently
+// Asked Questions") section, for FAQPage structured data.
+function extractFaqs(content) {
+  const lines = content.split('\n')
+  const start = lines.findIndex(l => /^## (FAQ|Frequently Asked Questions)/i.test(l.trim()))
+  if (start === -1) return []
+  const faqs = []
+  let cur = null
+  for (let k = start + 1; k < lines.length; k++) {
+    const l = lines[k]
+    if (l.startsWith('## ')) break
+    if (l.startsWith('### ')) {
+      if (cur && cur.a.trim()) faqs.push(cur)
+      cur = { q: l.slice(4).trim(), a: '' }
+    } else if (cur && l.trim()) {
+      cur.a += (cur.a ? ' ' : '') + l.trim()
+    }
+  }
+  if (cur && cur.a.trim()) faqs.push(cur)
+  const plain = t => t.replace(/\*\*([^*]+)\*\*/g, '$1').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/^[-*] /, '')
+  return faqs.map(f => ({ q: plain(f.q), a: plain(f.a) }))
 }
 
 export default function ArticlePage({ params }) {
@@ -116,7 +178,23 @@ export default function ArticlePage({ params }) {
     dateModified: article.updatedAt,
     mainEntityOfPage: `https://www.benefitspath.org/articles/${article.slug}`,
     keywords: article.tags.join(', '),
+    inLanguage: article.lang === 'es' ? 'es-US' : 'en-US',
   }
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.benefitspath.org' },
+      { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://www.benefitspath.org/articles' },
+      { '@type': 'ListItem', position: 3, name: article.title, item: `https://www.benefitspath.org/articles/${article.slug}` },
+    ],
+  }
+  const faqs = extractFaqs(article.content)
+  const faqLd = faqs.length ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  } : null
 
   return (
     <>
@@ -126,6 +204,8 @@ export default function ArticlePage({ params }) {
 
       {/* JSON-LD Structured Data for SEO */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      {faqLd && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />}
 
       <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: '#f7f5f0', minHeight: '100vh', color: '#1a1714' }}>
 
@@ -195,6 +275,7 @@ export default function ArticlePage({ params }) {
         {/* Article Body */}
         <article style={{ maxWidth: 720, margin: '0 auto', padding: '32px 24px 48px' }}>
           {renderMarkdown(article.content)}
+          <CertReminderSignup source={`article-${article.slug}`.slice(0, 80)} />
         </article>
 
         {/* CTA Box */}

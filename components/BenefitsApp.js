@@ -3,6 +3,7 @@ import { useState } from 'react'
 import Link from 'next/link'
 import { STATE_DATA, STATES, computeEligibility, generateAppealLetter } from '../lib/data'
 import LegalHelpDirectory from './LegalHelpDirectory'
+import CertReminderSignup from './CertReminderSignup'
 
 const SHEETS_WEBHOOK_URL = process.env.NEXT_PUBLIC_SHEETS_WEBHOOK_URL || ''
 
@@ -136,9 +137,9 @@ export default function BenefitsApp() {
     go('appeal_letter')
   }
 
-  // "Have BenefitsPath connect me": saved as an attorney_request lead. A twice-daily
-  // review picks a matching attorney from lib/legalHelp.js and drafts an intro for Michael
-  // to review and send. Nothing is sent automatically.
+  // "Want us to connect you?": saved as an attorney_request lead. Attorneys who work with
+  // BenefitsPath in the person's state get an email alert with the details the person chose
+  // to share, and contact them directly. The person is not told which attorneys saw it.
   const handleLawyerSubmit = async () => {
     if (lSending) return
     setLSending(true)
@@ -173,6 +174,7 @@ export default function BenefitsApp() {
           <span className="ltxt">BenefitsPath</span>
         </div>
         <nav className="topnav-links">
+          <a href="/es" className="topnav-link topnav-opt" hrefLang="es" lang="es">Español</a>
           <a href="/articles" className="topnav-link topnav-opt">Articles</a>
           <a href="/legal-help" className="topnav-link">Find a Lawyer</a>
           <span className="fbadge">100% Free</span>
@@ -459,6 +461,7 @@ export default function BenefitsApp() {
             <button className="btn bs" onClick={() => go('forms')}>📄 View Required Documents</button>
             {(answers.endReason === 'fired' || answers.endReason === 'quit_good_cause') && <button className="btn bog" onClick={() => go('lawyer')}>⚖️ Talk to a Lawyer</button>}
           </div>
+          {answers.applicationStatus !== 'yes_denied' && <CertReminderSignup defaultState={answers.state} source="result" />}
         </div>
       )}
 
@@ -586,8 +589,8 @@ export default function BenefitsApp() {
           {!lSent ? (
             <div style={{ marginBottom: 28 }}>
               <p style={{ fontSize: 14, color: 'var(--text2)', marginBottom: 14, lineHeight: 1.6 }}>
-                Tell us what happened and we&apos;ll pass your request to an employment attorney in your state who handles cases like yours.
-                It&apos;s free to ask. We can&apos;t promise an attorney will take your case.
+                Tell us what happened. Employment attorneys in your state who work with BenefitsPath will see your request and can contact you directly.
+                It&apos;s free to ask, and no attorney is obligated to take your case.
               </p>
               {[['name', 'Your name *', 'text', 'Full name', 'name'], ['phone', 'Phone number', 'tel', 'Best number to reach you', 'tel'], ['email', 'Email address', 'email', 'Your email', 'email']].map(([k, l, t, p, ac]) => (
                 <div className="ig" key={k}><label className="ilbl" htmlFor={`lf-${k}`}>{l}</label><input id={`lf-${k}`} className="inp" type={t} autoComplete={ac} placeholder={p} value={lForm[k]} onChange={e => setLForm(f => ({ ...f, [k]: e.target.value }))} /></div>
@@ -602,7 +605,7 @@ export default function BenefitsApp() {
               <div className="ig"><label className="ilbl" htmlFor="lf-situation">What happened? *</label><textarea id="lf-situation" className="inp ta" maxLength={1500} placeholder="When did your job end and why? Were you denied unemployment? Any deadlines on your notice?" value={lForm.situation} onChange={e => setLForm(f => ({ ...f, situation: e.target.value }))} /></div>
               <label style={{ display: 'flex', gap: 10, alignItems: 'flex-start', fontSize: 13, color: 'var(--text2)', lineHeight: 1.5, margin: '4px 0 14px' }}>
                 <input type="checkbox" checked={lForm.consent} onChange={e => setLForm(f => ({ ...f, consent: e.target.checked }))} style={{ marginTop: 3 }} />
-                <span>I agree that BenefitsPath may share my name, contact details and description with an attorney or legal aid office so they can contact me. BenefitsPath is not a law firm.</span>
+                <span>I agree that BenefitsPath may share my name, contact details, state and description with employment attorneys in my state who work with BenefitsPath, so they can contact me. BenefitsPath is not a law firm and does not recommend any attorney.</span>
               </label>
               <div className="bnav">
                 <button className="btn bblu" disabled={!lReady || lSending} style={{ opacity: lReady && !lSending ? 1 : .4 }} onClick={handleLawyerSubmit}>{lSending ? 'Sending…' : 'Connect me with an attorney'} <Arr s={18} /></button>
@@ -611,7 +614,7 @@ export default function BenefitsApp() {
             </div>
           ) : (
             <div className="hnote" style={{ marginBottom: 28 }}>
-              <strong>Request received.</strong> We&apos;ll pass it to an attorney in your state, usually within a day. If you have an appeal deadline, don&apos;t wait on us: the offices below can help right away.
+              <strong>Request received.</strong> Attorneys in your state who work with BenefitsPath can now see it and may reach out by phone or email. If you have an appeal deadline, don&apos;t wait: the offices below can help right away.
             </div>
           )}
 
@@ -656,8 +659,10 @@ export default function BenefitsApp() {
           ].slice(0, 1).map(([h, p]) => (
             <div className="psec" key={h}><h3>{h}</h3><p>{p}</p></div>
           ))}
-          <div className="psec"><h3>What we do not do</h3><ul><li>We do not sell your personal information to third parties</li><li>We do not share your data with advertisers</li><li>We do not use your information for targeted advertising</li><li>We do not store your SSN digits beyond your session</li></ul></div>
-          <div className="psec"><h3>Data storage</h3><p>Responses may be stored in a secure database accessible only to the BenefitsPath team, used solely for service improvement and quality review.</p></div>
+          <div className="psec"><h3>What we do not do</h3><ul><li>We do not sell your personal information</li><li>We do not share your information with anyone unless you ask us to, as described below</li><li>We do not use your information for targeted advertising</li><li>We do not store your SSN digits beyond your session</li></ul></div>
+          <div className="psec"><h3>When you ask to hear from an attorney</h3><p>If you fill out the &quot;Want us to connect you?&quot; form and check the consent box, we send your name, phone number and email (whichever you give us), your state and your description to employment attorneys in your state who work with BenefitsPath, so they can contact you. Those attorneys are independent and are not part of BenefitsPath. If you don&apos;t submit that form, we don&apos;t share your information with attorneys.</p></div>
+          <div className="psec"><h3>Weekly reminders</h3><p>If you sign up for weekly certification reminders, we use your email, state and chosen day only to send those reminders. Every reminder has a link to stop them.</p></div>
+          <div className="psec"><h3>Data storage</h3><p>Responses may be stored in a secure database accessible to the BenefitsPath team and used for running and improving the service.</p></div>
           <div className="psec"><h3>Contact</h3><p>Questions? Email <a href="mailto:support@benefitspath.org"><strong>support@benefitspath.org</strong></a></p></div>
           <div className="bnav"><button className="btn bs" onClick={() => go(prevScreen || 'home')}>← Back</button></div>
         </div>

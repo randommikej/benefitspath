@@ -10,10 +10,10 @@ export function CTABlock({ title, description, href, btnText, variant = 'green' 
   )
 }
 
-export function FAQSection({ faqs }) {
+export function FAQSection({ faqs, title = 'Frequently Asked Questions' }) {
   return (
     <div className="faq">
-      <h2 className="prose-h2">Frequently Asked Questions</h2>
+      <h2 className="prose-h2">{title}</h2>
       {faqs.map((faq, i) => (
         <div key={i} className="faq-item">
           <h3 className="faq-q">{faq.q}</h3>
@@ -29,24 +29,34 @@ export function FAQSection({ faqs }) {
   )
 }
 
-export function SeoLayout({ children }) {
+const NAV = {
+  en: { home: '/', articles: 'Articles', lawyer: 'Find a Lawyer', check: 'Check Eligibility →', checkHref: '/', footCheck: 'Check Eligibility', appeal: 'Appeal Letter', legal: 'Find Legal Help', guides: 'Guides', attorneys: 'For Attorneys', other: 'Español', otherHref: '/es',
+    disclaimer: 'BenefitsPath is not a law firm or government agency. Information is for educational purposes only.' },
+  es: { home: '/es', articles: 'Artículos', lawyer: 'Ayuda legal', check: 'Verificar elegibilidad →', checkHref: '/es', footCheck: 'Verificar elegibilidad', appeal: 'Carta de apelación (inglés)', legal: 'Ayuda legal', guides: 'Audiencia de apelación', attorneys: 'Para abogados', other: 'English', otherHref: '/',
+    disclaimer: 'BenefitsPath no es un bufete de abogados ni una agencia del gobierno. La información es solo educativa.' },
+}
+
+export function SeoLayout({ children, lang = 'en', altHref }) {
+  const n = NAV[lang] || NAV.en
+  const es = lang === 'es'
   return (
     <>
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet" />
-      <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: '#f7f5f0', minHeight: '100vh' }}>
+      <div lang={lang} style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: '#f7f5f0', minHeight: '100vh' }}>
         <nav className="topnav">
-          <Link href="/" className="topnav-logo">
+          <Link href={n.home} className="topnav-logo">
             <div className="topnav-mark">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
             </div>
             <span className="topnav-word">BenefitsPath</span>
           </Link>
           <div className="topnav-links">
-            <Link href="/articles" className="topnav-link topnav-opt">Articles</Link>
-            <Link href="/legal-help" className="topnav-link">Find a Lawyer</Link>
-            <Link href="/" className="topnav-cta">Check Eligibility →</Link>
+            <Link href={altHref || n.otherHref} className="topnav-link topnav-opt" hrefLang={es ? 'en' : 'es'} lang={es ? 'en' : 'es'}>{n.other}</Link>
+            {!es && <Link href="/articles" className="topnav-link topnav-opt">{n.articles}</Link>}
+            <Link href="/legal-help" className="topnav-link">{n.lawyer}</Link>
+            <Link href={n.checkHref} className="topnav-cta">{n.check}</Link>
           </div>
         </nav>
         <main className="seo-main">
@@ -55,14 +65,15 @@ export function SeoLayout({ children }) {
         <footer style={{ background: '#1a1714', color: 'rgba(255,255,255,0.6)', padding: '32px 24px', textAlign: 'center' }}>
           <div style={{ maxWidth: 760, margin: '0 auto' }}>
             <div style={{ display: 'flex', gap: 24, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 16, fontSize: 14 }}>
-              <Link href="/" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Check Eligibility</Link>
-              <Link href="/#appeal" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Appeal Letter</Link>
-              <Link href="/legal-help" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Find Legal Help</Link>
-              <Link href="/articles" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Articles</Link>
-              <Link href="/how-to-appeal-unemployment-denial" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>Guides</Link>
-              <Link href="/for-attorneys" style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>For Attorneys</Link>
+              {(es ? [
+                ['/es', n.footCheck], ['/es/audiencia-de-apelacion', n.guides], ['/legal-help', n.legal], ['/', n.other],
+              ] : [
+                ['/', n.footCheck], ['/#appeal', n.appeal], ['/legal-help', n.legal], ['/articles', n.articles], ['/how-to-appeal-unemployment-denial', n.guides], ['/es', n.other], ['/for-attorneys', n.attorneys],
+              ]).map(([href, label]) => (
+                <Link key={href} href={href} style={{ color: 'rgba(255,255,255,0.6)', textDecoration: 'none' }}>{label}</Link>
+              ))}
             </div>
-            <p style={{ fontSize: 12, margin: 0 }}>BenefitsPath is not a law firm or government agency. Information is for educational purposes only. © {new Date().getFullYear()} BenefitsPath</p>
+            <p style={{ fontSize: 12, margin: 0 }}>{n.disclaimer} © {new Date().getFullYear()} BenefitsPath</p>
           </div>
         </footer>
       </div>

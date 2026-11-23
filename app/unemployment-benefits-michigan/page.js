@@ -1,9 +1,13 @@
 import { SeoLayout, CTABlock, FAQSection } from '../../components/SeoTemplate'
+import CertReminderSignup from '../../components/CertReminderSignup'
 
 export const metadata = {
   title: 'Unemployment Benefits in Michigan — 2026 Guide',
   description: 'Complete guide to unemployment benefits in Michigan. Eligibility requirements, weekly benefit amounts up to $362/week, how to apply, and how to appeal a denial.',
-  alternates: { canonical: 'https://www.benefitspath.org/unemployment-benefits-michigan' },
+  alternates: {
+    canonical: 'https://www.benefitspath.org/unemployment-benefits-michigan',
+    languages: { 'en-US': 'https://www.benefitspath.org/unemployment-benefits-michigan', 'es-US': 'https://www.benefitspath.org/es/desempleo/michigan', 'x-default': 'https://www.benefitspath.org/unemployment-benefits-michigan' },
+  },
 }
 
 export default function Page() {
@@ -17,7 +21,7 @@ export default function Page() {
   ]
 
   return (
-    <SeoLayout>
+    <SeoLayout altHref="/es/desempleo/michigan">
       <div className="sg-hero">
         <div className="sg-eyebrow">State Guide</div>
         <h1 className="sg-title">
@@ -78,6 +82,8 @@ export default function Page() {
 
       <CTABlock title="Generate Your Michigan Appeal Letter" description="Our free tool creates a professional appeal letter tailored to your situation and Michigan unemployment law." href="/" btnText="Create My Appeal Letter" variant="green" />
       <CTABlock title="Talk to an Employment Attorney" description="If your employer contested your claim or the situation is complex, legal help can significantly improve your odds." href="/legal-help/michigan" btnText="Find Free Legal Help" variant="blue" />
+
+      <CertReminderSignup defaultState="MI" source="state-michigan" />
 
       <FAQSection faqs={faqs} />
     </SeoLayout>
