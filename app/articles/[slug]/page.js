@@ -12,7 +12,7 @@ export async function generateMetadata({ params }) {
   if (!article) return { title: 'Article Not Found' }
 
   return {
-    title: `${article.title} | BenefitsPath`,
+    title: article.title,
     description: article.description,
     openGraph: {
       title: article.title,
