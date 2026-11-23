@@ -68,8 +68,9 @@ export default function BenefitsApp() {
   const [letter, setLetter] = useState('')
   const [cpyOk, setCpyOk] = useState(false)
   const [scrolled, setScrolled] = useState(false)
-  const [lForm, setLForm] = useState({ name: '', phone: '', email: '', situation: '' })
+  const [lForm, setLForm] = useState({ name: '', phone: '', email: '', situation: '', state: '', consent: false })
   const [lSent, setLSent] = useState(false)
+  const [lSending, setLSending] = useState(false)
   const [emailVal, setEmailVal] = useState('')
   const [firstNameVal, setFirstNameVal] = useState('')
   const [lastNameVal, setLastNameVal] = useState('')
@@ -135,11 +136,23 @@ export default function BenefitsApp() {
     go('appeal_letter')
   }
 
+  // "Have BenefitsPath connect me": saved as an attorney_request lead. A twice-daily
+  // review picks a matching attorney from lib/legalHelp.js and drafts an intro for Michael
+  // to review and send. Nothing is sent automatically.
   const handleLawyerSubmit = async () => {
-    const payload = sheetPayload({ lawyerName: lForm.name, lawyerPhone: lForm.phone, lawyerEmail: lForm.email, lawyerSituation: lForm.situation })
+    if (lSending) return
+    setLSending(true)
+    const payload = sheetPayload({
+      state: lForm.state || answers.state || '',
+      lawyerName: lForm.name.trim(), lawyerPhone: lForm.phone.trim(),
+      lawyerEmail: lForm.email.trim(), lawyerSituation: lForm.situation.trim(),
+    })
     await Promise.all([submitToSheets(payload), submitLead({ ...payload, type: 'attorney_request' })])
+    setLSending(false)
     setLSent(true)
   }
+  const lState = lForm.state || answers.state || ''
+  const lReady = lForm.name.trim() && (lForm.phone.trim() || lForm.email.trim()) && lState && lForm.situation.trim().length >= 20 && lForm.consent
 
   const handleCopy = () => {
     navigator.clipboard.writeText(letter).then(() => { setCpyOk(true); setTimeout(() => setCpyOk(false), 2000) })
@@ -569,7 +582,40 @@ export default function BenefitsApp() {
           <button className="bkbtn" onClick={() => go(answers.state ? 'result' : 'home')}><ArrL /> Back</button>
           <div className="lhero"><div className="lhtit">You may have legal protections.</div><div className="lhsub">Employment law protects workers in many situations. A free consultation can help you understand your options.</div></div>
 
-          <div className="sectit" style={{ fontSize: 20, marginBottom: 4 }}>Contact legal help directly</div>
+          <div className="sectit" style={{ fontSize: 20, marginBottom: 4 }}>Want us to connect you?</div>
+          {!lSent ? (
+            <div style={{ marginBottom: 28 }}>
+              <p style={{ fontSize: 14, color: 'var(--text2)', marginBottom: 14, lineHeight: 1.6 }}>
+                Tell us what happened and we&apos;ll pass your request to an employment attorney in your state who handles cases like yours.
+                It&apos;s free to ask. We can&apos;t promise an attorney will take your case.
+              </p>
+              {[['name', 'Your name *', 'text', 'Full name', 'name'], ['phone', 'Phone number', 'tel', 'Best number to reach you', 'tel'], ['email', 'Email address', 'email', 'Your email', 'email']].map(([k, l, t, p, ac]) => (
+                <div className="ig" key={k}><label className="ilbl" htmlFor={`lf-${k}`}>{l}</label><input id={`lf-${k}`} className="inp" type={t} autoComplete={ac} placeholder={p} value={lForm[k]} onChange={e => setLForm(f => ({ ...f, [k]: e.target.value }))} /></div>
+              ))}
+              <div className="ig">
+                <label className="ilbl" htmlFor="lf-state">State *</label>
+                <select id="lf-state" className="inp" value={lState} onChange={e => setLForm(f => ({ ...f, state: e.target.value }))}>
+                  <option value="">Choose your state</option>
+                  {STATES.map(s => <option key={s.code} value={s.code}>{s.name}</option>)}
+                </select>
+              </div>
+              <div className="ig"><label className="ilbl" htmlFor="lf-situation">What happened? *</label><textarea id="lf-situation" className="inp ta" maxLength={1500} placeholder="When did your job end and why? Were you denied unemployment? Any deadlines on your notice?" value={lForm.situation} onChange={e => setLForm(f => ({ ...f, situation: e.target.value }))} /></div>
+              <label style={{ display: 'flex', gap: 10, alignItems: 'flex-start', fontSize: 13, color: 'var(--text2)', lineHeight: 1.5, margin: '4px 0 14px' }}>
+                <input type="checkbox" checked={lForm.consent} onChange={e => setLForm(f => ({ ...f, consent: e.target.checked }))} style={{ marginTop: 3 }} />
+                <span>I agree that BenefitsPath may share my name, contact details and description with an attorney or legal aid office so they can contact me. BenefitsPath is not a law firm.</span>
+              </label>
+              <div className="bnav">
+                <button className="btn bblu" disabled={!lReady || lSending} style={{ opacity: lReady && !lSending ? 1 : .4 }} onClick={handleLawyerSubmit}>{lSending ? 'Sending…' : 'Connect me with an attorney'} <Arr s={18} /></button>
+              </div>
+              {!lReady && <p style={{ fontSize: 12, color: 'var(--text2)', marginTop: 8 }}>Add your name, a phone or email, your state, a short description and the checkbox to continue.</p>}
+            </div>
+          ) : (
+            <div className="hnote" style={{ marginBottom: 28 }}>
+              <strong>Request received.</strong> We&apos;ll pass it to an attorney in your state, usually within a day. If you have an appeal deadline, don&apos;t wait on us: the offices below can help right away.
+            </div>
+          )}
+
+          <div className="sectit" style={{ fontSize: 20, marginBottom: 4 }}>Or contact legal help directly</div>
           <p style={{ fontSize: 14, color: 'var(--text2)', marginBottom: 16, lineHeight: 1.6 }}>
             Pick a free legal aid office, your bar&apos;s referral service or an employment attorney below. One tap opens your own email
             or phone with a message that explains your situation and that BenefitsPath pointed you to them.
