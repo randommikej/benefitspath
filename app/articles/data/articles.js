@@ -4,6 +4,145 @@
 
 export const articles = [
   {
+    slug: 'can-unemployment-benefits-be-garnished-child-support-debt-collectors-2026',
+    title: 'Can Your Unemployment Benefits Be Garnished? Child Support, Debt Collectors, Taxes and Overpayments',
+    description: 'Worried a collector will take your unemployment check? Who can and cannot garnish benefits: credit cards, child support, the IRS, overpayments and bank freezes.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-24',
+    updatedAt: '2026-11-24',
+    category: 'Job Loss Finance',
+    tags: ['unemployment garnishment', 'child support unemployment', 'debt collectors unemployment benefits', 'unemployment overpayment tax refund offset', 'IRS levy unemployment', 'bank account garnishment', 'Form W-4V'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: Can My Unemployment Benefits Be Garnished?
+
+**For most ordinary debts, like credit cards, medical bills or personal loans, the answer is usually no: state unemployment laws generally protect benefits from private creditors.** The big exception is child support, which federal law requires states to withhold from unemployment checks when there is a support order. Your state can also take back old unemployment overpayments, and an unpaid fraud or unreported-earnings overpayment can be taken from your federal tax refund.
+
+This guide answers the questions people ask most when they are out of work, behind on bills and worried that a collector will take the one check they are counting on. It is general information, not legal advice. Rules differ by state and change over time, so confirm details with your state unemployment agency.
+
+## Can a Debt Collector Take My Unemployment Check?
+
+In most cases, a private debt collector cannot reach your unemployment benefits.
+
+First, a collector usually needs a court order. According to the Consumer Financial Protection Bureau (CFPB, 2026), most creditors can only garnish wages or benefits after a court issues a judgment against you that allows it.
+
+Second, even with a judgment, state unemployment laws usually shield benefits. Florida is a clear example. Florida law (section 443.051, Florida Statutes) says reemployment assistance benefits are "exempt from all claims of creditors and from levy, execution, or attachment," and that this protection "may not be waived." Most states have a similar rule in their unemployment law, though the exact wording varies.
+
+**What this means for you:** if a credit card company or medical debt collector calls while you are on unemployment, it generally cannot order your state agency to send part of your weekly payment to them. That does not make the debt go away. It means the collector has to wait or work out a plan with you.
+
+## Can Child Support Be Taken Out of Unemployment Benefits?
+
+Yes. This is the most common deduction people see on their payment history.
+
+Federal law, at 42 U.S.C. section 503(e), requires every state unemployment agency to deduct and withhold child support from benefits in three situations:
+
+- **You ask for it.** You can volunteer to have support taken out.
+- **There is an agreement** with the child support agency.
+- **There is legal process,** such as an income withholding order.
+
+The money goes straight to the child support agency, and the law treats it as if you received it and paid it toward your support.
+
+### How much can they take for child support?
+
+It depends on your state. In Florida, for example, state law sets the withholding at 40% of your weekly benefit for support obligations set on or after July 1, 2006 (Florida Statutes, section 443.051). Other states use different percentages or formulas.
+
+**Tip:** If your support amount was based on a paycheck you no longer earn, contact your local child support office or the court that issued the order to ask about a modification. Losing your job does not change the order by itself. Asking early can help prevent arrears from building up.
+
+## Can the IRS Take My Unemployment Benefits?
+
+The IRS generally cannot levy (seize) your unemployment benefits for back taxes. Section 6334(a)(4) of the Internal Revenue Code lists "any amount payable to an individual with respect to his unemployment" under a state or federal unemployment law as property that is exempt from levy.
+
+But that is not the same as tax-free. According to the IRS (2026), unemployment compensation is taxable income, and you should get a Form 1099-G showing how much you were paid during the year. You can ask to have federal income tax withheld by giving Form W-4V to your state agency, or you can make quarterly estimated tax payments instead. Federal law (42 U.S.C. section 503(a)(5)) allows states to make these voluntary tax deductions when you choose them.
+
+If you want a deeper look at what you will owe at tax time, read our guide on whether unemployment benefits are taxable.
+
+## Can My State Take Benefits to Pay Back an Overpayment?
+
+Yes. If your state decides it paid you benefits you were not entitled to, it can usually recover that money by reducing your future unemployment payments. Federal law (42 U.S.C. section 503(g)) also requires states to deduct overpayments owed to federal unemployment programs or other states from benefits you are currently receiving, using the same notice and hearing rights that apply to regular overpayment recovery.
+
+### Can they take my tax refund for an unemployment overpayment?
+
+In some cases, yes. Under section 6402(f) of the Internal Revenue Code, a state can ask the Treasury to reduce your federal tax refund to pay a "covered unemployment compensation debt." That covers overpayments caused by fraud or by a person's failure to report earnings, plus related penalties and interest.
+
+Before this can happen, the law requires the state to:
+
+- Send you notice that it intends to take your refund.
+- Give you at least 60 days to show that the debt is not owed or not legally enforceable.
+- Consider your evidence before going ahead.
+
+If you get one of these notices and believe the overpayment is wrong, respond within the deadline. Our article on [what to do if you get an unemployment overpayment notice](/articles/unemployment-overpayment-notice-what-to-do) walks through appeals and waivers.
+
+## What About Money Already in My Bank Account?
+
+This is where people get caught off guard.
+
+Protection for unemployment benefits comes mostly from state law. Once benefits land in your bank account and mix with other money, a creditor with a court judgment may try to freeze the account. Whether the money stays protected depends on your state's rules and on whether you can show the funds came from unemployment.
+
+There is an automatic federal rule for some benefits, but it does not list unemployment. The CFPB (2026) explains that when a bank gets a garnishment order, it must check for direct-deposited federal benefits, like Social Security, SSI and veterans benefits, and leave two months' worth of those payments available to you. State unemployment benefits are not on that list, so you may need to claim your state exemption yourself.
+
+### Practical steps to protect your benefits
+
+- **Keep records.** Save your benefit payment history from your state's online account. It shows exactly what was deposited and when.
+- **Consider a separate account.** Keeping unemployment deposits apart from other money makes it easier to show where the funds came from.
+- **Read every court paper.** If a bank freezes your account, the notice you receive usually explains how to claim an exemption and the deadline to do it.
+- **Do not ignore a lawsuit.** The CFPB (2026) warns that missing court can lead to a judgment against you.
+
+## What Deductions Can Show Up on My Unemployment Payment?
+
+Here is a simple checklist of what may legally reduce a weekly payment:
+
+- **Federal income tax withholding:** only if you choose it with Form W-4V (IRS; 42 U.S.C. 503(a)(5)).
+- **State income tax withholding:** only if you choose it, in states that tax benefits and offer withholding.
+- **Child support:** taken without your choice when there is an order or agreement (42 U.S.C. 503(e)).
+- **Past unemployment overpayments:** taken from future benefits after a decision (state law and 42 U.S.C. 503(g)).
+- **Private creditor garnishment:** generally not allowed under state unemployment law (for example, Florida Statutes 443.051).
+
+If you see a deduction you do not recognize, log in to your state account and look at the payment details, then call the agency and ask what it is for and what order or decision it is based on.
+
+## What Should I Do If Money Was Taken That Should Not Have Been?
+
+1. **Get the details in writing.** Ask the agency, bank or child support office for the order or decision behind the deduction.
+2. **Check your deadlines.** Overpayment decisions and refund-offset notices come with appeal or response deadlines. Missing them can limit your options.
+3. **File an appeal if the overpayment is wrong.** Our guide on [how to appeal an unemployment decision](/how-to-appeal-unemployment-denial) explains the process step by step.
+4. **Get help.** Local legal aid offices often help with garnishments and bank freezes for free. If your claim was denied or you are fighting an overpayment, you can also find an employment attorney through [BenefitsPath's legal help page](/legal-help).
+5. **Complain if needed.** The CFPB (2026) says you can submit a complaint if you believe your benefits were garnished improperly by a financial company.
+
+## Frequently Asked Questions
+
+### Can student loan collectors take my unemployment benefits?
+
+Federal student loan wage garnishment is aimed at wages, and federal tax-refund offsets are a separate process. Unemployment benefits are generally protected under state law. If you are behind on federal student loans, see our guide on [pausing or lowering student loan payments after a job loss](/articles/lost-job-cant-pay-federal-student-loans-unemployment-deferment-2026).
+
+### Will losing my job automatically lower my child support?
+
+No. The existing order stays in place until a court or child support agency changes it. Ask about a modification as soon as possible after your income drops.
+
+### Can my state take my whole unemployment check for an overpayment?
+
+That depends on your state's rules. Many states take only part of each payment, but the method varies. Check the overpayment notice, which should explain how recovery will work and how to appeal or request a waiver.
+
+### Can my landlord garnish my unemployment benefits for unpaid rent?
+
+A landlord is treated like other private creditors. It would generally need a court judgment, and state unemployment exemptions usually still protect the benefits themselves. Talk to legal aid if you are facing eviction or a judgment.
+
+### Does having taxes withheld reduce what a creditor can take?
+
+No. Tax withholding is a choice you make for your own tax bill. It is not related to creditor protections.
+
+*Rules change and vary by state. Always confirm details with your state unemployment agency or a qualified attorney before acting.*
+
+## Sources
+
+- Consumer Financial Protection Bureau, Can a debt collector take or garnish my wages or benefits?: https://www.consumerfinance.gov/ask-cfpb/what-is-a-wage-garnishment-en-1439/
+- Consumer Financial Protection Bureau, Can a debt collector take my federal benefits, like Social Security or VA payments?: https://www.consumerfinance.gov/ask-cfpb/can-a-debt-collector-take-my-federal-benefits-like-social-security-or-va-payments-en-1157/
+- 42 U.S.C. section 503, State laws (child support withholding, overpayment recovery, voluntary deductions): https://www.law.cornell.edu/uscode/text/42/503
+- 26 U.S.C. section 6334, Property exempt from levy: https://www.law.cornell.edu/uscode/text/26/6334
+- 26 U.S.C. section 6402, Authority to make credits or refunds (unemployment compensation debt offsets): https://www.law.cornell.edu/uscode/text/26/6402
+- Florida Statutes, section 443.051, Benefits not alienable; exception, child support intercept: http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0443/Sections/0443.051.html
+- Internal Revenue Service, Unemployment Compensation: https://www.irs.gov/individuals/employees/unemployment-compensation
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-tennessee-2026-guide',
     title: 'Filing for Unemployment in Tennessee: A Week-by-Week Timeline for Your First Month (2026)',
     description: 'Lost your job in Tennessee? What happens from the day you file on Jobs4TN through your first payment: $325 max, 12 weeks, four work searches and the 15-day appeal clock.',
