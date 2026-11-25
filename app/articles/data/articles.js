@@ -4,6 +4,151 @@
 
 export const articles = [
   {
+    slug: 'gave-two-weeks-notice-employer-let-me-go-early-can-i-get-unemployment-2026',
+    title: "Gave Two Weeks' Notice and Your Employer Let You Go Early? Can You Get Unemployment?",
+    description: "Put in your notice and got sent home the same day? When states treat it as a firing instead of a quit, what CA, WA and TX rules say, and what to do next.",
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-25',
+    updatedAt: '2026-11-25',
+    category: 'Unemployment Eligibility',
+    tags: ['two weeks notice unemployment', 'fired after giving notice', 'quit vs discharge unemployment', 'resignation accepted early', 'unemployment eligibility', 'notice period pay'],
+    readTime: '9 min read',
+    content: `
+## The Short Answer
+
+**In many states, if you gave notice and your employer ended your job before your last day without paying you through that date, the agency may treat it as a firing, not a quit, and that can open the door to benefits.** If your employer kept paying you through your notice period, it is usually still treated as a quit. Some states, like Texas, look closely at how much notice you gave, so the answer depends on where you worked.
+
+You gave two weeks' notice to do the right thing. Then your manager said, "Today is your last day," and you walked out with no paycheck for the days you planned to work. That is a stressful surprise, especially if your next job has not started yet or fell through.
+
+This guide walks through what usually happens, what three states say in their own rules, and what to do this week. It is general information, not legal advice. Rules differ by state and change over time, so confirm the details with your state unemployment agency.
+
+## Why Does It Matter Whether It Counts as a Quit or a Firing?
+
+Unemployment rules treat quitting and being fired very differently.
+
+- **If you quit**, most states deny benefits unless you had "good cause" for leaving. Leaving for a new job or for personal reasons often does not meet that test. Our guide on [quitting and unemployment](/articles/can-you-collect-unemployment-if-you-quit-your-job) explains good cause in more detail.
+- **If you were fired**, you can usually get benefits unless the employer shows you were let go for misconduct, which generally means something deliberate or seriously careless, not just a bad fit.
+
+So when your employer ends the job early, the key question becomes: who really ended the job, and when? The agency will look at the facts to decide.
+
+## What Happens in California?
+
+California's Employment Development Department (EDD) has a clear rule. According to the EDD's Benefit Determination Guide (2026), section VQ 135 says that when an employer separates a worker before the date of a previously announced quit, the separation becomes a discharge if the worker suffers a wage loss.
+
+In plain words: if you lost pay because your employer cut your notice period short, California may treat it as a firing.
+
+The EDD guide gives two examples from past California Unemployment Insurance Appeals Board decisions:
+
+- **Treated as a firing:** A worker gave notice on October 24 that she would quit on November 15. The employer let her work only until October 31 and did not pay her through November 15. The Board found she was discharged because she lost wages.
+- **Treated as a quit:** A worker gave notice that she would leave at the end of December. The employer let her go on December 26 but paid her through the end of the month. Because she was paid and lost nothing, it stayed a voluntary quit.
+
+The takeaway: in California, being paid through your notice date usually keeps it a quit. Being cut off without pay can turn it into a discharge. You can learn more on our [California unemployment page](/unemployment-benefits-california).
+
+## What Happens in Washington State?
+
+Washington has a specific rule on this exact situation, published by the Washington State Legislature (2026): Washington Administrative Code 192-150-230, titled "What happens if I am discharged prior to the effective date of my resignation?"
+
+According to the rule, if you give notice and your employer discharges you before the notice period ends, the separation is treated as a discharge. The Employment Security Department will not deny benefits unless your employer shows you were fired for misconduct.
+
+There is one big exception. If your employer pays you through the notice period but does not require you to work, the rule treats the separation as a quit. In that case, your separation date is the last day of the notice period, and the notice pay can be deducted from your benefits as payment in lieu of notice.
+
+## What Happens in Texas?
+
+Texas works differently, and it is worth knowing if you worked there.
+
+The Texas Workforce Commission (TWC) Appeals Policy and Precedent Manual (accessed 2026) describes a policy the Commission adopted in 1988. It starts from a general workplace expectation that a person ending a job will give **two weeks' notice**.
+
+Here is how the TWC policy works:
+
+- **Two weeks' notice or less:** If you gave two weeks or less and your employer ended the job early during that window, it **does not change the nature of the separation**. It is still treated as your quit, and you would generally need to show good cause connected with the work.
+- **More than two weeks' notice:** If you gave more than two weeks and your employer ended things early, the answer depends on the circumstances. In one TWC case, a worker said on December 11 that he would leave on January 30 to report for military duty, but the employer let him work only until December 15. The Commission treated it as the employer accepting the notice early, and with no misconduct shown, there was no disqualification.
+- **Paid through the notice period:** The manual also notes that if the employer pays your usual wage through the end of the notice period, early acceptance does not change a quit into a discharge.
+
+So in Texas, giving the standard two weeks and being let go early often still counts as a quit. If you live in Texas, see our [Texas unemployment page](/unemployment-benefits-texas) for filing basics.
+
+## What About My State?
+
+Each state sets its own eligibility rules, according to the U.S. Department of Labor (2026). Your state may follow an approach like California's or Washington's, one like Texas's, or its own. Based on the rules above, a few questions tend to come up:
+
+- **Were you paid through your planned last day?** If yes, it is more likely to be treated as a quit.
+- **How much notice did you give?** Very long notice periods can be treated differently than standard two-week notice.
+- **Why were you let go early?** If the employer claims you did something wrong during your notice period, the agency may look at it as a misconduct firing.
+- **Why did you resign in the first place?** If you had good cause to quit, such as unsafe conditions or a big pay cut, that can still help you.
+
+## What Should I Do Right Now?
+
+If your employer cut your notice period short, here are practical steps.
+
+### 1. File your claim right away
+
+The U.S. Department of Labor (2026) advises contacting your state's unemployment program as soon as possible after becoming unemployed. You generally file in the state where you worked. Do not wait until your planned last day, and do not assume you will be denied. The state, not your employer, decides.
+
+### 2. Describe what happened accurately
+
+When the application asks why you left, do not just check "quit." Explain the facts in one or two sentences, for example: "I gave notice on [date] that my last day would be [date]. My employer ended my employment on [date] and did not pay me for the remaining days." Be honest. Giving false information can lead to penalties and repayment.
+
+### 3. Gather your proof
+
+Save anything that shows the timeline:
+
+- Your resignation letter or email, with the date you sent it
+- Any message from your employer ending your job early
+- Your final pay stub, showing which dates you were paid for
+- Names of anyone who was there when you were told to leave
+
+### 4. Answer every agency question on time
+
+Your state may send a questionnaire or schedule a phone interview to ask about the separation. Your employer may also give its side. Respond by the deadline and stick to facts and dates. Our guide to the [unemployment phone interview](/articles/unemployment-phone-interview-how-to-prepare-2026) can help you prepare.
+
+### 5. Keep filing your weekly claims
+
+While the agency decides, keep requesting benefits for each week you are out of work, as your state's rules require. In most cases, if you are later approved, you can only be paid for weeks you claimed.
+
+### 6. Watch for a new job start date
+
+If you resigned to take a new job and it starts soon, you may only need benefits for a short gap. Report any work and earnings honestly when you certify.
+
+## What If My Claim Is Denied?
+
+A denial is not always the final word. Every state lets you appeal, and the deadline is often short, so read your denial letter as soon as it arrives.
+
+At an appeal hearing, your timeline and documents matter. Be ready to explain the date you gave notice, the date you were let go, and whether you were paid for the rest of the notice period. Our step-by-step guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) explains the process.
+
+If your claim was denied and you want help, BenefitsPath can connect you with an employment attorney through our [legal help page](/legal-help). An attorney can also tell you whether anything else about your situation, such as unpaid final wages, is worth looking into.
+
+## Frequently Asked Questions
+
+### If I give two weeks' notice and get fired the same day, is that a quit or a firing?
+
+It depends on your state. In California, being let go early without pay can make it a discharge. In Washington, it is treated as a discharge unless you were paid through the notice period. In Texas, if you gave two weeks or less, it is generally still treated as a quit.
+
+### Does it help if my employer paid me for the two weeks?
+
+It usually helps your employer's side, not yours, on the quit-or-fired question. California and Washington both treat a paid notice period as a quit, and Texas treats early acceptance with full pay as a quit too. Washington also says that notice pay can be deducted from benefits.
+
+### Can I get benefits only for the days I was supposed to work?
+
+Rules on this vary by state and were not spelled out in the sources we reviewed. Ask your state agency how your specific dates will be handled, and keep filing weekly claims while you wait.
+
+### Should I give less notice next time to protect myself?
+
+That is a personal decision. Giving notice is still considered good practice, and leaving with no notice can affect references. If you are worried, you can ask your employer in writing, before you resign, whether they will let you work out your notice.
+
+### What if my employer says I was fired for something I did during my notice period?
+
+Then the agency will usually look at whether that was misconduct. Your employer generally has to show it. Our article on [being fired for misconduct](/articles/fired-for-misconduct-can-you-collect-unemployment-2026) explains how that is judged.
+
+*Rules change and every case depends on its facts. Please confirm details with your state unemployment agency before you rely on them.*
+
+## Sources
+
+- California Employment Development Department, Benefit Determination Guide, Voluntary Quit VQ 135, Voluntary Leaving or Discharge: https://edd.ca.gov/en/UIBDG/Voluntary_Quit_VQ_135
+- Washington State Legislature, WAC 192-150-230, What happens if I am discharged prior to the effective date of my resignation?: https://app.leg.wa.gov/WAC/default.aspx?cite=192-150-230
+- Texas Workforce Commission, Appeals Policy and Precedent Manual (VL 135.25): https://www.twc.texas.gov/sites/default/files/appeals/docs/appeals-policy-precedent-manual-twc.pdf
+- U.S. Department of Labor, Unemployment Insurance: https://www.dol.gov/general/topic/unemployment-insurance
+`,
+  },
+  {
     slug: 'can-unemployment-benefits-be-garnished-child-support-debt-collectors-2026',
     title: 'Can Your Unemployment Benefits Be Garnished? Child Support, Debt Collectors, Taxes and Overpayments',
     description: 'Worried a collector will take your unemployment check? Who can and cannot garnish benefits: credit cards, child support, the IRS, overpayments and bank freezes.',
