@@ -4,6 +4,200 @@
 
 export const articles = [
   {
+    slug: 'how-to-file-unemployment-missouri-2026-guide',
+    title: 'How to File for Unemployment in Missouri: A Step-by-Step Checklist (2026)',
+    description: 'Filing for unemployment in Missouri? A plain checklist for UInteract: who qualifies, the $320 weekly max, 20 weeks, weekly requests, work search and appeals.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-26',
+    updatedAt: '2026-11-26',
+    category: 'State Guides',
+    tags: ['missouri unemployment', 'how to file unemployment missouri', 'uinteract missouri', 'missouri unemployment benefits 2026', 'missouri weekly request for payment', 'missouri unemployment appeal'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: How Do I File for Unemployment in Missouri?
+
+**File your claim online at UInteract (uinteract.labor.mo.gov) as soon as you lose your job, or call the Missouri Division of Employment Security (DES) at 800-320-2519.** In 2026, Missouri pays up to $320 a week for up to 20 weeks. After you file, you must request payment every week, usually complete 3 work search activities each week, and answer any DES letters by their deadlines.
+
+Losing a paycheck is stressful, and the paperwork can feel like one more thing on a hard week. This checklist breaks the Missouri process into small steps you can do from your phone. It is general information, not legal advice. Rules change, so confirm details with Missouri DES or on your UInteract account.
+
+## Checklist Step 1: Am I Likely to Qualify in Missouri?
+
+Missouri looks at two things: **why** you lost your job and **how much** you earned before that.
+
+### Why you left your job
+
+According to the Missouri Department of Labor (2026), you may qualify if you:
+
+- Lost your job **through no fault of your own** (for example, a layoff or lack of work), or
+- Quit **with good cause related to the work or the employer**.
+
+DES says you can be disqualified if you were **discharged for misconduct connected with work**. Being let go for not being a good fit, or for honest mistakes, is often not treated the same as misconduct, so do not assume you are out of luck. Apply and let DES decide.
+
+### Whether you earned enough
+
+DES uses a "base period," which is a one-year window of past wages. The window depends on when your claim starts. For example, DES says a claim that starts between January 1 and March 31 uses wages from October 1 through September 30 of the year before.
+
+According to Missouri DES (2026), you generally need to meet one of these tests during your base period:
+
+- At least **$2,250** in total wages, with at least **$1,500** in one calendar quarter, **and** total base-period wages of at least **1.5 times** your highest quarter, or
+- At least **$19,500** in wages during two of the four base-period quarters.
+
+If you are not sure, file anyway. DES will check its wage records and send you a monetary determination.
+
+### Being able and available
+
+You must also be **able and available for work** each week. DES explains this means you have no illness, injury or personal situation that would keep you from working full time.
+
+## Checklist Step 2: What Do I Need Before I Start?
+
+Gather these before you log in so you do not get stuck halfway through. The Missouri Department of Labor (2026) lists:
+
+- Your **Social Security number**
+- **Name, address and dates of employment** for every employer you worked for in the **last 18 months**
+- Your **gross earnings** for the week, including any vacation, holiday or WARN pay
+- Your **bank routing and account numbers** if you want payments sent to your account (optional)
+
+It also helps to have your last pay stub and any separation or layoff letter nearby.
+
+## Checklist Step 3: How Do I File My Missouri Claim?
+
+DES says to file **as soon as you are separated from your employer**. Waiting can delay your payments.
+
+### Filing online (fastest for most people)
+
+- Go to **uinteract.labor.mo.gov**. DES calls UInteract the only official website for filing unemployment in Missouri, so be careful with look-alike sites and anyone who asks for money to file.
+- Create your account: a User ID, password and security questions.
+- Choose the option to file an unemployment claim and follow the prompts.
+- Save or print your **Claim Confirmation** when you finish.
+
+### Filing by phone
+
+If you cannot file online, call the Regional Claims Center at **800-320-2519**. According to DES (2026), representatives are available **8 a.m. to 5 p.m. Central Time, Monday through Friday**, except holidays. TDD/TTY users can call 800-735-2966, or use Relay Missouri at 711.
+
+DES also lists regional numbers:
+
+- Jefferson City: 573-751-9040
+- Kansas City: 816-889-3101
+- St. Louis: 314-340-4950
+- Springfield: 417-895-6851
+
+A tip from DES: if lines are busy, do not hang up and call right back. Calls are answered in the order received, and redialing puts you at the back of the line.
+
+## Checklist Step 4: How Much Will Missouri Pay Me?
+
+According to the Missouri Department of Labor (2026), your **weekly benefit amount (WBA) is 4 percent of the average of your two highest-paid quarters** in your base period. Missouri's **maximum is $320 a week**, and **20 weeks** is the most you can collect in a benefit year.
+
+### Two simple examples
+
+- Your two highest quarters were $6,000 and $5,000. The average is $5,500. Four percent of $5,500 is **$220 a week**.
+- Your two highest quarters were $9,000 and $8,000. The average is $8,500. Four percent is $340, but Missouri caps benefits at **$320 a week**.
+
+At the maximum, 20 weeks at $320 adds up to $6,400 for the benefit year. Your official amount will be on the monetary determination DES sends you. You can also get a quick estimate with our [unemployment benefits calculator](/unemployment-benefits-calculator) or read more on our [Missouri unemployment benefits page](/unemployment-benefits-missouri).
+
+## Checklist Step 5: Do I Get Paid for My First Week?
+
+Usually not. DES explains that the **waiting week** is the first week of your claim that you are eligible for, but it is not paid. You **still have to file a weekly request for payment** for that week. If you skip it, it can hold up the weeks that come after.
+
+## Checklist Step 6: How Do I Request Payment Every Week?
+
+Filing your claim is only the start. To actually get paid, you must file a **weekly request for payment**.
+
+According to Missouri DES (2026):
+
+- Claim weeks run **Sunday through Saturday**. You file **after** each week ends.
+- Your first weekly request can be filed starting the Sunday after you file your claim.
+- You must file each weekly request **within 14 days** from the end of the week (Saturday) you are claiming.
+- File online at UInteract under **Weekly Request for Payment**, or by phone at 800-320-2519 (Option 1).
+- Make sure you get a **confirmation page**. DES says if you do not, you need to start again.
+
+Set a weekly phone reminder for Sunday or Monday. Missing the 14-day window is one of the easiest ways to lose a week of benefits.
+
+### Reporting part-time work
+
+If you work part time while on unemployment, report your **gross** earnings (before taxes) for the week you did the work. Missouri law (RSMo 288.060) lets you keep some earnings without a cut: your partial benefit is your WBA minus the part of your wages above **$20 or 20 percent of your WBA, whichever is greater**.
+
+Example: your WBA is $250. Twenty percent of that is $50, which is more than $20, so the first $50 you earn does not count against you. If you earn $150 that week, $100 is over the limit. Your payment would be $250 minus $100, or **$150**. DES also offers a partial benefits calculator on its website for an estimate.
+
+## Checklist Step 7: What Work Search Does Missouri Require?
+
+According to the Missouri Department of Labor (2026), you must complete **at least 3 work search activities each week**, unless DES tells you otherwise. Enter them in UInteract and click **Save** after each one.
+
+Examples DES accepts include:
+
+- Searching for jobs on **MoJobs.gov**
+- Turning in a paper job application in person
+- Doing a virtual job interview
+- Creating a resume
+- Part-time work, which DES credits per day worked
+
+DES says you may not need to search for work if you are in **approved training**, have a **definite recall date** from your employer, or are part of a **Shared Work** program. Union members with a hiring hall can contact the hall instead.
+
+## Checklist Step 8: What If DES Denies My Claim?
+
+A denial is not always the final word. Many people win benefits on appeal, especially when the first decision was based on incomplete information from the employer.
+
+According to Missouri DES (2026):
+
+- You have **30 days** from the date of the determination to appeal. The exact last day is printed on the determination.
+- You can appeal online through UInteract, or by using the Request for Appeal form and sending it by **mail or fax**. Appeals **cannot** be filed by email or phone.
+- Mail: Division of Employment Security, Appeals Tribunal, P.O. Box 59, Jefferson City, MO 65104-0059. Fax: 573-751-1321.
+- Include your name, Social Security number, the date and subject of the determination, a short statement of why you disagree, and your signature.
+
+If you lose at the Appeals Tribunal, Missouri law (RSMo 288.200) lets you ask the **Labor and Industrial Relations Commission** to review it within **30 days** following the date the decision was mailed or you were notified.
+
+Keep filing your weekly requests while your appeal is pending. If you win, you can generally only be paid for weeks you claimed.
+
+Need help writing your appeal? See our step-by-step guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial). If your claim was denied and you want a professional to look at it, you can also find an employment attorney through BenefitsPath.
+
+## Your Missouri Unemployment Checklist at a Glance
+
+- File at uinteract.labor.mo.gov right after your job ends
+- Have your SSN, 18 months of employer details and bank info ready
+- Save your Claim Confirmation
+- File a weekly request every week, within 14 days of the week ending, including your waiting week
+- Log 3 work search activities each week and click Save
+- Report gross earnings from any part-time work
+- Open every UInteract message and letter, and answer by the deadline
+- Appeal within 30 days if you are denied
+
+## Frequently Asked Questions
+
+### What is the maximum unemployment benefit in Missouri?
+
+According to the Missouri Department of Labor (2026), the maximum weekly benefit is **$320**, and the most you can receive in a benefit year is **20 weeks** of benefits.
+
+### How long do I have to file my weekly request in Missouri?
+
+DES says you must file within **14 days** from the end of the week (Saturday) you are claiming. Filing every week on time is the safest habit.
+
+### Can I file for Missouri unemployment by phone?
+
+Yes. Call **800-320-2519**, 8 a.m. to 5 p.m. Central Time, Monday through Friday. Online filing through UInteract is usually faster.
+
+### Do I get paid for the first week in Missouri?
+
+Usually not. The first eligible week is a **waiting week** and is not paid, but you still must file a weekly request for it.
+
+### How long do I have to appeal a Missouri unemployment denial?
+
+You have **30 days** from the date of the determination. The last day to appeal is printed on the notice, so check it right away.
+
+*Rules and amounts can change. Always confirm current details with the Missouri Division of Employment Security or on your UInteract account.*
+
+## Sources
+
+- Missouri Department of Labor, How Are My Benefits Figured?: https://labor.mo.gov/faqs/knowledge-base/how-are-my-benefits-figured
+- Missouri Department of Labor, Help Topics for the Unemployed (Eligibility, Waiting Week, Appeals): https://labor.mo.gov/des/unemployed-workers/help-topics
+- Missouri Department of Labor, How to File for Unemployment: https://labor.mo.gov/des/how-to-file
+- Missouri Department of Labor, When and How Do I File an Unemployment Claim?: https://labor.mo.gov/faqs/knowledge-base/when-and-how-do-i-file-unemployment-claim
+- Missouri Department of Labor, What Do I Do After Starting a Claim?: https://labor.mo.gov/faqs/knowledge-base/what-do-i-do-after-starting-claim
+- Missouri Department of Labor, Do I Need to Search for Work?: https://labor.mo.gov/faqs/knowledge-base/do-i-need-search-work
+- Missouri Department of Labor, How to File an Appeal: https://labor.mo.gov/des/appeals/how-to-file-appeal
+- Missouri Revised Statutes, Section 288.060 (partial benefits): https://revisor.mo.gov/main/OneSection.aspx?section=288.060
+- Missouri Revised Statutes, Section 288.200 (Commission review): https://revisor.mo.gov/main/OneSection.aspx?section=288.200
+`,
+  },
+  {
     slug: 'gave-two-weeks-notice-employer-let-me-go-early-can-i-get-unemployment-2026',
     title: "Gave Two Weeks' Notice and Your Employer Let You Go Early? Can You Get Unemployment?",
     description: "Put in your notice and got sent home the same day? When states treat it as a firing instead of a quit, what CA, WA and TX rules say, and what to do next.",
