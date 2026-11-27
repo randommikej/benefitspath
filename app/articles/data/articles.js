@@ -4,6 +4,182 @@
 
 export const articles = [
   {
+    slug: 'employer-says-i-quit-but-i-was-fired-unemployment-dispute-2026',
+    title: 'Your Employer Says You Quit, But You Were Fired: What to Do About Your Unemployment Claim',
+    description: 'Employer told unemployment you quit when you were really let go? How states decide quit vs. fired, who has to prove it, and how to appeal a denial.',
+    author: 'BenefitsPath Editorial Team',
+    publishedAt: '2026-11-27',
+    updatedAt: '2026-11-27',
+    category: 'Unemployment Appeals',
+    tags: ['employer says i quit', 'quit or fired unemployment', 'forced to resign unemployment', 'resign in lieu of termination', 'unemployment denied voluntary quit', 'unemployment appeal quit vs discharge'],
+    readTime: '9 min read',
+    content: `
+## Quick Answer: What If My Employer Says I Quit, But I Was Fired?
+
+**File for unemployment anyway, tell the agency exactly what happened, and appeal right away if you are denied.** States do not simply take the employer's word for it. They look at the facts to decide who actually ended the job, and in some states the employer has to prove you quit when the two sides disagree.
+
+This is one of the most common disputes in unemployment claims, and it matters a lot. In most states, a person who quits has to show "good cause" to get benefits, while a person who is let go can usually collect unless the firing was for misconduct. So the label on your separation can decide your whole claim.
+
+This guide answers the questions people ask most when they are in this spot. It is general information, not legal advice. Rules differ by state and can change, so confirm details with your state unemployment agency.
+
+## Why Does It Matter Whether I Quit or Was Fired?
+
+Unemployment is meant for people who lost work through no fault of their own. Because of that, states treat the two kinds of job loss differently:
+
+- **If you quit**, you usually have to prove you had a good reason connected to the job (or another reason your state accepts).
+- **If you were fired or let go**, you can usually collect unless the employer shows you were fired for misconduct.
+
+The Connecticut Department of Labor (2026) puts it simply: if you quit, you have to prove you had good cause, and if you were fired, the employer has to show the reasons for the firing are disqualifying under state law.
+
+That is why an employer might report a firing as a "quit." Sometimes it is a mix-up. Sometimes the employer believes it, because you walked out after a heated talk. And sometimes it is a way to fight the claim. Either way, you have the right to tell your side.
+
+## Can I Still File If My Employer Says I Quit?
+
+**Yes.** You do not need your employer's permission or agreement to file. According to the Connecticut Department of Labor (2026), anyone can file for unemployment, and when a claim involves a quit or a firing, the agency holds a **fact-finding** step where both you and your employer give information. A staff member then decides whether you are eligible.
+
+Most states work the same general way. File as soon as you can after your last day, because waiting can cost you weeks of benefits.
+
+When the application asks why you are no longer working, answer honestly and in your own words. If you were told "we don't need you anymore," "clean out your desk," or "resign or we'll fire you," say that. Do not pick "quit" just because your employer used that word.
+
+## How Does the State Decide Who Ended the Job?
+
+States look at **what actually happened**, not just the words on a form. California's Employment Development Department explains this well in its public Benefit Determination Guide.
+
+According to the California EDD (2026), the key question is who was the **"moving party"**, meaning "the person who places into motion the chain of events that is responsible for the termination." The guide says:
+
+- If only one side was unwilling to continue the job and that side was the employer, **the employer is the moving party**, and the separation is treated as a discharge.
+- If both sides were unwilling, the one who moved to end the relationship **first** is the moving party.
+
+The fact-finding guide boils it down to one question: which of the two parties was unwilling to keep the working relationship going?
+
+Other states use different wording, but most look at similar facts: who said what, when, and what each side did next.
+
+## What If I Was Told to Resign or Be Fired?
+
+This is often called "resigning in lieu of termination." Many people sign a resignation letter because a manager said it would "look better." In many states, that does not automatically turn a firing into a quit.
+
+California's EDD (2026) describes a "quit in lieu of discharge" situation as one where the employee resigns in anticipation of a discharge or layoff. Its guide explains that when the employer is really the one ending the job, the employer stays the moving party, even if the worker signed something that says "resign."
+
+What to do:
+
+- Write down the date, who was in the room, and the exact words used ("If you don't resign today, we will terminate you").
+- Keep any emails, texts, or HR documents that mention termination, a final warning, or a "separation agreement."
+- Tell the agency plainly: "I resigned only because I was told I would be fired if I did not."
+
+## What If I Gave Notice and They Let Me Go Early?
+
+If you gave notice but your employer ended your job before your last planned day, the separation may be treated differently for those lost days. According to the California EDD (2026), when the employee leaves before the effective date of a discharge and is not paid beyond the last day worked, the rules change from a simple quit.
+
+We cover this in more detail in our article on [being let go after giving two weeks' notice](/articles/gave-two-weeks-notice-employer-let-me-go-early-can-i-get-unemployment-2026). The short version: tell the agency the date you planned to leave, the date you were actually let go, and whether you were paid for the rest of your notice period.
+
+## What If I Walked Out After an Argument?
+
+This is where many quit-or-fired disputes come from. You might leave after a heated talk thinking you were fired, while your employer thinks you quit.
+
+A Massachusetts legal guide (MassLegalServices.org, 2026) notes that the Board of Review there has found it reasonable for a worker to think they were discharged when the employer told them not to report to work after a heated conversation. The same guide points out that the agency may first accept the employer's version and call it a quit, but that label can be challenged at a hearing.
+
+If this happened to you:
+
+- Write down the exact words used as soon as you can, while your memory is fresh.
+- Note whether anyone told you to "leave," "go home," "don't come back," or "turn in your badge."
+- Note whether you tried to return or contact the employer afterward, and what they said.
+
+## Who Has to Prove What?
+
+This depends on your state, and it can make a big difference at a hearing.
+
+- **Michigan:** According to the Michigan Unemployment Insurance Agency (2026), if either side appeals to an administrative law judge, **the employer must first prove that the worker quit**. If the employer does, the worker must then prove the employer was at fault for the quit. The agency also notes that a statement at the hearing by either party is a form of proof, and that witnesses and documents can help.
+- **Massachusetts:** The MassLegalServices.org guide (2026) quotes the state's hearing guidance: if the parties disagree about the nature of the separation, the burden of proof is on the employer.
+- **Connecticut:** As noted above, the Connecticut Department of Labor (2026) says a worker who quit must show good cause, while an employer who fired someone must show the firing reasons are disqualifying.
+
+Not every state uses the same rule, so check your state's notice or appeal instructions. Even where the employer carries the first burden, you should still come ready with your own evidence.
+
+## What Evidence Helps Show I Was Fired?
+
+You do not need a lawyer to gather evidence. Helpful items include:
+
+- **Texts or emails** from a manager or HR about your termination, last day, or "separation"
+- **A termination letter**, final paycheck stub, or separation notice
+- **Your own notes** written soon after the conversation (date, time, people present, exact words)
+- **A witness**, such as a coworker who heard what was said
+- **Proof you wanted to keep working**, such as a message asking about your schedule after the conversation
+- **Any resignation letter you signed**, plus notes on why you signed it
+
+Keep copies in one place on your phone or in a folder. If your state lets you upload documents, send them in before any hearing date.
+
+## What Should I Do If My Claim Was Denied as a Quit?
+
+**Appeal by the deadline on your notice.** This is the single most important step. Deadlines are short and they are strict.
+
+For example, according to the California EDD (2026), you must submit your appeal in writing within 30 days of the mailing date on your Notice of Determination. The EDD also says to keep certifying for benefits while your appeal is pending, because you can only be paid for weeks you certified. Other states have their own deadlines, some shorter, so read your notice carefully.
+
+Steps that help:
+
+1. **Find the deadline** on your denial notice and mark it on your calendar.
+2. **File the appeal** using the method your notice lists (many states accept online or mailed appeals). Keep proof you sent it.
+3. **Keep filing your weekly claims** while you wait, if your state allows it.
+4. **Get ready for the hearing.** Gather your evidence and practice telling what happened in a short, calm, time-ordered way.
+
+If you are not sure what to write, our guide on [how to appeal an unemployment denial](/how-to-appeal-unemployment-denial) walks through the process, and our [sample appeal letter](/unemployment-appeal-letter-example) shows what a clear, simple appeal looks like.
+
+## What Should I Say at the Hearing?
+
+Stick to facts and tell the story in order. A simple outline:
+
+- "My last day was [date]."
+- "On that day, [manager's name] told me [exact words]."
+- "I did not want to leave. I was willing to keep working."
+- "Afterward, I [texted, emailed, called] to ask about [my schedule, my job], and they said [response]."
+- "Here is [the text, the email, the letter] that shows this."
+
+Stay calm even if your employer's version is very different. The judge decides based on the evidence and testimony from both sides. In most hearings, you will also get a turn to ask the employer's witnesses questions.
+
+## When Should I Talk to an Employment Attorney?
+
+Many people handle unemployment appeals on their own. But it can help to get legal advice if:
+
+- You were pressured to sign a resignation or release
+- You think you were pushed out because of discrimination, a complaint you made, or a medical issue
+- You were offered severance in exchange for signing away claims
+- Your hearing is coming up and the employer has a lawyer
+
+If your claim was denied, you can find an employment attorney through BenefitsPath's [legal help page](/legal-help).
+
+## FAQ
+
+### Can my employer just say I quit and stop my benefits?
+
+No. The employer's report is one piece of information. The agency gathers facts from both sides and makes its own decision, and you can appeal if you disagree.
+
+### I signed a resignation letter. Is it too late?
+
+Not necessarily. Some states, including California according to its EDD guide, treat a resignation given because the employer was about to fire you as a discharge. Explain why you signed and bring any proof.
+
+### Should I stop filing weekly claims while I appeal?
+
+In most states, no. California's EDD (2026) tells claimants to keep certifying while an appeal is pending. Check your own state's instructions.
+
+### What if I really did quit, but for a good reason?
+
+Then the question becomes whether you had good cause. Read our guide on [whether you can collect unemployment if you quit your job](/articles/can-you-collect-unemployment-if-you-quit-your-job).
+
+### Does being fired mean I automatically get benefits?
+
+No. If you were fired, the employer can still argue it was for misconduct. See our guide on [being fired for misconduct](/articles/fired-for-misconduct-can-you-collect-unemployment-2026).
+
+*Rules and deadlines differ by state and can change. Always confirm current details with your state unemployment agency.*
+
+## Sources
+
+- California Employment Development Department, Benefit Determination Guide, Voluntary Quit VQ 5: https://edd.ca.gov/en/UIBDG/Voluntary_Quit_VQ_5
+- California Employment Development Department, Benefit Determination Guide, Voluntary Quit VQ 135: https://edd.ca.gov/en/UIBDG/Voluntary_Quit_VQ_135
+- California Employment Development Department, Appeals: https://edd.ca.gov/en/unemployment/Appeals/
+- Michigan Unemployment Insurance Agency, Voluntary Leaving (Quit): https://www.michigan.gov/leo/bureaus-agencies/uia/assets/voluntary-leaving-quit
+- Connecticut Department of Labor, Can I file for unemployment if I quit or was fired?: https://portal.ct.gov/dol/knowledge-base/articles/ui-claims-and-eligibility/can-i-file-for-unemployment-if-my-former-employer-says-i-quit-or-was-fired
+- MassLegalServices.org, Unemployment: Separation from Work: https://masslegalservices.org/node/28005
+`,
+  },
+  {
     slug: 'how-to-file-unemployment-missouri-2026-guide',
     title: 'How to File for Unemployment in Missouri: A Step-by-Step Checklist (2026)',
     description: 'Filing for unemployment in Missouri? A plain checklist for UInteract: who qualifies, the $320 weekly max, 20 weeks, weekly requests, work search and appeals.',
